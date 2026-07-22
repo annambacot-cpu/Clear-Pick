@@ -44,9 +44,7 @@ pnpm run dev
 
 ## GitHub Pages
 
-The deployable static site is committed in `docs/`.
-
-In the repository settings, choose **Pages → Build and deployment → Deploy from a branch**, then select **main** and **/docs**. GitHub will publish the site at the repository’s Pages URL.
+The deployable static site is committed in `docs/` and published from the `gh-pages` branch. The live prototype is available at [annambacot-cpu.github.io/Clear-Pick](https://annambacot-cpu.github.io/Clear-Pick/).
 
 ## Prototype status
 
