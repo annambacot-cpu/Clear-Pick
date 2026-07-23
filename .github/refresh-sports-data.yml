@@ -1,0 +1,61 @@
+name: Refresh real sports data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clearpick-sports-snapshot
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out ClearPick
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Enable pnpm
+        run: corepack enable
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Fetch sanitized provider snapshots
+        env:
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+        run: node --experimental-strip-types scripts/fetch-sports-snapshots.ts
+
+      - name: Build GitHub Pages
+        run: pnpm run build:github
+
+      - name: Publish the refreshed site
+        env:
+          PAGES_WORKTREE: ${{ runner.temp }}/clearpick-pages
+        run: |
+          git fetch origin gh-pages
+          git worktree add -B gh-pages "$PAGES_WORKTREE" origin/gh-pages
+          rsync -a --delete --exclude .git out/ "$PAGES_WORKTREE/"
+          touch "$PAGES_WORKTREE/.nojekyll"
+          cd "$PAGES_WORKTREE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No sports-data changes to publish."
+            exit 0
+          fi
+          git commit -m "Refresh real sports data"
+          git push origin gh-pages

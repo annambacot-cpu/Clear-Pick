@@ -12,6 +12,7 @@ import { classifyDecision, createPendingPrediction, settlePrediction, summarizeH
 import { settleSpread, settleTotal, settleWinner } from "../lib/sports/settlement.ts";
 import { LIVE_REFRESH_MS, shouldPollLiveGames } from "../lib/sports/refresh.ts";
 import type { LeagueKey } from "../lib/sports/models.ts";
+import { gamesFeedUrl, marketsFeedUrl } from "../lib/sports/snapshot.ts";
 
 test("formats American market lines without implying a payout", () => {
   assert.equal(formatAmericanOdds(120), "+120");
@@ -66,6 +67,19 @@ test("polls only genuine live-provider games at a restrained interval", async ()
   assert.equal(shouldPollLiveGames("mock", games), false);
   assert.equal(shouldPollLiveGames("live", games), true);
   assert.equal(shouldPollLiveGames("live", games.filter((game) => game.status !== "live")), false);
+});
+
+test("uses static GitHub snapshots when no protected server is configured", () => {
+  assert.equal(gamesFeedUrl("mlb"), "data/sports/mlb/games.json");
+  assert.equal(marketsFeedUrl("nba", "game 1"), "data/sports/nba/markets.json");
+  assert.equal(
+    gamesFeedUrl("nfl", "https://api.example.com/"),
+    "https://api.example.com/api/sports/games?league=nfl",
+  );
+  assert.equal(
+    marketsFeedUrl("soccer_epl", "event/1", "https://api.example.com"),
+    "https://api.example.com/api/sports/markets?league=soccer_epl&gameId=event%2F1",
+  );
 });
 
 test("normalizes the MLB scores feed without exposing provider response shapes", async () => {

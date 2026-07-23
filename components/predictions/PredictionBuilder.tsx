@@ -5,6 +5,7 @@ import { formatAmericanOdds } from "@/lib/sports/formatting";
 import { MockSportsDataProvider } from "@/lib/sports/mock-provider";
 import type { Game, MarketSelection, MarketType, PredictionDraft, PredictionMarket } from "@/lib/sports/models";
 import type { DataEnvelope } from "@/lib/sports/provider";
+import { marketsFeedUrl } from "@/lib/sports/snapshot";
 
 const categories: Array<{ type: MarketType; label: string; available: boolean }> = [
   { type: "winner", label: "Winner", available: true },
@@ -37,9 +38,10 @@ export function PredictionBuilder({ game, onContinue }: { game: Game; onContinue
   const loadMarkets = useCallback(async () => {
     setLoading(true);
     try {
-      const response = await fetch(`${apiBase()}/api/sports/markets?league=${encodeURIComponent(game.leagueId)}&gameId=${encodeURIComponent(game.id)}`, { headers: { accept: "application/json" } });
+      const response = await fetch(marketsFeedUrl(game.leagueId, game.id, apiBase()), { headers: { accept: "application/json" } });
       if (!response.ok) throw new Error("Market feed unavailable");
-      setResult(await response.json() as DataEnvelope<PredictionMarket[]>);
+      const envelope = await response.json() as DataEnvelope<PredictionMarket[]>;
+      setResult({ ...envelope, data: envelope.data.filter((market) => market.gameId === game.id) });
     } catch {
       const fallback = await new MockSportsDataProvider().getMarkets({ leagueId: game.leagueId, gameId: game.id, marketTypes: ["winner", "spread", "total"] });
       setResult({ ...fallback, warnings: [...fallback.warnings, "Live market references were unavailable."] });

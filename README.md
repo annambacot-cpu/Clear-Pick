@@ -46,6 +46,12 @@ pnpm run dev
 
 The deployable static site is committed in `docs/` and published from the `gh-pages` branch. The live prototype is available at [annambacot-cpu.github.io/Clear-Pick](https://annambacot-cpu.github.io/Clear-Pick/).
 
+### Real sports-data snapshots
+
+The ready-to-activate `.github/refresh-sports-data.yml` setup keeps the provider key server-side, fetches only supported leagues that The Odds API currently marks active, builds sanitized game and market snapshots, and republishes GitHub Pages. Once placed in `.github/workflows/`, it runs daily to protect provider quota and can also be started manually.
+
+Activate the setup by moving it to `.github/workflows/refresh-sports-data.yml` in GitHub, add a repository Actions secret named `THE_ODDS_API_KEY`, then run **Actions → Refresh real sports data → Run workflow**. The published interface labels these results as provider snapshots rather than real-time data. If a snapshot is unavailable, ClearPick falls back to its clearly labeled sample board.
+
 ## Prototype status
 
 Scores and insights are illustrative rules for concept testing. They are not clinically or scientifically validated assessments.

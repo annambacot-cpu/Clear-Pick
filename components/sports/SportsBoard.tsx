@@ -17,6 +17,7 @@ import {
 } from "@/lib/sports/preferences";
 import type { DataEnvelope } from "@/lib/sports/provider";
 import { LIVE_REFRESH_MS, shouldPollLiveGames } from "@/lib/sports/refresh";
+import { gamesFeedUrl } from "@/lib/sports/snapshot";
 
 type SportsView = "board" | "favorites" | "game" | "team";
 
@@ -129,7 +130,7 @@ export function SportsBoard({
     if (!quiet) setLoading(true);
     setError("");
     try {
-      const response = await fetch(`${apiBase()}/api/sports/games?league=${encodeURIComponent(leagueId)}`, { headers: { accept: "application/json" } });
+      const response = await fetch(gamesFeedUrl(leagueId, apiBase()), { headers: { accept: "application/json" } });
       if (!response.ok) throw new Error(`Sports feed returned ${response.status}`);
       applyResult(await response.json() as DataEnvelope<Game[]>);
     } catch (requestError) {
@@ -147,7 +148,7 @@ export function SportsBoard({
   }, [loadGames]);
 
   useEffect(() => {
-    if (!result || !shouldPollLiveGames(result.mode, result.data)) return;
+    if (!result || result.delayed || !shouldPollLiveGames(result.mode, result.data)) return;
     const refresh = window.setInterval(() => void loadGames(true), LIVE_REFRESH_MS);
     return () => window.clearInterval(refresh);
   }, [loadGames, result]);
@@ -245,7 +246,7 @@ export function SportsBoard({
       )}
 
       {view === "board" && <>
-        <div className="board-heading"><div><p className="eyebrow">Today’s sports desk</p><h2 id="sports-board-title">{activeLeague.label} game center</h2></div><div className="board-controls"><label><span>Find a team</span><input type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search this board" /></label><div className="feed-readout" aria-live="polite"><span className={result?.mode === "live" ? "feed-live" : "feed-sample"} /><div><strong>{result?.mode === "live" ? "Live provider data" : "Sample data mode"}</strong><small>{result ? `Updated ${new Date(result.fetchedAt).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" })}` : "Connecting…"}</small></div><button onClick={() => void loadGames()} disabled={loading}>{loading ? "Refreshing…" : "Refresh"}</button></div></div></div>
+        <div className="board-heading"><div><p className="eyebrow">Today’s sports desk</p><h2 id="sports-board-title">{activeLeague.label} game center</h2></div><div className="board-controls"><label><span>Find a team</span><input type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search this board" /></label><div className="feed-readout" aria-live="polite"><span className={result?.mode === "live" ? "feed-live" : "feed-sample"} /><div><strong>{result?.mode === "live" ? result.delayed ? "Provider snapshot" : "Live provider data" : "Sample data mode"}</strong><small>{result ? `Updated ${new Date(result.fetchedAt).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}` : "Connecting…"}</small></div><button onClick={() => void loadGames()} disabled={loading}>{loading ? "Refreshing…" : "Refresh"}</button></div></div></div>
 
         {loading && !result && <div className="board-state" role="status"><strong>Loading the game board…</strong><span>Checking schedules and recent scores.</span></div>}
         {!loading && result && result.data.length === 0 && <div className="board-state"><strong>No games available</strong><span>This league may be out of season or temporarily unavailable.</span></div>}
