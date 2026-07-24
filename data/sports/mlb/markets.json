@@ -1,81 +1,170 @@
 {
   "data": [
     {
-      "id": "22fc220be6958e93fba4354054d8fd16-fanduel-h2h",
-      "gameId": "22fc220be6958e93fba4354054d8fd16",
+      "id": "d7f4b3c3080d3f6612a4be54f7e0f798-fanduel-h2h",
+      "gameId": "d7f4b3c3080d3f6612a4be54f7e0f798",
       "leagueId": "mlb",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "22fc220be6958e93fba4354054d8fd16-h2h-0",
-          "label": "Atlanta Braves",
-          "participantId": "mlb-atlanta-braves",
-          "side": "home",
-          "americanOdds": -260
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-h2h-0",
+          "label": "Colorado Rockies",
+          "participantId": "mlb-colorado-rockies",
+          "side": "away",
+          "americanOdds": 200
         },
         {
-          "id": "22fc220be6958e93fba4354054d8fd16-h2h-1",
-          "label": "San Diego Padres",
-          "participantId": "mlb-san-diego-padres",
-          "side": "away",
-          "americanOdds": 215
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-h2h-1",
+          "label": "Milwaukee Brewers",
+          "participantId": "mlb-milwaukee-brewers",
+          "side": "home",
+          "americanOdds": -245
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "22fc220be6958e93fba4354054d8fd16:FanDuel:h2h"
+        "externalId": "d7f4b3c3080d3f6612a4be54f7e0f798:FanDuel:h2h"
       }
     },
     {
-      "id": "22fc220be6958e93fba4354054d8fd16-fanduel-spreads",
-      "gameId": "22fc220be6958e93fba4354054d8fd16",
+      "id": "d7f4b3c3080d3f6612a4be54f7e0f798-fanduel-spreads",
+      "gameId": "d7f4b3c3080d3f6612a4be54f7e0f798",
       "leagueId": "mlb",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "22fc220be6958e93fba4354054d8fd16-spreads-0",
-          "label": "Atlanta Braves",
-          "participantId": "mlb-atlanta-braves",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": -122
-        },
-        {
-          "id": "22fc220be6958e93fba4354054d8fd16-spreads-1",
-          "label": "San Diego Padres",
-          "participantId": "mlb-san-diego-padres",
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-spreads-0",
+          "label": "Colorado Rockies",
+          "participantId": "mlb-colorado-rockies",
           "side": "away",
           "line": 1.5,
-          "americanOdds": 102
+          "americanOdds": -102
+        },
+        {
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-spreads-1",
+          "label": "Milwaukee Brewers",
+          "participantId": "mlb-milwaukee-brewers",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": -118
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "22fc220be6958e93fba4354054d8fd16:FanDuel:spreads"
+        "externalId": "d7f4b3c3080d3f6612a4be54f7e0f798:FanDuel:spreads"
       }
     },
     {
-      "id": "22fc220be6958e93fba4354054d8fd16-fanduel-totals",
-      "gameId": "22fc220be6958e93fba4354054d8fd16",
+      "id": "d7f4b3c3080d3f6612a4be54f7e0f798-fanduel-totals",
+      "gameId": "d7f4b3c3080d3f6612a4be54f7e0f798",
       "leagueId": "mlb",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "22fc220be6958e93fba4354054d8fd16-totals-0",
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 8.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "d7f4b3c3080d3f6612a4be54f7e0f798-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 8.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d7f4b3c3080d3f6612a4be54f7e0f798:FanDuel:totals"
+      }
+    },
+    {
+      "id": "263aac2dfd923f6a65c5136418407715-fanduel-h2h",
+      "gameId": "263aac2dfd923f6a65c5136418407715",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "263aac2dfd923f6a65c5136418407715-h2h-0",
+          "label": "Chicago Cubs",
+          "participantId": "mlb-chicago-cubs",
+          "side": "away",
+          "americanOdds": 104
+        },
+        {
+          "id": "263aac2dfd923f6a65c5136418407715-h2h-1",
+          "label": "Pittsburgh Pirates",
+          "participantId": "mlb-pittsburgh-pirates",
+          "side": "home",
+          "americanOdds": -122
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "263aac2dfd923f6a65c5136418407715:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "263aac2dfd923f6a65c5136418407715-fanduel-spreads",
+      "gameId": "263aac2dfd923f6a65c5136418407715",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "263aac2dfd923f6a65c5136418407715-spreads-0",
+          "label": "Chicago Cubs",
+          "participantId": "mlb-chicago-cubs",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 168
+        },
+        {
+          "id": "263aac2dfd923f6a65c5136418407715-spreads-1",
+          "label": "Pittsburgh Pirates",
+          "participantId": "mlb-pittsburgh-pirates",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -205
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "263aac2dfd923f6a65c5136418407715:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "263aac2dfd923f6a65c5136418407715-fanduel-totals",
+      "gameId": "263aac2dfd923f6a65c5136418407715",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "263aac2dfd923f6a65c5136418407715-totals-0",
           "label": "Over",
           "side": "over",
           "line": 8,
           "americanOdds": -110
         },
         {
-          "id": "22fc220be6958e93fba4354054d8fd16-totals-1",
+          "id": "263aac2dfd923f6a65c5136418407715-totals-1",
           "label": "Under",
           "side": "under",
           "line": 8,
@@ -83,355 +172,1067 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "22fc220be6958e93fba4354054d8fd16:FanDuel:totals"
+        "externalId": "263aac2dfd923f6a65c5136418407715:FanDuel:totals"
       }
     },
     {
-      "id": "5c7e77b42c0db49ce882d3c9473d74c1-fanduel-h2h",
-      "gameId": "5c7e77b42c0db49ce882d3c9473d74c1",
+      "id": "74d637de5babda95c445e8cf11c32a15-fanduel-h2h",
+      "gameId": "74d637de5babda95c445e8cf11c32a15",
       "leagueId": "mlb",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-h2h-0",
-          "label": "Cleveland Guardians",
-          "participantId": "mlb-cleveland-guardians",
+          "id": "74d637de5babda95c445e8cf11c32a15-h2h-0",
+          "label": "Detroit Tigers",
+          "participantId": "mlb-detroit-tigers",
           "side": "home",
-          "americanOdds": -142
+          "americanOdds": -295
         },
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-h2h-1",
-          "label": "Minnesota Twins",
-          "participantId": "mlb-minnesota-twins",
+          "id": "74d637de5babda95c445e8cf11c32a15-h2h-1",
+          "label": "Kansas City Royals",
+          "participantId": "mlb-kansas-city-royals",
           "side": "away",
-          "americanOdds": 120
+          "americanOdds": 240
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "5c7e77b42c0db49ce882d3c9473d74c1:FanDuel:h2h"
+        "externalId": "74d637de5babda95c445e8cf11c32a15:FanDuel:h2h"
       }
     },
     {
-      "id": "5c7e77b42c0db49ce882d3c9473d74c1-fanduel-spreads",
-      "gameId": "5c7e77b42c0db49ce882d3c9473d74c1",
+      "id": "74d637de5babda95c445e8cf11c32a15-fanduel-spreads",
+      "gameId": "74d637de5babda95c445e8cf11c32a15",
       "leagueId": "mlb",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-spreads-0",
+          "id": "74d637de5babda95c445e8cf11c32a15-spreads-0",
+          "label": "Detroit Tigers",
+          "participantId": "mlb-detroit-tigers",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": -126
+        },
+        {
+          "id": "74d637de5babda95c445e8cf11c32a15-spreads-1",
+          "label": "Kansas City Royals",
+          "participantId": "mlb-kansas-city-royals",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": 105
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "74d637de5babda95c445e8cf11c32a15:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "74d637de5babda95c445e8cf11c32a15-fanduel-totals",
+      "gameId": "74d637de5babda95c445e8cf11c32a15",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "74d637de5babda95c445e8cf11c32a15-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 7.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "74d637de5babda95c445e8cf11c32a15-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 7.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "74d637de5babda95c445e8cf11c32a15:FanDuel:totals"
+      }
+    },
+    {
+      "id": "12a8e27a29d44d46e10583c9c875e5f5-fanduel-h2h",
+      "gameId": "12a8e27a29d44d46e10583c9c875e5f5",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-h2h-0",
+          "label": "Arizona Diamondbacks",
+          "participantId": "mlb-arizona-diamondbacks",
+          "side": "away",
+          "americanOdds": -120
+        },
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-h2h-1",
+          "label": "Washington Nationals",
+          "participantId": "mlb-washington-nationals",
+          "side": "home",
+          "americanOdds": 102
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "12a8e27a29d44d46e10583c9c875e5f5:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "12a8e27a29d44d46e10583c9c875e5f5-fanduel-spreads",
+      "gameId": "12a8e27a29d44d46e10583c9c875e5f5",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-spreads-0",
+          "label": "Arizona Diamondbacks",
+          "participantId": "mlb-arizona-diamondbacks",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 136
+        },
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-spreads-1",
+          "label": "Washington Nationals",
+          "participantId": "mlb-washington-nationals",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -164
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "12a8e27a29d44d46e10583c9c875e5f5:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "12a8e27a29d44d46e10583c9c875e5f5-fanduel-totals",
+      "gameId": "12a8e27a29d44d46e10583c9c875e5f5",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 9.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "12a8e27a29d44d46e10583c9c875e5f5-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 9.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "12a8e27a29d44d46e10583c9c875e5f5:FanDuel:totals"
+      }
+    },
+    {
+      "id": "5859ce305cb0ae65e5e7f771db28dcdd-fanduel-h2h",
+      "gameId": "5859ce305cb0ae65e5e7f771db28dcdd",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-h2h-0",
+          "label": "New York Yankees",
+          "participantId": "mlb-new-york-yankees",
+          "side": "away",
+          "americanOdds": 110
+        },
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-h2h-1",
+          "label": "Philadelphia Phillies",
+          "participantId": "mlb-philadelphia-phillies",
+          "side": "home",
+          "americanOdds": -130
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5859ce305cb0ae65e5e7f771db28dcdd:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "5859ce305cb0ae65e5e7f771db28dcdd-fanduel-spreads",
+      "gameId": "5859ce305cb0ae65e5e7f771db28dcdd",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-spreads-0",
+          "label": "New York Yankees",
+          "participantId": "mlb-new-york-yankees",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -205
+        },
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-spreads-1",
+          "label": "Philadelphia Phillies",
+          "participantId": "mlb-philadelphia-phillies",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 168
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5859ce305cb0ae65e5e7f771db28dcdd:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "5859ce305cb0ae65e5e7f771db28dcdd-fanduel-totals",
+      "gameId": "5859ce305cb0ae65e5e7f771db28dcdd",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 8,
+          "americanOdds": 100
+        },
+        {
+          "id": "5859ce305cb0ae65e5e7f771db28dcdd-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 8,
+          "americanOdds": -122
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5859ce305cb0ae65e5e7f771db28dcdd:FanDuel:totals"
+      }
+    },
+    {
+      "id": "5dc243f04181b459d0cc18968be70660-fanduel-h2h",
+      "gameId": "5dc243f04181b459d0cc18968be70660",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-h2h-0",
+          "label": "Atlanta Braves",
+          "participantId": "mlb-atlanta-braves",
+          "side": "away",
+          "americanOdds": -102
+        },
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-h2h-1",
+          "label": "Baltimore Orioles",
+          "participantId": "mlb-baltimore-orioles",
+          "side": "home",
+          "americanOdds": -116
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5dc243f04181b459d0cc18968be70660:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "5dc243f04181b459d0cc18968be70660-fanduel-spreads",
+      "gameId": "5dc243f04181b459d0cc18968be70660",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-spreads-0",
+          "label": "Atlanta Braves",
+          "participantId": "mlb-atlanta-braves",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 150
+        },
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-spreads-1",
+          "label": "Baltimore Orioles",
+          "participantId": "mlb-baltimore-orioles",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -182
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5dc243f04181b459d0cc18968be70660:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "5dc243f04181b459d0cc18968be70660-fanduel-totals",
+      "gameId": "5dc243f04181b459d0cc18968be70660",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 9,
+          "americanOdds": -110
+        },
+        {
+          "id": "5dc243f04181b459d0cc18968be70660-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 9,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5dc243f04181b459d0cc18968be70660:FanDuel:totals"
+      }
+    },
+    {
+      "id": "29437f5a0e0b0af43535ee03d438df64-fanduel-h2h",
+      "gameId": "29437f5a0e0b0af43535ee03d438df64",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-h2h-0",
           "label": "Cleveland Guardians",
           "participantId": "mlb-cleveland-guardians",
+          "side": "away",
+          "americanOdds": 118
+        },
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-h2h-1",
+          "label": "Tampa Bay Rays",
+          "participantId": "mlb-tampa-bay-rays",
+          "side": "home",
+          "americanOdds": -138
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "29437f5a0e0b0af43535ee03d438df64:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "29437f5a0e0b0af43535ee03d438df64-fanduel-spreads",
+      "gameId": "29437f5a0e0b0af43535ee03d438df64",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-spreads-0",
+          "label": "Cleveland Guardians",
+          "participantId": "mlb-cleveland-guardians",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -194
+        },
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-spreads-1",
+          "label": "Tampa Bay Rays",
+          "participantId": "mlb-tampa-bay-rays",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 160
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "29437f5a0e0b0af43535ee03d438df64:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "29437f5a0e0b0af43535ee03d438df64-fanduel-totals",
+      "gameId": "29437f5a0e0b0af43535ee03d438df64",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 7.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "29437f5a0e0b0af43535ee03d438df64-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 7.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "29437f5a0e0b0af43535ee03d438df64:FanDuel:totals"
+      }
+    },
+    {
+      "id": "cee011b0978086fc2ebee48d455d495e-fanduel-h2h",
+      "gameId": "cee011b0978086fc2ebee48d455d495e",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-h2h-0",
+          "label": "Los Angeles Dodgers",
+          "participantId": "mlb-los-angeles-dodgers",
+          "side": "away",
+          "americanOdds": -148
+        },
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-h2h-1",
+          "label": "New York Mets",
+          "participantId": "mlb-new-york-mets",
+          "side": "home",
+          "americanOdds": 126
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cee011b0978086fc2ebee48d455d495e:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "cee011b0978086fc2ebee48d455d495e-fanduel-spreads",
+      "gameId": "cee011b0978086fc2ebee48d455d495e",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-spreads-0",
+          "label": "Los Angeles Dodgers",
+          "participantId": "mlb-los-angeles-dodgers",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 106
+        },
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-spreads-1",
+          "label": "New York Mets",
+          "participantId": "mlb-new-york-mets",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -128
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cee011b0978086fc2ebee48d455d495e:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "cee011b0978086fc2ebee48d455d495e-fanduel-totals",
+      "gameId": "cee011b0978086fc2ebee48d455d495e",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 9,
+          "americanOdds": -106
+        },
+        {
+          "id": "cee011b0978086fc2ebee48d455d495e-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 9,
+          "americanOdds": -114
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cee011b0978086fc2ebee48d455d495e:FanDuel:totals"
+      }
+    },
+    {
+      "id": "6a85ed309a708411951843fe95d213bb-fanduel-h2h",
+      "gameId": "6a85ed309a708411951843fe95d213bb",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "6a85ed309a708411951843fe95d213bb-h2h-0",
+          "label": "Miami Marlins",
+          "participantId": "mlb-miami-marlins",
+          "side": "home",
+          "americanOdds": -136
+        },
+        {
+          "id": "6a85ed309a708411951843fe95d213bb-h2h-1",
+          "label": "San Diego Padres",
+          "participantId": "mlb-san-diego-padres",
+          "side": "away",
+          "americanOdds": 116
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6a85ed309a708411951843fe95d213bb:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "6a85ed309a708411951843fe95d213bb-fanduel-spreads",
+      "gameId": "6a85ed309a708411951843fe95d213bb",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "6a85ed309a708411951843fe95d213bb-spreads-0",
+          "label": "Miami Marlins",
+          "participantId": "mlb-miami-marlins",
           "side": "home",
           "line": -1.5,
           "americanOdds": 150
         },
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-spreads-1",
-          "label": "Minnesota Twins",
-          "participantId": "mlb-minnesota-twins",
+          "id": "6a85ed309a708411951843fe95d213bb-spreads-1",
+          "label": "San Diego Padres",
+          "participantId": "mlb-san-diego-padres",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -184
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6a85ed309a708411951843fe95d213bb:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "6a85ed309a708411951843fe95d213bb-fanduel-totals",
+      "gameId": "6a85ed309a708411951843fe95d213bb",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "6a85ed309a708411951843fe95d213bb-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 9,
+          "americanOdds": -105
+        },
+        {
+          "id": "6a85ed309a708411951843fe95d213bb-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 9,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6a85ed309a708411951843fe95d213bb:FanDuel:totals"
+      }
+    },
+    {
+      "id": "7cb10d307b371751677d513fb168b3bd-fanduel-h2h",
+      "gameId": "7cb10d307b371751677d513fb168b3bd",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-h2h-0",
+          "label": "Boston Red Sox",
+          "participantId": "mlb-boston-red-sox",
+          "side": "home",
+          "americanOdds": -124
+        },
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-h2h-1",
+          "label": "Toronto Blue Jays",
+          "participantId": "mlb-toronto-blue-jays",
+          "side": "away",
+          "americanOdds": 106
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7cb10d307b371751677d513fb168b3bd:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "7cb10d307b371751677d513fb168b3bd-fanduel-spreads",
+      "gameId": "7cb10d307b371751677d513fb168b3bd",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-spreads-0",
+          "label": "Boston Red Sox",
+          "participantId": "mlb-boston-red-sox",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -210
+        },
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-spreads-1",
+          "label": "Toronto Blue Jays",
+          "participantId": "mlb-toronto-blue-jays",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 172
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7cb10d307b371751677d513fb168b3bd:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "7cb10d307b371751677d513fb168b3bd-fanduel-totals",
+      "gameId": "7cb10d307b371751677d513fb168b3bd",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 8.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "7cb10d307b371751677d513fb168b3bd-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 8.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7cb10d307b371751677d513fb168b3bd:FanDuel:totals"
+      }
+    },
+    {
+      "id": "e25ed72c9f5c072ef60c242c29ccf1a3-fanduel-h2h",
+      "gameId": "e25ed72c9f5c072ef60c242c29ccf1a3",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-h2h-0",
+          "label": "Chicago White Sox",
+          "participantId": "mlb-chicago-white-sox",
+          "side": "home",
+          "americanOdds": -134
+        },
+        {
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-h2h-1",
+          "label": "Houston Astros",
+          "participantId": "mlb-houston-astros",
+          "side": "away",
+          "americanOdds": 114
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e25ed72c9f5c072ef60c242c29ccf1a3:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "e25ed72c9f5c072ef60c242c29ccf1a3-fanduel-spreads",
+      "gameId": "e25ed72c9f5c072ef60c242c29ccf1a3",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-spreads-0",
+          "label": "Chicago White Sox",
+          "participantId": "mlb-chicago-white-sox",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 150
+        },
+        {
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-spreads-1",
+          "label": "Houston Astros",
+          "participantId": "mlb-houston-astros",
           "side": "away",
           "line": 1.5,
           "americanOdds": -182
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "5c7e77b42c0db49ce882d3c9473d74c1:FanDuel:spreads"
+        "externalId": "e25ed72c9f5c072ef60c242c29ccf1a3:FanDuel:spreads"
       }
     },
     {
-      "id": "5c7e77b42c0db49ce882d3c9473d74c1-fanduel-totals",
-      "gameId": "5c7e77b42c0db49ce882d3c9473d74c1",
+      "id": "e25ed72c9f5c072ef60c242c29ccf1a3-fanduel-totals",
+      "gameId": "e25ed72c9f5c072ef60c242c29ccf1a3",
       "leagueId": "mlb",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-totals-0",
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 7.5,
-          "americanOdds": -102
+          "line": 8.5,
+          "americanOdds": -122
         },
         {
-          "id": "5c7e77b42c0db49ce882d3c9473d74c1-totals-1",
+          "id": "e25ed72c9f5c072ef60c242c29ccf1a3-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 7.5,
-          "americanOdds": -120
+          "line": 8.5,
+          "americanOdds": 100
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "5c7e77b42c0db49ce882d3c9473d74c1:FanDuel:totals"
+        "externalId": "e25ed72c9f5c072ef60c242c29ccf1a3:FanDuel:totals"
       }
     },
     {
-      "id": "36ba7a8a8c46e8cc308c1dd037995889-fanduel-h2h",
-      "gameId": "36ba7a8a8c46e8cc308c1dd037995889",
+      "id": "7623b2ff95daaba1c14165f508c506b8-fanduel-h2h",
+      "gameId": "7623b2ff95daaba1c14165f508c506b8",
       "leagueId": "mlb",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-h2h-0",
-          "label": "Tampa Bay Rays",
-          "participantId": "mlb-tampa-bay-rays",
+          "id": "7623b2ff95daaba1c14165f508c506b8-h2h-0",
+          "label": "Seattle Mariners",
+          "participantId": "mlb-seattle-mariners",
           "side": "away",
-          "americanOdds": -108
+          "americanOdds": -118
         },
         {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-h2h-1",
-          "label": "Toronto Blue Jays",
-          "participantId": "mlb-toronto-blue-jays",
+          "id": "7623b2ff95daaba1c14165f508c506b8-h2h-1",
+          "label": "Texas Rangers",
+          "participantId": "mlb-texas-rangers",
           "side": "home",
-          "americanOdds": -108
+          "americanOdds": 100
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "36ba7a8a8c46e8cc308c1dd037995889:FanDuel:h2h"
+        "externalId": "7623b2ff95daaba1c14165f508c506b8:FanDuel:h2h"
       }
     },
     {
-      "id": "36ba7a8a8c46e8cc308c1dd037995889-fanduel-spreads",
-      "gameId": "36ba7a8a8c46e8cc308c1dd037995889",
+      "id": "7623b2ff95daaba1c14165f508c506b8-fanduel-spreads",
+      "gameId": "7623b2ff95daaba1c14165f508c506b8",
       "leagueId": "mlb",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-spreads-0",
-          "label": "Tampa Bay Rays",
-          "participantId": "mlb-tampa-bay-rays",
+          "id": "7623b2ff95daaba1c14165f508c506b8-spreads-0",
+          "label": "Seattle Mariners",
+          "participantId": "mlb-seattle-mariners",
           "side": "away",
           "line": -1.5,
           "americanOdds": 152
         },
         {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-spreads-1",
-          "label": "Toronto Blue Jays",
-          "participantId": "mlb-toronto-blue-jays",
+          "id": "7623b2ff95daaba1c14165f508c506b8-spreads-1",
+          "label": "Texas Rangers",
+          "participantId": "mlb-texas-rangers",
           "side": "home",
           "line": 1.5,
           "americanOdds": -184
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "36ba7a8a8c46e8cc308c1dd037995889:FanDuel:spreads"
+        "externalId": "7623b2ff95daaba1c14165f508c506b8:FanDuel:spreads"
       }
     },
     {
-      "id": "36ba7a8a8c46e8cc308c1dd037995889-fanduel-totals",
-      "gameId": "36ba7a8a8c46e8cc308c1dd037995889",
+      "id": "7623b2ff95daaba1c14165f508c506b8-fanduel-totals",
+      "gameId": "7623b2ff95daaba1c14165f508c506b8",
       "leagueId": "mlb",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-totals-0",
+          "id": "7623b2ff95daaba1c14165f508c506b8-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 8.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "36ba7a8a8c46e8cc308c1dd037995889-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 8.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "36ba7a8a8c46e8cc308c1dd037995889:FanDuel:totals"
-      }
-    },
-    {
-      "id": "8e2411581a27c6dccd9eae0b233fe64c-fanduel-h2h",
-      "gameId": "8e2411581a27c6dccd9eae0b233fe64c",
-      "leagueId": "mlb",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-h2h-0",
-          "label": "Arizona Diamondbacks",
-          "participantId": "mlb-arizona-diamondbacks",
-          "side": "away",
-          "americanOdds": 102
-        },
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-h2h-1",
-          "label": "St. Louis Cardinals",
-          "participantId": "mlb-st-louis-cardinals",
-          "side": "home",
-          "americanOdds": -120
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8e2411581a27c6dccd9eae0b233fe64c:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "8e2411581a27c6dccd9eae0b233fe64c-fanduel-spreads",
-      "gameId": "8e2411581a27c6dccd9eae0b233fe64c",
-      "leagueId": "mlb",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-spreads-0",
-          "label": "Arizona Diamondbacks",
-          "participantId": "mlb-arizona-diamondbacks",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 180
-        },
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-spreads-1",
-          "label": "St. Louis Cardinals",
-          "participantId": "mlb-st-louis-cardinals",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -215
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8e2411581a27c6dccd9eae0b233fe64c:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "8e2411581a27c6dccd9eae0b233fe64c-fanduel-totals",
-      "gameId": "8e2411581a27c6dccd9eae0b233fe64c",
-      "leagueId": "mlb",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 7.5,
-          "americanOdds": -108
-        },
-        {
-          "id": "8e2411581a27c6dccd9eae0b233fe64c-totals-1",
-          "label": "Under",
-          "side": "under",
           "line": 7.5,
           "americanOdds": -112
+        },
+        {
+          "id": "7623b2ff95daaba1c14165f508c506b8-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 7.5,
+          "americanOdds": -108
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "8e2411581a27c6dccd9eae0b233fe64c:FanDuel:totals"
+        "externalId": "7623b2ff95daaba1c14165f508c506b8:FanDuel:totals"
       }
     },
     {
-      "id": "38d3052ec454022a14314b324e0ff5f3-fanduel-h2h",
-      "gameId": "38d3052ec454022a14314b324e0ff5f3",
+      "id": "6f9f1f656034bccc0a22e55a976cdf3b-fanduel-h2h",
+      "gameId": "6f9f1f656034bccc0a22e55a976cdf3b",
       "leagueId": "mlb",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "38d3052ec454022a14314b324e0ff5f3-h2h-0",
-          "label": "Detroit Tigers",
-          "participantId": "mlb-detroit-tigers",
-          "side": "home",
-          "americanOdds": -215
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-h2h-0",
+          "label": "Athletics",
+          "participantId": "mlb-athletics",
+          "side": "away",
+          "americanOdds": 122
         },
         {
-          "id": "38d3052ec454022a14314b324e0ff5f3-h2h-1",
-          "label": "Kansas City Royals",
-          "participantId": "mlb-kansas-city-royals",
-          "side": "away",
-          "americanOdds": 180
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-h2h-1",
+          "label": "Minnesota Twins",
+          "participantId": "mlb-minnesota-twins",
+          "side": "home",
+          "americanOdds": -144
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "38d3052ec454022a14314b324e0ff5f3:FanDuel:h2h"
+        "externalId": "6f9f1f656034bccc0a22e55a976cdf3b:FanDuel:h2h"
       }
     },
     {
-      "id": "38d3052ec454022a14314b324e0ff5f3-fanduel-spreads",
-      "gameId": "38d3052ec454022a14314b324e0ff5f3",
+      "id": "6f9f1f656034bccc0a22e55a976cdf3b-fanduel-spreads",
+      "gameId": "6f9f1f656034bccc0a22e55a976cdf3b",
       "leagueId": "mlb",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "38d3052ec454022a14314b324e0ff5f3-spreads-0",
-          "label": "Detroit Tigers",
-          "participantId": "mlb-detroit-tigers",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 100
-        },
-        {
-          "id": "38d3052ec454022a14314b324e0ff5f3-spreads-1",
-          "label": "Kansas City Royals",
-          "participantId": "mlb-kansas-city-royals",
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-spreads-0",
+          "label": "Athletics",
+          "participantId": "mlb-athletics",
           "side": "away",
           "line": 1.5,
-          "americanOdds": -120
+          "americanOdds": -170
+        },
+        {
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-spreads-1",
+          "label": "Minnesota Twins",
+          "participantId": "mlb-minnesota-twins",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 140
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "38d3052ec454022a14314b324e0ff5f3:FanDuel:spreads"
+        "externalId": "6f9f1f656034bccc0a22e55a976cdf3b:FanDuel:spreads"
       }
     },
     {
-      "id": "38d3052ec454022a14314b324e0ff5f3-fanduel-totals",
-      "gameId": "38d3052ec454022a14314b324e0ff5f3",
+      "id": "6f9f1f656034bccc0a22e55a976cdf3b-fanduel-totals",
+      "gameId": "6f9f1f656034bccc0a22e55a976cdf3b",
       "leagueId": "mlb",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "38d3052ec454022a14314b324e0ff5f3-totals-0",
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 9.5,
+          "americanOdds": -120
+        },
+        {
+          "id": "6f9f1f656034bccc0a22e55a976cdf3b-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 9.5,
+          "americanOdds": -102
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6f9f1f656034bccc0a22e55a976cdf3b:FanDuel:totals"
+      }
+    },
+    {
+      "id": "e52022e436fbab769c0e31e1eec70f53-fanduel-h2h",
+      "gameId": "e52022e436fbab769c0e31e1eec70f53",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "e52022e436fbab769c0e31e1eec70f53-h2h-0",
+          "label": "Cincinnati Reds",
+          "participantId": "mlb-cincinnati-reds",
+          "side": "away",
+          "americanOdds": 138
+        },
+        {
+          "id": "e52022e436fbab769c0e31e1eec70f53-h2h-1",
+          "label": "St. Louis Cardinals",
+          "participantId": "mlb-st-louis-cardinals",
+          "side": "home",
+          "americanOdds": -164
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e52022e436fbab769c0e31e1eec70f53:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "e52022e436fbab769c0e31e1eec70f53-fanduel-spreads",
+      "gameId": "e52022e436fbab769c0e31e1eec70f53",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "e52022e436fbab769c0e31e1eec70f53-spreads-0",
+          "label": "Cincinnati Reds",
+          "participantId": "mlb-cincinnati-reds",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -156
+        },
+        {
+          "id": "e52022e436fbab769c0e31e1eec70f53-spreads-1",
+          "label": "St. Louis Cardinals",
+          "participantId": "mlb-st-louis-cardinals",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 130
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e52022e436fbab769c0e31e1eec70f53:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "e52022e436fbab769c0e31e1eec70f53-fanduel-totals",
+      "gameId": "e52022e436fbab769c0e31e1eec70f53",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "e52022e436fbab769c0e31e1eec70f53-totals-0",
           "label": "Over",
           "side": "over",
           "line": 8.5,
           "americanOdds": -105
         },
         {
-          "id": "38d3052ec454022a14314b324e0ff5f3-totals-1",
+          "id": "e52022e436fbab769c0e31e1eec70f53-totals-1",
           "label": "Under",
           "side": "under",
           "line": 8.5,
@@ -439,17 +1240,106 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-07-23T14:43:47Z",
+      "lastUpdated": "2026-07-24T11:57:19Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "38d3052ec454022a14314b324e0ff5f3:FanDuel:totals"
+        "externalId": "e52022e436fbab769c0e31e1eec70f53:FanDuel:totals"
+      }
+    },
+    {
+      "id": "2192276baf2c4e8e5358e9905c801e2f-fanduel-h2h",
+      "gameId": "2192276baf2c4e8e5358e9905c801e2f",
+      "leagueId": "mlb",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-h2h-0",
+          "label": "Los Angeles Angels",
+          "participantId": "mlb-los-angeles-angels",
+          "side": "away",
+          "americanOdds": 146
+        },
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-h2h-1",
+          "label": "San Francisco Giants",
+          "participantId": "mlb-san-francisco-giants",
+          "side": "home",
+          "americanOdds": -174
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2192276baf2c4e8e5358e9905c801e2f:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "2192276baf2c4e8e5358e9905c801e2f-fanduel-spreads",
+      "gameId": "2192276baf2c4e8e5358e9905c801e2f",
+      "leagueId": "mlb",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-spreads-0",
+          "label": "Los Angeles Angels",
+          "participantId": "mlb-los-angeles-angels",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -152
+        },
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-spreads-1",
+          "label": "San Francisco Giants",
+          "participantId": "mlb-san-francisco-giants",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 126
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2192276baf2c4e8e5358e9905c801e2f:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "2192276baf2c4e8e5358e9905c801e2f-fanduel-totals",
+      "gameId": "2192276baf2c4e8e5358e9905c801e2f",
+      "leagueId": "mlb",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 8,
+          "americanOdds": -110
+        },
+        {
+          "id": "2192276baf2c4e8e5358e9905c801e2f-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 8,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-07-24T11:57:19Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2192276baf2c4e8e5358e9905c801e2f:FanDuel:totals"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-07-23T14:43:54.859Z",
-  "staleAt": "2026-07-24T20:43:54.859Z",
+  "fetchedAt": "2026-07-24T11:57:20.858Z",
+  "staleAt": "2026-07-25T17:57:20.858Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
