@@ -1,171 +1,6 @@
 {
   "data": [
     {
-      "id": "22fc220be6958e93fba4354054d8fd16",
-      "leagueId": "mlb",
-      "startTime": "2026-07-23T16:16:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-atlanta-braves",
-        "leagueId": "mlb",
-        "name": "Atlanta Braves",
-        "shortName": "Braves",
-        "abbreviation": "AB"
-      },
-      "awayTeam": {
-        "id": "mlb-san-diego-padres",
-        "leagueId": "mlb",
-        "name": "San Diego Padres",
-        "shortName": "Padres",
-        "abbreviation": "SDP"
-      },
-      "homeScore": {
-        "teamId": "mlb-atlanta-braves",
-        "total": 6
-      },
-      "awayScore": {
-        "teamId": "mlb-san-diego-padres",
-        "total": 5
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "22fc220be6958e93fba4354054d8fd16"
-      }
-    },
-    {
-      "id": "5c7e77b42c0db49ce882d3c9473d74c1",
-      "leagueId": "mlb",
-      "startTime": "2026-07-23T17:11:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-cleveland-guardians",
-        "leagueId": "mlb",
-        "name": "Cleveland Guardians",
-        "shortName": "Guardians",
-        "abbreviation": "CG"
-      },
-      "awayTeam": {
-        "id": "mlb-minnesota-twins",
-        "leagueId": "mlb",
-        "name": "Minnesota Twins",
-        "shortName": "Twins",
-        "abbreviation": "MT"
-      },
-      "homeScore": {
-        "teamId": "mlb-cleveland-guardians",
-        "total": 1
-      },
-      "awayScore": {
-        "teamId": "mlb-minnesota-twins",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5c7e77b42c0db49ce882d3c9473d74c1"
-      }
-    },
-    {
-      "id": "36ba7a8a8c46e8cc308c1dd037995889",
-      "leagueId": "mlb",
-      "startTime": "2026-07-23T19:08:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-toronto-blue-jays",
-        "leagueId": "mlb",
-        "name": "Toronto Blue Jays",
-        "shortName": "Jays",
-        "abbreviation": "TBJ"
-      },
-      "awayTeam": {
-        "id": "mlb-tampa-bay-rays",
-        "leagueId": "mlb",
-        "name": "Tampa Bay Rays",
-        "shortName": "Rays",
-        "abbreviation": "TBR"
-      },
-      "homeScore": {
-        "teamId": "mlb-toronto-blue-jays",
-        "total": 3
-      },
-      "awayScore": {
-        "teamId": "mlb-tampa-bay-rays",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "36ba7a8a8c46e8cc308c1dd037995889"
-      }
-    },
-    {
-      "id": "8e2411581a27c6dccd9eae0b233fe64c",
-      "leagueId": "mlb",
-      "startTime": "2026-07-23T21:16:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-st-louis-cardinals",
-        "leagueId": "mlb",
-        "name": "St. Louis Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "SLC"
-      },
-      "awayTeam": {
-        "id": "mlb-arizona-diamondbacks",
-        "leagueId": "mlb",
-        "name": "Arizona Diamondbacks",
-        "shortName": "Diamondbacks",
-        "abbreviation": "AD"
-      },
-      "homeScore": {
-        "teamId": "mlb-st-louis-cardinals",
-        "total": 6
-      },
-      "awayScore": {
-        "teamId": "mlb-arizona-diamondbacks",
-        "total": 10
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8e2411581a27c6dccd9eae0b233fe64c"
-      }
-    },
-    {
-      "id": "38d3052ec454022a14314b324e0ff5f3",
-      "leagueId": "mlb",
-      "startTime": "2026-07-23T22:41:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-detroit-tigers",
-        "leagueId": "mlb",
-        "name": "Detroit Tigers",
-        "shortName": "Tigers",
-        "abbreviation": "DT"
-      },
-      "awayTeam": {
-        "id": "mlb-kansas-city-royals",
-        "leagueId": "mlb",
-        "name": "Kansas City Royals",
-        "shortName": "Royals",
-        "abbreviation": "KCR"
-      },
-      "homeScore": {
-        "teamId": "mlb-detroit-tigers",
-        "total": 4
-      },
-      "awayScore": {
-        "teamId": "mlb-kansas-city-royals",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "38d3052ec454022a14314b324e0ff5f3"
-      }
-    },
-    {
       "id": "d7f4b3c3080d3f6612a4be54f7e0f798",
       "leagueId": "mlb",
       "startTime": "2026-07-24T20:11:00Z",
@@ -1159,7 +994,8 @@
       "id": "d651270eb53d061fc93a471f11c2f53d",
       "leagueId": "mlb",
       "startTime": "2026-07-26T16:16:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-tampa-bay-rays",
         "leagueId": "mlb",
@@ -1176,11 +1012,11 @@
       },
       "homeScore": {
         "teamId": "mlb-tampa-bay-rays",
-        "total": null
+        "total": 1
       },
       "awayScore": {
         "teamId": "mlb-cleveland-guardians",
-        "total": null
+        "total": 0
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1191,7 +1027,8 @@
       "id": "714c1847e9003da34be408b74dca72e3",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:36:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-washington-nationals",
         "leagueId": "mlb",
@@ -1208,11 +1045,11 @@
       },
       "homeScore": {
         "teamId": "mlb-washington-nationals",
-        "total": null
+        "total": 10
       },
       "awayScore": {
         "teamId": "mlb-arizona-diamondbacks",
-        "total": null
+        "total": 7
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1223,7 +1060,8 @@
       "id": "ce049001315d997fa2641116b7a1ede0",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:36:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-baltimore-orioles",
         "leagueId": "mlb",
@@ -1240,11 +1078,11 @@
       },
       "homeScore": {
         "teamId": "mlb-baltimore-orioles",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "mlb-atlanta-braves",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1255,7 +1093,8 @@
       "id": "48df7c31ab5c07dc2c7073170f193a8f",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:36:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-boston-red-sox",
         "leagueId": "mlb",
@@ -1272,11 +1111,11 @@
       },
       "homeScore": {
         "teamId": "mlb-boston-red-sox",
-        "total": null
+        "total": 6
       },
       "awayScore": {
         "teamId": "mlb-toronto-blue-jays",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1287,7 +1126,8 @@
       "id": "458f1aad594ae5477de447c6d836a79d",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:36:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-pittsburgh-pirates",
         "leagueId": "mlb",
@@ -1304,11 +1144,11 @@
       },
       "homeScore": {
         "teamId": "mlb-pittsburgh-pirates",
-        "total": null
+        "total": 8
       },
       "awayScore": {
         "teamId": "mlb-chicago-cubs",
-        "total": null
+        "total": 7
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1316,42 +1156,11 @@
       }
     },
     {
-      "id": "695de475f6a8dd1f205bda6ba50db0ee",
-      "leagueId": "mlb",
-      "startTime": "2026-07-26T17:41:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "mlb-detroit-tigers",
-        "leagueId": "mlb",
-        "name": "Detroit Tigers",
-        "shortName": "Tigers",
-        "abbreviation": "DT"
-      },
-      "awayTeam": {
-        "id": "mlb-kansas-city-royals",
-        "leagueId": "mlb",
-        "name": "Kansas City Royals",
-        "shortName": "Royals",
-        "abbreviation": "KCR"
-      },
-      "homeScore": {
-        "teamId": "mlb-detroit-tigers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "mlb-kansas-city-royals",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "695de475f6a8dd1f205bda6ba50db0ee"
-      }
-    },
-    {
       "id": "17b69aed6b1c1715ffbd01b155af848d",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:41:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-new-york-mets",
         "leagueId": "mlb",
@@ -1368,11 +1177,11 @@
       },
       "homeScore": {
         "teamId": "mlb-new-york-mets",
-        "total": null
+        "total": 8
       },
       "awayScore": {
         "teamId": "mlb-los-angeles-dodgers",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1383,7 +1192,8 @@
       "id": "3f5e40b78b4be8ec30a552f1081e4dc0",
       "leagueId": "mlb",
       "startTime": "2026-07-26T17:41:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-miami-marlins",
         "leagueId": "mlb",
@@ -1400,11 +1210,11 @@
       },
       "homeScore": {
         "teamId": "mlb-miami-marlins",
-        "total": null
+        "total": 3
       },
       "awayScore": {
         "teamId": "mlb-san-diego-padres",
-        "total": null
+        "total": 5
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1412,10 +1222,44 @@
       }
     },
     {
+      "id": "695de475f6a8dd1f205bda6ba50db0ee",
+      "leagueId": "mlb",
+      "startTime": "2026-07-26T17:43:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "mlb-detroit-tigers",
+        "leagueId": "mlb",
+        "name": "Detroit Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "DT"
+      },
+      "awayTeam": {
+        "id": "mlb-kansas-city-royals",
+        "leagueId": "mlb",
+        "name": "Kansas City Royals",
+        "shortName": "Royals",
+        "abbreviation": "KCR"
+      },
+      "homeScore": {
+        "teamId": "mlb-detroit-tigers",
+        "total": 4
+      },
+      "awayScore": {
+        "teamId": "mlb-kansas-city-royals",
+        "total": 5
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "695de475f6a8dd1f205bda6ba50db0ee"
+      }
+    },
+    {
       "id": "a9c8aad6e31f322b330deb1a7fdd3eb3",
       "leagueId": "mlb",
       "startTime": "2026-07-26T18:11:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-minnesota-twins",
         "leagueId": "mlb",
@@ -1432,11 +1276,11 @@
       },
       "homeScore": {
         "teamId": "mlb-minnesota-twins",
-        "total": null
+        "total": 11
       },
       "awayScore": {
         "teamId": "mlb-athletics",
-        "total": null
+        "total": 8
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1447,7 +1291,8 @@
       "id": "b61e67dbd760d186d865cc2ff013a7c0",
       "leagueId": "mlb",
       "startTime": "2026-07-26T18:11:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-chicago-white-sox",
         "leagueId": "mlb",
@@ -1464,11 +1309,11 @@
       },
       "homeScore": {
         "teamId": "mlb-chicago-white-sox",
-        "total": null
+        "total": 12
       },
       "awayScore": {
         "teamId": "mlb-houston-astros",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1479,7 +1324,8 @@
       "id": "c66c0c97123e0bc5e1a3c1b170c9b269",
       "leagueId": "mlb",
       "startTime": "2026-07-26T18:11:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-milwaukee-brewers",
         "leagueId": "mlb",
@@ -1496,11 +1342,11 @@
       },
       "homeScore": {
         "teamId": "mlb-milwaukee-brewers",
-        "total": null
+        "total": 11
       },
       "awayScore": {
         "teamId": "mlb-colorado-rockies",
-        "total": null
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1511,7 +1357,8 @@
       "id": "9064f61fe767dfa3c4a613a4f02250d3",
       "leagueId": "mlb",
       "startTime": "2026-07-26T18:16:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-st-louis-cardinals",
         "leagueId": "mlb",
@@ -1528,11 +1375,11 @@
       },
       "homeScore": {
         "teamId": "mlb-st-louis-cardinals",
-        "total": null
+        "total": 3
       },
       "awayScore": {
         "teamId": "mlb-cincinnati-reds",
-        "total": null
+        "total": 5
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1543,6 +1390,105 @@
       "id": "8eb22b9b7908e0cc06501501e79a4d17",
       "leagueId": "mlb",
       "startTime": "2026-07-26T18:36:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "mlb-texas-rangers",
+        "leagueId": "mlb",
+        "name": "Texas Rangers",
+        "shortName": "Rangers",
+        "abbreviation": "TR"
+      },
+      "awayTeam": {
+        "id": "mlb-seattle-mariners",
+        "leagueId": "mlb",
+        "name": "Seattle Mariners",
+        "shortName": "Mariners",
+        "abbreviation": "SM"
+      },
+      "homeScore": {
+        "teamId": "mlb-texas-rangers",
+        "total": 4
+      },
+      "awayScore": {
+        "teamId": "mlb-seattle-mariners",
+        "total": 6
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8eb22b9b7908e0cc06501501e79a4d17"
+      }
+    },
+    {
+      "id": "863fffb8c7bb8eba061b9c449d582054",
+      "leagueId": "mlb",
+      "startTime": "2026-07-26T20:06:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "mlb-san-francisco-giants",
+        "leagueId": "mlb",
+        "name": "San Francisco Giants",
+        "shortName": "Giants",
+        "abbreviation": "SFG"
+      },
+      "awayTeam": {
+        "id": "mlb-los-angeles-angels",
+        "leagueId": "mlb",
+        "name": "Los Angeles Angels",
+        "shortName": "Angels",
+        "abbreviation": "LAA"
+      },
+      "homeScore": {
+        "teamId": "mlb-san-francisco-giants",
+        "total": 3
+      },
+      "awayScore": {
+        "teamId": "mlb-los-angeles-angels",
+        "total": 4
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "863fffb8c7bb8eba061b9c449d582054"
+      }
+    },
+    {
+      "id": "210e6566d3641ee245e8a099a1679244",
+      "leagueId": "mlb",
+      "startTime": "2026-07-26T23:21:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "mlb-philadelphia-phillies",
+        "leagueId": "mlb",
+        "name": "Philadelphia Phillies",
+        "shortName": "Phillies",
+        "abbreviation": "PP"
+      },
+      "awayTeam": {
+        "id": "mlb-new-york-yankees",
+        "leagueId": "mlb",
+        "name": "New York Yankees",
+        "shortName": "Yankees",
+        "abbreviation": "NYY"
+      },
+      "homeScore": {
+        "teamId": "mlb-philadelphia-phillies",
+        "total": 11
+      },
+      "awayScore": {
+        "teamId": "mlb-new-york-yankees",
+        "total": 4
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "210e6566d3641ee245e8a099a1679244"
+      }
+    },
+    {
+      "id": "0740e4a4b0377a066eec394f1a30425b",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T18:35:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "mlb-texas-rangers",
@@ -1568,52 +1514,212 @@
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "8eb22b9b7908e0cc06501501e79a4d17"
+        "externalId": "0740e4a4b0377a066eec394f1a30425b"
       }
     },
     {
-      "id": "863fffb8c7bb8eba061b9c449d582054",
+      "id": "74749169ead486e15c8bbd906e738bd6",
       "leagueId": "mlb",
-      "startTime": "2026-07-26T20:06:00Z",
+      "startTime": "2026-07-27T22:40:00Z",
       "status": "scheduled",
       "homeTeam": {
-        "id": "mlb-san-francisco-giants",
+        "id": "mlb-pittsburgh-pirates",
         "leagueId": "mlb",
-        "name": "San Francisco Giants",
-        "shortName": "Giants",
-        "abbreviation": "SFG"
+        "name": "Pittsburgh Pirates",
+        "shortName": "Pirates",
+        "abbreviation": "PP"
       },
       "awayTeam": {
-        "id": "mlb-los-angeles-angels",
+        "id": "mlb-arizona-diamondbacks",
         "leagueId": "mlb",
-        "name": "Los Angeles Angels",
-        "shortName": "Angels",
-        "abbreviation": "LAA"
+        "name": "Arizona Diamondbacks",
+        "shortName": "Diamondbacks",
+        "abbreviation": "AD"
       },
       "homeScore": {
-        "teamId": "mlb-san-francisco-giants",
+        "teamId": "mlb-pittsburgh-pirates",
         "total": null
       },
       "awayScore": {
-        "teamId": "mlb-los-angeles-angels",
+        "teamId": "mlb-arizona-diamondbacks",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "863fffb8c7bb8eba061b9c449d582054"
+        "externalId": "74749169ead486e15c8bbd906e738bd6"
       }
     },
     {
-      "id": "210e6566d3641ee245e8a099a1679244",
+      "id": "01c25573da43dfef2b25036b3d865245",
       "leagueId": "mlb",
-      "startTime": "2026-07-26T23:21:00Z",
+      "startTime": "2026-07-27T22:40:00Z",
       "status": "scheduled",
       "homeTeam": {
+        "id": "mlb-detroit-tigers",
+        "leagueId": "mlb",
+        "name": "Detroit Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "DT"
+      },
+      "awayTeam": {
+        "id": "mlb-baltimore-orioles",
+        "leagueId": "mlb",
+        "name": "Baltimore Orioles",
+        "shortName": "Orioles",
+        "abbreviation": "BO"
+      },
+      "homeScore": {
+        "teamId": "mlb-detroit-tigers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-baltimore-orioles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "01c25573da43dfef2b25036b3d865245"
+      }
+    },
+    {
+      "id": "11fd3db49ab86a1ca24414fd4f9c4af6",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T22:41:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-miami-marlins",
+        "leagueId": "mlb",
+        "name": "Miami Marlins",
+        "shortName": "Marlins",
+        "abbreviation": "MM"
+      },
+      "awayTeam": {
         "id": "mlb-philadelphia-phillies",
         "leagueId": "mlb",
         "name": "Philadelphia Phillies",
         "shortName": "Phillies",
         "abbreviation": "PP"
+      },
+      "homeScore": {
+        "teamId": "mlb-miami-marlins",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-philadelphia-phillies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "11fd3db49ab86a1ca24414fd4f9c4af6"
+      }
+    },
+    {
+      "id": "9053a0685edebb19cd19f34cb274be0d",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T22:46:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-washington-nationals",
+        "leagueId": "mlb",
+        "name": "Washington Nationals",
+        "shortName": "Nationals",
+        "abbreviation": "WN"
+      },
+      "awayTeam": {
+        "id": "mlb-toronto-blue-jays",
+        "leagueId": "mlb",
+        "name": "Toronto Blue Jays",
+        "shortName": "Jays",
+        "abbreviation": "TBJ"
+      },
+      "homeScore": {
+        "teamId": "mlb-washington-nationals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-toronto-blue-jays",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9053a0685edebb19cd19f34cb274be0d"
+      }
+    },
+    {
+      "id": "5f31d0e2c7e8dbd68ea839d172d9fd00",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-new-york-mets",
+        "leagueId": "mlb",
+        "name": "New York Mets",
+        "shortName": "Mets",
+        "abbreviation": "NYM"
+      },
+      "awayTeam": {
+        "id": "mlb-atlanta-braves",
+        "leagueId": "mlb",
+        "name": "Atlanta Braves",
+        "shortName": "Braves",
+        "abbreviation": "AB"
+      },
+      "homeScore": {
+        "teamId": "mlb-new-york-mets",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-atlanta-braves",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5f31d0e2c7e8dbd68ea839d172d9fd00"
+      }
+    },
+    {
+      "id": "4f2695cf655e94d9dd1a7ef77b7861be",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-cincinnati-reds",
+        "leagueId": "mlb",
+        "name": "Cincinnati Reds",
+        "shortName": "Reds",
+        "abbreviation": "CR"
+      },
+      "awayTeam": {
+        "id": "mlb-cleveland-guardians",
+        "leagueId": "mlb",
+        "name": "Cleveland Guardians",
+        "shortName": "Guardians",
+        "abbreviation": "CG"
+      },
+      "homeScore": {
+        "teamId": "mlb-cincinnati-reds",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-cleveland-guardians",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4f2695cf655e94d9dd1a7ef77b7861be"
+      }
+    },
+    {
+      "id": "302aa3f7c3d634878483c7edadbfdb0f",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-chicago-white-sox",
+        "leagueId": "mlb",
+        "name": "Chicago White Sox",
+        "shortName": "Sox",
+        "abbreviation": "CWS"
       },
       "awayTeam": {
         "id": "mlb-new-york-yankees",
@@ -1623,7 +1729,7 @@
         "abbreviation": "NYY"
       },
       "homeScore": {
-        "teamId": "mlb-philadelphia-phillies",
+        "teamId": "mlb-chicago-white-sox",
         "total": null
       },
       "awayScore": {
@@ -1632,14 +1738,142 @@
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "210e6566d3641ee245e8a099a1679244"
+        "externalId": "302aa3f7c3d634878483c7edadbfdb0f"
+      }
+    },
+    {
+      "id": "8f968dc825f43310933db311e1e61a6c",
+      "leagueId": "mlb",
+      "startTime": "2026-07-27T23:46:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-st-louis-cardinals",
+        "leagueId": "mlb",
+        "name": "St. Louis Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "SLC"
+      },
+      "awayTeam": {
+        "id": "mlb-chicago-cubs",
+        "leagueId": "mlb",
+        "name": "Chicago Cubs",
+        "shortName": "Cubs",
+        "abbreviation": "CC"
+      },
+      "homeScore": {
+        "teamId": "mlb-st-louis-cardinals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-chicago-cubs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f968dc825f43310933db311e1e61a6c"
+      }
+    },
+    {
+      "id": "cd620c9f1e94a2b82e14a13d09fd7a77",
+      "leagueId": "mlb",
+      "startTime": "2026-07-28T01:38:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-los-angeles-angels",
+        "leagueId": "mlb",
+        "name": "Los Angeles Angels",
+        "shortName": "Angels",
+        "abbreviation": "LAA"
+      },
+      "awayTeam": {
+        "id": "mlb-houston-astros",
+        "leagueId": "mlb",
+        "name": "Houston Astros",
+        "shortName": "Astros",
+        "abbreviation": "HA"
+      },
+      "homeScore": {
+        "teamId": "mlb-los-angeles-angels",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-houston-astros",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cd620c9f1e94a2b82e14a13d09fd7a77"
+      }
+    },
+    {
+      "id": "ee5f7b3a90890ec4fbb3146543125fe7",
+      "leagueId": "mlb",
+      "startTime": "2026-07-28T01:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-athletics",
+        "leagueId": "mlb",
+        "name": "Athletics",
+        "shortName": "Athletics",
+        "abbreviation": "ATH"
+      },
+      "awayTeam": {
+        "id": "mlb-boston-red-sox",
+        "leagueId": "mlb",
+        "name": "Boston Red Sox",
+        "shortName": "Sox",
+        "abbreviation": "BRS"
+      },
+      "homeScore": {
+        "teamId": "mlb-athletics",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-boston-red-sox",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ee5f7b3a90890ec4fbb3146543125fe7"
+      }
+    },
+    {
+      "id": "9b0ec0a466486c849457165fd2c565e1",
+      "leagueId": "mlb",
+      "startTime": "2026-07-28T01:45:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-san-francisco-giants",
+        "leagueId": "mlb",
+        "name": "San Francisco Giants",
+        "shortName": "Giants",
+        "abbreviation": "SFG"
+      },
+      "awayTeam": {
+        "id": "mlb-milwaukee-brewers",
+        "leagueId": "mlb",
+        "name": "Milwaukee Brewers",
+        "shortName": "Brewers",
+        "abbreviation": "MB"
+      },
+      "homeScore": {
+        "teamId": "mlb-san-francisco-giants",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-milwaukee-brewers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9b0ec0a466486c849457165fd2c565e1"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-07-26T11:38:52.941Z",
-  "staleAt": "2026-07-27T17:38:52.942Z",
+  "fetchedAt": "2026-07-27T13:23:00.369Z",
+  "staleAt": "2026-07-28T19:23:00.369Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
