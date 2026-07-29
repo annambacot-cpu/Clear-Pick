@@ -801,38 +801,6 @@
       }
     },
     {
-      "id": "3b7b6520b0bc91f44cf9c9575d7e29f7",
-      "leagueId": "nhl",
-      "startTime": "2026-10-06T23:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nhl-montr-al-canadiens",
-        "leagueId": "nhl",
-        "name": "Montréal Canadiens",
-        "shortName": "Canadiens",
-        "abbreviation": "MC"
-      },
-      "awayTeam": {
-        "id": "nhl-carolina-hurricanes",
-        "leagueId": "nhl",
-        "name": "Carolina Hurricanes",
-        "shortName": "Hurricanes",
-        "abbreviation": "CH"
-      },
-      "homeScore": {
-        "teamId": "nhl-montr-al-canadiens",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nhl-carolina-hurricanes",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3b7b6520b0bc91f44cf9c9575d7e29f7"
-      }
-    },
-    {
       "id": "e77f5de1229c03c1338f5cf3eb6797ba",
       "leagueId": "nhl",
       "startTime": "2026-10-07T00:10:00Z",
@@ -1027,8 +995,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-07-28T12:16:12.868Z",
-  "staleAt": "2026-07-29T18:16:12.868Z",
+  "fetchedAt": "2026-07-29T12:23:38.058Z",
+  "staleAt": "2026-07-30T18:23:38.058Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

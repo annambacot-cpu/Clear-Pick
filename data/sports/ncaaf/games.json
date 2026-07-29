@@ -1825,6 +1825,38 @@
       }
     },
     {
+      "id": "2f1711e252f72bdbcfbce991ce7fd442",
+      "leagueId": "ncaaf",
+      "startTime": "2026-09-05T19:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-utsa-roadrunners",
+        "leagueId": "ncaaf",
+        "name": "UTSA Roadrunners",
+        "shortName": "Roadrunners",
+        "abbreviation": "UR"
+      },
+      "awayTeam": {
+        "id": "ncaaf-ut-rio-grande-valley-vaqueros",
+        "leagueId": "ncaaf",
+        "name": "UT Rio Grande Valley Vaqueros",
+        "shortName": "Vaqueros",
+        "abbreviation": "URG"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-utsa-roadrunners",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-ut-rio-grande-valley-vaqueros",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2f1711e252f72bdbcfbce991ce7fd442"
+      }
+    },
+    {
       "id": "2da3627714934ad966d548980bb69658",
       "leagueId": "ncaaf",
       "startTime": "2026-09-05T19:45:00Z",
@@ -4003,8 +4035,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-07-28T12:16:12.868Z",
-  "staleAt": "2026-07-29T18:16:12.868Z",
+  "fetchedAt": "2026-07-29T12:23:38.058Z",
+  "staleAt": "2026-07-30T18:23:38.058Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
