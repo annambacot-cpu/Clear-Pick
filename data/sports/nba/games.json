@@ -1,12 +1,461 @@
 {
-  "data": [],
+  "data": [
+    {
+      "id": "26b036ff107f3c658258eaf4a6f26228",
+      "leagueId": "nba",
+      "startTime": "2026-10-20T19:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-detroit-pistons",
+        "leagueId": "nba",
+        "name": "Detroit Pistons",
+        "shortName": "Pistons",
+        "abbreviation": "DP"
+      },
+      "awayTeam": {
+        "id": "nba-boston-celtics",
+        "leagueId": "nba",
+        "name": "Boston Celtics",
+        "shortName": "Celtics",
+        "abbreviation": "BC"
+      },
+      "homeScore": {
+        "teamId": "nba-detroit-pistons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-boston-celtics",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "26b036ff107f3c658258eaf4a6f26228"
+      }
+    },
+    {
+      "id": "2b042ddad3d3c6c6fe5b7005dc26c775",
+      "leagueId": "nba",
+      "startTime": "2026-10-20T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-new-york-knicks",
+        "leagueId": "nba",
+        "name": "New York Knicks",
+        "shortName": "Knicks",
+        "abbreviation": "NYK"
+      },
+      "awayTeam": {
+        "id": "nba-philadelphia-76ers",
+        "leagueId": "nba",
+        "name": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "abbreviation": "P7"
+      },
+      "homeScore": {
+        "teamId": "nba-new-york-knicks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-philadelphia-76ers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2b042ddad3d3c6c6fe5b7005dc26c775"
+      }
+    },
+    {
+      "id": "bccd283de56915e29af1788beb0abfc9",
+      "leagueId": "nba",
+      "startTime": "2026-10-21T01:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-san-antonio-spurs",
+        "leagueId": "nba",
+        "name": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "abbreviation": "SAS"
+      },
+      "awayTeam": {
+        "id": "nba-oklahoma-city-thunder",
+        "leagueId": "nba",
+        "name": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "abbreviation": "OCT"
+      },
+      "homeScore": {
+        "teamId": "nba-san-antonio-spurs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-oklahoma-city-thunder",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bccd283de56915e29af1788beb0abfc9"
+      }
+    },
+    {
+      "id": "93cdd8e4ade5697cfccf42ee42c4d207",
+      "leagueId": "nba",
+      "startTime": "2026-10-21T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-miami-heat",
+        "leagueId": "nba",
+        "name": "Miami Heat",
+        "shortName": "Heat",
+        "abbreviation": "MH"
+      },
+      "awayTeam": {
+        "id": "nba-minnesota-timberwolves",
+        "leagueId": "nba",
+        "name": "Minnesota Timberwolves",
+        "shortName": "Timberwolves",
+        "abbreviation": "MT"
+      },
+      "homeScore": {
+        "teamId": "nba-miami-heat",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-minnesota-timberwolves",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "93cdd8e4ade5697cfccf42ee42c4d207"
+      }
+    },
+    {
+      "id": "6fff70f4bf196dba25060a5775a03b54",
+      "leagueId": "nba",
+      "startTime": "2026-10-22T02:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-los-angeles-lakers",
+        "leagueId": "nba",
+        "name": "Los Angeles Lakers",
+        "shortName": "Lakers",
+        "abbreviation": "LAL"
+      },
+      "awayTeam": {
+        "id": "nba-golden-state-warriors",
+        "leagueId": "nba",
+        "name": "Golden State Warriors",
+        "shortName": "Warriors",
+        "abbreviation": "GSW"
+      },
+      "homeScore": {
+        "teamId": "nba-los-angeles-lakers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-golden-state-warriors",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6fff70f4bf196dba25060a5775a03b54"
+      }
+    },
+    {
+      "id": "110e33c79c5ec8c0377702aff685f83b",
+      "leagueId": "nba",
+      "startTime": "2026-10-22T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-philadelphia-76ers",
+        "leagueId": "nba",
+        "name": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "abbreviation": "P7"
+      },
+      "awayTeam": {
+        "id": "nba-cleveland-cavaliers",
+        "leagueId": "nba",
+        "name": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "CC"
+      },
+      "homeScore": {
+        "teamId": "nba-philadelphia-76ers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-cleveland-cavaliers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "110e33c79c5ec8c0377702aff685f83b"
+      }
+    },
+    {
+      "id": "223b2883b9b05a67329ef246384b85f1",
+      "leagueId": "nba",
+      "startTime": "2026-10-23T01:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-oklahoma-city-thunder",
+        "leagueId": "nba",
+        "name": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "abbreviation": "OCT"
+      },
+      "awayTeam": {
+        "id": "nba-denver-nuggets",
+        "leagueId": "nba",
+        "name": "Denver Nuggets",
+        "shortName": "Nuggets",
+        "abbreviation": "DN"
+      },
+      "homeScore": {
+        "teamId": "nba-oklahoma-city-thunder",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-denver-nuggets",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "223b2883b9b05a67329ef246384b85f1"
+      }
+    },
+    {
+      "id": "0d34c898f6cbb990077ae9f0a2773513",
+      "leagueId": "nba",
+      "startTime": "2026-10-23T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-boston-celtics",
+        "leagueId": "nba",
+        "name": "Boston Celtics",
+        "shortName": "Celtics",
+        "abbreviation": "BC"
+      },
+      "awayTeam": {
+        "id": "nba-new-york-knicks",
+        "leagueId": "nba",
+        "name": "New York Knicks",
+        "shortName": "Knicks",
+        "abbreviation": "NYK"
+      },
+      "homeScore": {
+        "teamId": "nba-boston-celtics",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-new-york-knicks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "0d34c898f6cbb990077ae9f0a2773513"
+      }
+    },
+    {
+      "id": "49fc89a9696a9a20b658732b34ce61c4",
+      "leagueId": "nba",
+      "startTime": "2026-10-24T01:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-san-antonio-spurs",
+        "leagueId": "nba",
+        "name": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "abbreviation": "SAS"
+      },
+      "awayTeam": {
+        "id": "nba-houston-rockets",
+        "leagueId": "nba",
+        "name": "Houston Rockets",
+        "shortName": "Rockets",
+        "abbreviation": "HR"
+      },
+      "homeScore": {
+        "teamId": "nba-san-antonio-spurs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-houston-rockets",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "49fc89a9696a9a20b658732b34ce61c4"
+      }
+    },
+    {
+      "id": "a6555e8b7252dfb32f1817fc8c59ad83",
+      "leagueId": "nba",
+      "startTime": "2026-12-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-new-york-knicks",
+        "leagueId": "nba",
+        "name": "New York Knicks",
+        "shortName": "Knicks",
+        "abbreviation": "NYK"
+      },
+      "awayTeam": {
+        "id": "nba-san-antonio-spurs",
+        "leagueId": "nba",
+        "name": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "abbreviation": "SAS"
+      },
+      "homeScore": {
+        "teamId": "nba-new-york-knicks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-san-antonio-spurs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a6555e8b7252dfb32f1817fc8c59ad83"
+      }
+    },
+    {
+      "id": "d60e7fc0690e4dff121a086395e24de4",
+      "leagueId": "nba",
+      "startTime": "2026-12-25T19:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-boston-celtics",
+        "leagueId": "nba",
+        "name": "Boston Celtics",
+        "shortName": "Celtics",
+        "abbreviation": "BC"
+      },
+      "awayTeam": {
+        "id": "nba-miami-heat",
+        "leagueId": "nba",
+        "name": "Miami Heat",
+        "shortName": "Heat",
+        "abbreviation": "MH"
+      },
+      "homeScore": {
+        "teamId": "nba-boston-celtics",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-miami-heat",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d60e7fc0690e4dff121a086395e24de4"
+      }
+    },
+    {
+      "id": "dfd908bad3a3bfcae9e08bf128273b18",
+      "leagueId": "nba",
+      "startTime": "2026-12-25T22:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-los-angeles-lakers",
+        "leagueId": "nba",
+        "name": "Los Angeles Lakers",
+        "shortName": "Lakers",
+        "abbreviation": "LAL"
+      },
+      "awayTeam": {
+        "id": "nba-philadelphia-76ers",
+        "leagueId": "nba",
+        "name": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "abbreviation": "P7"
+      },
+      "homeScore": {
+        "teamId": "nba-los-angeles-lakers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-philadelphia-76ers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dfd908bad3a3bfcae9e08bf128273b18"
+      }
+    },
+    {
+      "id": "2b7218aa25cf98318a40e6f2469a5c5d",
+      "leagueId": "nba",
+      "startTime": "2026-12-26T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-minnesota-timberwolves",
+        "leagueId": "nba",
+        "name": "Minnesota Timberwolves",
+        "shortName": "Timberwolves",
+        "abbreviation": "MT"
+      },
+      "awayTeam": {
+        "id": "nba-oklahoma-city-thunder",
+        "leagueId": "nba",
+        "name": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "abbreviation": "OCT"
+      },
+      "homeScore": {
+        "teamId": "nba-minnesota-timberwolves",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-oklahoma-city-thunder",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2b7218aa25cf98318a40e6f2469a5c5d"
+      }
+    },
+    {
+      "id": "85a2379bc49135f2759709e55af0c4c6",
+      "leagueId": "nba",
+      "startTime": "2026-12-26T03:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-golden-state-warriors",
+        "leagueId": "nba",
+        "name": "Golden State Warriors",
+        "shortName": "Warriors",
+        "abbreviation": "GSW"
+      },
+      "awayTeam": {
+        "id": "nba-denver-nuggets",
+        "leagueId": "nba",
+        "name": "Denver Nuggets",
+        "shortName": "Nuggets",
+        "abbreviation": "DN"
+      },
+      "homeScore": {
+        "teamId": "nba-golden-state-warriors",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-denver-nuggets",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85a2379bc49135f2759709e55af0c4c6"
+      }
+    }
+  ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-10T11:28:05.192Z",
-  "staleAt": "2026-08-11T17:28:05.192Z",
+  "fetchedAt": "2026-08-12T11:12:10.062Z",
+  "staleAt": "2026-08-13T17:12:10.062Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
-    "The provider currently marks this league as out of season."
+    "The provider does not supply a reliable live game clock."
   ]
 }

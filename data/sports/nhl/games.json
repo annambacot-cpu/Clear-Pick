@@ -673,38 +673,6 @@
       }
     },
     {
-      "id": "3e2c8a883cae029144e27e4fca5ae9e8",
-      "leagueId": "nhl",
-      "startTime": "2026-10-03T23:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nhl-new-york-islanders",
-        "leagueId": "nhl",
-        "name": "New York Islanders",
-        "shortName": "Islanders",
-        "abbreviation": "NYI"
-      },
-      "awayTeam": {
-        "id": "nhl-new-jersey-devils",
-        "leagueId": "nhl",
-        "name": "New Jersey Devils",
-        "shortName": "Devils",
-        "abbreviation": "NJD"
-      },
-      "homeScore": {
-        "teamId": "nhl-new-york-islanders",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nhl-new-jersey-devils",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3e2c8a883cae029144e27e4fca5ae9e8"
-      }
-    },
-    {
       "id": "3a9af73961ea2f2322255a6fca4d421e",
       "leagueId": "nhl",
       "startTime": "2026-10-04T00:10:00Z",
@@ -995,8 +963,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-10T11:28:05.192Z",
-  "staleAt": "2026-08-11T17:28:05.192Z",
+  "fetchedAt": "2026-08-12T11:12:10.062Z",
+  "staleAt": "2026-08-13T17:12:10.062Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
