@@ -23,7 +23,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "26b036ff107f3c658258eaf4a6f26228:FanDuel:h2h"
@@ -54,7 +54,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "26b036ff107f3c658258eaf4a6f26228:FanDuel:spreads"
@@ -83,7 +83,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "26b036ff107f3c658258eaf4a6f26228:FanDuel:totals"
@@ -112,7 +112,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b042ddad3d3c6c6fe5b7005dc26c775:FanDuel:h2h"
@@ -143,7 +143,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b042ddad3d3c6c6fe5b7005dc26c775:FanDuel:spreads"
@@ -172,7 +172,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b042ddad3d3c6c6fe5b7005dc26c775:FanDuel:totals"
@@ -201,7 +201,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "bccd283de56915e29af1788beb0abfc9:FanDuel:h2h"
@@ -232,7 +232,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "bccd283de56915e29af1788beb0abfc9:FanDuel:spreads"
@@ -261,10 +261,277 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "bccd283de56915e29af1788beb0abfc9:FanDuel:totals"
+      }
+    },
+    {
+      "id": "85e6e4e2404ef7268659739997758da1-draftkings-h2h",
+      "gameId": "85e6e4e2404ef7268659739997758da1",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-h2h-0",
+          "label": "Atlanta Hawks",
+          "participantId": "nba-atlanta-hawks",
+          "side": "away",
+          "americanOdds": 114
+        },
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-h2h-1",
+          "label": "Orlando Magic",
+          "participantId": "nba-orlando-magic",
+          "side": "home",
+          "americanOdds": -135
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85e6e4e2404ef7268659739997758da1:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "85e6e4e2404ef7268659739997758da1-draftkings-spreads",
+      "gameId": "85e6e4e2404ef7268659739997758da1",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-spreads-0",
+          "label": "Atlanta Hawks",
+          "participantId": "nba-atlanta-hawks",
+          "side": "away",
+          "line": 2.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-spreads-1",
+          "label": "Orlando Magic",
+          "participantId": "nba-orlando-magic",
+          "side": "home",
+          "line": -2.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85e6e4e2404ef7268659739997758da1:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "85e6e4e2404ef7268659739997758da1-draftkings-totals",
+      "gameId": "85e6e4e2404ef7268659739997758da1",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 233.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "85e6e4e2404ef7268659739997758da1-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 233.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85e6e4e2404ef7268659739997758da1:DraftKings:totals"
+      }
+    },
+    {
+      "id": "164cc0396837d5ff433215ffd3279283-draftkings-h2h",
+      "gameId": "164cc0396837d5ff433215ffd3279283",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-h2h-0",
+          "label": "Milwaukee Bucks",
+          "participantId": "nba-milwaukee-bucks",
+          "side": "away",
+          "americanOdds": 195
+        },
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-h2h-1",
+          "label": "Washington Wizards",
+          "participantId": "nba-washington-wizards",
+          "side": "home",
+          "americanOdds": -238
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "164cc0396837d5ff433215ffd3279283:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "164cc0396837d5ff433215ffd3279283-draftkings-spreads",
+      "gameId": "164cc0396837d5ff433215ffd3279283",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-spreads-0",
+          "label": "Milwaukee Bucks",
+          "participantId": "nba-milwaukee-bucks",
+          "side": "away",
+          "line": 6.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-spreads-1",
+          "label": "Washington Wizards",
+          "participantId": "nba-washington-wizards",
+          "side": "home",
+          "line": -6.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "164cc0396837d5ff433215ffd3279283:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "164cc0396837d5ff433215ffd3279283-draftkings-totals",
+      "gameId": "164cc0396837d5ff433215ffd3279283",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 238.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "164cc0396837d5ff433215ffd3279283-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 238.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "164cc0396837d5ff433215ffd3279283:DraftKings:totals"
+      }
+    },
+    {
+      "id": "47cc511bb5ce50f715e3625ce5ef77ee-draftkings-h2h",
+      "gameId": "47cc511bb5ce50f715e3625ce5ef77ee",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-h2h-0",
+          "label": "Brooklyn Nets",
+          "participantId": "nba-brooklyn-nets",
+          "side": "home",
+          "americanOdds": 142
+        },
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-h2h-1",
+          "label": "Charlotte Hornets",
+          "participantId": "nba-charlotte-hornets",
+          "side": "away",
+          "americanOdds": -170
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "47cc511bb5ce50f715e3625ce5ef77ee:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "47cc511bb5ce50f715e3625ce5ef77ee-draftkings-spreads",
+      "gameId": "47cc511bb5ce50f715e3625ce5ef77ee",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-spreads-0",
+          "label": "Brooklyn Nets",
+          "participantId": "nba-brooklyn-nets",
+          "side": "home",
+          "line": 4.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-spreads-1",
+          "label": "Charlotte Hornets",
+          "participantId": "nba-charlotte-hornets",
+          "side": "away",
+          "line": -4.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "47cc511bb5ce50f715e3625ce5ef77ee:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "47cc511bb5ce50f715e3625ce5ef77ee-draftkings-totals",
+      "gameId": "47cc511bb5ce50f715e3625ce5ef77ee",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 226.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 226.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "47cc511bb5ce50f715e3625ce5ef77ee:DraftKings:totals"
       }
     },
     {
@@ -279,18 +546,18 @@
           "label": "Miami Heat",
           "participantId": "nba-miami-heat",
           "side": "home",
-          "americanOdds": -155
+          "americanOdds": -125
         },
         {
           "id": "93cdd8e4ade5697cfccf42ee42c4d207-h2h-1",
           "label": "Minnesota Timberwolves",
           "participantId": "nba-minnesota-timberwolves",
           "side": "away",
-          "americanOdds": 130
+          "americanOdds": 105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "93cdd8e4ade5697cfccf42ee42c4d207:DraftKings:h2h"
@@ -308,20 +575,20 @@
           "label": "Miami Heat",
           "participantId": "nba-miami-heat",
           "side": "home",
-          "line": -3.5,
-          "americanOdds": -110
+          "line": -1.5,
+          "americanOdds": -118
         },
         {
           "id": "93cdd8e4ade5697cfccf42ee42c4d207-spreads-1",
           "label": "Minnesota Timberwolves",
           "participantId": "nba-minnesota-timberwolves",
           "side": "away",
-          "line": 3.5,
-          "americanOdds": -110
+          "line": 1.5,
+          "americanOdds": -102
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "93cdd8e4ade5697cfccf42ee42c4d207:DraftKings:spreads"
@@ -338,22 +605,289 @@
           "id": "93cdd8e4ade5697cfccf42ee42c4d207-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 236.5,
-          "americanOdds": -110
+          "line": 242.5,
+          "americanOdds": -115
         },
         {
           "id": "93cdd8e4ade5697cfccf42ee42c4d207-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 236.5,
+          "line": 242.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "93cdd8e4ade5697cfccf42ee42c4d207:DraftKings:totals"
+      }
+    },
+    {
+      "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-draftkings-h2h",
+      "gameId": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-h2h-0",
+          "label": "Indiana Pacers",
+          "participantId": "nba-indiana-pacers",
+          "side": "away",
+          "americanOdds": -162
+        },
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-h2h-1",
+          "label": "New Orleans Pelicans",
+          "participantId": "nba-new-orleans-pelicans",
+          "side": "home",
+          "americanOdds": 136
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "fd33c09c84ab4c2fe6955d59f8dc5dd2:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-draftkings-spreads",
+      "gameId": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-spreads-0",
+          "label": "Indiana Pacers",
+          "participantId": "nba-indiana-pacers",
+          "side": "away",
+          "line": -3.5,
+          "americanOdds": -118
+        },
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-spreads-1",
+          "label": "New Orleans Pelicans",
+          "participantId": "nba-new-orleans-pelicans",
+          "side": "home",
+          "line": 3.5,
+          "americanOdds": -102
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "fd33c09c84ab4c2fe6955d59f8dc5dd2:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-draftkings-totals",
+      "gameId": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 242.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 242.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "fd33c09c84ab4c2fe6955d59f8dc5dd2:DraftKings:totals"
+      }
+    },
+    {
+      "id": "e6769c813dd625b622df94c14a562ce2-draftkings-h2h",
+      "gameId": "e6769c813dd625b622df94c14a562ce2",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-h2h-0",
+          "label": "Memphis Grizzlies",
+          "participantId": "nba-memphis-grizzlies",
+          "side": "home",
+          "americanOdds": 124
+        },
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-h2h-1",
+          "label": "Utah Jazz",
+          "participantId": "nba-utah-jazz",
+          "side": "away",
+          "americanOdds": -148
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e6769c813dd625b622df94c14a562ce2:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "e6769c813dd625b622df94c14a562ce2-draftkings-spreads",
+      "gameId": "e6769c813dd625b622df94c14a562ce2",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-spreads-0",
+          "label": "Memphis Grizzlies",
+          "participantId": "nba-memphis-grizzlies",
+          "side": "home",
+          "line": 2.5,
+          "americanOdds": -102
+        },
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-spreads-1",
+          "label": "Utah Jazz",
+          "participantId": "nba-utah-jazz",
+          "side": "away",
+          "line": -2.5,
+          "americanOdds": -118
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e6769c813dd625b622df94c14a562ce2:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "e6769c813dd625b622df94c14a562ce2-draftkings-totals",
+      "gameId": "e6769c813dd625b622df94c14a562ce2",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 241.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 241.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "93cdd8e4ade5697cfccf42ee42c4d207:DraftKings:totals"
+        "externalId": "e6769c813dd625b622df94c14a562ce2:DraftKings:totals"
+      }
+    },
+    {
+      "id": "af2f084075391e55ba2a596e7846bb40-draftkings-h2h",
+      "gameId": "af2f084075391e55ba2a596e7846bb40",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-h2h-0",
+          "label": "Dallas Mavericks",
+          "participantId": "nba-dallas-mavericks",
+          "side": "away",
+          "americanOdds": 250
+        },
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-h2h-1",
+          "label": "Houston Rockets",
+          "participantId": "nba-houston-rockets",
+          "side": "home",
+          "americanOdds": -310
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "af2f084075391e55ba2a596e7846bb40:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "af2f084075391e55ba2a596e7846bb40-draftkings-spreads",
+      "gameId": "af2f084075391e55ba2a596e7846bb40",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-spreads-0",
+          "label": "Dallas Mavericks",
+          "participantId": "nba-dallas-mavericks",
+          "side": "away",
+          "line": 8.5,
+          "americanOdds": -118
+        },
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-spreads-1",
+          "label": "Houston Rockets",
+          "participantId": "nba-houston-rockets",
+          "side": "home",
+          "line": -8.5,
+          "americanOdds": -102
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "af2f084075391e55ba2a596e7846bb40:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "af2f084075391e55ba2a596e7846bb40-draftkings-totals",
+      "gameId": "af2f084075391e55ba2a596e7846bb40",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 227.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 227.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "af2f084075391e55ba2a596e7846bb40:DraftKings:totals"
       }
     },
     {
@@ -368,18 +902,18 @@
           "label": "Golden State Warriors",
           "participantId": "nba-golden-state-warriors",
           "side": "away",
-          "americanOdds": 164
+          "americanOdds": 154
         },
         {
           "id": "6fff70f4bf196dba25060a5775a03b54-h2h-1",
           "label": "Los Angeles Lakers",
           "participantId": "nba-los-angeles-lakers",
           "side": "home",
-          "americanOdds": -198
+          "americanOdds": -185
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6fff70f4bf196dba25060a5775a03b54:DraftKings:h2h"
@@ -398,7 +932,7 @@
           "participantId": "nba-golden-state-warriors",
           "side": "away",
           "line": 5.5,
-          "americanOdds": -110
+          "americanOdds": -118
         },
         {
           "id": "6fff70f4bf196dba25060a5775a03b54-spreads-1",
@@ -406,11 +940,11 @@
           "participantId": "nba-los-angeles-lakers",
           "side": "home",
           "line": -5.5,
-          "americanOdds": -110
+          "americanOdds": -102
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6fff70f4bf196dba25060a5775a03b54:DraftKings:spreads"
@@ -427,22 +961,111 @@
           "id": "6fff70f4bf196dba25060a5775a03b54-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 234.5,
-          "americanOdds": -105
+          "line": 235.5,
+          "americanOdds": -110
         },
         {
           "id": "6fff70f4bf196dba25060a5775a03b54-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 234.5,
-          "americanOdds": -115
+          "line": 235.5,
+          "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6fff70f4bf196dba25060a5775a03b54:DraftKings:totals"
+      }
+    },
+    {
+      "id": "71e24359951927c356bd8c852fb867dd-draftkings-h2h",
+      "gameId": "71e24359951927c356bd8c852fb867dd",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-h2h-0",
+          "label": "Phoenix Suns",
+          "participantId": "nba-phoenix-suns",
+          "side": "away",
+          "americanOdds": 140
+        },
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-h2h-1",
+          "label": "Portland Trail Blazers",
+          "participantId": "nba-portland-trail-blazers",
+          "side": "home",
+          "americanOdds": -166
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "71e24359951927c356bd8c852fb867dd:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "71e24359951927c356bd8c852fb867dd-draftkings-spreads",
+      "gameId": "71e24359951927c356bd8c852fb867dd",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-spreads-0",
+          "label": "Phoenix Suns",
+          "participantId": "nba-phoenix-suns",
+          "side": "away",
+          "line": 4.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-spreads-1",
+          "label": "Portland Trail Blazers",
+          "participantId": "nba-portland-trail-blazers",
+          "side": "home",
+          "line": -4.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "71e24359951927c356bd8c852fb867dd:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "71e24359951927c356bd8c852fb867dd-draftkings-totals",
+      "gameId": "71e24359951927c356bd8c852fb867dd",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 235.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "71e24359951927c356bd8c852fb867dd-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 235.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-08-14T11:10:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "71e24359951927c356bd8c852fb867dd:DraftKings:totals"
       }
     },
     {
@@ -468,7 +1091,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "110e33c79c5ec8c0377702aff685f83b:DraftKings:h2h"
@@ -499,7 +1122,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "110e33c79c5ec8c0377702aff685f83b:DraftKings:spreads"
@@ -528,7 +1151,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "110e33c79c5ec8c0377702aff685f83b:DraftKings:totals"
@@ -557,7 +1180,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "223b2883b9b05a67329ef246384b85f1:DraftKings:h2h"
@@ -588,7 +1211,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "223b2883b9b05a67329ef246384b85f1:DraftKings:spreads"
@@ -617,7 +1240,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "223b2883b9b05a67329ef246384b85f1:DraftKings:totals"
@@ -646,7 +1269,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0d34c898f6cbb990077ae9f0a2773513:DraftKings:h2h"
@@ -677,7 +1300,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0d34c898f6cbb990077ae9f0a2773513:DraftKings:spreads"
@@ -706,7 +1329,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0d34c898f6cbb990077ae9f0a2773513:DraftKings:totals"
@@ -735,7 +1358,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "49fc89a9696a9a20b658732b34ce61c4:DraftKings:h2h"
@@ -766,7 +1389,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "49fc89a9696a9a20b658732b34ce61c4:DraftKings:spreads"
@@ -795,7 +1418,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "49fc89a9696a9a20b658732b34ce61c4:DraftKings:totals"
@@ -824,7 +1447,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45ebc54751ef3e435192eaeb0470acfb:DraftKings:h2h"
@@ -855,7 +1478,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45ebc54751ef3e435192eaeb0470acfb:DraftKings:spreads"
@@ -884,7 +1507,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45ebc54751ef3e435192eaeb0470acfb:DraftKings:totals"
@@ -913,7 +1536,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "036a93ca33d6261c21d4bfa6e0d02568:DraftKings:h2h"
@@ -944,7 +1567,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "036a93ca33d6261c21d4bfa6e0d02568:DraftKings:spreads"
@@ -973,7 +1596,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "036a93ca33d6261c21d4bfa6e0d02568:DraftKings:totals"
@@ -1002,7 +1625,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "64df299b882ea19ad5f8cb0ed5516a6f:DraftKings:h2h"
@@ -1033,7 +1656,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "64df299b882ea19ad5f8cb0ed5516a6f:DraftKings:spreads"
@@ -1062,7 +1685,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "64df299b882ea19ad5f8cb0ed5516a6f:DraftKings:totals"
@@ -1091,7 +1714,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96a166bbd49782dbd9a61c2fb9069787:DraftKings:h2h"
@@ -1122,7 +1745,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96a166bbd49782dbd9a61c2fb9069787:DraftKings:spreads"
@@ -1151,7 +1774,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96a166bbd49782dbd9a61c2fb9069787:DraftKings:totals"
@@ -1180,7 +1803,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b9778d0e3a26167eb49901dcae7eeb98:DraftKings:h2h"
@@ -1211,7 +1834,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b9778d0e3a26167eb49901dcae7eeb98:DraftKings:spreads"
@@ -1240,7 +1863,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b9778d0e3a26167eb49901dcae7eeb98:DraftKings:totals"
@@ -1269,7 +1892,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c3a424e24d426af94a693e06a33e3037:DraftKings:h2h"
@@ -1300,7 +1923,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c3a424e24d426af94a693e06a33e3037:DraftKings:spreads"
@@ -1317,19 +1940,19 @@
           "id": "c3a424e24d426af94a693e06a33e3037-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 239.5,
+          "line": 242.5,
           "americanOdds": -105
         },
         {
           "id": "c3a424e24d426af94a693e06a33e3037-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 239.5,
+          "line": 242.5,
           "americanOdds": -115
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c3a424e24d426af94a693e06a33e3037:DraftKings:totals"
@@ -1358,7 +1981,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9ae108f7a23e86e8102237053dd9e58d:DraftKings:h2h"
@@ -1389,7 +2012,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9ae108f7a23e86e8102237053dd9e58d:DraftKings:spreads"
@@ -1418,7 +2041,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9ae108f7a23e86e8102237053dd9e58d:DraftKings:totals"
@@ -1436,18 +2059,18 @@
           "label": "Golden State Warriors",
           "participantId": "nba-golden-state-warriors",
           "side": "home",
-          "americanOdds": -105
+          "americanOdds": -110
         },
         {
           "id": "761c15cdefb5a94e34f234e11d6e57ad-h2h-1",
           "label": "Los Angeles Lakers",
           "participantId": "nba-los-angeles-lakers",
           "side": "away",
-          "americanOdds": -115
+          "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "761c15cdefb5a94e34f234e11d6e57ad:DraftKings:h2h"
@@ -1465,20 +2088,20 @@
           "label": "Golden State Warriors",
           "participantId": "nba-golden-state-warriors",
           "side": "home",
-          "line": 1.5,
-          "americanOdds": -115
+          "line": -1.5,
+          "americanOdds": 100
         },
         {
           "id": "761c15cdefb5a94e34f234e11d6e57ad-spreads-1",
           "label": "Los Angeles Lakers",
           "participantId": "nba-los-angeles-lakers",
           "side": "away",
-          "line": -1.5,
-          "americanOdds": -105
+          "line": 1.5,
+          "americanOdds": -120
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "761c15cdefb5a94e34f234e11d6e57ad:DraftKings:spreads"
@@ -1495,19 +2118,19 @@
           "id": "761c15cdefb5a94e34f234e11d6e57ad-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 234.5,
-          "americanOdds": -105
+          "line": 235.5,
+          "americanOdds": -110
         },
         {
           "id": "761c15cdefb5a94e34f234e11d6e57ad-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 234.5,
-          "americanOdds": -115
+          "line": 235.5,
+          "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "761c15cdefb5a94e34f234e11d6e57ad:DraftKings:totals"
@@ -1536,7 +2159,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85869b2fdc16ef10d3e2582bf05ead95:DraftKings:h2h"
@@ -1567,7 +2190,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85869b2fdc16ef10d3e2582bf05ead95:DraftKings:spreads"
@@ -1596,7 +2219,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85869b2fdc16ef10d3e2582bf05ead95:DraftKings:totals"
@@ -1625,7 +2248,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "83d77fe350d56a036fd7a3404e78249a:DraftKings:h2h"
@@ -1656,7 +2279,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "83d77fe350d56a036fd7a3404e78249a:DraftKings:spreads"
@@ -1685,7 +2308,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "83d77fe350d56a036fd7a3404e78249a:DraftKings:totals"
@@ -1714,7 +2337,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6669b911691463c669a5c10574742e8e:DraftKings:h2h"
@@ -1733,7 +2356,7 @@
           "participantId": "nba-indiana-pacers",
           "side": "home",
           "line": 2.5,
-          "americanOdds": -118
+          "americanOdds": -115
         },
         {
           "id": "6669b911691463c669a5c10574742e8e-spreads-1",
@@ -1741,11 +2364,11 @@
           "participantId": "nba-new-york-knicks",
           "side": "away",
           "line": -2.5,
-          "americanOdds": -102
+          "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6669b911691463c669a5c10574742e8e:DraftKings:spreads"
@@ -1774,7 +2397,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6669b911691463c669a5c10574742e8e:DraftKings:totals"
@@ -1803,7 +2426,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1fae7f34ec6035dffa74feb148ee26c7:DraftKings:h2h"
@@ -1834,7 +2457,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1fae7f34ec6035dffa74feb148ee26c7:DraftKings:spreads"
@@ -1863,7 +2486,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1fae7f34ec6035dffa74feb148ee26c7:DraftKings:totals"
@@ -1892,7 +2515,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "086d2fe80483ffcc280994fe2e12d4f4:DraftKings:h2h"
@@ -1923,7 +2546,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "086d2fe80483ffcc280994fe2e12d4f4:DraftKings:spreads"
@@ -1952,7 +2575,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "086d2fe80483ffcc280994fe2e12d4f4:DraftKings:totals"
@@ -1981,7 +2604,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3167a4072c65c9314c71d0fe49be8e28:DraftKings:h2h"
@@ -2012,7 +2635,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3167a4072c65c9314c71d0fe49be8e28:DraftKings:spreads"
@@ -2041,7 +2664,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3167a4072c65c9314c71d0fe49be8e28:DraftKings:totals"
@@ -2070,7 +2693,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6bfadbd22ed8a054cf82ec1b12b78243:DraftKings:h2h"
@@ -2101,7 +2724,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6bfadbd22ed8a054cf82ec1b12b78243:DraftKings:spreads"
@@ -2130,7 +2753,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6bfadbd22ed8a054cf82ec1b12b78243:DraftKings:totals"
@@ -2159,7 +2782,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "4f6d199bb67cf3a517a3880fd2f00b26:DraftKings:h2h"
@@ -2177,20 +2800,20 @@
           "label": "Miami Heat",
           "participantId": "nba-miami-heat",
           "side": "away",
-          "line": 3.5,
-          "americanOdds": -105
+          "line": 4.5,
+          "americanOdds": -115
         },
         {
           "id": "4f6d199bb67cf3a517a3880fd2f00b26-spreads-1",
           "label": "Philadelphia 76ers",
           "participantId": "nba-philadelphia-76ers",
           "side": "home",
-          "line": -3.5,
-          "americanOdds": -115
+          "line": -4.5,
+          "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "4f6d199bb67cf3a517a3880fd2f00b26:DraftKings:spreads"
@@ -2207,19 +2830,19 @@
           "id": "4f6d199bb67cf3a517a3880fd2f00b26-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 238.5,
+          "line": 239.5,
           "americanOdds": -110
         },
         {
           "id": "4f6d199bb67cf3a517a3880fd2f00b26-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 238.5,
+          "line": 239.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "4f6d199bb67cf3a517a3880fd2f00b26:DraftKings:totals"
@@ -2248,7 +2871,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "07421d1675d6bc51bb5fa91f84a09eb3:DraftKings:h2h"
@@ -2266,20 +2889,20 @@
           "label": "Minnesota Timberwolves",
           "participantId": "nba-minnesota-timberwolves",
           "side": "away",
-          "line": 9.5,
-          "americanOdds": -118
+          "line": 8.5,
+          "americanOdds": -102
         },
         {
           "id": "07421d1675d6bc51bb5fa91f84a09eb3-spreads-1",
           "label": "Oklahoma City Thunder",
           "participantId": "nba-oklahoma-city-thunder",
           "side": "home",
-          "line": -9.5,
-          "americanOdds": -102
+          "line": -8.5,
+          "americanOdds": -118
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "07421d1675d6bc51bb5fa91f84a09eb3:DraftKings:spreads"
@@ -2296,19 +2919,19 @@
           "id": "07421d1675d6bc51bb5fa91f84a09eb3-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 232.5,
+          "line": 234.5,
           "americanOdds": -115
         },
         {
           "id": "07421d1675d6bc51bb5fa91f84a09eb3-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 232.5,
+          "line": 234.5,
           "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "07421d1675d6bc51bb5fa91f84a09eb3:DraftKings:totals"
@@ -2337,7 +2960,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9aa9f220709533d70d11f85fae886771:DraftKings:h2h"
@@ -2368,7 +2991,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9aa9f220709533d70d11f85fae886771:DraftKings:spreads"
@@ -2397,7 +3020,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9aa9f220709533d70d11f85fae886771:DraftKings:totals"
@@ -2426,7 +3049,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3c522e32c3035d7dc3e1734903b84654:DraftKings:h2h"
@@ -2457,7 +3080,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3c522e32c3035d7dc3e1734903b84654:DraftKings:spreads"
@@ -2486,7 +3109,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3c522e32c3035d7dc3e1734903b84654:DraftKings:totals"
@@ -2515,7 +3138,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "13d9ca3bcb664829c603755d31401002:DraftKings:h2h"
@@ -2546,7 +3169,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "13d9ca3bcb664829c603755d31401002:DraftKings:spreads"
@@ -2575,7 +3198,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-08-13T11:12:35Z",
+      "lastUpdated": "2026-08-14T11:10:04Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "13d9ca3bcb664829c603755d31401002:DraftKings:totals"
@@ -2604,7 +3227,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:FanDuel:h2h"
@@ -2635,7 +3258,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:FanDuel:spreads"
@@ -2664,7 +3287,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:FanDuel:totals"
@@ -2693,7 +3316,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:FanDuel:h2h"
@@ -2724,7 +3347,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:FanDuel:spreads"
@@ -2753,7 +3376,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:FanDuel:totals"
@@ -2782,7 +3405,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:FanDuel:h2h"
@@ -2813,7 +3436,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:FanDuel:spreads"
@@ -2842,7 +3465,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:FanDuel:totals"
@@ -2871,7 +3494,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b7218aa25cf98318a40e6f2469a5c5d:FanDuel:h2h"
@@ -2902,7 +3525,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b7218aa25cf98318a40e6f2469a5c5d:FanDuel:spreads"
@@ -2931,7 +3554,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2b7218aa25cf98318a40e6f2469a5c5d:FanDuel:totals"
@@ -2960,7 +3583,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:FanDuel:h2h"
@@ -2991,7 +3614,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:FanDuel:spreads"
@@ -3020,7 +3643,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-08-13T11:12:14Z",
+      "lastUpdated": "2026-08-14T11:10:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:FanDuel:totals"
@@ -3029,8 +3652,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-13T11:12:43.273Z",
-  "staleAt": "2026-08-14T17:12:43.273Z",
+  "fetchedAt": "2026-08-14T11:10:33.937Z",
+  "staleAt": "2026-08-15T17:10:33.937Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

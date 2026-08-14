@@ -897,38 +897,6 @@
       }
     },
     {
-      "id": "244ad71a1e9f6afa8001cc674aec1558",
-      "leagueId": "ncaaf",
-      "startTime": "2026-09-05T16:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-arkansas-razorbacks",
-        "leagueId": "ncaaf",
-        "name": "Arkansas Razorbacks",
-        "shortName": "Razorbacks",
-        "abbreviation": "AR"
-      },
-      "awayTeam": {
-        "id": "ncaaf-north-alabama-lions",
-        "leagueId": "ncaaf",
-        "name": "North Alabama Lions",
-        "shortName": "Lions",
-        "abbreviation": "NAL"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-arkansas-razorbacks",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-north-alabama-lions",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "244ad71a1e9f6afa8001cc674aec1558"
-      }
-    },
-    {
       "id": "4deedbb327684841cd9aad6ffb77c3fc",
       "leagueId": "ncaaf",
       "startTime": "2026-09-05T16:00:00Z",
@@ -1886,6 +1854,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2da3627714934ad966d548980bb69658"
+      }
+    },
+    {
+      "id": "244ad71a1e9f6afa8001cc674aec1558",
+      "leagueId": "ncaaf",
+      "startTime": "2026-09-05T20:15:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-arkansas-razorbacks",
+        "leagueId": "ncaaf",
+        "name": "Arkansas Razorbacks",
+        "shortName": "Razorbacks",
+        "abbreviation": "AR"
+      },
+      "awayTeam": {
+        "id": "ncaaf-north-alabama-lions",
+        "leagueId": "ncaaf",
+        "name": "North Alabama Lions",
+        "shortName": "Lions",
+        "abbreviation": "NAL"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-arkansas-razorbacks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-north-alabama-lions",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "244ad71a1e9f6afa8001cc674aec1558"
       }
     },
     {
@@ -3555,8 +3555,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-12T11:12:10.062Z",
-  "staleAt": "2026-08-13T17:12:10.062Z",
+  "fetchedAt": "2026-08-14T11:10:33.937Z",
+  "staleAt": "2026-08-15T17:10:33.937Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
