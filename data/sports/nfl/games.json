@@ -6401,6 +6401,38 @@
       }
     },
     {
+      "id": "5dc9cb8fba610d682dc670ae4e7d59f3",
+      "leagueId": "nfl",
+      "startTime": "2026-12-13T18:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-washington-commanders",
+        "leagueId": "nfl",
+        "name": "Washington Commanders",
+        "shortName": "Commanders",
+        "abbreviation": "WC"
+      },
+      "awayTeam": {
+        "id": "nfl-houston-texans",
+        "leagueId": "nfl",
+        "name": "Houston Texans",
+        "shortName": "Texans",
+        "abbreviation": "HT"
+      },
+      "homeScore": {
+        "teamId": "nfl-washington-commanders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-houston-texans",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5dc9cb8fba610d682dc670ae4e7d59f3"
+      }
+    },
+    {
       "id": "45203f985f8d1567ad19b0617dd267f8",
       "leagueId": "nfl",
       "startTime": "2026-12-13T18:00:00Z",
@@ -8675,8 +8707,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-14T11:10:33.937Z",
-  "staleAt": "2026-08-15T17:10:33.937Z",
+  "fetchedAt": "2026-08-15T10:42:08.126Z",
+  "staleAt": "2026-08-16T16:42:08.126Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
