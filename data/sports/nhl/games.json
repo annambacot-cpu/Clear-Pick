@@ -673,6 +673,38 @@
       }
     },
     {
+      "id": "3e2c8a883cae029144e27e4fca5ae9e8",
+      "leagueId": "nhl",
+      "startTime": "2026-10-03T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-new-york-islanders",
+        "leagueId": "nhl",
+        "name": "New York Islanders",
+        "shortName": "Islanders",
+        "abbreviation": "NYI"
+      },
+      "awayTeam": {
+        "id": "nhl-new-jersey-devils",
+        "leagueId": "nhl",
+        "name": "New Jersey Devils",
+        "shortName": "Devils",
+        "abbreviation": "NJD"
+      },
+      "homeScore": {
+        "teamId": "nhl-new-york-islanders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-new-jersey-devils",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3e2c8a883cae029144e27e4fca5ae9e8"
+      }
+    },
+    {
       "id": "3a9af73961ea2f2322255a6fca4d421e",
       "leagueId": "nhl",
       "startTime": "2026-10-04T00:10:00Z",
@@ -766,6 +798,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d90c875a1c75ed65db6e3dc2f4a1afcc"
+      }
+    },
+    {
+      "id": "3b7b6520b0bc91f44cf9c9575d7e29f7",
+      "leagueId": "nhl",
+      "startTime": "2026-10-06T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-montr-al-canadiens",
+        "leagueId": "nhl",
+        "name": "Montréal Canadiens",
+        "shortName": "Canadiens",
+        "abbreviation": "MC"
+      },
+      "awayTeam": {
+        "id": "nhl-carolina-hurricanes",
+        "leagueId": "nhl",
+        "name": "Carolina Hurricanes",
+        "shortName": "Hurricanes",
+        "abbreviation": "CH"
+      },
+      "homeScore": {
+        "teamId": "nhl-montr-al-canadiens",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-carolina-hurricanes",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3b7b6520b0bc91f44cf9c9575d7e29f7"
       }
     },
     {
@@ -963,8 +1027,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-18T10:49:17.097Z",
-  "staleAt": "2026-08-19T16:49:17.097Z",
+  "fetchedAt": "2026-09-01T14:56:41.388Z",
+  "staleAt": "2026-09-02T20:56:41.389Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

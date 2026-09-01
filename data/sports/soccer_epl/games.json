@@ -1,105 +1,207 @@
 {
   "data": [
     {
-      "id": "eb2553d10d63dc912b99f8fd0d675721",
+      "id": "7a8746a45dc76378359a7d9cc5474bc8",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-21T19:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-08-29T16:30:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "soccer_epl-arsenal",
+        "id": "soccer_epl-tottenham-hotspur",
         "leagueId": "soccer_epl",
-        "name": "Arsenal",
-        "shortName": "Arsenal",
-        "abbreviation": "ARS"
+        "name": "Tottenham Hotspur",
+        "shortName": "Hotspur",
+        "abbreviation": "TH"
       },
       "awayTeam": {
-        "id": "soccer_epl-coventry-city",
+        "id": "soccer_epl-newcastle-united",
         "leagueId": "soccer_epl",
-        "name": "Coventry City",
-        "shortName": "City",
-        "abbreviation": "CC"
+        "name": "Newcastle United",
+        "shortName": "United",
+        "abbreviation": "NU"
       },
       "homeScore": {
-        "teamId": "soccer_epl-arsenal",
-        "total": null
+        "teamId": "soccer_epl-tottenham-hotspur",
+        "total": 0
       },
       "awayScore": {
-        "teamId": "soccer_epl-coventry-city",
-        "total": null
+        "teamId": "soccer_epl-newcastle-united",
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "eb2553d10d63dc912b99f8fd0d675721"
+        "externalId": "7a8746a45dc76378359a7d9cc5474bc8"
       }
     },
     {
-      "id": "95bb16d19debff3ec39919f361f072a4",
+      "id": "e479c08421b8549c6959c2b84f6f3f79",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-22T11:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-08-30T13:00:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "soccer_epl-hull-city",
+        "id": "soccer_epl-leeds-united",
         "leagueId": "soccer_epl",
-        "name": "Hull City",
-        "shortName": "City",
-        "abbreviation": "HC"
+        "name": "Leeds United",
+        "shortName": "United",
+        "abbreviation": "LU"
       },
       "awayTeam": {
+        "id": "soccer_epl-brentford",
+        "leagueId": "soccer_epl",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "abbreviation": "BRE"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-leeds-united",
+        "total": 1
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-brentford",
+        "total": 1
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e479c08421b8549c6959c2b84f6f3f79"
+      }
+    },
+    {
+      "id": "6a4c946a61ddb5ef4703eb4528ccdef1",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-08-30T13:00:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "soccer_epl-chelsea",
+        "leagueId": "soccer_epl",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "abbreviation": "CHE"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-brighton-and-hove-albion",
+        "leagueId": "soccer_epl",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Albion",
+        "abbreviation": "BAH"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-chelsea",
+        "total": 4
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-brighton-and-hove-albion",
+        "total": 3
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6a4c946a61ddb5ef4703eb4528ccdef1"
+      }
+    },
+    {
+      "id": "9becb395ad634de55caec620f9d713fa",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-08-30T13:00:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "soccer_epl-sunderland",
+        "leagueId": "soccer_epl",
+        "name": "Sunderland",
+        "shortName": "Sunderland",
+        "abbreviation": "SUN"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-fulham",
+        "leagueId": "soccer_epl",
+        "name": "Fulham",
+        "shortName": "Fulham",
+        "abbreviation": "FUL"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-sunderland",
+        "total": 1
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-fulham",
+        "total": 0
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9becb395ad634de55caec620f9d713fa"
+      }
+    },
+    {
+      "id": "5759167055d94ba38e145ab92188abbf",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-08-30T15:30:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
         "id": "soccer_epl-manchester-united",
         "leagueId": "soccer_epl",
         "name": "Manchester United",
         "shortName": "United",
         "abbreviation": "MU"
       },
+      "awayTeam": {
+        "id": "soccer_epl-ipswich-town",
+        "leagueId": "soccer_epl",
+        "name": "Ipswich Town",
+        "shortName": "Town",
+        "abbreviation": "IT"
+      },
       "homeScore": {
-        "teamId": "soccer_epl-hull-city",
-        "total": null
+        "teamId": "soccer_epl-manchester-united",
+        "total": 5
       },
       "awayScore": {
-        "teamId": "soccer_epl-manchester-united",
-        "total": null
+        "teamId": "soccer_epl-ipswich-town",
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "95bb16d19debff3ec39919f361f072a4"
+        "externalId": "5759167055d94ba38e145ab92188abbf"
       }
     },
     {
-      "id": "cd1f0173ec061d9b8a8b22ab8f2f8393",
+      "id": "2c49e9d1ef855f62962b915e773f906d",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-22T14:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-08-31T19:00:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "soccer_epl-everton",
+        "id": "soccer_epl-aston-villa",
         "leagueId": "soccer_epl",
-        "name": "Everton",
-        "shortName": "Everton",
-        "abbreviation": "EVE"
+        "name": "Aston Villa",
+        "shortName": "Villa",
+        "abbreviation": "AV"
       },
       "awayTeam": {
-        "id": "soccer_epl-crystal-palace",
+        "id": "soccer_epl-arsenal",
         "leagueId": "soccer_epl",
-        "name": "Crystal Palace",
-        "shortName": "Palace",
-        "abbreviation": "CP"
+        "name": "Arsenal",
+        "shortName": "Arsenal",
+        "abbreviation": "ARS"
       },
       "homeScore": {
-        "teamId": "soccer_epl-everton",
-        "total": null
+        "teamId": "soccer_epl-aston-villa",
+        "total": 0
       },
       "awayScore": {
-        "teamId": "soccer_epl-crystal-palace",
-        "total": null
+        "teamId": "soccer_epl-arsenal",
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "cd1f0173ec061d9b8a8b22ab8f2f8393"
+        "externalId": "2c49e9d1ef855f62962b915e773f906d"
       }
     },
     {
-      "id": "01615d9573ef1e5aa8c09eb32a4a983b",
+      "id": "625c096fabb6047cbeb082dab9affce4",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-22T14:00:00Z",
+      "startTime": "2026-09-04T19:00:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "soccer_epl-ipswich-town",
@@ -109,157 +211,29 @@
         "abbreviation": "IT"
       },
       "awayTeam": {
-        "id": "soccer_epl-sunderland",
+        "id": "soccer_epl-liverpool",
         "leagueId": "soccer_epl",
-        "name": "Sunderland",
-        "shortName": "Sunderland",
-        "abbreviation": "SUN"
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "abbreviation": "LIV"
       },
       "homeScore": {
         "teamId": "soccer_epl-ipswich-town",
         "total": null
       },
       "awayScore": {
-        "teamId": "soccer_epl-sunderland",
+        "teamId": "soccer_epl-liverpool",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "01615d9573ef1e5aa8c09eb32a4a983b"
+        "externalId": "625c096fabb6047cbeb082dab9affce4"
       }
     },
     {
-      "id": "ee99154f8db029efcf567c5f7f7a0c0b",
+      "id": "686358c484cc44fe8e617674c335d531",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-22T14:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "soccer_epl-nottingham-forest",
-        "leagueId": "soccer_epl",
-        "name": "Nottingham Forest",
-        "shortName": "Forest",
-        "abbreviation": "NF"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-leeds-united",
-        "leagueId": "soccer_epl",
-        "name": "Leeds United",
-        "shortName": "United",
-        "abbreviation": "LU"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-nottingham-forest",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-leeds-united",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ee99154f8db029efcf567c5f7f7a0c0b"
-      }
-    },
-    {
-      "id": "8b4b033209bb204516cbd1f523614f25",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-22T16:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "soccer_epl-brentford",
-        "leagueId": "soccer_epl",
-        "name": "Brentford",
-        "shortName": "Brentford",
-        "abbreviation": "BRE"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-tottenham-hotspur",
-        "leagueId": "soccer_epl",
-        "name": "Tottenham Hotspur",
-        "shortName": "Hotspur",
-        "abbreviation": "TH"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-brentford",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-tottenham-hotspur",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8b4b033209bb204516cbd1f523614f25"
-      }
-    },
-    {
-      "id": "f5086c74d4a767e3ad7ea69bd4a66b76",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-23T13:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "soccer_epl-brighton-and-hove-albion",
-        "leagueId": "soccer_epl",
-        "name": "Brighton and Hove Albion",
-        "shortName": "Albion",
-        "abbreviation": "BAH"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-aston-villa",
-        "leagueId": "soccer_epl",
-        "name": "Aston Villa",
-        "shortName": "Villa",
-        "abbreviation": "AV"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-brighton-and-hove-albion",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-aston-villa",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f5086c74d4a767e3ad7ea69bd4a66b76"
-      }
-    },
-    {
-      "id": "87c7c9bfd5e3072bded20c702f553c63",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-23T13:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "soccer_epl-manchester-city",
-        "leagueId": "soccer_epl",
-        "name": "Manchester City",
-        "shortName": "City",
-        "abbreviation": "MC"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-bournemouth",
-        "leagueId": "soccer_epl",
-        "name": "Bournemouth",
-        "shortName": "Bournemouth",
-        "abbreviation": "BOU"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-manchester-city",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-bournemouth",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "87c7c9bfd5e3072bded20c702f553c63"
-      }
-    },
-    {
-      "id": "ea0bacc4c23f813c6af97ec9b306a850",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-23T15:30:00Z",
+      "startTime": "2026-09-05T11:30:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "soccer_epl-newcastle-united",
@@ -269,29 +243,125 @@
         "abbreviation": "NU"
       },
       "awayTeam": {
-        "id": "soccer_epl-liverpool",
+        "id": "soccer_epl-bournemouth",
         "leagueId": "soccer_epl",
-        "name": "Liverpool",
-        "shortName": "Liverpool",
-        "abbreviation": "LIV"
+        "name": "Bournemouth",
+        "shortName": "Bournemouth",
+        "abbreviation": "BOU"
       },
       "homeScore": {
         "teamId": "soccer_epl-newcastle-united",
         "total": null
       },
       "awayScore": {
-        "teamId": "soccer_epl-liverpool",
+        "teamId": "soccer_epl-bournemouth",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "ea0bacc4c23f813c6af97ec9b306a850"
+        "externalId": "686358c484cc44fe8e617674c335d531"
       }
     },
     {
-      "id": "4e4a813bf4218cc527e6f8ef2351170d",
+      "id": "29f81160baf6a97d6391d7172fad2425",
       "leagueId": "soccer_epl",
-      "startTime": "2026-08-24T19:00:00Z",
+      "startTime": "2026-09-05T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-brentford",
+        "leagueId": "soccer_epl",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "abbreviation": "BRE"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-sunderland",
+        "leagueId": "soccer_epl",
+        "name": "Sunderland",
+        "shortName": "Sunderland",
+        "abbreviation": "SUN"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-brentford",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-sunderland",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "29f81160baf6a97d6391d7172fad2425"
+      }
+    },
+    {
+      "id": "3b81531990da7ea3e461c43e8827672b",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-05T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-brighton-and-hove-albion",
+        "leagueId": "soccer_epl",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Albion",
+        "abbreviation": "BAH"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-leeds-united",
+        "leagueId": "soccer_epl",
+        "name": "Leeds United",
+        "shortName": "United",
+        "abbreviation": "LU"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-brighton-and-hove-albion",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-leeds-united",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3b81531990da7ea3e461c43e8827672b"
+      }
+    },
+    {
+      "id": "3db5f919507eb8ab0c8c72bddaca8f08",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-05T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-manchester-city",
+        "leagueId": "soccer_epl",
+        "name": "Manchester City",
+        "shortName": "City",
+        "abbreviation": "MC"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-coventry-city",
+        "leagueId": "soccer_epl",
+        "name": "Coventry City",
+        "shortName": "City",
+        "abbreviation": "CC"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-manchester-city",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-coventry-city",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3db5f919507eb8ab0c8c72bddaca8f08"
+      }
+    },
+    {
+      "id": "8f68612bf47c3193e7fa2d8783e79373",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-05T14:00:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "soccer_epl-fulham",
@@ -301,6 +371,134 @@
         "abbreviation": "FUL"
       },
       "awayTeam": {
+        "id": "soccer_epl-crystal-palace",
+        "leagueId": "soccer_epl",
+        "name": "Crystal Palace",
+        "shortName": "Palace",
+        "abbreviation": "CP"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-fulham",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-crystal-palace",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f68612bf47c3193e7fa2d8783e79373"
+      }
+    },
+    {
+      "id": "a6f2622727548c33369cc15c88b2aabd",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-05T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-nottingham-forest",
+        "leagueId": "soccer_epl",
+        "name": "Nottingham Forest",
+        "shortName": "Forest",
+        "abbreviation": "NF"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-tottenham-hotspur",
+        "leagueId": "soccer_epl",
+        "name": "Tottenham Hotspur",
+        "shortName": "Hotspur",
+        "abbreviation": "TH"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-nottingham-forest",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-tottenham-hotspur",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a6f2622727548c33369cc15c88b2aabd"
+      }
+    },
+    {
+      "id": "21fd24ad6732df00774304a046d84fe9",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-05T16:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-hull-city",
+        "leagueId": "soccer_epl",
+        "name": "Hull City",
+        "shortName": "City",
+        "abbreviation": "HC"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-aston-villa",
+        "leagueId": "soccer_epl",
+        "name": "Aston Villa",
+        "shortName": "Villa",
+        "abbreviation": "AV"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-hull-city",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-aston-villa",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "21fd24ad6732df00774304a046d84fe9"
+      }
+    },
+    {
+      "id": "8ea6c863f1852654399073b518b0a1f8",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-06T13:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-everton",
+        "leagueId": "soccer_epl",
+        "name": "Everton",
+        "shortName": "Everton",
+        "abbreviation": "EVE"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-manchester-united",
+        "leagueId": "soccer_epl",
+        "name": "Manchester United",
+        "shortName": "United",
+        "abbreviation": "MU"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-everton",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-manchester-united",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8ea6c863f1852654399073b518b0a1f8"
+      }
+    },
+    {
+      "id": "78d4dfda8c2dc27bdc3ec26c2654f8fc",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-06T15:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-arsenal",
+        "leagueId": "soccer_epl",
+        "name": "Arsenal",
+        "shortName": "Arsenal",
+        "abbreviation": "ARS"
+      },
+      "awayTeam": {
         "id": "soccer_epl-chelsea",
         "leagueId": "soccer_epl",
         "name": "Chelsea",
@@ -308,7 +506,7 @@
         "abbreviation": "CHE"
       },
       "homeScore": {
-        "teamId": "soccer_epl-fulham",
+        "teamId": "soccer_epl-arsenal",
         "total": null
       },
       "awayScore": {
@@ -317,14 +515,334 @@
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "4e4a813bf4218cc527e6f8ef2351170d"
+        "externalId": "78d4dfda8c2dc27bdc3ec26c2654f8fc"
+      }
+    },
+    {
+      "id": "d09677edcf1fb82ad75a8df58bb26eab",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-aston-villa",
+        "leagueId": "soccer_epl",
+        "name": "Aston Villa",
+        "shortName": "Villa",
+        "abbreviation": "AV"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-nottingham-forest",
+        "leagueId": "soccer_epl",
+        "name": "Nottingham Forest",
+        "shortName": "Forest",
+        "abbreviation": "NF"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-aston-villa",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-nottingham-forest",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d09677edcf1fb82ad75a8df58bb26eab"
+      }
+    },
+    {
+      "id": "d856d4353db0b4cca2a49b96dfd19c92",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-bournemouth",
+        "leagueId": "soccer_epl",
+        "name": "Bournemouth",
+        "shortName": "Bournemouth",
+        "abbreviation": "BOU"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-brentford",
+        "leagueId": "soccer_epl",
+        "name": "Brentford",
+        "shortName": "Brentford",
+        "abbreviation": "BRE"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-bournemouth",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-brentford",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d856d4353db0b4cca2a49b96dfd19c92"
+      }
+    },
+    {
+      "id": "5163190733dcaaea80474e43cbe20a51",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-chelsea",
+        "leagueId": "soccer_epl",
+        "name": "Chelsea",
+        "shortName": "Chelsea",
+        "abbreviation": "CHE"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-hull-city",
+        "leagueId": "soccer_epl",
+        "name": "Hull City",
+        "shortName": "City",
+        "abbreviation": "HC"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-chelsea",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-hull-city",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5163190733dcaaea80474e43cbe20a51"
+      }
+    },
+    {
+      "id": "14f6639178a943ac614c7b872bf6e4d6",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-crystal-palace",
+        "leagueId": "soccer_epl",
+        "name": "Crystal Palace",
+        "shortName": "Palace",
+        "abbreviation": "CP"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-ipswich-town",
+        "leagueId": "soccer_epl",
+        "name": "Ipswich Town",
+        "shortName": "Town",
+        "abbreviation": "IT"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-crystal-palace",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-ipswich-town",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "14f6639178a943ac614c7b872bf6e4d6"
+      }
+    },
+    {
+      "id": "63da4075a4ae406575fd3086b839fe49",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-liverpool",
+        "leagueId": "soccer_epl",
+        "name": "Liverpool",
+        "shortName": "Liverpool",
+        "abbreviation": "LIV"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-fulham",
+        "leagueId": "soccer_epl",
+        "name": "Fulham",
+        "shortName": "Fulham",
+        "abbreviation": "FUL"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-liverpool",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-fulham",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "63da4075a4ae406575fd3086b839fe49"
+      }
+    },
+    {
+      "id": "cbbc88759fe3e2f1677a0c6ee40955af",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T16:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-tottenham-hotspur",
+        "leagueId": "soccer_epl",
+        "name": "Tottenham Hotspur",
+        "shortName": "Hotspur",
+        "abbreviation": "TH"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-everton",
+        "leagueId": "soccer_epl",
+        "name": "Everton",
+        "shortName": "Everton",
+        "abbreviation": "EVE"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-tottenham-hotspur",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-everton",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cbbc88759fe3e2f1677a0c6ee40955af"
+      }
+    },
+    {
+      "id": "082f74fe6a8bc5826555b76e9e114dab",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-12T19:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-sunderland",
+        "leagueId": "soccer_epl",
+        "name": "Sunderland",
+        "shortName": "Sunderland",
+        "abbreviation": "SUN"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-arsenal",
+        "leagueId": "soccer_epl",
+        "name": "Arsenal",
+        "shortName": "Arsenal",
+        "abbreviation": "ARS"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-sunderland",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-arsenal",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "082f74fe6a8bc5826555b76e9e114dab"
+      }
+    },
+    {
+      "id": "c97a93b915115f2b4659fb88262b71f8",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-13T13:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-coventry-city",
+        "leagueId": "soccer_epl",
+        "name": "Coventry City",
+        "shortName": "City",
+        "abbreviation": "CC"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-brighton-and-hove-albion",
+        "leagueId": "soccer_epl",
+        "name": "Brighton and Hove Albion",
+        "shortName": "Albion",
+        "abbreviation": "BAH"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-coventry-city",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-brighton-and-hove-albion",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c97a93b915115f2b4659fb88262b71f8"
+      }
+    },
+    {
+      "id": "e40d0fb44319f7bd0ebe1ffbc61fa661",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-13T15:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-manchester-united",
+        "leagueId": "soccer_epl",
+        "name": "Manchester United",
+        "shortName": "United",
+        "abbreviation": "MU"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-manchester-city",
+        "leagueId": "soccer_epl",
+        "name": "Manchester City",
+        "shortName": "City",
+        "abbreviation": "MC"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-manchester-united",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-manchester-city",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e40d0fb44319f7bd0ebe1ffbc61fa661"
+      }
+    },
+    {
+      "id": "b7a2cad26d908a943a27340b4b607068",
+      "leagueId": "soccer_epl",
+      "startTime": "2026-09-14T19:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "soccer_epl-leeds-united",
+        "leagueId": "soccer_epl",
+        "name": "Leeds United",
+        "shortName": "United",
+        "abbreviation": "LU"
+      },
+      "awayTeam": {
+        "id": "soccer_epl-newcastle-united",
+        "leagueId": "soccer_epl",
+        "name": "Newcastle United",
+        "shortName": "United",
+        "abbreviation": "NU"
+      },
+      "homeScore": {
+        "teamId": "soccer_epl-leeds-united",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "soccer_epl-newcastle-united",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b7a2cad26d908a943a27340b4b607068"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-08-18T10:49:17.097Z",
-  "staleAt": "2026-08-19T16:49:17.097Z",
+  "fetchedAt": "2026-09-01T14:56:41.388Z",
+  "staleAt": "2026-09-02T20:56:41.389Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
