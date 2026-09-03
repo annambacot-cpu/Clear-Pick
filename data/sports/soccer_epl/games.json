@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "5759167055d94ba38e145ab92188abbf",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-30T15:30:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-manchester-united",
-        "leagueId": "soccer_epl",
-        "name": "Manchester United",
-        "shortName": "United",
-        "abbreviation": "MU"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-ipswich-town",
-        "leagueId": "soccer_epl",
-        "name": "Ipswich Town",
-        "shortName": "Town",
-        "abbreviation": "IT"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-manchester-united",
-        "total": 5
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-ipswich-town",
-        "total": 2
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5759167055d94ba38e145ab92188abbf"
-      }
-    },
-    {
       "id": "2c49e9d1ef855f62962b915e773f906d",
       "leagueId": "soccer_epl",
       "startTime": "2026-08-31T19:00:00Z",
@@ -709,8 +676,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-02T14:32:28.211Z",
-  "staleAt": "2026-09-03T20:32:28.211Z",
+  "fetchedAt": "2026-09-03T14:36:56.792Z",
+  "staleAt": "2026-09-04T20:36:56.792Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
