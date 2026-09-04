@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "2c49e9d1ef855f62962b915e773f906d",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-08-31T19:00:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-aston-villa",
-        "leagueId": "soccer_epl",
-        "name": "Aston Villa",
-        "shortName": "Villa",
-        "abbreviation": "AV"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-arsenal",
-        "leagueId": "soccer_epl",
-        "name": "Arsenal",
-        "shortName": "Arsenal",
-        "abbreviation": "ARS"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-aston-villa",
-        "total": 0
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-arsenal",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2c49e9d1ef855f62962b915e773f906d"
-      }
-    },
-    {
       "id": "625c096fabb6047cbeb082dab9affce4",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-04T19:00:00Z",
@@ -676,8 +643,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-03T14:36:56.792Z",
-  "staleAt": "2026-09-04T20:36:56.792Z",
+  "fetchedAt": "2026-09-04T14:23:53.745Z",
+  "staleAt": "2026-09-05T20:23:53.745Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
