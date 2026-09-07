@@ -268,7 +268,8 @@
       "id": "8ea6c863f1852654399073b518b0a1f8",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-06T13:00:00Z",
-      "status": "live",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-everton",
         "leagueId": "soccer_epl",
@@ -285,11 +286,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-everton",
-        "total": 0
+        "total": 2
       },
       "awayScore": {
         "teamId": "soccer_epl-manchester-united",
-        "total": 0
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -300,7 +301,8 @@
       "id": "78d4dfda8c2dc27bdc3ec26c2654f8fc",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-06T15:30:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-arsenal",
         "leagueId": "soccer_epl",
@@ -317,11 +319,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-arsenal",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "soccer_epl-chelsea",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -971,8 +973,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-06T13:42:21.093Z",
-  "staleAt": "2026-09-07T19:42:21.093Z",
+  "fetchedAt": "2026-09-07T15:54:06.500Z",
+  "staleAt": "2026-09-08T21:54:06.501Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
