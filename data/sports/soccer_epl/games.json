@@ -1,72 +1,6 @@
 {
   "data": [
     {
-      "id": "21fd24ad6732df00774304a046d84fe9",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-09-05T16:30:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-hull-city",
-        "leagueId": "soccer_epl",
-        "name": "Hull City",
-        "shortName": "City",
-        "abbreviation": "HC"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-aston-villa",
-        "leagueId": "soccer_epl",
-        "name": "Aston Villa",
-        "shortName": "Villa",
-        "abbreviation": "AV"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-hull-city",
-        "total": 0
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-aston-villa",
-        "total": 0
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "21fd24ad6732df00774304a046d84fe9"
-      }
-    },
-    {
-      "id": "8ea6c863f1852654399073b518b0a1f8",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-09-06T13:00:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-everton",
-        "leagueId": "soccer_epl",
-        "name": "Everton",
-        "shortName": "Everton",
-        "abbreviation": "EVE"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-manchester-united",
-        "leagueId": "soccer_epl",
-        "name": "Manchester United",
-        "shortName": "United",
-        "abbreviation": "MU"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-everton",
-        "total": 2
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-manchester-united",
-        "total": 2
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8ea6c863f1852654399073b518b0a1f8"
-      }
-    },
-    {
       "id": "78d4dfda8c2dc27bdc3ec26c2654f8fc",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-06T15:30:00Z",
@@ -742,8 +676,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-08T14:36:27.909Z",
-  "staleAt": "2026-09-09T20:36:27.909Z",
+  "fetchedAt": "2026-09-09T14:39:02.551Z",
+  "staleAt": "2026-09-10T20:39:02.551Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
