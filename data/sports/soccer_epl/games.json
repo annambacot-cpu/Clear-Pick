@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "78d4dfda8c2dc27bdc3ec26c2654f8fc",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-09-06T15:30:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-arsenal",
-        "leagueId": "soccer_epl",
-        "name": "Arsenal",
-        "shortName": "Arsenal",
-        "abbreviation": "ARS"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-chelsea",
-        "leagueId": "soccer_epl",
-        "name": "Chelsea",
-        "shortName": "Chelsea",
-        "abbreviation": "CHE"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-arsenal",
-        "total": 2
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-chelsea",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "78d4dfda8c2dc27bdc3ec26c2654f8fc"
-      }
-    },
-    {
       "id": "d09677edcf1fb82ad75a8df58bb26eab",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-12T14:00:00Z",
@@ -676,8 +643,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-09T14:39:02.551Z",
-  "staleAt": "2026-09-10T20:39:02.551Z",
+  "fetchedAt": "2026-09-10T14:29:25.895Z",
+  "staleAt": "2026-09-11T20:29:25.895Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
