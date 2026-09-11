@@ -36,8 +36,9 @@
     {
       "id": "acc580d74344ea3b31bbcdd057fe6a9c",
       "leagueId": "nfl",
-      "startTime": "2026-09-11T00:35:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-11T00:37:25Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-los-angeles-rams",
         "leagueId": "nfl",
@@ -54,11 +55,11 @@
       },
       "homeScore": {
         "teamId": "nfl-los-angeles-rams",
-        "total": null
+        "total": 7
       },
       "awayScore": {
         "teamId": "nfl-san-francisco-49ers",
-        "total": null
+        "total": 27
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -738,6 +739,38 @@
       }
     },
     {
+      "id": "9d14f87600f6edc74dbcb5c74edf6246",
+      "leagueId": "nfl",
+      "startTime": "2026-09-20T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-new-england-patriots",
+        "leagueId": "nfl",
+        "name": "New England Patriots",
+        "shortName": "Patriots",
+        "abbreviation": "NEP"
+      },
+      "awayTeam": {
+        "id": "nfl-pittsburgh-steelers",
+        "leagueId": "nfl",
+        "name": "Pittsburgh Steelers",
+        "shortName": "Steelers",
+        "abbreviation": "PS"
+      },
+      "homeScore": {
+        "teamId": "nfl-new-england-patriots",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-pittsburgh-steelers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9d14f87600f6edc74dbcb5c74edf6246"
+      }
+    },
+    {
       "id": "fafc649c455e32a0f2ba1bd06e2039bc",
       "leagueId": "nfl",
       "startTime": "2026-09-20T17:00:00Z",
@@ -866,38 +899,6 @@
       }
     },
     {
-      "id": "68bc55903f50af4af4766adcc89fcc61",
-      "leagueId": "nfl",
-      "startTime": "2026-09-20T20:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-miami-dolphins",
-        "leagueId": "nfl",
-        "name": "Miami Dolphins",
-        "shortName": "Dolphins",
-        "abbreviation": "MD"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-miami-dolphins",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "68bc55903f50af4af4766adcc89fcc61"
-      }
-    },
-    {
       "id": "50bc247030707d823b9c3581d7eb5760",
       "leagueId": "nfl",
       "startTime": "2026-09-21T00:20:00Z",
@@ -927,38 +928,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "50bc247030707d823b9c3581d7eb5760"
-      }
-    },
-    {
-      "id": "32367f882fac1a0c20a6335619922025",
-      "leagueId": "nfl",
-      "startTime": "2026-09-22T00:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-new-york-giants",
-        "leagueId": "nfl",
-        "name": "New York Giants",
-        "shortName": "Giants",
-        "abbreviation": "NYG"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-new-york-giants",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "32367f882fac1a0c20a6335619922025"
       }
     },
     {
@@ -1218,38 +1187,6 @@
       }
     },
     {
-      "id": "9d2b09e0f9b6dd5ce0d985894f4f98fa",
-      "leagueId": "nfl",
-      "startTime": "2026-09-27T20:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-arizona-cardinals",
-        "leagueId": "nfl",
-        "name": "Arizona Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "AC"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-arizona-cardinals",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9d2b09e0f9b6dd5ce0d985894f4f98fa"
-      }
-    },
-    {
       "id": "f1724dead3eab61546033032fc782375",
       "leagueId": "nfl",
       "startTime": "2026-09-27T20:05:00Z",
@@ -1343,38 +1280,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2e523fcb0497aa689473e290eb2b97de"
-      }
-    },
-    {
-      "id": "3bfd8bfb4b8e9a365a0877879b73b16b",
-      "leagueId": "nfl",
-      "startTime": "2026-09-28T00:20:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-denver-broncos",
-        "leagueId": "nfl",
-        "name": "Denver Broncos",
-        "shortName": "Broncos",
-        "abbreviation": "DB"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-denver-broncos",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3bfd8bfb4b8e9a365a0877879b73b16b"
       }
     },
     {
@@ -1666,38 +1571,6 @@
       }
     },
     {
-      "id": "1b4f2e60ce83fa1d63a5dff83769d27c",
-      "leagueId": "nfl",
-      "startTime": "2026-10-04T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1b4f2e60ce83fa1d63a5dff83769d27c"
-      }
-    },
-    {
       "id": "c327223d76a3b7b0db8c6c104442f44b",
       "leagueId": "nfl",
       "startTime": "2026-10-04T20:05:00Z",
@@ -1727,38 +1600,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c327223d76a3b7b0db8c6c104442f44b"
-      }
-    },
-    {
-      "id": "a7e7efb75a9792ac63480ae6328dca18",
-      "leagueId": "nfl",
-      "startTime": "2026-10-04T20:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-denver-broncos",
-        "leagueId": "nfl",
-        "name": "Denver Broncos",
-        "shortName": "Broncos",
-        "abbreviation": "DB"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-denver-broncos",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a7e7efb75a9792ac63480ae6328dca18"
       }
     },
     {
@@ -2242,38 +2083,6 @@
       }
     },
     {
-      "id": "e6d00eedd87d367e510314bd8cab8f6f",
-      "leagueId": "nfl",
-      "startTime": "2026-10-13T00:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-buffalo-bills",
-        "leagueId": "nfl",
-        "name": "Buffalo Bills",
-        "shortName": "Bills",
-        "abbreviation": "BB"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-buffalo-bills",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e6d00eedd87d367e510314bd8cab8f6f"
-      }
-    },
-    {
       "id": "57418b2cf5aca558b3c98eafac1e264a",
       "leagueId": "nfl",
       "startTime": "2026-10-18T13:30:00Z",
@@ -2498,38 +2307,6 @@
       }
     },
     {
-      "id": "3729ac6d2a66b642850caf2044cdc658",
-      "leagueId": "nfl",
-      "startTime": "2026-10-18T20:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-arizona-cardinals",
-        "leagueId": "nfl",
-        "name": "Arizona Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "AC"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-arizona-cardinals",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3729ac6d2a66b642850caf2044cdc658"
-      }
-    },
-    {
       "id": "45b2690b350ed45145c7a716b18e8e66",
       "leagueId": "nfl",
       "startTime": "2026-10-18T20:25:00Z",
@@ -2626,38 +2403,6 @@
       }
     },
     {
-      "id": "f122527f003276d3bca19efa48c902c1",
-      "leagueId": "nfl",
-      "startTime": "2026-10-20T00:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-washington-commanders",
-        "leagueId": "nfl",
-        "name": "Washington Commanders",
-        "shortName": "Commanders",
-        "abbreviation": "WC"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-washington-commanders",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f122527f003276d3bca19efa48c902c1"
-      }
-    },
-    {
       "id": "2e710ea5a306b614f0f966e3d78732f8",
       "leagueId": "nfl",
       "startTime": "2026-10-25T13:30:00Z",
@@ -2687,38 +2432,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2e710ea5a306b614f0f966e3d78732f8"
-      }
-    },
-    {
-      "id": "b1be064fb52a198a62109c279e7ab24c",
-      "leagueId": "nfl",
-      "startTime": "2026-10-25T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-atlanta-falcons",
-        "leagueId": "nfl",
-        "name": "Atlanta Falcons",
-        "shortName": "Falcons",
-        "abbreviation": "AF"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-atlanta-falcons",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b1be064fb52a198a62109c279e7ab24c"
       }
     },
     {
@@ -2975,38 +2688,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e8e5715eefb6a9ce64765e9ddf49c0cc"
-      }
-    },
-    {
-      "id": "f7679cf18454e4d88a8f2b990c3f08ac",
-      "leagueId": "nfl",
-      "startTime": "2026-10-25T20:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-las-vegas-raiders",
-        "leagueId": "nfl",
-        "name": "Las Vegas Raiders",
-        "shortName": "Raiders",
-        "abbreviation": "LVR"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-las-vegas-raiders",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f7679cf18454e4d88a8f2b990c3f08ac"
       }
     },
     {
@@ -3330,38 +3011,6 @@
       }
     },
     {
-      "id": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
-      "leagueId": "nfl",
-      "startTime": "2026-11-01T21:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-chargers",
-        "leagueId": "nfl",
-        "name": "Los Angeles Chargers",
-        "shortName": "Chargers",
-        "abbreviation": "LAC"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-chargers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2ff84d3f6053d083c8c0a5bebf7cdd4c"
-      }
-    },
-    {
       "id": "f2a036d5edf483a277880014861e78ad",
       "leagueId": "nfl",
       "startTime": "2026-11-01T21:25:00Z",
@@ -3650,38 +3299,6 @@
       }
     },
     {
-      "id": "89de07377e0aa8ffaa2ae6a7dc0855cc",
-      "leagueId": "nfl",
-      "startTime": "2026-11-08T18:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-washington-commanders",
-        "leagueId": "nfl",
-        "name": "Washington Commanders",
-        "shortName": "Commanders",
-        "abbreviation": "WC"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-washington-commanders",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "89de07377e0aa8ffaa2ae6a7dc0855cc"
-      }
-    },
-    {
       "id": "fe93e6ab1e553c0169936a0a983c324f",
       "leagueId": "nfl",
       "startTime": "2026-11-08T18:00:00Z",
@@ -3743,38 +3360,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "39aeac43cea7b12558b91cdab1255a10"
-      }
-    },
-    {
-      "id": "ac9d38a18d5c92814233a31aa9a48d78",
-      "leagueId": "nfl",
-      "startTime": "2026-11-08T21:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-las-vegas-raiders",
-        "leagueId": "nfl",
-        "name": "Las Vegas Raiders",
-        "shortName": "Raiders",
-        "abbreviation": "LVR"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-las-vegas-raiders",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ac9d38a18d5c92814233a31aa9a48d78"
       }
     },
     {
@@ -4095,70 +3680,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "28800df7e768ecec14f116454d560f9b"
-      }
-    },
-    {
-      "id": "6c932a965110f3f89ec4a5f1a6ac256e",
-      "leagueId": "nfl",
-      "startTime": "2026-11-15T21:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-arizona-cardinals",
-        "leagueId": "nfl",
-        "name": "Arizona Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "AC"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-arizona-cardinals",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6c932a965110f3f89ec4a5f1a6ac256e"
-      }
-    },
-    {
-      "id": "7627192fd89b05120ab6c712aa23fd81",
-      "leagueId": "nfl",
-      "startTime": "2026-11-15T21:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-dallas-cowboys",
-        "leagueId": "nfl",
-        "name": "Dallas Cowboys",
-        "shortName": "Cowboys",
-        "abbreviation": "DC"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-dallas-cowboys",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7627192fd89b05120ab6c712aa23fd81"
       }
     },
     {
@@ -4578,38 +4099,6 @@
       }
     },
     {
-      "id": "60e1d27b083a335b722c2c852ea85612",
-      "leagueId": "nfl",
-      "startTime": "2026-11-23T01:20:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-minnesota-vikings",
-        "leagueId": "nfl",
-        "name": "Minnesota Vikings",
-        "shortName": "Vikings",
-        "abbreviation": "MV"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-minnesota-vikings",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "60e1d27b083a335b722c2c852ea85612"
-      }
-    },
-    {
       "id": "3a60ed1d20004aa4d4772b2c1a2272e7",
       "leagueId": "nfl",
       "startTime": "2026-11-24T01:15:00Z",
@@ -4639,38 +4128,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3a60ed1d20004aa4d4772b2c1a2272e7"
-      }
-    },
-    {
-      "id": "5b612899d6dcdf998107f2c6c6e49a58",
-      "leagueId": "nfl",
-      "startTime": "2026-11-26T01:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-green-bay-packers",
-        "leagueId": "nfl",
-        "name": "Green Bay Packers",
-        "shortName": "Packers",
-        "abbreviation": "GBP"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-green-bay-packers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5b612899d6dcdf998107f2c6c6e49a58"
       }
     },
     {
@@ -5090,38 +4547,6 @@
       }
     },
     {
-      "id": "06e52a676b516186989e3b181a37c8a7",
-      "leagueId": "nfl",
-      "startTime": "2026-12-04T01:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-kansas-city-chiefs",
-        "leagueId": "nfl",
-        "name": "Kansas City Chiefs",
-        "shortName": "Chiefs",
-        "abbreviation": "KCC"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-kansas-city-chiefs",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "06e52a676b516186989e3b181a37c8a7"
-      }
-    },
-    {
       "id": "c94419ba8fb818fc36a5b21b526aab75",
       "leagueId": "nfl",
       "startTime": "2026-12-06T18:00:00Z",
@@ -5311,38 +4736,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f8a92363386bd337975650879086cca6"
-      }
-    },
-    {
-      "id": "a5495c3360b3bb13da76ba23a675c9ef",
-      "leagueId": "nfl",
-      "startTime": "2026-12-06T18:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-new-york-giants",
-        "leagueId": "nfl",
-        "name": "New York Giants",
-        "shortName": "Giants",
-        "abbreviation": "NYG"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-new-york-giants",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a5495c3360b3bb13da76ba23a675c9ef"
       }
     },
     {
@@ -5794,38 +5187,6 @@
       }
     },
     {
-      "id": "6174916c7e2df8d1b80a88cfbd259d44",
-      "leagueId": "nfl",
-      "startTime": "2026-12-13T21:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6174916c7e2df8d1b80a88cfbd259d44"
-      }
-    },
-    {
       "id": "c4877c048defcb80e0ab37c0688f37f6",
       "leagueId": "nfl",
       "startTime": "2026-12-14T01:20:00Z",
@@ -5887,38 +5248,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "690e2ee2ed5f0875f7cbaecdc51373f5"
-      }
-    },
-    {
-      "id": "790af233087803c297861901ffa271d7",
-      "leagueId": "nfl",
-      "startTime": "2026-12-18T01:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-chargers",
-        "leagueId": "nfl",
-        "name": "Los Angeles Chargers",
-        "shortName": "Chargers",
-        "abbreviation": "LAC"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-chargers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "790af233087803c297861901ffa271d7"
       }
     },
     {
@@ -6239,38 +5568,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d8cd12e7684fa2aa39f5b188ef6e62e0"
-      }
-    },
-    {
-      "id": "77396e9d565860fbfd05779028223a8a",
-      "leagueId": "nfl",
-      "startTime": "2026-12-20T21:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-dallas-cowboys",
-        "leagueId": "nfl",
-        "name": "Dallas Cowboys",
-        "shortName": "Cowboys",
-        "abbreviation": "DC"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-dallas-cowboys",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "77396e9d565860fbfd05779028223a8a"
       }
     },
     {
@@ -6690,38 +5987,6 @@
       }
     },
     {
-      "id": "fc7cce3ae7c73cc7151357829e11b6d5",
-      "leagueId": "nfl",
-      "startTime": "2026-12-27T21:25:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-kansas-city-chiefs",
-        "leagueId": "nfl",
-        "name": "Kansas City Chiefs",
-        "shortName": "Chiefs",
-        "abbreviation": "KCC"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-kansas-city-chiefs",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fc7cce3ae7c73cc7151357829e11b6d5"
-      }
-    },
-    {
       "id": "b1c4ec04c3398a9efa25492000858384",
       "leagueId": "nfl",
       "startTime": "2026-12-28T01:20:00Z",
@@ -6978,38 +6243,6 @@
       }
     },
     {
-      "id": "419106b9bcc9f7ef39cfc2d1ee9a3f87",
-      "leagueId": "nfl",
-      "startTime": "2027-01-03T18:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-tampa-bay-buccaneers",
-        "leagueId": "nfl",
-        "name": "Tampa Bay Buccaneers",
-        "shortName": "Buccaneers",
-        "abbreviation": "TBB"
-      },
-      "awayTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "homeScore": {
-        "teamId": "nfl-tampa-bay-buccaneers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "419106b9bcc9f7ef39cfc2d1ee9a3f87"
-      }
-    },
-    {
       "id": "bfe51fa0034c9d22a69ffd80e2d717f5",
       "leagueId": "nfl",
       "startTime": "2027-01-03T18:00:00Z",
@@ -7167,38 +6400,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "67d842cb73300ef923959105698b63bb"
-      }
-    },
-    {
-      "id": "e7820b1226edbb1ef1fddce6b20f963d",
-      "leagueId": "nfl",
-      "startTime": "2027-01-04T01:20:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "awayTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "homeScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e7820b1226edbb1ef1fddce6b20f963d"
       }
     },
     {
@@ -7648,44 +6849,12 @@
         "provider": "the-odds-api",
         "externalId": "01baed6f9d6482c5d89d37379c7c63c7"
       }
-    },
-    {
-      "id": "f1480276ab67dcf60686556ba9336695",
-      "leagueId": "nfl",
-      "startTime": "2027-01-10T21:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-arizona-cardinals",
-        "leagueId": "nfl",
-        "name": "Arizona Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "AC"
-      },
-      "awayTeam": {
-        "id": "nfl-san-francisco-49ers",
-        "leagueId": "nfl",
-        "name": "San Francisco 49ers",
-        "shortName": "49ers",
-        "abbreviation": "SF4"
-      },
-      "homeScore": {
-        "teamId": "nfl-arizona-cardinals",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-san-francisco-49ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f1480276ab67dcf60686556ba9336695"
-      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-10T14:29:25.895Z",
-  "staleAt": "2026-09-11T20:29:25.895Z",
+  "fetchedAt": "2026-09-11T14:28:35.747Z",
+  "staleAt": "2026-09-12T20:28:35.747Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
