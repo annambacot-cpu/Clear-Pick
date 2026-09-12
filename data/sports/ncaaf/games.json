@@ -36,8 +36,9 @@
     {
       "id": "340ecb016288a69dfc2227500f14bc46",
       "leagueId": "ncaaf",
-      "startTime": "2026-09-11T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-11T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-louisville-cardinals",
         "leagueId": "ncaaf",
@@ -54,11 +55,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-louisville-cardinals",
-        "total": null
+        "total": 59
       },
       "awayScore": {
         "teamId": "ncaaf-villanova-wildcats",
-        "total": null
+        "total": 13
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -68,8 +69,9 @@
     {
       "id": "b008dac7f2b726219adf07d9857e2c66",
       "leagueId": "ncaaf",
-      "startTime": "2026-09-11T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-11T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-nc-state-wolfpack",
         "leagueId": "ncaaf",
@@ -86,11 +88,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-nc-state-wolfpack",
-        "total": null
+        "total": 73
       },
       "awayScore": {
         "teamId": "ncaaf-richmond-spiders",
-        "total": null
+        "total": 0
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -100,8 +102,9 @@
     {
       "id": "d70ad98172b9cd2090eb75ff32866e04",
       "leagueId": "ncaaf",
-      "startTime": "2026-09-11T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-11T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-virginia-cavaliers",
         "leagueId": "ncaaf",
@@ -118,11 +121,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-virginia-cavaliers",
-        "total": null
+        "total": 59
       },
       "awayScore": {
         "teamId": "ncaaf-norfolk-state-spartans",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -132,8 +135,9 @@
     {
       "id": "db698f29983406d35dea606edfdc5922",
       "leagueId": "ncaaf",
-      "startTime": "2026-09-11T23:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-11T23:41:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-boston-college-eagles",
         "leagueId": "ncaaf",
@@ -150,11 +154,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-boston-college-eagles",
-        "total": null
+        "total": 28
       },
       "awayScore": {
         "teamId": "ncaaf-rutgers-scarlet-knights",
-        "total": null
+        "total": 21
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -164,8 +168,9 @@
     {
       "id": "912c15dcb8dd09eacabdcb80673d9d72",
       "leagueId": "ncaaf",
-      "startTime": "2026-09-12T00:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-12T00:09:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-kansas-jayhawks",
         "leagueId": "ncaaf",
@@ -182,11 +187,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-kansas-jayhawks",
-        "total": null
+        "total": 21
       },
       "awayScore": {
         "teamId": "ncaaf-missouri-tigers",
-        "total": null
+        "total": 38
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -383,6 +388,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a50cf094d107e92ff579fba17969676c"
+      }
+    },
+    {
+      "id": "e2280b63997737273801521da2ded119",
+      "leagueId": "ncaaf",
+      "startTime": "2026-09-12T16:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-james-madison-dukes",
+        "leagueId": "ncaaf",
+        "name": "James Madison Dukes",
+        "shortName": "Dukes",
+        "abbreviation": "JMD"
+      },
+      "awayTeam": {
+        "id": "ncaaf-wagner-seahawks",
+        "leagueId": "ncaaf",
+        "name": "Wagner Seahawks",
+        "shortName": "Seahawks",
+        "abbreviation": "WS"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-james-madison-dukes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-wagner-seahawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e2280b63997737273801521da2ded119"
       }
     },
     {
@@ -1023,38 +1060,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "db05b8a09b0efd8546a13a2cb5e457fc"
-      }
-    },
-    {
-      "id": "e2280b63997737273801521da2ded119",
-      "leagueId": "ncaaf",
-      "startTime": "2026-09-12T19:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-james-madison-dukes",
-        "leagueId": "ncaaf",
-        "name": "James Madison Dukes",
-        "shortName": "Dukes",
-        "abbreviation": "JMD"
-      },
-      "awayTeam": {
-        "id": "ncaaf-wagner-seahawks",
-        "leagueId": "ncaaf",
-        "name": "Wagner Seahawks",
-        "shortName": "Seahawks",
-        "abbreviation": "WS"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-james-madison-dukes",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-wagner-seahawks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e2280b63997737273801521da2ded119"
       }
     },
     {
@@ -3175,25 +3180,25 @@
       "startTime": "2026-09-19T23:30:00Z",
       "status": "scheduled",
       "homeTeam": {
-        "id": "ncaaf-west-virginia-mountaineers",
-        "leagueId": "ncaaf",
-        "name": "West Virginia Mountaineers",
-        "shortName": "Mountaineers",
-        "abbreviation": "WVM"
-      },
-      "awayTeam": {
         "id": "ncaaf-virginia-cavaliers",
         "leagueId": "ncaaf",
         "name": "Virginia Cavaliers",
         "shortName": "Cavaliers",
         "abbreviation": "VC"
       },
+      "awayTeam": {
+        "id": "ncaaf-west-virginia-mountaineers",
+        "leagueId": "ncaaf",
+        "name": "West Virginia Mountaineers",
+        "shortName": "Mountaineers",
+        "abbreviation": "WVM"
+      },
       "homeScore": {
-        "teamId": "ncaaf-west-virginia-mountaineers",
+        "teamId": "ncaaf-virginia-cavaliers",
         "total": null
       },
       "awayScore": {
-        "teamId": "ncaaf-virginia-cavaliers",
+        "teamId": "ncaaf-west-virginia-mountaineers",
         "total": null
       },
       "providerRef": {
@@ -3236,8 +3241,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-11T14:28:35.747Z",
-  "staleAt": "2026-09-12T20:28:35.747Z",
+  "fetchedAt": "2026-09-12T13:37:42.892Z",
+  "staleAt": "2026-09-13T19:37:42.892Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
