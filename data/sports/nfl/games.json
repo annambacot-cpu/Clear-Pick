@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "8c94552d022acec4a0458d70c19d3da9",
-      "leagueId": "nfl",
-      "startTime": "2026-09-10T00:23:22Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-seattle-seahawks",
-        "leagueId": "nfl",
-        "name": "Seattle Seahawks",
-        "shortName": "Seahawks",
-        "abbreviation": "SS"
-      },
-      "awayTeam": {
-        "id": "nfl-new-england-patriots",
-        "leagueId": "nfl",
-        "name": "New England Patriots",
-        "shortName": "Patriots",
-        "abbreviation": "NEP"
-      },
-      "homeScore": {
-        "teamId": "nfl-seattle-seahawks",
-        "total": 13
-      },
-      "awayScore": {
-        "teamId": "nfl-new-england-patriots",
-        "total": 10
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8c94552d022acec4a0458d70c19d3da9"
-      }
-    },
-    {
       "id": "acc580d74344ea3b31bbcdd057fe6a9c",
       "leagueId": "nfl",
       "startTime": "2026-09-11T00:37:25Z",
@@ -6853,8 +6820,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-12T13:37:42.892Z",
-  "staleAt": "2026-09-13T19:37:42.892Z",
+  "fetchedAt": "2026-09-13T14:26:57.822Z",
+  "staleAt": "2026-09-14T20:26:57.822Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
