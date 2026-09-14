@@ -235,7 +235,8 @@
       "id": "c97a93b915115f2b4659fb88262b71f8",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-13T13:00:00Z",
-      "status": "live",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-coventry-city",
         "leagueId": "soccer_epl",
@@ -256,7 +257,7 @@
       },
       "awayScore": {
         "teamId": "soccer_epl-brighton-and-hove-albion",
-        "total": 2
+        "total": 5
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -267,7 +268,8 @@
       "id": "e40d0fb44319f7bd0ebe1ffbc61fa661",
       "leagueId": "soccer_epl",
       "startTime": "2026-09-13T15:30:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-manchester-united",
         "leagueId": "soccer_epl",
@@ -284,11 +286,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-manchester-united",
-        "total": null
+        "total": 0
       },
       "awayScore": {
         "teamId": "soccer_epl-manchester-city",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -970,8 +972,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-13T14:26:57.822Z",
-  "staleAt": "2026-09-14T20:26:57.822Z",
+  "fetchedAt": "2026-09-14T16:23:45.846Z",
+  "staleAt": "2026-09-15T22:23:45.846Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
