@@ -432,8 +432,9 @@
     {
       "id": "5ad8135dc2b5f27de0b777acd317855a",
       "leagueId": "nfl",
-      "startTime": "2026-09-15T00:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-09-15T00:16:13Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-kansas-city-chiefs",
         "leagueId": "nfl",
@@ -450,11 +451,11 @@
       },
       "homeScore": {
         "teamId": "nfl-kansas-city-chiefs",
-        "total": null
+        "total": 31
       },
       "awayScore": {
         "teamId": "nfl-denver-broncos",
-        "total": null
+        "total": 10
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -976,8 +977,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-14T16:23:45.846Z",
-  "staleAt": "2026-09-15T22:23:45.846Z",
+  "fetchedAt": "2026-09-15T15:03:26.545Z",
+  "staleAt": "2026-09-16T21:03:26.546Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

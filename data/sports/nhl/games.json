@@ -161,6 +161,38 @@
       }
     },
     {
+      "id": "86ec2098c2ac5801e32fbde493581558",
+      "leagueId": "nhl",
+      "startTime": "2026-09-30T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-toronto-maple-leafs",
+        "leagueId": "nhl",
+        "name": "Toronto Maple Leafs",
+        "shortName": "Leafs",
+        "abbreviation": "TML"
+      },
+      "awayTeam": {
+        "id": "nhl-new-york-islanders",
+        "leagueId": "nhl",
+        "name": "New York Islanders",
+        "shortName": "Islanders",
+        "abbreviation": "NYI"
+      },
+      "homeScore": {
+        "teamId": "nhl-toronto-maple-leafs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-new-york-islanders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "86ec2098c2ac5801e32fbde493581558"
+      }
+    },
+    {
       "id": "255dd8cc841121349fe98f49791da840",
       "leagueId": "nhl",
       "startTime": "2026-09-30T23:40:00Z",
@@ -1027,8 +1059,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-14T16:23:45.846Z",
-  "staleAt": "2026-09-15T22:23:45.846Z",
+  "fetchedAt": "2026-09-15T15:03:26.545Z",
+  "staleAt": "2026-09-16T21:03:26.546Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
