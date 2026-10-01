@@ -641,6 +641,38 @@
       }
     },
     {
+      "id": "a0f5d89a4fc51e52edd0e70d1e4cbaf2",
+      "leagueId": "nba",
+      "startTime": "2026-10-30T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-toronto-raptors",
+        "leagueId": "nba",
+        "name": "Toronto Raptors",
+        "shortName": "Raptors",
+        "abbreviation": "TR"
+      },
+      "awayTeam": {
+        "id": "nba-orlando-magic",
+        "leagueId": "nba",
+        "name": "Orlando Magic",
+        "shortName": "Magic",
+        "abbreviation": "OM"
+      },
+      "homeScore": {
+        "teamId": "nba-toronto-raptors",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-orlando-magic",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a0f5d89a4fc51e52edd0e70d1e4cbaf2"
+      }
+    },
+    {
       "id": "b9778d0e3a26167eb49901dcae7eeb98",
       "leagueId": "nba",
       "startTime": "2026-10-31T00:10:00Z",
@@ -702,6 +734,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c3a424e24d426af94a693e06a33e3037"
+      }
+    },
+    {
+      "id": "cac1461f5983a88fac612685395aa897",
+      "leagueId": "nba",
+      "startTime": "2026-10-31T00:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-minnesota-timberwolves",
+        "leagueId": "nba",
+        "name": "Minnesota Timberwolves",
+        "shortName": "Timberwolves",
+        "abbreviation": "MT"
+      },
+      "awayTeam": {
+        "id": "nba-los-angeles-clippers",
+        "leagueId": "nba",
+        "name": "Los Angeles Clippers",
+        "shortName": "Clippers",
+        "abbreviation": "LAC"
+      },
+      "homeScore": {
+        "teamId": "nba-minnesota-timberwolves",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-los-angeles-clippers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cac1461f5983a88fac612685395aa897"
       }
     },
     {
@@ -894,6 +958,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1fae7f34ec6035dffa74feb148ee26c7"
+      }
+    },
+    {
+      "id": "9051693857c6a0e5e1bc6bb2b4f6fe35",
+      "leagueId": "nba",
+      "startTime": "2026-11-21T00:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-detroit-pistons",
+        "leagueId": "nba",
+        "name": "Detroit Pistons",
+        "shortName": "Pistons",
+        "abbreviation": "DP"
+      },
+      "awayTeam": {
+        "id": "nba-toronto-raptors",
+        "leagueId": "nba",
+        "name": "Toronto Raptors",
+        "shortName": "Raptors",
+        "abbreviation": "TR"
+      },
+      "homeScore": {
+        "teamId": "nba-detroit-pistons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-toronto-raptors",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9051693857c6a0e5e1bc6bb2b4f6fe35"
       }
     },
     {
@@ -1315,8 +1411,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-14T16:23:45.846Z",
-  "staleAt": "2026-09-15T22:23:45.846Z",
+  "fetchedAt": "2026-10-01T17:03:10.329Z",
+  "staleAt": "2026-10-02T23:03:10.329Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

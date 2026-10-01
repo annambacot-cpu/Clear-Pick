@@ -1,966 +1,6 @@
 {
   "data": [
     {
-      "id": "82d8b6a005d78bac0b1508abc17a7d39-fanduel-h2h",
-      "gameId": "82d8b6a005d78bac0b1508abc17a7d39",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-h2h-0",
-          "label": "Brentford",
-          "participantId": "soccer_epl-brentford",
-          "side": "home",
-          "americanOdds": 190
-        },
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-h2h-1",
-          "label": "Chelsea",
-          "participantId": "soccer_epl-chelsea",
-          "side": "away",
-          "americanOdds": 120
-        },
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 270
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "82d8b6a005d78bac0b1508abc17a7d39:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "82d8b6a005d78bac0b1508abc17a7d39-mybookie-ag-spreads",
-      "gameId": "82d8b6a005d78bac0b1508abc17a7d39",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-spreads-0",
-          "label": "Brentford",
-          "participantId": "soccer_epl-brentford",
-          "side": "home",
-          "line": 0.5,
-          "americanOdds": -165
-        },
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-spreads-1",
-          "label": "Chelsea",
-          "participantId": "soccer_epl-chelsea",
-          "side": "away",
-          "line": -0.5,
-          "americanOdds": 119
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "82d8b6a005d78bac0b1508abc17a7d39:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "82d8b6a005d78bac0b1508abc17a7d39-mybookie-ag-totals",
-      "gameId": "82d8b6a005d78bac0b1508abc17a7d39",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 3.5,
-          "americanOdds": 114
-        },
-        {
-          "id": "82d8b6a005d78bac0b1508abc17a7d39-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 3.5,
-          "americanOdds": -158
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "82d8b6a005d78bac0b1508abc17a7d39:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "d02ff636f652d5b5bb65f6b24330c4fe-fanduel-h2h",
-      "gameId": "d02ff636f652d5b5bb65f6b24330c4fe",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-h2h-0",
-          "label": "Aston Villa",
-          "participantId": "soccer_epl-aston-villa",
-          "side": "away",
-          "americanOdds": 260
-        },
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-h2h-1",
-          "label": "Tottenham Hotspur",
-          "participantId": "soccer_epl-tottenham-hotspur",
-          "side": "home",
-          "americanOdds": 100
-        },
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 250
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d02ff636f652d5b5bb65f6b24330c4fe:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "d02ff636f652d5b5bb65f6b24330c4fe-mybookie-ag-spreads",
-      "gameId": "d02ff636f652d5b5bb65f6b24330c4fe",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-spreads-0",
-          "label": "Aston Villa",
-          "participantId": "soccer_epl-aston-villa",
-          "side": "away",
-          "line": 0.5,
-          "americanOdds": -127
-        },
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-spreads-1",
-          "label": "Tottenham Hotspur",
-          "participantId": "soccer_epl-tottenham-hotspur",
-          "side": "home",
-          "line": -0.5,
-          "americanOdds": -109
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d02ff636f652d5b5bb65f6b24330c4fe:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "d02ff636f652d5b5bb65f6b24330c4fe-mybookie-ag-totals",
-      "gameId": "d02ff636f652d5b5bb65f6b24330c4fe",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -136
-        },
-        {
-          "id": "d02ff636f652d5b5bb65f6b24330c4fe-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": -102
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d02ff636f652d5b5bb65f6b24330c4fe:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "b5b058d0a95f9742548f789d1c564a78-mybookie-ag-h2h",
-      "gameId": "b5b058d0a95f9742548f789d1c564a78",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-h2h-0",
-          "label": "Arsenal",
-          "participantId": "soccer_epl-arsenal",
-          "side": "away",
-          "americanOdds": -143
-        },
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-h2h-1",
-          "label": "Brighton and Hove Albion",
-          "participantId": "soccer_epl-brighton-and-hove-albion",
-          "side": "home",
-          "americanOdds": 340
-        },
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 275
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b5b058d0a95f9742548f789d1c564a78:MyBookie.ag:h2h"
-      }
-    },
-    {
-      "id": "b5b058d0a95f9742548f789d1c564a78-mybookie-ag-spreads",
-      "gameId": "b5b058d0a95f9742548f789d1c564a78",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-spreads-0",
-          "label": "Arsenal",
-          "participantId": "soccer_epl-arsenal",
-          "side": "away",
-          "line": -0.5,
-          "americanOdds": -147
-        },
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-spreads-1",
-          "label": "Brighton and Hove Albion",
-          "participantId": "soccer_epl-brighton-and-hove-albion",
-          "side": "home",
-          "line": 0.5,
-          "americanOdds": 106
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b5b058d0a95f9742548f789d1c564a78:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "b5b058d0a95f9742548f789d1c564a78-mybookie-ag-totals",
-      "gameId": "b5b058d0a95f9742548f789d1c564a78",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -140
-        },
-        {
-          "id": "b5b058d0a95f9742548f789d1c564a78-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 101
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b5b058d0a95f9742548f789d1c564a78:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "88519a51012811476c9b4724eafc96c5-fanduel-h2h",
-      "gameId": "88519a51012811476c9b4724eafc96c5",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-h2h-0",
-          "label": "Everton",
-          "participantId": "soccer_epl-everton",
-          "side": "home",
-          "americanOdds": -140
-        },
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-h2h-1",
-          "label": "Ipswich Town",
-          "participantId": "soccer_epl-ipswich-town",
-          "side": "away",
-          "americanOdds": 340
-        },
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 270
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "88519a51012811476c9b4724eafc96c5:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "88519a51012811476c9b4724eafc96c5-mybookie-ag-spreads",
-      "gameId": "88519a51012811476c9b4724eafc96c5",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-spreads-0",
-          "label": "Everton",
-          "participantId": "soccer_epl-everton",
-          "side": "home",
-          "line": -0.5,
-          "americanOdds": -136
-        },
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-spreads-1",
-          "label": "Ipswich Town",
-          "participantId": "soccer_epl-ipswich-town",
-          "side": "away",
-          "line": 0.5,
-          "americanOdds": -101
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "88519a51012811476c9b4724eafc96c5:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "88519a51012811476c9b4724eafc96c5-mybookie-ag-totals",
-      "gameId": "88519a51012811476c9b4724eafc96c5",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -142
-        },
-        {
-          "id": "88519a51012811476c9b4724eafc96c5-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 103
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "88519a51012811476c9b4724eafc96c5:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "f65c4eaf0f94a569f06d768f737dad2e-mybookie-ag-h2h",
-      "gameId": "f65c4eaf0f94a569f06d768f737dad2e",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-h2h-0",
-          "label": "Hull City",
-          "participantId": "soccer_epl-hull-city",
-          "side": "away",
-          "americanOdds": 390
-        },
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-h2h-1",
-          "label": "Newcastle United",
-          "participantId": "soccer_epl-newcastle-united",
-          "side": "home",
-          "americanOdds": -172
-        },
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 310
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f65c4eaf0f94a569f06d768f737dad2e:MyBookie.ag:h2h"
-      }
-    },
-    {
-      "id": "f65c4eaf0f94a569f06d768f737dad2e-mybookie-ag-spreads",
-      "gameId": "f65c4eaf0f94a569f06d768f737dad2e",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-spreads-0",
-          "label": "Hull City",
-          "participantId": "soccer_epl-hull-city",
-          "side": "away",
-          "line": 0.5,
-          "americanOdds": 125
-        },
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-spreads-1",
-          "label": "Newcastle United",
-          "participantId": "soccer_epl-newcastle-united",
-          "side": "home",
-          "line": -0.5,
-          "americanOdds": -175
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f65c4eaf0f94a569f06d768f737dad2e:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "f65c4eaf0f94a569f06d768f737dad2e-mybookie-ag-totals",
-      "gameId": "f65c4eaf0f94a569f06d768f737dad2e",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -170
-        },
-        {
-          "id": "f65c4eaf0f94a569f06d768f737dad2e-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 122
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f65c4eaf0f94a569f06d768f737dad2e:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "75133fdcd4fc3067b303a8f166f974e4-fanduel-h2h",
-      "gameId": "75133fdcd4fc3067b303a8f166f974e4",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-h2h-0",
-          "label": "Coventry City",
-          "participantId": "soccer_epl-coventry-city",
-          "side": "away",
-          "americanOdds": 420
-        },
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-h2h-1",
-          "label": "Nottingham Forest",
-          "participantId": "soccer_epl-nottingham-forest",
-          "side": "home",
-          "americanOdds": -165
-        },
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 290
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "75133fdcd4fc3067b303a8f166f974e4:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "75133fdcd4fc3067b303a8f166f974e4-mybookie-ag-spreads",
-      "gameId": "75133fdcd4fc3067b303a8f166f974e4",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-spreads-0",
-          "label": "Coventry City",
-          "participantId": "soccer_epl-coventry-city",
-          "side": "away",
-          "line": 0.5,
-          "americanOdds": 116
-        },
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-spreads-1",
-          "label": "Nottingham Forest",
-          "participantId": "soccer_epl-nottingham-forest",
-          "side": "home",
-          "line": -0.5,
-          "americanOdds": -161
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "75133fdcd4fc3067b303a8f166f974e4:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "75133fdcd4fc3067b303a8f166f974e4-mybookie-ag-totals",
-      "gameId": "75133fdcd4fc3067b303a8f166f974e4",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -140
-        },
-        {
-          "id": "75133fdcd4fc3067b303a8f166f974e4-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 102
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "75133fdcd4fc3067b303a8f166f974e4:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "784f777f5181e1efdad7a6ecb2cfde15-mybookie-ag-h2h",
-      "gameId": "784f777f5181e1efdad7a6ecb2cfde15",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-h2h-0",
-          "label": "Bournemouth",
-          "participantId": "soccer_epl-bournemouth",
-          "side": "home",
-          "americanOdds": 199
-        },
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-h2h-1",
-          "label": "Liverpool",
-          "participantId": "soccer_epl-liverpool",
-          "side": "away",
-          "americanOdds": 112
-        },
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 265
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "784f777f5181e1efdad7a6ecb2cfde15:MyBookie.ag:h2h"
-      }
-    },
-    {
-      "id": "784f777f5181e1efdad7a6ecb2cfde15-mybookie-ag-spreads",
-      "gameId": "784f777f5181e1efdad7a6ecb2cfde15",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-spreads-0",
-          "label": "Bournemouth",
-          "participantId": "soccer_epl-bournemouth",
-          "side": "home",
-          "line": 0.5,
-          "americanOdds": -149
-        },
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-spreads-1",
-          "label": "Liverpool",
-          "participantId": "soccer_epl-liverpool",
-          "side": "away",
-          "line": -0.5,
-          "americanOdds": 108
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "784f777f5181e1efdad7a6ecb2cfde15:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "784f777f5181e1efdad7a6ecb2cfde15-mybookie-ag-totals",
-      "gameId": "784f777f5181e1efdad7a6ecb2cfde15",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 3.5,
-          "americanOdds": 110
-        },
-        {
-          "id": "784f777f5181e1efdad7a6ecb2cfde15-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 3.5,
-          "americanOdds": -153
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "784f777f5181e1efdad7a6ecb2cfde15:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "b63aef4291a066e32644e591c19a235a-fanduel-h2h",
-      "gameId": "b63aef4291a066e32644e591c19a235a",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-h2h-0",
-          "label": "Crystal Palace",
-          "participantId": "soccer_epl-crystal-palace",
-          "side": "away",
-          "americanOdds": 340
-        },
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-h2h-1",
-          "label": "Leeds United",
-          "participantId": "soccer_epl-leeds-united",
-          "side": "home",
-          "americanOdds": -140
-        },
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 270
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b63aef4291a066e32644e591c19a235a:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "b63aef4291a066e32644e591c19a235a-mybookie-ag-spreads",
-      "gameId": "b63aef4291a066e32644e591c19a235a",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-spreads-0",
-          "label": "Crystal Palace",
-          "participantId": "soccer_epl-crystal-palace",
-          "side": "away",
-          "line": 0.5,
-          "americanOdds": -107
-        },
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-spreads-1",
-          "label": "Leeds United",
-          "participantId": "soccer_epl-leeds-united",
-          "side": "home",
-          "line": -0.5,
-          "americanOdds": -129
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b63aef4291a066e32644e591c19a235a:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "b63aef4291a066e32644e591c19a235a-mybookie-ag-totals",
-      "gameId": "b63aef4291a066e32644e591c19a235a",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -141
-        },
-        {
-          "id": "b63aef4291a066e32644e591c19a235a-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 102
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "b63aef4291a066e32644e591c19a235a:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "f923236e69ed946fdc55163494ee88db-mybookie-ag-h2h",
-      "gameId": "f923236e69ed946fdc55163494ee88db",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-h2h-0",
-          "label": "Manchester City",
-          "participantId": "soccer_epl-manchester-city",
-          "side": "home",
-          "americanOdds": -350
-        },
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-h2h-1",
-          "label": "Sunderland",
-          "participantId": "soccer_epl-sunderland",
-          "side": "away",
-          "americanOdds": 780
-        },
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 430
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f923236e69ed946fdc55163494ee88db:MyBookie.ag:h2h"
-      }
-    },
-    {
-      "id": "f923236e69ed946fdc55163494ee88db-mybookie-ag-spreads",
-      "gameId": "f923236e69ed946fdc55163494ee88db",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-spreads-0",
-          "label": "Manchester City",
-          "participantId": "soccer_epl-manchester-city",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": -124
-        },
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-spreads-1",
-          "label": "Sunderland",
-          "participantId": "soccer_epl-sunderland",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -112
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f923236e69ed946fdc55163494ee88db:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "f923236e69ed946fdc55163494ee88db-mybookie-ag-totals",
-      "gameId": "f923236e69ed946fdc55163494ee88db",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 2.5,
-          "americanOdds": -184
-        },
-        {
-          "id": "f923236e69ed946fdc55163494ee88db-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 2.5,
-          "americanOdds": 132
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f923236e69ed946fdc55163494ee88db:MyBookie.ag:totals"
-      }
-    },
-    {
-      "id": "182b81a9e220b2347235107c42802fd8-mybookie-ag-h2h",
-      "gameId": "182b81a9e220b2347235107c42802fd8",
-      "leagueId": "soccer_epl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-h2h-0",
-          "label": "Fulham",
-          "participantId": "soccer_epl-fulham",
-          "side": "home",
-          "americanOdds": 228
-        },
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-h2h-1",
-          "label": "Manchester United",
-          "participantId": "soccer_epl-manchester-united",
-          "side": "away",
-          "americanOdds": 100
-        },
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-h2h-2",
-          "label": "Draw",
-          "participantId": "soccer_epl-draw",
-          "side": "away",
-          "americanOdds": 265
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "182b81a9e220b2347235107c42802fd8:MyBookie.ag:h2h"
-      }
-    },
-    {
-      "id": "182b81a9e220b2347235107c42802fd8-mybookie-ag-spreads",
-      "gameId": "182b81a9e220b2347235107c42802fd8",
-      "leagueId": "soccer_epl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-spreads-0",
-          "label": "Fulham",
-          "participantId": "soccer_epl-fulham",
-          "side": "home",
-          "line": 0.5,
-          "americanOdds": -133
-        },
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-spreads-1",
-          "label": "Manchester United",
-          "participantId": "soccer_epl-manchester-united",
-          "side": "away",
-          "line": -0.5,
-          "americanOdds": -103
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "182b81a9e220b2347235107c42802fd8:MyBookie.ag:spreads"
-      }
-    },
-    {
-      "id": "182b81a9e220b2347235107c42802fd8-mybookie-ag-totals",
-      "gameId": "182b81a9e220b2347235107c42802fd8",
-      "leagueId": "soccer_epl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 3.5,
-          "americanOdds": 129
-        },
-        {
-          "id": "182b81a9e220b2347235107c42802fd8-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 3.5,
-          "americanOdds": -181
-        }
-      ],
-      "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "182b81a9e220b2347235107c42802fd8:MyBookie.ag:totals"
-      }
-    },
-    {
       "id": "b870dcfba5e5920d3f1551a3aa1ea435-mybookie-ag-h2h",
       "gameId": "b870dcfba5e5920d3f1551a3aa1ea435",
       "leagueId": "soccer_epl",
@@ -972,25 +12,25 @@
           "label": "Arsenal",
           "participantId": "soccer_epl-arsenal",
           "side": "home",
-          "americanOdds": -360
+          "americanOdds": -260
         },
         {
           "id": "b870dcfba5e5920d3f1551a3aa1ea435-h2h-1",
           "label": "Leeds United",
           "participantId": "soccer_epl-leeds-united",
           "side": "away",
-          "americanOdds": 820
+          "americanOdds": 600
         },
         {
           "id": "b870dcfba5e5920d3f1551a3aa1ea435-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 430
+          "americanOdds": 360
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b870dcfba5e5920d3f1551a3aa1ea435:MyBookie.ag:h2h"
@@ -1009,7 +49,7 @@
           "participantId": "soccer_epl-arsenal",
           "side": "home",
           "line": -1.5,
-          "americanOdds": -120
+          "americanOdds": 107
         },
         {
           "id": "b870dcfba5e5920d3f1551a3aa1ea435-spreads-1",
@@ -1017,11 +57,11 @@
           "participantId": "soccer_epl-leeds-united",
           "side": "away",
           "line": 1.5,
-          "americanOdds": -115
+          "americanOdds": -149
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b870dcfba5e5920d3f1551a3aa1ea435:MyBookie.ag:spreads"
@@ -1050,7 +90,7 @@
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "b870dcfba5e5920d3f1551a3aa1ea435:MyBookie.ag:totals"
@@ -1068,25 +108,25 @@
           "label": "Aston Villa",
           "participantId": "soccer_epl-aston-villa",
           "side": "home",
-          "americanOdds": 140
+          "americanOdds": 156
         },
         {
           "id": "02e6c0ccb11bb7ce78989ce49d67110b-h2h-1",
           "label": "Brentford",
           "participantId": "soccer_epl-brentford",
           "side": "away",
-          "americanOdds": 172
+          "americanOdds": 150
         },
         {
           "id": "02e6c0ccb11bb7ce78989ce49d67110b-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 240
+          "americanOdds": 246
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "02e6c0ccb11bb7ce78989ce49d67110b:MyBookie.ag:h2h"
@@ -1104,20 +144,20 @@
           "label": "Aston Villa",
           "participantId": "soccer_epl-aston-villa",
           "side": "home",
-          "line": -0.5,
-          "americanOdds": 133
+          "line": 0.5,
+          "americanOdds": -202
         },
         {
           "id": "02e6c0ccb11bb7ce78989ce49d67110b-spreads-1",
           "label": "Brentford",
           "participantId": "soccer_epl-brentford",
           "side": "away",
-          "line": 0.5,
-          "americanOdds": -187
+          "line": -0.5,
+          "americanOdds": 143
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "02e6c0ccb11bb7ce78989ce49d67110b:MyBookie.ag:spreads"
@@ -1135,18 +175,18 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": -145
+          "americanOdds": -155
         },
         {
           "id": "02e6c0ccb11bb7ce78989ce49d67110b-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": 105
+          "americanOdds": 112
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "02e6c0ccb11bb7ce78989ce49d67110b:MyBookie.ag:totals"
@@ -1164,25 +204,25 @@
           "label": "Bournemouth",
           "participantId": "soccer_epl-bournemouth",
           "side": "away",
-          "americanOdds": 275
+          "americanOdds": 320
         },
         {
           "id": "45d4a466e32cd2b4ea535207923ceaf5-h2h-1",
           "label": "Chelsea",
           "participantId": "soccer_epl-chelsea",
           "side": "home",
-          "americanOdds": -127
+          "americanOdds": -145
         },
         {
           "id": "45d4a466e32cd2b4ea535207923ceaf5-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 290
+          "americanOdds": 310
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45d4a466e32cd2b4ea535207923ceaf5:MyBookie.ag:h2h"
@@ -1201,7 +241,7 @@
           "participantId": "soccer_epl-bournemouth",
           "side": "away",
           "line": 0.5,
-          "americanOdds": -106
+          "americanOdds": 107
         },
         {
           "id": "45d4a466e32cd2b4ea535207923ceaf5-spreads-1",
@@ -1209,11 +249,11 @@
           "participantId": "soccer_epl-chelsea",
           "side": "home",
           "line": -0.5,
-          "americanOdds": -130
+          "americanOdds": -149
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45d4a466e32cd2b4ea535207923ceaf5:MyBookie.ag:spreads"
@@ -1231,18 +271,18 @@
           "label": "Over",
           "side": "over",
           "line": 3.5,
-          "americanOdds": -104
+          "americanOdds": 108
         },
         {
           "id": "45d4a466e32cd2b4ea535207923ceaf5-totals-1",
           "label": "Under",
           "side": "under",
           "line": 3.5,
-          "americanOdds": -133
+          "americanOdds": -150
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "45d4a466e32cd2b4ea535207923ceaf5:MyBookie.ag:totals"
@@ -1260,14 +300,14 @@
           "label": "Brighton and Hove Albion",
           "participantId": "soccer_epl-brighton-and-hove-albion",
           "side": "away",
-          "americanOdds": 130
+          "americanOdds": 135
         },
         {
           "id": "380b8f24ec5430fb545a7490c1017285-h2h-1",
           "label": "Sunderland",
           "participantId": "soccer_epl-sunderland",
           "side": "home",
-          "americanOdds": 195
+          "americanOdds": 185
         },
         {
           "id": "380b8f24ec5430fb545a7490c1017285-h2h-2",
@@ -1278,7 +318,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
+      "lastUpdated": "2026-10-01T17:03:09Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "380b8f24ec5430fb545a7490c1017285:FanDuel:h2h"
@@ -1297,7 +337,7 @@
           "participantId": "soccer_epl-brighton-and-hove-albion",
           "side": "away",
           "line": -0.5,
-          "americanOdds": 127
+          "americanOdds": 125
         },
         {
           "id": "380b8f24ec5430fb545a7490c1017285-spreads-1",
@@ -1305,11 +345,11 @@
           "participantId": "soccer_epl-sunderland",
           "side": "home",
           "line": 0.5,
-          "americanOdds": -177
+          "americanOdds": -175
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "380b8f24ec5430fb545a7490c1017285:MyBookie.ag:spreads"
@@ -1327,18 +367,18 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": -116
+          "americanOdds": -129
         },
         {
           "id": "380b8f24ec5430fb545a7490c1017285-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": -119
+          "americanOdds": -107
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "380b8f24ec5430fb545a7490c1017285:MyBookie.ag:totals"
@@ -1356,25 +396,25 @@
           "label": "Fulham",
           "participantId": "soccer_epl-fulham",
           "side": "away",
-          "americanOdds": 145
+          "americanOdds": 155
         },
         {
           "id": "288b4ff00c79daa712c911c564fe1be7-h2h-1",
           "label": "Ipswich Town",
           "participantId": "soccer_epl-ipswich-town",
           "side": "home",
-          "americanOdds": 155
+          "americanOdds": 165
         },
         {
           "id": "288b4ff00c79daa712c911c564fe1be7-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 270
+          "americanOdds": 240
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
+      "lastUpdated": "2026-10-01T17:03:09Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "288b4ff00c79daa712c911c564fe1be7:FanDuel:h2h"
@@ -1393,7 +433,7 @@
           "participantId": "soccer_epl-fulham",
           "side": "away",
           "line": -0.5,
-          "americanOdds": 139
+          "americanOdds": 138
         },
         {
           "id": "288b4ff00c79daa712c911c564fe1be7-spreads-1",
@@ -1401,11 +441,11 @@
           "participantId": "soccer_epl-ipswich-town",
           "side": "home",
           "line": 0.5,
-          "americanOdds": -196
+          "americanOdds": -195
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "288b4ff00c79daa712c911c564fe1be7:MyBookie.ag:spreads"
@@ -1423,18 +463,18 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": -131
+          "americanOdds": -143
         },
         {
           "id": "288b4ff00c79daa712c911c564fe1be7-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": -105
+          "americanOdds": 103
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "288b4ff00c79daa712c911c564fe1be7:MyBookie.ag:totals"
@@ -1452,25 +492,25 @@
           "label": "Manchester United",
           "participantId": "soccer_epl-manchester-united",
           "side": "home",
-          "americanOdds": -161
+          "americanOdds": -142
         },
         {
           "id": "22c9b2c43cbe1334381269550dab78e6-h2h-1",
           "label": "Tottenham Hotspur",
           "participantId": "soccer_epl-tottenham-hotspur",
           "side": "away",
-          "americanOdds": 360
+          "americanOdds": 310
         },
         {
           "id": "22c9b2c43cbe1334381269550dab78e6-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 310
+          "americanOdds": 300
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "22c9b2c43cbe1334381269550dab78e6:MyBookie.ag:h2h"
@@ -1489,7 +529,7 @@
           "participantId": "soccer_epl-manchester-united",
           "side": "home",
           "line": -0.5,
-          "americanOdds": -165
+          "americanOdds": -145
         },
         {
           "id": "22c9b2c43cbe1334381269550dab78e6-spreads-1",
@@ -1497,11 +537,11 @@
           "participantId": "soccer_epl-tottenham-hotspur",
           "side": "away",
           "line": 0.5,
-          "americanOdds": 118
+          "americanOdds": 105
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "22c9b2c43cbe1334381269550dab78e6:MyBookie.ag:spreads"
@@ -1519,18 +559,18 @@
           "label": "Over",
           "side": "over",
           "line": 3.5,
-          "americanOdds": 121
+          "americanOdds": 120
         },
         {
           "id": "22c9b2c43cbe1334381269550dab78e6-totals-1",
           "label": "Under",
           "side": "under",
           "line": 3.5,
-          "americanOdds": -169
+          "americanOdds": -168
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "22c9b2c43cbe1334381269550dab78e6:MyBookie.ag:totals"
@@ -1548,25 +588,25 @@
           "label": "Crystal Palace",
           "participantId": "soccer_epl-crystal-palace",
           "side": "home",
-          "americanOdds": 163
+          "americanOdds": 157
         },
         {
           "id": "86effab5c6e7bfd58c8e88b1fb7c6ba9-h2h-1",
           "label": "Nottingham Forest",
           "participantId": "soccer_epl-nottingham-forest",
           "side": "away",
-          "americanOdds": 166
+          "americanOdds": 164
         },
         {
           "id": "86effab5c6e7bfd58c8e88b1fb7c6ba9-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 210
+          "americanOdds": 220
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86effab5c6e7bfd58c8e88b1fb7c6ba9:MyBookie.ag:h2h"
@@ -1585,7 +625,7 @@
           "participantId": "soccer_epl-crystal-palace",
           "side": "home",
           "line": -0.5,
-          "americanOdds": 154
+          "americanOdds": 149
         },
         {
           "id": "86effab5c6e7bfd58c8e88b1fb7c6ba9-spreads-1",
@@ -1593,11 +633,11 @@
           "participantId": "soccer_epl-nottingham-forest",
           "side": "away",
           "line": 0.5,
-          "americanOdds": -220
+          "americanOdds": -212
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86effab5c6e7bfd58c8e88b1fb7c6ba9:MyBookie.ag:spreads"
@@ -1615,18 +655,18 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": 112
+          "americanOdds": -104
         },
         {
           "id": "86effab5c6e7bfd58c8e88b1fb7c6ba9-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": -155
+          "americanOdds": -132
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86effab5c6e7bfd58c8e88b1fb7c6ba9:MyBookie.ag:totals"
@@ -1651,18 +691,18 @@
           "label": "Hull City",
           "participantId": "soccer_epl-hull-city",
           "side": "home",
-          "americanOdds": 280
+          "americanOdds": 250
         },
         {
           "id": "0bdae4d304810578e47386606bff7106-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 230
+          "americanOdds": 240
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
+      "lastUpdated": "2026-10-01T17:03:09Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0bdae4d304810578e47386606bff7106:FanDuel:h2h"
@@ -1681,7 +721,7 @@
           "participantId": "soccer_epl-everton",
           "side": "away",
           "line": -0.5,
-          "americanOdds": 102
+          "americanOdds": 103
         },
         {
           "id": "0bdae4d304810578e47386606bff7106-spreads-1",
@@ -1689,11 +729,11 @@
           "participantId": "soccer_epl-hull-city",
           "side": "home",
           "line": 0.5,
-          "americanOdds": -140
+          "americanOdds": -142
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0bdae4d304810578e47386606bff7106:MyBookie.ag:spreads"
@@ -1711,18 +751,18 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": 127
+          "americanOdds": 104
         },
         {
           "id": "0bdae4d304810578e47386606bff7106-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": -177
+          "americanOdds": -143
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0bdae4d304810578e47386606bff7106:MyBookie.ag:totals"
@@ -1740,14 +780,14 @@
           "label": "Liverpool",
           "participantId": "soccer_epl-liverpool",
           "side": "home",
-          "americanOdds": 200
+          "americanOdds": 155
         },
         {
           "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1-h2h-1",
           "label": "Manchester City",
           "participantId": "soccer_epl-manchester-city",
           "side": "away",
-          "americanOdds": 115
+          "americanOdds": 150
         },
         {
           "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1-h2h-2",
@@ -1758,7 +798,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
+      "lastUpdated": "2026-10-01T17:03:09Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6dbab232dd8d2aed0cb1d6f7978fb7b1:FanDuel:h2h"
@@ -1776,20 +816,20 @@
           "label": "Liverpool",
           "participantId": "soccer_epl-liverpool",
           "side": "home",
-          "line": 0.5,
-          "americanOdds": -155
+          "line": -0.5,
+          "americanOdds": 143
         },
         {
           "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1-spreads-1",
           "label": "Manchester City",
           "participantId": "soccer_epl-manchester-city",
           "side": "away",
-          "line": -0.5,
-          "americanOdds": 112
+          "line": 0.5,
+          "americanOdds": -202
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6dbab232dd8d2aed0cb1d6f7978fb7b1:MyBookie.ag:spreads"
@@ -1806,19 +846,19 @@
           "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 2.5,
-          "americanOdds": -175
+          "line": 3.5,
+          "americanOdds": 129
         },
         {
           "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 2.5,
-          "americanOdds": 126
+          "line": 3.5,
+          "americanOdds": -180
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6dbab232dd8d2aed0cb1d6f7978fb7b1:MyBookie.ag:totals"
@@ -1836,25 +876,25 @@
           "label": "Coventry City",
           "participantId": "soccer_epl-coventry-city",
           "side": "home",
-          "americanOdds": 230
+          "americanOdds": 210
         },
         {
           "id": "acd5bd945dd953ad1e300df5bfe696f9-h2h-1",
           "label": "Newcastle United",
           "participantId": "soccer_epl-newcastle-united",
           "side": "away",
-          "americanOdds": 105
+          "americanOdds": 115
         },
         {
           "id": "acd5bd945dd953ad1e300df5bfe696f9-h2h-2",
           "label": "Draw",
           "participantId": "soccer_epl-draw",
           "side": "away",
-          "americanOdds": 280
+          "americanOdds": 250
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-09-15T15:03:10Z",
+      "lastUpdated": "2026-10-01T17:03:09Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "acd5bd945dd953ad1e300df5bfe696f9:FanDuel:h2h"
@@ -1873,7 +913,7 @@
           "participantId": "soccer_epl-coventry-city",
           "side": "home",
           "line": 0.5,
-          "americanOdds": -139
+          "americanOdds": -152
         },
         {
           "id": "acd5bd945dd953ad1e300df5bfe696f9-spreads-1",
@@ -1881,11 +921,11 @@
           "participantId": "soccer_epl-newcastle-united",
           "side": "away",
           "line": -0.5,
-          "americanOdds": 100
+          "americanOdds": 109
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "acd5bd945dd953ad1e300df5bfe696f9:MyBookie.ag:spreads"
@@ -1903,28 +943,988 @@
           "label": "Over",
           "side": "over",
           "line": 2.5,
-          "americanOdds": -156
+          "americanOdds": -161
         },
         {
           "id": "acd5bd945dd953ad1e300df5bfe696f9-totals-1",
           "label": "Under",
           "side": "under",
           "line": 2.5,
-          "americanOdds": 112
+          "americanOdds": 116
         }
       ],
       "bookmaker": "MyBookie.ag",
-      "lastUpdated": "2026-09-15T15:01:27Z",
+      "lastUpdated": "2026-10-01T17:02:35Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "acd5bd945dd953ad1e300df5bfe696f9:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "764e6513cb3f348881503df70ccb90e0-fanduel-h2h",
+      "gameId": "764e6513cb3f348881503df70ccb90e0",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-h2h-0",
+          "label": "Chelsea",
+          "participantId": "soccer_epl-chelsea",
+          "side": "away",
+          "americanOdds": 125
+        },
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-h2h-1",
+          "label": "Everton",
+          "participantId": "soccer_epl-everton",
+          "side": "home",
+          "americanOdds": 180
+        },
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 270
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "764e6513cb3f348881503df70ccb90e0:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "764e6513cb3f348881503df70ccb90e0-mybookie-ag-spreads",
+      "gameId": "764e6513cb3f348881503df70ccb90e0",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-spreads-0",
+          "label": "Chelsea",
+          "participantId": "soccer_epl-chelsea",
+          "side": "away",
+          "line": -0.5,
+          "americanOdds": 121
+        },
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-spreads-1",
+          "label": "Everton",
+          "participantId": "soccer_epl-everton",
+          "side": "home",
+          "line": 0.5,
+          "americanOdds": -169
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "764e6513cb3f348881503df70ccb90e0:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "764e6513cb3f348881503df70ccb90e0-mybookie-ag-totals",
+      "gameId": "764e6513cb3f348881503df70ccb90e0",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -165
+        },
+        {
+          "id": "764e6513cb3f348881503df70ccb90e0-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": 119
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "764e6513cb3f348881503df70ccb90e0:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "8f1945e7272bc7e89016439f5ab321c7-fanduel-h2h",
+      "gameId": "8f1945e7272bc7e89016439f5ab321c7",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-h2h-0",
+          "label": "Brentford",
+          "participantId": "soccer_epl-brentford",
+          "side": "home",
+          "americanOdds": 170
+        },
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-h2h-1",
+          "label": "Liverpool",
+          "participantId": "soccer_epl-liverpool",
+          "side": "away",
+          "americanOdds": 130
+        },
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 280
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f1945e7272bc7e89016439f5ab321c7:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "8f1945e7272bc7e89016439f5ab321c7-mybookie-ag-spreads",
+      "gameId": "8f1945e7272bc7e89016439f5ab321c7",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-spreads-0",
+          "label": "Brentford",
+          "participantId": "soccer_epl-brentford",
+          "side": "home",
+          "line": 0.5,
+          "americanOdds": -173
+        },
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-spreads-1",
+          "label": "Liverpool",
+          "participantId": "soccer_epl-liverpool",
+          "side": "away",
+          "line": -0.5,
+          "americanOdds": 124
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f1945e7272bc7e89016439f5ab321c7:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "8f1945e7272bc7e89016439f5ab321c7-mybookie-ag-totals",
+      "gameId": "8f1945e7272bc7e89016439f5ab321c7",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 3.5,
+          "americanOdds": 128
+        },
+        {
+          "id": "8f1945e7272bc7e89016439f5ab321c7-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 3.5,
+          "americanOdds": -179
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f1945e7272bc7e89016439f5ab321c7:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "7895f97f2f9577f3b13287a3d086859d-fanduel-h2h",
+      "gameId": "7895f97f2f9577f3b13287a3d086859d",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-h2h-0",
+          "label": "Fulham",
+          "participantId": "soccer_epl-fulham",
+          "side": "home",
+          "americanOdds": -165
+        },
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-h2h-1",
+          "label": "Hull City",
+          "participantId": "soccer_epl-hull-city",
+          "side": "away",
+          "americanOdds": 380
+        },
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 310
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7895f97f2f9577f3b13287a3d086859d:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "7895f97f2f9577f3b13287a3d086859d-mybookie-ag-spreads",
+      "gameId": "7895f97f2f9577f3b13287a3d086859d",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-spreads-0",
+          "label": "Fulham",
+          "participantId": "soccer_epl-fulham",
+          "side": "home",
+          "line": -0.5,
+          "americanOdds": -156
+        },
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-spreads-1",
+          "label": "Hull City",
+          "participantId": "soccer_epl-hull-city",
+          "side": "away",
+          "line": 0.5,
+          "americanOdds": 113
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7895f97f2f9577f3b13287a3d086859d:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "7895f97f2f9577f3b13287a3d086859d-mybookie-ag-totals",
+      "gameId": "7895f97f2f9577f3b13287a3d086859d",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -145
+        },
+        {
+          "id": "7895f97f2f9577f3b13287a3d086859d-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": 105
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7895f97f2f9577f3b13287a3d086859d:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "bf2142d1ca76ba2fc9e61afce80f86c0-fanduel-h2h",
+      "gameId": "bf2142d1ca76ba2fc9e61afce80f86c0",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-h2h-0",
+          "label": "Ipswich Town",
+          "participantId": "soccer_epl-ipswich-town",
+          "side": "away",
+          "americanOdds": 1000
+        },
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-h2h-1",
+          "label": "Manchester City",
+          "participantId": "soccer_epl-manchester-city",
+          "side": "home",
+          "americanOdds": -550
+        },
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 550
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bf2142d1ca76ba2fc9e61afce80f86c0:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "bf2142d1ca76ba2fc9e61afce80f86c0-mybookie-ag-spreads",
+      "gameId": "bf2142d1ca76ba2fc9e61afce80f86c0",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-spreads-0",
+          "label": "Ipswich Town",
+          "participantId": "soccer_epl-ipswich-town",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": 118
+        },
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-spreads-1",
+          "label": "Manchester City",
+          "participantId": "soccer_epl-manchester-city",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": -164
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bf2142d1ca76ba2fc9e61afce80f86c0:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "bf2142d1ca76ba2fc9e61afce80f86c0-mybookie-ag-totals",
+      "gameId": "bf2142d1ca76ba2fc9e61afce80f86c0",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 3.5,
+          "americanOdds": -114
+        },
+        {
+          "id": "bf2142d1ca76ba2fc9e61afce80f86c0-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 3.5,
+          "americanOdds": -121
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bf2142d1ca76ba2fc9e61afce80f86c0:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "d1bbbdcd3d430e70091b518369b559cf-mybookie-ag-h2h",
+      "gameId": "d1bbbdcd3d430e70091b518369b559cf",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-h2h-0",
+          "label": "Aston Villa",
+          "participantId": "soccer_epl-aston-villa",
+          "side": "away",
+          "americanOdds": 222
+        },
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-h2h-1",
+          "label": "Newcastle United",
+          "participantId": "soccer_epl-newcastle-united",
+          "side": "home",
+          "americanOdds": 103
+        },
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 260
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d1bbbdcd3d430e70091b518369b559cf:MyBookie.ag:h2h"
+      }
+    },
+    {
+      "id": "d1bbbdcd3d430e70091b518369b559cf-mybookie-ag-spreads",
+      "gameId": "d1bbbdcd3d430e70091b518369b559cf",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-spreads-0",
+          "label": "Aston Villa",
+          "participantId": "soccer_epl-aston-villa",
+          "side": "away",
+          "line": 0.5,
+          "americanOdds": -138
+        },
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-spreads-1",
+          "label": "Newcastle United",
+          "participantId": "soccer_epl-newcastle-united",
+          "side": "home",
+          "line": -0.5,
+          "americanOdds": 100
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d1bbbdcd3d430e70091b518369b559cf:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "d1bbbdcd3d430e70091b518369b559cf-mybookie-ag-totals",
+      "gameId": "d1bbbdcd3d430e70091b518369b559cf",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -180
+        },
+        {
+          "id": "d1bbbdcd3d430e70091b518369b559cf-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": 129
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d1bbbdcd3d430e70091b518369b559cf:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "dfd5d6648be46426e418801584d46a68-mybookie-ag-h2h",
+      "gameId": "dfd5d6648be46426e418801584d46a68",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-h2h-0",
+          "label": "Bournemouth",
+          "participantId": "soccer_epl-bournemouth",
+          "side": "home",
+          "americanOdds": -101
+        },
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-h2h-1",
+          "label": "Sunderland",
+          "participantId": "soccer_epl-sunderland",
+          "side": "away",
+          "americanOdds": 246
+        },
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 248
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dfd5d6648be46426e418801584d46a68:MyBookie.ag:h2h"
+      }
+    },
+    {
+      "id": "dfd5d6648be46426e418801584d46a68-mybookie-ag-spreads",
+      "gameId": "dfd5d6648be46426e418801584d46a68",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-spreads-0",
+          "label": "Bournemouth",
+          "participantId": "soccer_epl-bournemouth",
+          "side": "home",
+          "line": -0.5,
+          "americanOdds": -104
+        },
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-spreads-1",
+          "label": "Sunderland",
+          "participantId": "soccer_epl-sunderland",
+          "side": "away",
+          "line": 0.5,
+          "americanOdds": -132
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dfd5d6648be46426e418801584d46a68:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "dfd5d6648be46426e418801584d46a68-mybookie-ag-totals",
+      "gameId": "dfd5d6648be46426e418801584d46a68",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -130
+        },
+        {
+          "id": "dfd5d6648be46426e418801584d46a68-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": -106
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dfd5d6648be46426e418801584d46a68:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "9fc08b390a49c4434f7cf631a0bb88fb-fanduel-h2h",
+      "gameId": "9fc08b390a49c4434f7cf631a0bb88fb",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-h2h-0",
+          "label": "Brighton and Hove Albion",
+          "participantId": "soccer_epl-brighton-and-hove-albion",
+          "side": "home",
+          "americanOdds": -190
+        },
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-h2h-1",
+          "label": "Crystal Palace",
+          "participantId": "soccer_epl-crystal-palace",
+          "side": "away",
+          "americanOdds": 430
+        },
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 340
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9fc08b390a49c4434f7cf631a0bb88fb:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "9fc08b390a49c4434f7cf631a0bb88fb-mybookie-ag-spreads",
+      "gameId": "9fc08b390a49c4434f7cf631a0bb88fb",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-spreads-0",
+          "label": "Brighton and Hove Albion",
+          "participantId": "soccer_epl-brighton-and-hove-albion",
+          "side": "home",
+          "line": -0.5,
+          "americanOdds": -182
+        },
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-spreads-1",
+          "label": "Crystal Palace",
+          "participantId": "soccer_epl-crystal-palace",
+          "side": "away",
+          "line": 0.5,
+          "americanOdds": 130
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9fc08b390a49c4434f7cf631a0bb88fb:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "9fc08b390a49c4434f7cf631a0bb88fb-mybookie-ag-totals",
+      "gameId": "9fc08b390a49c4434f7cf631a0bb88fb",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 3.5,
+          "americanOdds": 132
+        },
+        {
+          "id": "9fc08b390a49c4434f7cf631a0bb88fb-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 3.5,
+          "americanOdds": -184
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9fc08b390a49c4434f7cf631a0bb88fb:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "676b3b0b609e9cf565da450786618d26-fanduel-h2h",
+      "gameId": "676b3b0b609e9cf565da450786618d26",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-h2h-0",
+          "label": "Leeds United",
+          "participantId": "soccer_epl-leeds-united",
+          "side": "home",
+          "americanOdds": 180
+        },
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-h2h-1",
+          "label": "Manchester United",
+          "participantId": "soccer_epl-manchester-united",
+          "side": "away",
+          "americanOdds": 125
+        },
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 270
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "676b3b0b609e9cf565da450786618d26:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "676b3b0b609e9cf565da450786618d26-mybookie-ag-spreads",
+      "gameId": "676b3b0b609e9cf565da450786618d26",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-spreads-0",
+          "label": "Leeds United",
+          "participantId": "soccer_epl-leeds-united",
+          "side": "home",
+          "line": 0.5,
+          "americanOdds": -170
+        },
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-spreads-1",
+          "label": "Manchester United",
+          "participantId": "soccer_epl-manchester-united",
+          "side": "away",
+          "line": -0.5,
+          "americanOdds": 122
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "676b3b0b609e9cf565da450786618d26:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "676b3b0b609e9cf565da450786618d26-mybookie-ag-totals",
+      "gameId": "676b3b0b609e9cf565da450786618d26",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -172
+        },
+        {
+          "id": "676b3b0b609e9cf565da450786618d26-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": 123
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "676b3b0b609e9cf565da450786618d26:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "f696a248965373d9071dc0662e5c58a8-mybookie-ag-h2h",
+      "gameId": "f696a248965373d9071dc0662e5c58a8",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-h2h-0",
+          "label": "Arsenal",
+          "participantId": "soccer_epl-arsenal",
+          "side": "away",
+          "americanOdds": -172
+        },
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-h2h-1",
+          "label": "Nottingham Forest",
+          "participantId": "soccer_epl-nottingham-forest",
+          "side": "home",
+          "americanOdds": 430
+        },
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 285
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f696a248965373d9071dc0662e5c58a8:MyBookie.ag:h2h"
+      }
+    },
+    {
+      "id": "f696a248965373d9071dc0662e5c58a8-mybookie-ag-spreads",
+      "gameId": "f696a248965373d9071dc0662e5c58a8",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-spreads-0",
+          "label": "Arsenal",
+          "participantId": "soccer_epl-arsenal",
+          "side": "away",
+          "line": -0.5,
+          "americanOdds": -175
+        },
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-spreads-1",
+          "label": "Nottingham Forest",
+          "participantId": "soccer_epl-nottingham-forest",
+          "side": "home",
+          "line": 0.5,
+          "americanOdds": 125
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f696a248965373d9071dc0662e5c58a8:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "f696a248965373d9071dc0662e5c58a8-mybookie-ag-totals",
+      "gameId": "f696a248965373d9071dc0662e5c58a8",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -116
+        },
+        {
+          "id": "f696a248965373d9071dc0662e5c58a8-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": -119
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f696a248965373d9071dc0662e5c58a8:MyBookie.ag:totals"
+      }
+    },
+    {
+      "id": "9baaf4e48b041cfef04e70e42532502e-fanduel-h2h",
+      "gameId": "9baaf4e48b041cfef04e70e42532502e",
+      "leagueId": "soccer_epl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-h2h-0",
+          "label": "Coventry City",
+          "participantId": "soccer_epl-coventry-city",
+          "side": "away",
+          "americanOdds": 490
+        },
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-h2h-1",
+          "label": "Tottenham Hotspur",
+          "participantId": "soccer_epl-tottenham-hotspur",
+          "side": "home",
+          "americanOdds": -210
+        },
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-h2h-2",
+          "label": "Draw",
+          "participantId": "soccer_epl-draw",
+          "side": "away",
+          "americanOdds": 360
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-01T17:03:09Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9baaf4e48b041cfef04e70e42532502e:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "9baaf4e48b041cfef04e70e42532502e-mybookie-ag-spreads",
+      "gameId": "9baaf4e48b041cfef04e70e42532502e",
+      "leagueId": "soccer_epl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-spreads-0",
+          "label": "Coventry City",
+          "participantId": "soccer_epl-coventry-city",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -165
+        },
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-spreads-1",
+          "label": "Tottenham Hotspur",
+          "participantId": "soccer_epl-tottenham-hotspur",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 119
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9baaf4e48b041cfef04e70e42532502e:MyBookie.ag:spreads"
+      }
+    },
+    {
+      "id": "9baaf4e48b041cfef04e70e42532502e-mybookie-ag-totals",
+      "gameId": "9baaf4e48b041cfef04e70e42532502e",
+      "leagueId": "soccer_epl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 2.5,
+          "americanOdds": -185
+        },
+        {
+          "id": "9baaf4e48b041cfef04e70e42532502e-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 2.5,
+          "americanOdds": 132
+        }
+      ],
+      "bookmaker": "MyBookie.ag",
+      "lastUpdated": "2026-10-01T17:02:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9baaf4e48b041cfef04e70e42532502e:MyBookie.ag:totals"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-09-15T15:03:26.545Z",
-  "staleAt": "2026-09-16T21:03:26.546Z",
+  "fetchedAt": "2026-10-01T17:03:10.329Z",
+  "staleAt": "2026-10-02T23:03:10.329Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
