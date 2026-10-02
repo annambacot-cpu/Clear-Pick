@@ -1,95 +1,6 @@
 {
   "data": [
     {
-      "id": "d55cb69fed50a09170560b5b75d8de86-draftkings-h2h",
-      "gameId": "d55cb69fed50a09170560b5b75d8de86",
-      "leagueId": "nfl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-h2h-0",
-          "label": "Cleveland Browns",
-          "participantId": "nfl-cleveland-browns",
-          "side": "home",
-          "americanOdds": 124
-        },
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-h2h-1",
-          "label": "Pittsburgh Steelers",
-          "participantId": "nfl-pittsburgh-steelers",
-          "side": "away",
-          "americanOdds": -148
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d55cb69fed50a09170560b5b75d8de86:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "d55cb69fed50a09170560b5b75d8de86-draftkings-spreads",
-      "gameId": "d55cb69fed50a09170560b5b75d8de86",
-      "leagueId": "nfl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-spreads-0",
-          "label": "Cleveland Browns",
-          "participantId": "nfl-cleveland-browns",
-          "side": "home",
-          "line": 2.5,
-          "americanOdds": 100
-        },
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-spreads-1",
-          "label": "Pittsburgh Steelers",
-          "participantId": "nfl-pittsburgh-steelers",
-          "side": "away",
-          "line": -2.5,
-          "americanOdds": -120
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d55cb69fed50a09170560b5b75d8de86:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "d55cb69fed50a09170560b5b75d8de86-draftkings-totals",
-      "gameId": "d55cb69fed50a09170560b5b75d8de86",
-      "leagueId": "nfl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 38.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "d55cb69fed50a09170560b5b75d8de86-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 38.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d55cb69fed50a09170560b5b75d8de86:DraftKings:totals"
-      }
-    },
-    {
       "id": "c9d8ed8aa4889486eaf10a630138ede0-draftkings-h2h",
       "gameId": "c9d8ed8aa4889486eaf10a630138ede0",
       "leagueId": "nfl",
@@ -101,18 +12,18 @@
           "label": "Indianapolis Colts",
           "participantId": "nfl-indianapolis-colts",
           "side": "away",
-          "americanOdds": -192
+          "americanOdds": -198
         },
         {
           "id": "c9d8ed8aa4889486eaf10a630138ede0-h2h-1",
           "label": "Washington Commanders",
           "participantId": "nfl-washington-commanders",
           "side": "home",
-          "americanOdds": 160
+          "americanOdds": 164
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c9d8ed8aa4889486eaf10a630138ede0:DraftKings:h2h"
@@ -131,7 +42,7 @@
           "participantId": "nfl-indianapolis-colts",
           "side": "away",
           "line": -3.5,
-          "americanOdds": -112
+          "americanOdds": -115
         },
         {
           "id": "c9d8ed8aa4889486eaf10a630138ede0-spreads-1",
@@ -139,11 +50,11 @@
           "participantId": "nfl-washington-commanders",
           "side": "home",
           "line": 3.5,
-          "americanOdds": -108
+          "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c9d8ed8aa4889486eaf10a630138ede0:DraftKings:spreads"
@@ -160,19 +71,19 @@
           "id": "c9d8ed8aa4889486eaf10a630138ede0-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 47.5,
+          "line": 48.5,
           "americanOdds": -108
         },
         {
           "id": "c9d8ed8aa4889486eaf10a630138ede0-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 47.5,
+          "line": 48.5,
           "americanOdds": -112
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c9d8ed8aa4889486eaf10a630138ede0:DraftKings:totals"
@@ -201,7 +112,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "664e6bda5721dc63be16bcf7d962a436:DraftKings:h2h"
@@ -232,7 +143,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "664e6bda5721dc63be16bcf7d962a436:DraftKings:spreads"
@@ -261,7 +172,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "664e6bda5721dc63be16bcf7d962a436:DraftKings:totals"
@@ -279,18 +190,18 @@
           "label": "Baltimore Ravens",
           "participantId": "nfl-baltimore-ravens",
           "side": "home",
-          "americanOdds": -700
+          "americanOdds": -650
         },
         {
           "id": "f01589b0e7e6dd4f4ac1220a1db81f53-h2h-1",
           "label": "Tennessee Titans",
           "participantId": "nfl-tennessee-titans",
           "side": "away",
-          "americanOdds": 500
+          "americanOdds": 470
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f01589b0e7e6dd4f4ac1220a1db81f53:DraftKings:h2h"
@@ -321,7 +232,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f01589b0e7e6dd4f4ac1220a1db81f53:DraftKings:spreads"
@@ -339,18 +250,18 @@
           "label": "Over",
           "side": "over",
           "line": 42.5,
-          "americanOdds": -115
+          "americanOdds": -108
         },
         {
           "id": "f01589b0e7e6dd4f4ac1220a1db81f53-totals-1",
           "label": "Under",
           "side": "under",
           "line": 42.5,
-          "americanOdds": -105
+          "americanOdds": -112
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f01589b0e7e6dd4f4ac1220a1db81f53:DraftKings:totals"
@@ -368,18 +279,18 @@
           "label": "Buffalo Bills",
           "participantId": "nfl-buffalo-bills",
           "side": "home",
-          "americanOdds": -290
+          "americanOdds": -298
         },
         {
           "id": "573cc0ef39631a4f6673ec843a8bedd4-h2h-1",
           "label": "New England Patriots",
           "participantId": "nfl-new-england-patriots",
           "side": "away",
-          "americanOdds": 235
+          "americanOdds": 240
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "573cc0ef39631a4f6673ec843a8bedd4:DraftKings:h2h"
@@ -397,20 +308,20 @@
           "label": "Buffalo Bills",
           "participantId": "nfl-buffalo-bills",
           "side": "home",
-          "line": -6.5,
-          "americanOdds": -120
+          "line": -7,
+          "americanOdds": -105
         },
         {
           "id": "573cc0ef39631a4f6673ec843a8bedd4-spreads-1",
           "label": "New England Patriots",
           "participantId": "nfl-new-england-patriots",
           "side": "away",
-          "line": 6.5,
-          "americanOdds": 100
+          "line": 7,
+          "americanOdds": -115
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "573cc0ef39631a4f6673ec843a8bedd4:DraftKings:spreads"
@@ -428,18 +339,18 @@
           "label": "Over",
           "side": "over",
           "line": 48.5,
-          "americanOdds": -110
+          "americanOdds": -115
         },
         {
           "id": "573cc0ef39631a4f6673ec843a8bedd4-totals-1",
           "label": "Under",
           "side": "under",
           "line": 48.5,
-          "americanOdds": -110
+          "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "573cc0ef39631a4f6673ec843a8bedd4:DraftKings:totals"
@@ -457,18 +368,18 @@
           "label": "Chicago Bears",
           "participantId": "nfl-chicago-bears",
           "side": "home",
-          "americanOdds": -175
+          "americanOdds": -180
         },
         {
           "id": "164e6eb68f31bac190381903c3cccd31-h2h-1",
           "label": "New York Jets",
           "participantId": "nfl-new-york-jets",
           "side": "away",
-          "americanOdds": 145
+          "americanOdds": 150
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "164e6eb68f31bac190381903c3cccd31:DraftKings:h2h"
@@ -487,7 +398,7 @@
           "participantId": "nfl-chicago-bears",
           "side": "home",
           "line": -3.5,
-          "americanOdds": -105
+          "americanOdds": -112
         },
         {
           "id": "164e6eb68f31bac190381903c3cccd31-spreads-1",
@@ -495,11 +406,11 @@
           "participantId": "nfl-new-york-jets",
           "side": "away",
           "line": 3.5,
-          "americanOdds": -115
+          "americanOdds": -108
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "164e6eb68f31bac190381903c3cccd31:DraftKings:spreads"
@@ -528,7 +439,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "164e6eb68f31bac190381903c3cccd31:DraftKings:totals"
@@ -557,7 +468,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2ea94ddf20f66432b9024fe2e2eaba5f:DraftKings:h2h"
@@ -588,7 +499,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2ea94ddf20f66432b9024fe2e2eaba5f:DraftKings:spreads"
@@ -617,7 +528,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2ea94ddf20f66432b9024fe2e2eaba5f:DraftKings:totals"
@@ -646,7 +557,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "daf55e2df5341c007fee5a0fc5bbc2d4:DraftKings:h2h"
@@ -665,7 +576,7 @@
           "participantId": "nfl-dallas-cowboys",
           "side": "away",
           "line": 3,
-          "americanOdds": -108
+          "americanOdds": -110
         },
         {
           "id": "daf55e2df5341c007fee5a0fc5bbc2d4-spreads-1",
@@ -673,11 +584,11 @@
           "participantId": "nfl-houston-texans",
           "side": "home",
           "line": -3,
-          "americanOdds": -112
+          "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "daf55e2df5341c007fee5a0fc5bbc2d4:DraftKings:spreads"
@@ -706,7 +617,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "daf55e2df5341c007fee5a0fc5bbc2d4:DraftKings:totals"
@@ -724,18 +635,18 @@
           "label": "Green Bay Packers",
           "participantId": "nfl-green-bay-packers",
           "side": "away",
-          "americanOdds": -180
+          "americanOdds": -185
         },
         {
           "id": "99a9bae4dc0dc2590496bd3102b211f2-h2h-1",
           "label": "Tampa Bay Buccaneers",
           "participantId": "nfl-tampa-bay-buccaneers",
           "side": "home",
-          "americanOdds": 150
+          "americanOdds": 154
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "99a9bae4dc0dc2590496bd3102b211f2:DraftKings:h2h"
@@ -766,7 +677,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "99a9bae4dc0dc2590496bd3102b211f2:DraftKings:spreads"
@@ -795,7 +706,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "99a9bae4dc0dc2590496bd3102b211f2:DraftKings:totals"
@@ -813,18 +724,18 @@
           "label": "Los Angeles Rams",
           "participantId": "nfl-los-angeles-rams",
           "side": "away",
-          "americanOdds": -162
+          "americanOdds": -185
         },
         {
           "id": "1b4f2e60ce83fa1d63a5dff83769d27c-h2h-1",
           "label": "Philadelphia Eagles",
           "participantId": "nfl-philadelphia-eagles",
           "side": "home",
-          "americanOdds": 136
+          "americanOdds": 154
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1b4f2e60ce83fa1d63a5dff83769d27c:DraftKings:h2h"
@@ -842,20 +753,20 @@
           "label": "Los Angeles Rams",
           "participantId": "nfl-los-angeles-rams",
           "side": "away",
-          "line": -3,
-          "americanOdds": -108
+          "line": -3.5,
+          "americanOdds": -112
         },
         {
           "id": "1b4f2e60ce83fa1d63a5dff83769d27c-spreads-1",
           "label": "Philadelphia Eagles",
           "participantId": "nfl-philadelphia-eagles",
           "side": "home",
-          "line": 3,
-          "americanOdds": -112
+          "line": 3.5,
+          "americanOdds": -108
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1b4f2e60ce83fa1d63a5dff83769d27c:DraftKings:spreads"
@@ -872,19 +783,19 @@
           "id": "1b4f2e60ce83fa1d63a5dff83769d27c-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 43.5,
+          "line": 42.5,
           "americanOdds": -112
         },
         {
           "id": "1b4f2e60ce83fa1d63a5dff83769d27c-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 43.5,
+          "line": 42.5,
           "americanOdds": -108
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "1b4f2e60ce83fa1d63a5dff83769d27c:DraftKings:totals"
@@ -902,18 +813,18 @@
           "label": "Miami Dolphins",
           "participantId": "nfl-miami-dolphins",
           "side": "away",
-          "americanOdds": 440
+          "americanOdds": 455
         },
         {
           "id": "c327223d76a3b7b0db8c6c104442f44b-h2h-1",
           "label": "Minnesota Vikings",
           "participantId": "nfl-minnesota-vikings",
           "side": "home",
-          "americanOdds": -600
+          "americanOdds": -625
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c327223d76a3b7b0db8c6c104442f44b:DraftKings:h2h"
@@ -944,7 +855,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c327223d76a3b7b0db8c6c104442f44b:DraftKings:spreads"
@@ -973,7 +884,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c327223d76a3b7b0db8c6c104442f44b:DraftKings:totals"
@@ -1002,7 +913,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a7e7efb75a9792ac63480ae6328dca18:DraftKings:h2h"
@@ -1033,7 +944,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a7e7efb75a9792ac63480ae6328dca18:DraftKings:spreads"
@@ -1051,18 +962,18 @@
           "label": "Over",
           "side": "over",
           "line": 47.5,
-          "americanOdds": -110
+          "americanOdds": -115
         },
         {
           "id": "a7e7efb75a9792ac63480ae6328dca18-totals-1",
           "label": "Under",
           "side": "under",
           "line": 47.5,
-          "americanOdds": -110
+          "americanOdds": -105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a7e7efb75a9792ac63480ae6328dca18:DraftKings:totals"
@@ -1091,7 +1002,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e0cbd266dcf997089203a1b33ba0333d:DraftKings:h2h"
@@ -1122,7 +1033,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e0cbd266dcf997089203a1b33ba0333d:DraftKings:spreads"
@@ -1151,7 +1062,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e0cbd266dcf997089203a1b33ba0333d:DraftKings:totals"
@@ -1169,18 +1080,18 @@
           "label": "Los Angeles Chargers",
           "participantId": "nfl-los-angeles-chargers",
           "side": "away",
-          "americanOdds": 300
+          "americanOdds": 295
         },
         {
           "id": "96d2373cda647873b971f268482bced0-h2h-1",
           "label": "Seattle Seahawks",
           "participantId": "nfl-seattle-seahawks",
           "side": "home",
-          "americanOdds": -380
+          "americanOdds": -375
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96d2373cda647873b971f268482bced0:DraftKings:h2h"
@@ -1211,7 +1122,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96d2373cda647873b971f268482bced0:DraftKings:spreads"
@@ -1240,7 +1151,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:23Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "96d2373cda647873b971f268482bced0:DraftKings:totals"
@@ -1258,18 +1169,18 @@
           "label": "Carolina Panthers",
           "participantId": "nfl-carolina-panthers",
           "side": "home",
-          "americanOdds": 150
+          "americanOdds": 154
         },
         {
           "id": "a73a76599a4f3422803e57bd8f61b626-h2h-1",
           "label": "Detroit Lions",
           "participantId": "nfl-detroit-lions",
           "side": "away",
-          "americanOdds": -180
+          "americanOdds": -185
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a73a76599a4f3422803e57bd8f61b626:DraftKings:h2h"
@@ -1300,7 +1211,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a73a76599a4f3422803e57bd8f61b626:DraftKings:spreads"
@@ -1317,19 +1228,19 @@
           "id": "a73a76599a4f3422803e57bd8f61b626-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 51.5,
-          "americanOdds": -102
+          "line": 50.5,
+          "americanOdds": -122
         },
         {
           "id": "a73a76599a4f3422803e57bd8f61b626-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 51.5,
-          "americanOdds": -118
+          "line": 50.5,
+          "americanOdds": 102
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a73a76599a4f3422803e57bd8f61b626:DraftKings:totals"
@@ -1347,18 +1258,18 @@
           "label": "Atlanta Falcons",
           "participantId": "nfl-atlanta-falcons",
           "side": "away",
-          "americanOdds": 124
+          "americanOdds": 120
         },
         {
           "id": "8bd90781e17e6d97df3941063cedae1e-h2h-1",
           "label": "New Orleans Saints",
           "participantId": "nfl-new-orleans-saints",
           "side": "home",
-          "americanOdds": -148
+          "americanOdds": -142
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8bd90781e17e6d97df3941063cedae1e:DraftKings:h2h"
@@ -1377,7 +1288,7 @@
           "participantId": "nfl-atlanta-falcons",
           "side": "away",
           "line": 2.5,
-          "americanOdds": -102
+          "americanOdds": -108
         },
         {
           "id": "8bd90781e17e6d97df3941063cedae1e-spreads-1",
@@ -1385,11 +1296,11 @@
           "participantId": "nfl-new-orleans-saints",
           "side": "home",
           "line": -2.5,
-          "americanOdds": -118
+          "americanOdds": -112
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8bd90781e17e6d97df3941063cedae1e:DraftKings:spreads"
@@ -1418,7 +1329,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8bd90781e17e6d97df3941063cedae1e:DraftKings:totals"
@@ -1436,18 +1347,18 @@
           "label": "Dallas Cowboys",
           "participantId": "nfl-dallas-cowboys",
           "side": "home",
-          "americanOdds": -520
+          "americanOdds": -535
         },
         {
           "id": "259b5df9aa0d10257f56de78523495e0-h2h-1",
           "label": "Tampa Bay Buccaneers",
           "participantId": "nfl-tampa-bay-buccaneers",
           "side": "away",
-          "americanOdds": 390
+          "americanOdds": 400
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "259b5df9aa0d10257f56de78523495e0:DraftKings:h2h"
@@ -1478,7 +1389,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "259b5df9aa0d10257f56de78523495e0:DraftKings:spreads"
@@ -1507,7 +1418,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "259b5df9aa0d10257f56de78523495e0:DraftKings:totals"
@@ -1525,18 +1436,18 @@
           "label": "Jacksonville Jaguars",
           "participantId": "nfl-jacksonville-jaguars",
           "side": "home",
-          "americanOdds": -148
+          "americanOdds": -155
         },
         {
           "id": "21b26266f3d78af02eb672e606275d95-h2h-1",
           "label": "Philadelphia Eagles",
           "participantId": "nfl-philadelphia-eagles",
           "side": "away",
-          "americanOdds": 124
+          "americanOdds": 130
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "21b26266f3d78af02eb672e606275d95:DraftKings:h2h"
@@ -1554,20 +1465,20 @@
           "label": "Jacksonville Jaguars",
           "participantId": "nfl-jacksonville-jaguars",
           "side": "home",
-          "line": -2.5,
-          "americanOdds": -115
+          "line": -3,
+          "americanOdds": -102
         },
         {
           "id": "21b26266f3d78af02eb672e606275d95-spreads-1",
           "label": "Philadelphia Eagles",
           "participantId": "nfl-philadelphia-eagles",
           "side": "away",
-          "line": 2.5,
-          "americanOdds": -105
+          "line": 3,
+          "americanOdds": -118
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "21b26266f3d78af02eb672e606275d95:DraftKings:spreads"
@@ -1585,18 +1496,18 @@
           "label": "Over",
           "side": "over",
           "line": 44.5,
-          "americanOdds": -110
+          "americanOdds": -105
         },
         {
           "id": "21b26266f3d78af02eb672e606275d95-totals-1",
           "label": "Under",
           "side": "under",
           "line": 44.5,
-          "americanOdds": -110
+          "americanOdds": -115
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "21b26266f3d78af02eb672e606275d95:DraftKings:totals"
@@ -1625,7 +1536,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2caea57b1e5cfbba1334cfbfd46f6771:DraftKings:h2h"
@@ -1656,7 +1567,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2caea57b1e5cfbba1334cfbfd46f6771:DraftKings:spreads"
@@ -1685,7 +1596,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2caea57b1e5cfbba1334cfbfd46f6771:DraftKings:totals"
@@ -1714,7 +1625,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4647ca1201e6768501877267ca8251b:DraftKings:h2h"
@@ -1745,7 +1656,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4647ca1201e6768501877267ca8251b:DraftKings:spreads"
@@ -1774,99 +1685,10 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4647ca1201e6768501877267ca8251b:DraftKings:totals"
-      }
-    },
-    {
-      "id": "9db4ed15fe34fca1fb62f040cd244591-draftkings-h2h",
-      "gameId": "9db4ed15fe34fca1fb62f040cd244591",
-      "leagueId": "nfl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-h2h-0",
-          "label": "Cleveland Browns",
-          "participantId": "nfl-cleveland-browns",
-          "side": "away",
-          "americanOdds": 120
-        },
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-h2h-1",
-          "label": "New York Jets",
-          "participantId": "nfl-new-york-jets",
-          "side": "home",
-          "americanOdds": -142
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9db4ed15fe34fca1fb62f040cd244591:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "9db4ed15fe34fca1fb62f040cd244591-draftkings-spreads",
-      "gameId": "9db4ed15fe34fca1fb62f040cd244591",
-      "leagueId": "nfl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-spreads-0",
-          "label": "Cleveland Browns",
-          "participantId": "nfl-cleveland-browns",
-          "side": "away",
-          "line": 2.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-spreads-1",
-          "label": "New York Jets",
-          "participantId": "nfl-new-york-jets",
-          "side": "home",
-          "line": -2.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9db4ed15fe34fca1fb62f040cd244591:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "9db4ed15fe34fca1fb62f040cd244591-draftkings-totals",
-      "gameId": "9db4ed15fe34fca1fb62f040cd244591",
-      "leagueId": "nfl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 39.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "9db4ed15fe34fca1fb62f040cd244591-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 39.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9db4ed15fe34fca1fb62f040cd244591:DraftKings:totals"
       }
     },
     {
@@ -1892,7 +1714,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cc52bba56e74f5cddbe9011046181c3d:DraftKings:h2h"
@@ -1923,7 +1745,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cc52bba56e74f5cddbe9011046181c3d:DraftKings:spreads"
@@ -1952,99 +1774,10 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cc52bba56e74f5cddbe9011046181c3d:DraftKings:totals"
-      }
-    },
-    {
-      "id": "448d7cf18c6db4c811ed82ded1b72867-draftkings-h2h",
-      "gameId": "448d7cf18c6db4c811ed82ded1b72867",
-      "leagueId": "nfl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-h2h-0",
-          "label": "Indianapolis Colts",
-          "participantId": "nfl-indianapolis-colts",
-          "side": "away",
-          "americanOdds": 114
-        },
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-h2h-1",
-          "label": "Pittsburgh Steelers",
-          "participantId": "nfl-pittsburgh-steelers",
-          "side": "home",
-          "americanOdds": -135
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "448d7cf18c6db4c811ed82ded1b72867:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "448d7cf18c6db4c811ed82ded1b72867-draftkings-spreads",
-      "gameId": "448d7cf18c6db4c811ed82ded1b72867",
-      "leagueId": "nfl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-spreads-0",
-          "label": "Indianapolis Colts",
-          "participantId": "nfl-indianapolis-colts",
-          "side": "away",
-          "line": 2.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-spreads-1",
-          "label": "Pittsburgh Steelers",
-          "participantId": "nfl-pittsburgh-steelers",
-          "side": "home",
-          "line": -2.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "448d7cf18c6db4c811ed82ded1b72867:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "448d7cf18c6db4c811ed82ded1b72867-draftkings-totals",
-      "gameId": "448d7cf18c6db4c811ed82ded1b72867",
-      "leagueId": "nfl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 44.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "448d7cf18c6db4c811ed82ded1b72867-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 44.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "448d7cf18c6db4c811ed82ded1b72867:DraftKings:totals"
       }
     },
     {
@@ -2070,7 +1803,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6b024bad1abb54f597225e4ab9b39d89:DraftKings:h2h"
@@ -2101,7 +1834,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6b024bad1abb54f597225e4ab9b39d89:DraftKings:spreads"
@@ -2130,7 +1863,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "6b024bad1abb54f597225e4ab9b39d89:DraftKings:totals"
@@ -2159,7 +1892,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2cda9bf0fbe35a2735f0dd8aaafe9eff:DraftKings:h2h"
@@ -2190,7 +1923,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2cda9bf0fbe35a2735f0dd8aaafe9eff:DraftKings:spreads"
@@ -2219,7 +1952,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "2cda9bf0fbe35a2735f0dd8aaafe9eff:DraftKings:totals"
@@ -2248,7 +1981,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "fbffd0b7722fd81d68d5d62472dc80e8:DraftKings:h2h"
@@ -2279,7 +2012,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "fbffd0b7722fd81d68d5d62472dc80e8:DraftKings:spreads"
@@ -2308,7 +2041,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "fbffd0b7722fd81d68d5d62472dc80e8:DraftKings:totals"
@@ -2337,7 +2070,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d1d408fdfd272046fb517fe992a1c5a0:DraftKings:h2h"
@@ -2368,7 +2101,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d1d408fdfd272046fb517fe992a1c5a0:DraftKings:spreads"
@@ -2397,7 +2130,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d1d408fdfd272046fb517fe992a1c5a0:DraftKings:totals"
@@ -2426,7 +2159,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f8e7f43f73aa983c5c99c189587f0118:DraftKings:h2h"
@@ -2457,7 +2190,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f8e7f43f73aa983c5c99c189587f0118:DraftKings:spreads"
@@ -2486,7 +2219,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f8e7f43f73aa983c5c99c189587f0118:DraftKings:totals"
@@ -2504,18 +2237,18 @@
           "label": "San Francisco 49ers",
           "participantId": "nfl-san-francisco-49ers",
           "side": "away",
-          "americanOdds": 150
+          "americanOdds": 145
         },
         {
           "id": "8e5d515b10d8a5ffb324640ed60bcc55-h2h-1",
           "label": "Seattle Seahawks",
           "participantId": "nfl-seattle-seahawks",
           "side": "home",
-          "americanOdds": -180
+          "americanOdds": -175
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8e5d515b10d8a5ffb324640ed60bcc55:DraftKings:h2h"
@@ -2534,7 +2267,7 @@
           "participantId": "nfl-san-francisco-49ers",
           "side": "away",
           "line": 3,
-          "americanOdds": -105
+          "americanOdds": -108
         },
         {
           "id": "8e5d515b10d8a5ffb324640ed60bcc55-spreads-1",
@@ -2542,11 +2275,11 @@
           "participantId": "nfl-seattle-seahawks",
           "side": "home",
           "line": -3,
-          "americanOdds": -115
+          "americanOdds": -112
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8e5d515b10d8a5ffb324640ed60bcc55:DraftKings:spreads"
@@ -2575,7 +2308,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "8e5d515b10d8a5ffb324640ed60bcc55:DraftKings:totals"
@@ -2604,7 +2337,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86457f91112732f21ad4bb7d37bd291c:DraftKings:h2h"
@@ -2635,7 +2368,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86457f91112732f21ad4bb7d37bd291c:DraftKings:spreads"
@@ -2664,7 +2397,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "86457f91112732f21ad4bb7d37bd291c:DraftKings:totals"
@@ -2682,18 +2415,18 @@
           "label": "Buffalo Bills",
           "participantId": "nfl-buffalo-bills",
           "side": "away",
-          "americanOdds": 110
+          "americanOdds": 114
         },
         {
           "id": "e6d00eedd87d367e510314bd8cab8f6f-h2h-1",
           "label": "Los Angeles Rams",
           "participantId": "nfl-los-angeles-rams",
           "side": "home",
-          "americanOdds": -130
+          "americanOdds": -135
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e6d00eedd87d367e510314bd8cab8f6f:DraftKings:h2h"
@@ -2711,20 +2444,20 @@
           "label": "Buffalo Bills",
           "participantId": "nfl-buffalo-bills",
           "side": "away",
-          "line": 1.5,
-          "americanOdds": -105
+          "line": 2.5,
+          "americanOdds": -110
         },
         {
           "id": "e6d00eedd87d367e510314bd8cab8f6f-spreads-1",
           "label": "Los Angeles Rams",
           "participantId": "nfl-los-angeles-rams",
           "side": "home",
-          "line": -1.5,
-          "americanOdds": -115
+          "line": -2.5,
+          "americanOdds": -110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e6d00eedd87d367e510314bd8cab8f6f:DraftKings:spreads"
@@ -2753,7 +2486,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-01T17:02:22Z",
+      "lastUpdated": "2026-10-02T16:16:24Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e6d00eedd87d367e510314bd8cab8f6f:DraftKings:totals"
@@ -2762,8 +2495,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-01T17:03:10.329Z",
-  "staleAt": "2026-10-02T23:03:10.329Z",
+  "fetchedAt": "2026-10-02T16:17:24.566Z",
+  "staleAt": "2026-10-03T22:17:24.567Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

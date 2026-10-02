@@ -1,43 +1,11 @@
 {
   "data": [
     {
-      "id": "47dc7baa254659f3beb2ed2b38c207b6",
-      "leagueId": "nfl",
-      "startTime": "2026-09-29T00:16:16Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-chicago-bears",
-        "leagueId": "nfl",
-        "name": "Chicago Bears",
-        "shortName": "Bears",
-        "abbreviation": "CB"
-      },
-      "awayTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "homeScore": {
-        "teamId": "nfl-chicago-bears",
-        "total": 27
-      },
-      "awayScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": 7
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "47dc7baa254659f3beb2ed2b38c207b6"
-      }
-    },
-    {
       "id": "d55cb69fed50a09170560b5b75d8de86",
       "leagueId": "nfl",
-      "startTime": "2026-10-02T00:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-02T00:15:41Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-cleveland-browns",
         "leagueId": "nfl",
@@ -54,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "nfl-cleveland-browns",
-        "total": null
+        "total": 27
       },
       "awayScore": {
         "teamId": "nfl-pittsburgh-steelers",
-        "total": null
+        "total": 24
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -674,38 +642,6 @@
       }
     },
     {
-      "id": "9db4ed15fe34fca1fb62f040cd244591",
-      "leagueId": "nfl",
-      "startTime": "2026-10-11T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-new-york-jets",
-        "leagueId": "nfl",
-        "name": "New York Jets",
-        "shortName": "Jets",
-        "abbreviation": "NYJ"
-      },
-      "awayTeam": {
-        "id": "nfl-cleveland-browns",
-        "leagueId": "nfl",
-        "name": "Cleveland Browns",
-        "shortName": "Browns",
-        "abbreviation": "CB"
-      },
-      "homeScore": {
-        "teamId": "nfl-new-york-jets",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-cleveland-browns",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9db4ed15fe34fca1fb62f040cd244591"
-      }
-    },
-    {
       "id": "cc52bba56e74f5cddbe9011046181c3d",
       "leagueId": "nfl",
       "startTime": "2026-10-11T17:00:00Z",
@@ -735,38 +671,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cc52bba56e74f5cddbe9011046181c3d"
-      }
-    },
-    {
-      "id": "448d7cf18c6db4c811ed82ded1b72867",
-      "leagueId": "nfl",
-      "startTime": "2026-10-11T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-pittsburgh-steelers",
-        "leagueId": "nfl",
-        "name": "Pittsburgh Steelers",
-        "shortName": "Steelers",
-        "abbreviation": "PS"
-      },
-      "awayTeam": {
-        "id": "nfl-indianapolis-colts",
-        "leagueId": "nfl",
-        "name": "Indianapolis Colts",
-        "shortName": "Colts",
-        "abbreviation": "IC"
-      },
-      "homeScore": {
-        "teamId": "nfl-pittsburgh-steelers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-indianapolis-colts",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "448d7cf18c6db4c811ed82ded1b72867"
       }
     },
     {
@@ -1028,8 +932,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-01T17:03:10.329Z",
-  "staleAt": "2026-10-02T23:03:10.329Z",
+  "fetchedAt": "2026-10-02T16:17:24.566Z",
+  "staleAt": "2026-10-03T22:17:24.567Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

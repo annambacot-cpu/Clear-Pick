@@ -4,7 +4,8 @@
       "id": "b0998b3474fea9dee080784b8da01048",
       "leagueId": "ncaaf",
       "startTime": "2026-10-02T00:00:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-new-mexico-state-aggies",
         "leagueId": "ncaaf",
@@ -21,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-new-mexico-state-aggies",
-        "total": null
+        "total": 34
       },
       "awayScore": {
         "teamId": "ncaaf-western-kentucky-hilltoppers",
-        "total": null
+        "total": 13
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -35,8 +36,9 @@
     {
       "id": "3c64f3dd8efd756a90f09303e5517006",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-02T01:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-02T01:07:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-tulsa-golden-hurricane",
         "leagueId": "ncaaf",
@@ -53,11 +55,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-tulsa-golden-hurricane",
-        "total": null
+        "total": 44
       },
       "awayScore": {
         "teamId": "ncaaf-north-texas-mean-green",
-        "total": null
+        "total": 45
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -158,6 +160,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "0469a451e58ca81723a7760d4bede173"
+      }
+    },
+    {
+      "id": "9b2bcb758c7d7f4cb25d5102e4e9068e",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-03T15:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-charlotte-49ers",
+        "leagueId": "ncaaf",
+        "name": "Charlotte 49ers",
+        "shortName": "49ers",
+        "abbreviation": "C4"
+      },
+      "awayTeam": {
+        "id": "ncaaf-memphis-tigers",
+        "leagueId": "ncaaf",
+        "name": "Memphis Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "MT"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-charlotte-49ers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-memphis-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9b2bcb758c7d7f4cb25d5102e4e9068e"
       }
     },
     {
@@ -734,38 +768,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "f28938b05f7d4b4187e879917f6e583a"
-      }
-    },
-    {
-      "id": "9b2bcb758c7d7f4cb25d5102e4e9068e",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-03T19:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-charlotte-49ers",
-        "leagueId": "ncaaf",
-        "name": "Charlotte 49ers",
-        "shortName": "49ers",
-        "abbreviation": "C4"
-      },
-      "awayTeam": {
-        "id": "ncaaf-memphis-tigers",
-        "leagueId": "ncaaf",
-        "name": "Memphis Tigers",
-        "shortName": "Tigers",
-        "abbreviation": "MT"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-charlotte-49ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-memphis-tigers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9b2bcb758c7d7f4cb25d5102e4e9068e"
       }
     },
     {
@@ -2275,8 +2277,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-01T17:03:10.329Z",
-  "staleAt": "2026-10-02T23:03:10.329Z",
+  "fetchedAt": "2026-10-02T16:17:24.566Z",
+  "staleAt": "2026-10-03T22:17:24.567Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
