@@ -69,8 +69,9 @@
     {
       "id": "a39f3695781e9b2f76011e921d63b124",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-02T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-02T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-delaware-blue-hens",
         "leagueId": "ncaaf",
@@ -87,11 +88,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-delaware-blue-hens",
-        "total": null
+        "total": 14
       },
       "awayScore": {
         "teamId": "ncaaf-liberty-flames",
-        "total": null
+        "total": 30
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -101,8 +102,9 @@
     {
       "id": "e61c74f0e28b46ad83270a6234b425f4",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-02T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-02T23:06:16Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-virginia-tech-hokies",
         "leagueId": "ncaaf",
@@ -119,11 +121,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-virginia-tech-hokies",
-        "total": null
+        "total": 33
       },
       "awayScore": {
         "teamId": "ncaaf-pittsburgh-panthers",
-        "total": null
+        "total": 35
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -133,8 +135,9 @@
     {
       "id": "0469a451e58ca81723a7760d4bede173",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-03T00:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-03T00:14:11Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-northwestern-wildcats",
         "leagueId": "ncaaf",
@@ -151,11 +154,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-northwestern-wildcats",
-        "total": null
+        "total": 34
       },
       "awayScore": {
         "teamId": "ncaaf-penn-state-nittany-lions",
-        "total": null
+        "total": 13
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1955,6 +1958,38 @@
       }
     },
     {
+      "id": "9aa0a267b153a6cc0d6c3e5746e78213",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-07T23:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-florida-international-panthers",
+        "leagueId": "ncaaf",
+        "name": "Florida International Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "FIP"
+      },
+      "awayTeam": {
+        "id": "ncaaf-new-mexico-state-aggies",
+        "leagueId": "ncaaf",
+        "name": "New Mexico State Aggies",
+        "shortName": "Aggies",
+        "abbreviation": "NMS"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-florida-international-panthers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-new-mexico-state-aggies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9aa0a267b153a6cc0d6c3e5746e78213"
+      }
+    },
+    {
       "id": "a168f1bed30ce7d56dc2b77dbfe37705",
       "leagueId": "ncaaf",
       "startTime": "2026-10-10T01:00:00Z",
@@ -2048,38 +2083,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "3e691b53c660a64495a44816768176e8"
-      }
-    },
-    {
-      "id": "4462f1fa168ab2a5a25fe2807ebec8ac",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-10T16:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-penn-state-nittany-lions",
-        "leagueId": "ncaaf",
-        "name": "Penn State Nittany Lions",
-        "shortName": "Lions",
-        "abbreviation": "PSN"
-      },
-      "awayTeam": {
-        "id": "ncaaf-usc-trojans",
-        "leagueId": "ncaaf",
-        "name": "USC Trojans",
-        "shortName": "Trojans",
-        "abbreviation": "UT"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-penn-state-nittany-lions",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-usc-trojans",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4462f1fa168ab2a5a25fe2807ebec8ac"
       }
     },
     {
@@ -2277,8 +2280,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-02T16:17:24.566Z",
-  "staleAt": "2026-10-03T22:17:24.567Z",
+  "fetchedAt": "2026-10-03T14:45:20.104Z",
+  "staleAt": "2026-10-04T20:45:20.104Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

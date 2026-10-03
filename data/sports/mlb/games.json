@@ -1,138 +1,6 @@
 {
   "data": [
     {
-      "id": "08d9219713246e3edff39b4f549085d8",
-      "leagueId": "mlb",
-      "startTime": "2026-09-29T18:16:21Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-atlanta-braves",
-        "leagueId": "mlb",
-        "name": "Atlanta Braves",
-        "shortName": "Braves",
-        "abbreviation": "AB"
-      },
-      "awayTeam": {
-        "id": "mlb-philadelphia-phillies",
-        "leagueId": "mlb",
-        "name": "Philadelphia Phillies",
-        "shortName": "Phillies",
-        "abbreviation": "PP"
-      },
-      "homeScore": {
-        "teamId": "mlb-atlanta-braves",
-        "total": 5
-      },
-      "awayScore": {
-        "teamId": "mlb-philadelphia-phillies",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "08d9219713246e3edff39b4f549085d8"
-      }
-    },
-    {
-      "id": "3a08d35ecf12b54dc25f5912ccecf222",
-      "leagueId": "mlb",
-      "startTime": "2026-09-29T21:10:26Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-houston-astros",
-        "leagueId": "mlb",
-        "name": "Houston Astros",
-        "shortName": "Astros",
-        "abbreviation": "HA"
-      },
-      "awayTeam": {
-        "id": "mlb-chicago-white-sox",
-        "leagueId": "mlb",
-        "name": "Chicago White Sox",
-        "shortName": "Sox",
-        "abbreviation": "CWS"
-      },
-      "homeScore": {
-        "teamId": "mlb-houston-astros",
-        "total": 3
-      },
-      "awayScore": {
-        "teamId": "mlb-chicago-white-sox",
-        "total": 6
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3a08d35ecf12b54dc25f5912ccecf222"
-      }
-    },
-    {
-      "id": "4cb76cceb16eb603c683038d132f4642",
-      "leagueId": "mlb",
-      "startTime": "2026-09-30T00:15:08Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-new-york-yankees",
-        "leagueId": "mlb",
-        "name": "New York Yankees",
-        "shortName": "Yankees",
-        "abbreviation": "NYY"
-      },
-      "awayTeam": {
-        "id": "mlb-boston-red-sox",
-        "leagueId": "mlb",
-        "name": "Boston Red Sox",
-        "shortName": "Sox",
-        "abbreviation": "BRS"
-      },
-      "homeScore": {
-        "teamId": "mlb-new-york-yankees",
-        "total": 9
-      },
-      "awayScore": {
-        "teamId": "mlb-boston-red-sox",
-        "total": 0
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4cb76cceb16eb603c683038d132f4642"
-      }
-    },
-    {
-      "id": "98adc841e3aababc93878e3cf743a2d4",
-      "leagueId": "mlb",
-      "startTime": "2026-09-30T02:10:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-san-diego-padres",
-        "leagueId": "mlb",
-        "name": "San Diego Padres",
-        "shortName": "Padres",
-        "abbreviation": "SDP"
-      },
-      "awayTeam": {
-        "id": "mlb-chicago-cubs",
-        "leagueId": "mlb",
-        "name": "Chicago Cubs",
-        "shortName": "Cubs",
-        "abbreviation": "CC"
-      },
-      "homeScore": {
-        "teamId": "mlb-san-diego-padres",
-        "total": 8
-      },
-      "awayScore": {
-        "teamId": "mlb-chicago-cubs",
-        "total": 0
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "98adc841e3aababc93878e3cf743a2d4"
-      }
-    },
-    {
       "id": "9e23239e0075a017225697fa3bcd88b3",
       "leagueId": "mlb",
       "startTime": "2026-09-30T18:16:00Z",
@@ -428,8 +296,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-02T16:17:24.566Z",
-  "staleAt": "2026-10-03T22:17:24.567Z",
+  "fetchedAt": "2026-10-03T14:45:20.104Z",
+  "staleAt": "2026-10-04T20:45:20.104Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
