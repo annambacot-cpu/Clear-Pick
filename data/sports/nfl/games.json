@@ -36,8 +36,8 @@
     {
       "id": "c9d8ed8aa4889486eaf10a630138ede0",
       "leagueId": "nfl",
-      "startTime": "2026-10-04T13:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-04T13:32:19Z",
+      "status": "live",
       "homeTeam": {
         "id": "nfl-washington-commanders",
         "leagueId": "nfl",
@@ -54,11 +54,11 @@
       },
       "homeScore": {
         "teamId": "nfl-washington-commanders",
-        "total": null
+        "total": 6
       },
       "awayScore": {
         "teamId": "nfl-indianapolis-colts",
-        "total": null
+        "total": 17
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -738,38 +738,6 @@
       }
     },
     {
-      "id": "fbffd0b7722fd81d68d5d62472dc80e8",
-      "leagueId": "nfl",
-      "startTime": "2026-10-11T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-washington-commanders",
-        "leagueId": "nfl",
-        "name": "Washington Commanders",
-        "shortName": "Commanders",
-        "abbreviation": "WC"
-      },
-      "awayTeam": {
-        "id": "nfl-new-york-giants",
-        "leagueId": "nfl",
-        "name": "New York Giants",
-        "shortName": "Giants",
-        "abbreviation": "NYG"
-      },
-      "homeScore": {
-        "teamId": "nfl-washington-commanders",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-new-york-giants",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fbffd0b7722fd81d68d5d62472dc80e8"
-      }
-    },
-    {
       "id": "d1d408fdfd272046fb517fe992a1c5a0",
       "leagueId": "nfl",
       "startTime": "2026-10-11T20:05:00Z",
@@ -932,8 +900,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-03T14:45:20.104Z",
-  "staleAt": "2026-10-04T20:45:20.104Z",
+  "fetchedAt": "2026-10-04T15:23:56.262Z",
+  "staleAt": "2026-10-05T21:23:56.262Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
