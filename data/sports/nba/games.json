@@ -193,6 +193,38 @@
       }
     },
     {
+      "id": "60431a347feac3f1c7ed925b8b769ec5",
+      "leagueId": "nba",
+      "startTime": "2026-10-21T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-toronto-raptors",
+        "leagueId": "nba",
+        "name": "Toronto Raptors",
+        "shortName": "Raptors",
+        "abbreviation": "TR"
+      },
+      "awayTeam": {
+        "id": "nba-chicago-bulls",
+        "leagueId": "nba",
+        "name": "Chicago Bulls",
+        "shortName": "Bulls",
+        "abbreviation": "CB"
+      },
+      "homeScore": {
+        "teamId": "nba-toronto-raptors",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-chicago-bulls",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "60431a347feac3f1c7ed925b8b769ec5"
+      }
+    },
+    {
       "id": "93cdd8e4ade5697cfccf42ee42c4d207",
       "leagueId": "nba",
       "startTime": "2026-10-21T23:40:00Z",
@@ -382,6 +414,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "71e24359951927c356bd8c852fb867dd"
+      }
+    },
+    {
+      "id": "f6be3e587d43c3821d8f059c3a1f1967",
+      "leagueId": "nba",
+      "startTime": "2026-10-22T02:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-los-angeles-clippers",
+        "leagueId": "nba",
+        "name": "Los Angeles Clippers",
+        "shortName": "Clippers",
+        "abbreviation": "LAC"
+      },
+      "awayTeam": {
+        "id": "nba-sacramento-kings",
+        "leagueId": "nba",
+        "name": "Sacramento Kings",
+        "shortName": "Kings",
+        "abbreviation": "SK"
+      },
+      "homeScore": {
+        "teamId": "nba-los-angeles-clippers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-sacramento-kings",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f6be3e587d43c3821d8f059c3a1f1967"
       }
     },
     {
@@ -1411,8 +1475,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-03T14:45:20.104Z",
-  "staleAt": "2026-10-04T20:45:20.104Z",
+  "fetchedAt": "2026-10-06T16:50:27.774Z",
+  "staleAt": "2026-10-07T22:50:27.775Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
