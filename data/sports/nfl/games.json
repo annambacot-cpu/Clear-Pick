@@ -1,43 +1,11 @@
 {
   "data": [
     {
-      "id": "8bd90781e17e6d97df3941063cedae1e",
-      "leagueId": "nfl",
-      "startTime": "2026-10-06T00:17:17Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-new-orleans-saints",
-        "leagueId": "nfl",
-        "name": "New Orleans Saints",
-        "shortName": "Saints",
-        "abbreviation": "NOS"
-      },
-      "awayTeam": {
-        "id": "nfl-atlanta-falcons",
-        "leagueId": "nfl",
-        "name": "Atlanta Falcons",
-        "shortName": "Falcons",
-        "abbreviation": "AF"
-      },
-      "homeScore": {
-        "teamId": "nfl-new-orleans-saints",
-        "total": 24
-      },
-      "awayScore": {
-        "teamId": "nfl-atlanta-falcons",
-        "total": 45
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8bd90781e17e6d97df3941063cedae1e"
-      }
-    },
-    {
       "id": "259b5df9aa0d10257f56de78523495e0",
       "leagueId": "nfl",
-      "startTime": "2026-10-09T00:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-09T00:15:55Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-dallas-cowboys",
         "leagueId": "nfl",
@@ -54,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "nfl-dallas-cowboys",
-        "total": null
+        "total": 16
       },
       "awayScore": {
         "teamId": "nfl-tampa-bay-buccaneers",
-        "total": null
+        "total": 24
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -770,38 +738,6 @@
       }
     },
     {
-      "id": "27f3994841ce8081c0b7349cf3d1e3d7",
-      "leagueId": "nfl",
-      "startTime": "2026-10-18T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-tampa-bay-buccaneers",
-        "leagueId": "nfl",
-        "name": "Tampa Bay Buccaneers",
-        "shortName": "Buccaneers",
-        "abbreviation": "TBB"
-      },
-      "awayTeam": {
-        "id": "nfl-pittsburgh-steelers",
-        "leagueId": "nfl",
-        "name": "Pittsburgh Steelers",
-        "shortName": "Steelers",
-        "abbreviation": "PS"
-      },
-      "homeScore": {
-        "teamId": "nfl-tampa-bay-buccaneers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-pittsburgh-steelers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "27f3994841ce8081c0b7349cf3d1e3d7"
-      }
-    },
-    {
       "id": "3729ac6d2a66b642850caf2044cdc658",
       "leagueId": "nfl",
       "startTime": "2026-10-18T20:05:00Z",
@@ -898,38 +834,6 @@
       }
     },
     {
-      "id": "82fd5a159fa130e67abab93a9537f70b",
-      "leagueId": "nfl",
-      "startTime": "2026-10-19T00:20:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-green-bay-packers",
-        "leagueId": "nfl",
-        "name": "Green Bay Packers",
-        "shortName": "Packers",
-        "abbreviation": "GBP"
-      },
-      "awayTeam": {
-        "id": "nfl-dallas-cowboys",
-        "leagueId": "nfl",
-        "name": "Dallas Cowboys",
-        "shortName": "Cowboys",
-        "abbreviation": "DC"
-      },
-      "homeScore": {
-        "teamId": "nfl-green-bay-packers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-dallas-cowboys",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "82fd5a159fa130e67abab93a9537f70b"
-      }
-    },
-    {
       "id": "f122527f003276d3bca19efa48c902c1",
       "leagueId": "nfl",
       "startTime": "2026-10-20T00:15:00Z",
@@ -964,8 +868,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-08T17:25:20.741Z",
-  "staleAt": "2026-10-09T23:25:20.742Z",
+  "fetchedAt": "2026-10-09T17:01:15.092Z",
+  "staleAt": "2026-10-10T23:01:15.092Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

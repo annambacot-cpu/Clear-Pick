@@ -102,8 +102,9 @@
     {
       "id": "b274da111dc9826f36e5fa238998dd69",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-08T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-08T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-liberty-flames",
         "leagueId": "ncaaf",
@@ -120,11 +121,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-liberty-flames",
-        "total": null
+        "total": 35
       },
       "awayScore": {
         "teamId": "ncaaf-sam-houston-state-bearkats",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -134,8 +135,9 @@
     {
       "id": "561884d0d63e91b022e96bc6c415accd",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-08T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-08T23:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-western-kentucky-hilltoppers",
         "leagueId": "ncaaf",
@@ -152,11 +154,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-western-kentucky-hilltoppers",
-        "total": null
+        "total": 34
       },
       "awayScore": {
         "teamId": "ncaaf-missouri-state-bears",
-        "total": null
+        "total": 13
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -166,8 +168,9 @@
     {
       "id": "52f2d012fe3e686087077b0d7083159a",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-08T23:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-08T23:37:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-arkansas-state-red-wolves",
         "leagueId": "ncaaf",
@@ -184,11 +187,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-arkansas-state-red-wolves",
-        "total": null
+        "total": 49
       },
       "awayScore": {
         "teamId": "ncaaf-south-alabama-jaguars",
-        "total": null
+        "total": 56
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -198,8 +201,9 @@
     {
       "id": "2a637494f07611db6ba822fb84218d58",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-08T23:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-08T23:37:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-utsa-roadrunners",
         "leagueId": "ncaaf",
@@ -216,11 +220,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-utsa-roadrunners",
-        "total": null
+        "total": 31
       },
       "awayScore": {
         "teamId": "ncaaf-south-florida-bulls",
-        "total": null
+        "total": 24
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -740,6 +744,38 @@
       }
     },
     {
+      "id": "f513c11a62ce92d74d70cf446e92e197",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-10T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-east-carolina-pirates",
+        "leagueId": "ncaaf",
+        "name": "East Carolina Pirates",
+        "shortName": "Pirates",
+        "abbreviation": "ECP"
+      },
+      "awayTeam": {
+        "id": "ncaaf-rice-owls",
+        "leagueId": "ncaaf",
+        "name": "Rice Owls",
+        "shortName": "Owls",
+        "abbreviation": "RO"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-east-carolina-pirates",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-rice-owls",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f513c11a62ce92d74d70cf446e92e197"
+      }
+    },
+    {
       "id": "43dda5e509a9619bee41f752a2c25fa7",
       "leagueId": "ncaaf",
       "startTime": "2026-10-10T18:00:00Z",
@@ -1249,38 +1285,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "80fbdc19285ed9bab284269273562eb9"
-      }
-    },
-    {
-      "id": "f513c11a62ce92d74d70cf446e92e197",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-10T20:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-east-carolina-pirates",
-        "leagueId": "ncaaf",
-        "name": "East Carolina Pirates",
-        "shortName": "Pirates",
-        "abbreviation": "ECP"
-      },
-      "awayTeam": {
-        "id": "ncaaf-rice-owls",
-        "leagueId": "ncaaf",
-        "name": "Rice Owls",
-        "shortName": "Owls",
-        "abbreviation": "RO"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-east-carolina-pirates",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-rice-owls",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f513c11a62ce92d74d70cf446e92e197"
       }
     },
     {
@@ -1924,6 +1928,38 @@
       }
     },
     {
+      "id": "f00195614a0c305207222ba2044a9c24",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-16T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-texas-state-bobcats",
+        "leagueId": "ncaaf",
+        "name": "Texas State Bobcats",
+        "shortName": "Bobcats",
+        "abbreviation": "TSB"
+      },
+      "awayTeam": {
+        "id": "ncaaf-colorado-state-rams",
+        "leagueId": "ncaaf",
+        "name": "Colorado State Rams",
+        "shortName": "Rams",
+        "abbreviation": "CSR"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-texas-state-bobcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-colorado-state-rams",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f00195614a0c305207222ba2044a9c24"
+      }
+    },
+    {
       "id": "490b66058b6c826a08589c471698ce50",
       "leagueId": "ncaaf",
       "startTime": "2026-10-17T16:00:00Z",
@@ -2406,8 +2442,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-08T17:25:20.741Z",
-  "staleAt": "2026-10-09T23:25:20.742Z",
+  "fetchedAt": "2026-10-09T17:01:15.092Z",
+  "staleAt": "2026-10-10T23:01:15.092Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
