@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "57ad14afc7db1843fd56f5971dadb058",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-07T00:07:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "ncaaf-troy-trojans",
-        "leagueId": "ncaaf",
-        "name": "Troy Trojans",
-        "shortName": "Trojans",
-        "abbreviation": "TT"
-      },
-      "awayTeam": {
-        "id": "ncaaf-southern-mississippi-golden-eagles",
-        "leagueId": "ncaaf",
-        "name": "Southern Mississippi Golden Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "SMG"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-troy-trojans",
-        "total": 55
-      },
-      "awayScore": {
-        "teamId": "ncaaf-southern-mississippi-golden-eagles",
-        "total": 34
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "57ad14afc7db1843fd56f5971dadb058"
-      }
-    },
-    {
       "id": "c89488b9c83038e85e02e92481d093fe",
       "leagueId": "ncaaf",
       "startTime": "2026-10-07T23:05:00Z",
@@ -234,8 +201,9 @@
     {
       "id": "7556739cc30a38511b7f631581a416e4",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-09T23:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-09T23:05:56Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-louisville-cardinals",
         "leagueId": "ncaaf",
@@ -252,11 +220,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-louisville-cardinals",
-        "total": null
+        "total": 44
       },
       "awayScore": {
         "teamId": "ncaaf-florida-state-seminoles",
-        "total": null
+        "total": 20
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -264,74 +232,11 @@
       }
     },
     {
-      "id": "a168f1bed30ce7d56dc2b77dbfe37705",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-10T01:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-washington-huskies",
-        "leagueId": "ncaaf",
-        "name": "Washington Huskies",
-        "shortName": "Huskies",
-        "abbreviation": "WH"
-      },
-      "awayTeam": {
-        "id": "ncaaf-iowa-hawkeyes",
-        "leagueId": "ncaaf",
-        "name": "Iowa Hawkeyes",
-        "shortName": "Hawkeyes",
-        "abbreviation": "IH"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-washington-huskies",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-iowa-hawkeyes",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a168f1bed30ce7d56dc2b77dbfe37705"
-      }
-    },
-    {
-      "id": "23614f055733537fb79ab73e68040eca",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-10T01:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-san-jose-state-spartans",
-        "leagueId": "ncaaf",
-        "name": "San Jose State Spartans",
-        "shortName": "Spartans",
-        "abbreviation": "SJS"
-      },
-      "awayTeam": {
-        "id": "ncaaf-wyoming-cowboys",
-        "leagueId": "ncaaf",
-        "name": "Wyoming Cowboys",
-        "shortName": "Cowboys",
-        "abbreviation": "WC"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-san-jose-state-spartans",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-wyoming-cowboys",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "23614f055733537fb79ab73e68040eca"
-      }
-    },
-    {
       "id": "2ec27bbe3b14c521ba8a3f3f6e46f4ac",
       "leagueId": "ncaaf",
       "startTime": "2026-10-10T01:00:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-utah-state-aggies",
         "leagueId": "ncaaf",
@@ -348,11 +253,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-utah-state-aggies",
-        "total": null
+        "total": 17
       },
       "awayScore": {
         "teamId": "ncaaf-washington-state-cougars",
-        "total": null
+        "total": 16
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -360,10 +265,77 @@
       }
     },
     {
+      "id": "23614f055733537fb79ab73e68040eca",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-10T01:02:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "ncaaf-san-jose-state-spartans",
+        "leagueId": "ncaaf",
+        "name": "San Jose State Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "SJS"
+      },
+      "awayTeam": {
+        "id": "ncaaf-wyoming-cowboys",
+        "leagueId": "ncaaf",
+        "name": "Wyoming Cowboys",
+        "shortName": "Cowboys",
+        "abbreviation": "WC"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-san-jose-state-spartans",
+        "total": 13
+      },
+      "awayScore": {
+        "teamId": "ncaaf-wyoming-cowboys",
+        "total": 16
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "23614f055733537fb79ab73e68040eca"
+      }
+    },
+    {
+      "id": "a168f1bed30ce7d56dc2b77dbfe37705",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-10T01:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "ncaaf-washington-huskies",
+        "leagueId": "ncaaf",
+        "name": "Washington Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "WH"
+      },
+      "awayTeam": {
+        "id": "ncaaf-iowa-hawkeyes",
+        "leagueId": "ncaaf",
+        "name": "Iowa Hawkeyes",
+        "shortName": "Hawkeyes",
+        "abbreviation": "IH"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-washington-huskies",
+        "total": 24
+      },
+      "awayScore": {
+        "teamId": "ncaaf-iowa-hawkeyes",
+        "total": 41
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a168f1bed30ce7d56dc2b77dbfe37705"
+      }
+    },
+    {
       "id": "55d9636153ca5741d460ef2f78b663d9",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-10T02:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-10T02:30:33Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-byu-cougars",
         "leagueId": "ncaaf",
@@ -380,11 +352,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-byu-cougars",
-        "total": null
+        "total": 24
       },
       "awayScore": {
         "teamId": "ncaaf-iowa-state-cyclones",
-        "total": null
+        "total": 10
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -520,38 +492,6 @@
       }
     },
     {
-      "id": "9e243e91f8f94e6431da5cc5c3cc8fda",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-10T16:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-missouri-tigers",
-        "leagueId": "ncaaf",
-        "name": "Missouri Tigers",
-        "shortName": "Tigers",
-        "abbreviation": "MT"
-      },
-      "awayTeam": {
-        "id": "ncaaf-texas-a-m-aggies",
-        "leagueId": "ncaaf",
-        "name": "Texas A&M Aggies",
-        "shortName": "Aggies",
-        "abbreviation": "TAA"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-missouri-tigers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-texas-a-m-aggies",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9e243e91f8f94e6431da5cc5c3cc8fda"
-      }
-    },
-    {
       "id": "416ce0307b7b9d97f5365a29c1729339",
       "leagueId": "ncaaf",
       "startTime": "2026-10-10T16:00:00Z",
@@ -645,6 +585,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "690e2edaba34c383d2ebfa8f8394f973"
+      }
+    },
+    {
+      "id": "9e243e91f8f94e6431da5cc5c3cc8fda",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-10T16:05:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-missouri-tigers",
+        "leagueId": "ncaaf",
+        "name": "Missouri Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "MT"
+      },
+      "awayTeam": {
+        "id": "ncaaf-texas-a-m-aggies",
+        "leagueId": "ncaaf",
+        "name": "Texas A&M Aggies",
+        "shortName": "Aggies",
+        "abbreviation": "TAA"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-missouri-tigers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-texas-a-m-aggies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9e243e91f8f94e6431da5cc5c3cc8fda"
       }
     },
     {
@@ -1736,6 +1708,38 @@
       }
     },
     {
+      "id": "616eba68e65fe65023aa2335e81096c8",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-11T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-utah-utes",
+        "leagueId": "ncaaf",
+        "name": "Utah Utes",
+        "shortName": "Utes",
+        "abbreviation": "UU"
+      },
+      "awayTeam": {
+        "id": "ncaaf-kansas-jayhawks",
+        "leagueId": "ncaaf",
+        "name": "Kansas Jayhawks",
+        "shortName": "Jayhawks",
+        "abbreviation": "KJ"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-utah-utes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-kansas-jayhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "616eba68e65fe65023aa2335e81096c8"
+      }
+    },
+    {
       "id": "234d9123fdc010716a5a844efaf7ab43",
       "leagueId": "ncaaf",
       "startTime": "2026-10-11T00:00:00Z",
@@ -1765,38 +1769,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "234d9123fdc010716a5a844efaf7ab43"
-      }
-    },
-    {
-      "id": "616eba68e65fe65023aa2335e81096c8",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-11T02:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-utah-utes",
-        "leagueId": "ncaaf",
-        "name": "Utah Utes",
-        "shortName": "Utes",
-        "abbreviation": "UU"
-      },
-      "awayTeam": {
-        "id": "ncaaf-kansas-jayhawks",
-        "leagueId": "ncaaf",
-        "name": "Kansas Jayhawks",
-        "shortName": "Jayhawks",
-        "abbreviation": "KJ"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-utah-utes",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-kansas-jayhawks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "616eba68e65fe65023aa2335e81096c8"
       }
     },
     {
@@ -2312,70 +2284,6 @@
       }
     },
     {
-      "id": "33f259d8951535f271a8df5c790a832e",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-17T23:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-miami-hurricanes",
-        "leagueId": "ncaaf",
-        "name": "Miami Hurricanes",
-        "shortName": "Hurricanes",
-        "abbreviation": "MH"
-      },
-      "awayTeam": {
-        "id": "ncaaf-florida-state-seminoles",
-        "leagueId": "ncaaf",
-        "name": "Florida State Seminoles",
-        "shortName": "Seminoles",
-        "abbreviation": "FSS"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-miami-hurricanes",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-florida-state-seminoles",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "33f259d8951535f271a8df5c790a832e"
-      }
-    },
-    {
-      "id": "bd2d52fadefed8a6174e73c84cca9ce3",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-17T23:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-byu-cougars",
-        "leagueId": "ncaaf",
-        "name": "BYU Cougars",
-        "shortName": "Cougars",
-        "abbreviation": "BC"
-      },
-      "awayTeam": {
-        "id": "ncaaf-notre-dame-fighting-irish",
-        "leagueId": "ncaaf",
-        "name": "Notre Dame Fighting Irish",
-        "shortName": "Irish",
-        "abbreviation": "NDF"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-byu-cougars",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-notre-dame-fighting-irish",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "bd2d52fadefed8a6174e73c84cca9ce3"
-      }
-    },
-    {
       "id": "7830c18dc7e87ebf087ddded14c50de4",
       "leagueId": "ncaaf",
       "startTime": "2026-10-17T23:30:00Z",
@@ -2442,8 +2350,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-09T17:01:15.092Z",
-  "staleAt": "2026-10-10T23:01:15.092Z",
+  "fetchedAt": "2026-10-10T15:53:29.681Z",
+  "staleAt": "2026-10-11T21:53:29.682Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

@@ -4,7 +4,8 @@
       "id": "b870dcfba5e5920d3f1551a3aa1ea435",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-10T11:30:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-arsenal",
         "leagueId": "soccer_epl",
@@ -21,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-arsenal",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "soccer_epl-leeds-united",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -36,7 +37,7 @@
       "id": "02e6c0ccb11bb7ce78989ce49d67110b",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-10T14:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "soccer_epl-aston-villa",
         "leagueId": "soccer_epl",
@@ -53,11 +54,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-aston-villa",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "soccer_epl-brentford",
-        "total": null
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -68,7 +69,7 @@
       "id": "45d4a466e32cd2b4ea535207923ceaf5",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-10T14:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "soccer_epl-chelsea",
         "leagueId": "soccer_epl",
@@ -85,11 +86,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-chelsea",
-        "total": null
+        "total": 5
       },
       "awayScore": {
         "teamId": "soccer_epl-bournemouth",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -100,7 +101,7 @@
       "id": "380b8f24ec5430fb545a7490c1017285",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-10T14:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "soccer_epl-sunderland",
         "leagueId": "soccer_epl",
@@ -117,11 +118,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-sunderland",
-        "total": null
+        "total": 0
       },
       "awayScore": {
         "teamId": "soccer_epl-brighton-and-hove-albion",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -132,7 +133,7 @@
       "id": "288b4ff00c79daa712c911c564fe1be7",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-10T14:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "soccer_epl-ipswich-town",
         "leagueId": "soccer_epl",
@@ -149,11 +150,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-ipswich-town",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "soccer_epl-fulham",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -643,8 +644,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-09T17:01:15.092Z",
-  "staleAt": "2026-10-10T23:01:15.092Z",
+  "fetchedAt": "2026-10-10T15:53:29.681Z",
+  "staleAt": "2026-10-11T21:53:29.682Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

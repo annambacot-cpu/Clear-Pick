@@ -1,72 +1,6 @@
 {
   "data": [
     {
-      "id": "1bc3bf1d3034010bdfb31d928a71177a",
-      "leagueId": "mlb",
-      "startTime": "2026-10-06T22:11:38Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-atlanta-braves",
-        "leagueId": "mlb",
-        "name": "Atlanta Braves",
-        "shortName": "Braves",
-        "abbreviation": "AB"
-      },
-      "awayTeam": {
-        "id": "mlb-los-angeles-dodgers",
-        "leagueId": "mlb",
-        "name": "Los Angeles Dodgers",
-        "shortName": "Dodgers",
-        "abbreviation": "LAD"
-      },
-      "homeScore": {
-        "teamId": "mlb-atlanta-braves",
-        "total": 1
-      },
-      "awayScore": {
-        "teamId": "mlb-los-angeles-dodgers",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1bc3bf1d3034010bdfb31d928a71177a"
-      }
-    },
-    {
-      "id": "62d8e1c18355ab6b3913d7a28fa677c2",
-      "leagueId": "mlb",
-      "startTime": "2026-10-07T01:40:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-san-diego-padres",
-        "leagueId": "mlb",
-        "name": "San Diego Padres",
-        "shortName": "Padres",
-        "abbreviation": "SDP"
-      },
-      "awayTeam": {
-        "id": "mlb-milwaukee-brewers",
-        "leagueId": "mlb",
-        "name": "Milwaukee Brewers",
-        "shortName": "Brewers",
-        "abbreviation": "MB"
-      },
-      "homeScore": {
-        "teamId": "mlb-san-diego-padres",
-        "total": 4
-      },
-      "awayScore": {
-        "teamId": "mlb-milwaukee-brewers",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "62d8e1c18355ab6b3913d7a28fa677c2"
-      }
-    },
-    {
       "id": "cd974d85e2a617152370056d22cd8deb",
       "leagueId": "mlb",
       "startTime": "2026-10-07T20:10:00Z",
@@ -298,8 +232,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-09T17:01:15.092Z",
-  "staleAt": "2026-10-10T23:01:15.092Z",
+  "fetchedAt": "2026-10-10T15:53:29.681Z",
+  "staleAt": "2026-10-11T21:53:29.682Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
