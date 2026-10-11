@@ -36,8 +36,8 @@
     {
       "id": "21b26266f3d78af02eb672e606275d95",
       "leagueId": "nfl",
-      "startTime": "2026-10-11T13:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-11T13:32:30Z",
+      "status": "live",
       "homeTeam": {
         "id": "nfl-jacksonville-jaguars",
         "leagueId": "nfl",
@@ -54,11 +54,11 @@
       },
       "homeScore": {
         "teamId": "nfl-jacksonville-jaguars",
-        "total": null
+        "total": 10
       },
       "awayScore": {
         "teamId": "nfl-philadelphia-eagles",
-        "total": null
+        "total": 14
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -514,38 +514,6 @@
       }
     },
     {
-      "id": "57418b2cf5aca558b3c98eafac1e264a",
-      "leagueId": "nfl",
-      "startTime": "2026-10-18T13:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-jacksonville-jaguars",
-        "leagueId": "nfl",
-        "name": "Jacksonville Jaguars",
-        "shortName": "Jaguars",
-        "abbreviation": "JJ"
-      },
-      "awayTeam": {
-        "id": "nfl-houston-texans",
-        "leagueId": "nfl",
-        "name": "Houston Texans",
-        "shortName": "Texans",
-        "abbreviation": "HT"
-      },
-      "homeScore": {
-        "teamId": "nfl-jacksonville-jaguars",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-houston-texans",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "57418b2cf5aca558b3c98eafac1e264a"
-      }
-    },
-    {
       "id": "7c312fdf24fb35f58b0e07c2932cc997",
       "leagueId": "nfl",
       "startTime": "2026-10-18T17:00:00Z",
@@ -607,38 +575,6 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e86227938fd3cf008fc5648fb5128344"
-      }
-    },
-    {
-      "id": "caca2d752fe1a1779029082e95332fcc",
-      "leagueId": "nfl",
-      "startTime": "2026-10-18T17:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "awayTeam": {
-        "id": "nfl-carolina-panthers",
-        "leagueId": "nfl",
-        "name": "Carolina Panthers",
-        "shortName": "Panthers",
-        "abbreviation": "CP"
-      },
-      "homeScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-carolina-panthers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "caca2d752fe1a1779029082e95332fcc"
       }
     },
     {
@@ -868,8 +804,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-10T15:53:29.681Z",
-  "staleAt": "2026-10-11T21:53:29.682Z",
+  "fetchedAt": "2026-10-11T16:20:27.701Z",
+  "staleAt": "2026-10-12T22:20:27.701Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
