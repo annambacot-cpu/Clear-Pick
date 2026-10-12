@@ -268,7 +268,8 @@
       "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-11T15:30:00Z",
-      "status": "live",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-liverpool",
         "leagueId": "soccer_epl",
@@ -289,7 +290,7 @@
       },
       "awayScore": {
         "teamId": "soccer_epl-manchester-city",
-        "total": 0
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -300,7 +301,7 @@
       "id": "acd5bd945dd953ad1e300df5bfe696f9",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-12T19:00:00Z",
-      "status": "scheduled",
+      "status": "live",
       "homeTeam": {
         "id": "soccer_epl-coventry-city",
         "leagueId": "soccer_epl",
@@ -317,11 +318,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-coventry-city",
-        "total": null
+        "total": 1
       },
       "awayScore": {
         "teamId": "soccer_epl-newcastle-united",
-        "total": null
+        "total": 0
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -971,8 +972,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-11T16:20:27.701Z",
-  "staleAt": "2026-10-12T22:20:27.701Z",
+  "fetchedAt": "2026-10-12T19:50:33.283Z",
+  "staleAt": "2026-10-14T01:50:33.283Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
