@@ -70,7 +70,8 @@
       "id": "bc2a93ac7a7b15d6411dc593386ff048",
       "leagueId": "mlb",
       "startTime": "2026-10-12T21:10:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-milwaukee-brewers",
         "leagueId": "mlb",
@@ -87,11 +88,11 @@
       },
       "homeScore": {
         "teamId": "mlb-milwaukee-brewers",
-        "total": null
+        "total": 7
       },
       "awayScore": {
         "teamId": "mlb-los-angeles-dodgers",
-        "total": null
+        "total": 4
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -101,7 +102,40 @@
     {
       "id": "362511067a27b4ef89418639e15e80b6",
       "leagueId": "mlb",
-      "startTime": "2026-10-13T00:00:00Z",
+      "startTime": "2026-10-13T00:08:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "mlb-tampa-bay-rays",
+        "leagueId": "mlb",
+        "name": "Tampa Bay Rays",
+        "shortName": "Rays",
+        "abbreviation": "TBR"
+      },
+      "awayTeam": {
+        "id": "mlb-cleveland-guardians",
+        "leagueId": "mlb",
+        "name": "Cleveland Guardians",
+        "shortName": "Guardians",
+        "abbreviation": "CG"
+      },
+      "homeScore": {
+        "teamId": "mlb-tampa-bay-rays",
+        "total": 3
+      },
+      "awayScore": {
+        "teamId": "mlb-cleveland-guardians",
+        "total": 7
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "362511067a27b4ef89418639e15e80b6"
+      }
+    },
+    {
+      "id": "38049724abb5fcb2b69405bbe4bb3d72",
+      "leagueId": "mlb",
+      "startTime": "2026-10-14T00:00:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "mlb-tampa-bay-rays",
@@ -127,14 +161,46 @@
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "362511067a27b4ef89418639e15e80b6"
+        "externalId": "38049724abb5fcb2b69405bbe4bb3d72"
+      }
+    },
+    {
+      "id": "622fd31d2c8178b025455656e0d2fb89",
+      "leagueId": "mlb",
+      "startTime": "2026-10-15T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-los-angeles-dodgers",
+        "leagueId": "mlb",
+        "name": "Los Angeles Dodgers",
+        "shortName": "Dodgers",
+        "abbreviation": "LAD"
+      },
+      "awayTeam": {
+        "id": "mlb-milwaukee-brewers",
+        "leagueId": "mlb",
+        "name": "Milwaukee Brewers",
+        "shortName": "Brewers",
+        "abbreviation": "MB"
+      },
+      "homeScore": {
+        "teamId": "mlb-los-angeles-dodgers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-milwaukee-brewers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "622fd31d2c8178b025455656e0d2fb89"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-12T19:50:33.283Z",
-  "staleAt": "2026-10-14T01:50:33.283Z",
+  "fetchedAt": "2026-10-13T17:37:52.203Z",
+  "staleAt": "2026-10-14T23:37:52.204Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

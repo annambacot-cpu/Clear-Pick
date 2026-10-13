@@ -432,8 +432,9 @@
     {
       "id": "e6d00eedd87d367e510314bd8cab8f6f",
       "leagueId": "nfl",
-      "startTime": "2026-10-13T00:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-13T00:15:45Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-los-angeles-rams",
         "leagueId": "nfl",
@@ -450,11 +451,11 @@
       },
       "homeScore": {
         "teamId": "nfl-los-angeles-rams",
-        "total": null
+        "total": 34
       },
       "awayScore": {
         "teamId": "nfl-buffalo-bills",
-        "total": null
+        "total": 37
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -912,8 +913,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-12T19:50:33.283Z",
-  "staleAt": "2026-10-14T01:50:33.283Z",
+  "fetchedAt": "2026-10-13T17:37:52.203Z",
+  "staleAt": "2026-10-14T23:37:52.204Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
