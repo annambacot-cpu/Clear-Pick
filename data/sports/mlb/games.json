@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "62bf363a77455f7a8b48838e7792f60b",
-      "leagueId": "mlb",
-      "startTime": "2026-10-11T00:01:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "mlb-cleveland-guardians",
-        "leagueId": "mlb",
-        "name": "Cleveland Guardians",
-        "shortName": "Guardians",
-        "abbreviation": "CG"
-      },
-      "awayTeam": {
-        "id": "mlb-chicago-white-sox",
-        "leagueId": "mlb",
-        "name": "Chicago White Sox",
-        "shortName": "Sox",
-        "abbreviation": "CWS"
-      },
-      "homeScore": {
-        "teamId": "mlb-cleveland-guardians",
-        "total": 2
-      },
-      "awayScore": {
-        "teamId": "mlb-chicago-white-sox",
-        "total": 0
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "62bf363a77455f7a8b48838e7792f60b"
-      }
-    },
-    {
       "id": "c43e98d4effc9181f21e21225fcbd47a",
       "leagueId": "mlb",
       "startTime": "2026-10-12T00:20:00Z",
@@ -135,8 +102,9 @@
     {
       "id": "38049724abb5fcb2b69405bbe4bb3d72",
       "leagueId": "mlb",
-      "startTime": "2026-10-14T00:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-14T00:05:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "mlb-tampa-bay-rays",
         "leagueId": "mlb",
@@ -153,11 +121,11 @@
       },
       "homeScore": {
         "teamId": "mlb-tampa-bay-rays",
-        "total": null
+        "total": 3
       },
       "awayScore": {
         "teamId": "mlb-cleveland-guardians",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -195,12 +163,44 @@
         "provider": "the-odds-api",
         "externalId": "622fd31d2c8178b025455656e0d2fb89"
       }
+    },
+    {
+      "id": "2572cf9b86ae24b8bec2778e9a6fdfcb",
+      "leagueId": "mlb",
+      "startTime": "2026-10-15T22:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mlb-cleveland-guardians",
+        "leagueId": "mlb",
+        "name": "Cleveland Guardians",
+        "shortName": "Guardians",
+        "abbreviation": "CG"
+      },
+      "awayTeam": {
+        "id": "mlb-tampa-bay-rays",
+        "leagueId": "mlb",
+        "name": "Tampa Bay Rays",
+        "shortName": "Rays",
+        "abbreviation": "TBR"
+      },
+      "homeScore": {
+        "teamId": "mlb-cleveland-guardians",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "mlb-tampa-bay-rays",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2572cf9b86ae24b8bec2778e9a6fdfcb"
+      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-13T17:37:52.203Z",
-  "staleAt": "2026-10-14T23:37:52.204Z",
+  "fetchedAt": "2026-10-14T15:12:16.034Z",
+  "staleAt": "2026-10-15T21:12:16.034Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

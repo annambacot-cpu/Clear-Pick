@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "21b26266f3d78af02eb672e606275d95",
-      "leagueId": "nfl",
-      "startTime": "2026-10-11T13:32:30Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-jacksonville-jaguars",
-        "leagueId": "nfl",
-        "name": "Jacksonville Jaguars",
-        "shortName": "Jaguars",
-        "abbreviation": "JJ"
-      },
-      "awayTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "homeScore": {
-        "teamId": "nfl-jacksonville-jaguars",
-        "total": 19
-      },
-      "awayScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": 17
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "21b26266f3d78af02eb672e606275d95"
-      }
-    },
-    {
       "id": "448d7cf18c6db4c811ed82ded1b72867",
       "leagueId": "nfl",
       "startTime": "2026-10-11T17:02:30Z",
@@ -909,12 +876,460 @@
         "provider": "the-odds-api",
         "externalId": "f122527f003276d3bca19efa48c902c1"
       }
+    },
+    {
+      "id": "ffebea881c1d7b2dfb85b3e590c35985",
+      "leagueId": "nfl",
+      "startTime": "2026-10-23T00:15:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-chicago-bears",
+        "leagueId": "nfl",
+        "name": "Chicago Bears",
+        "shortName": "Bears",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "nfl-new-england-patriots",
+        "leagueId": "nfl",
+        "name": "New England Patriots",
+        "shortName": "Patriots",
+        "abbreviation": "NEP"
+      },
+      "homeScore": {
+        "teamId": "nfl-chicago-bears",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-new-england-patriots",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ffebea881c1d7b2dfb85b3e590c35985"
+      }
+    },
+    {
+      "id": "2e710ea5a306b614f0f966e3d78732f8",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T13:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-new-orleans-saints",
+        "leagueId": "nfl",
+        "name": "New Orleans Saints",
+        "shortName": "Saints",
+        "abbreviation": "NOS"
+      },
+      "awayTeam": {
+        "id": "nfl-pittsburgh-steelers",
+        "leagueId": "nfl",
+        "name": "Pittsburgh Steelers",
+        "shortName": "Steelers",
+        "abbreviation": "PS"
+      },
+      "homeScore": {
+        "teamId": "nfl-new-orleans-saints",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-pittsburgh-steelers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2e710ea5a306b614f0f966e3d78732f8"
+      }
+    },
+    {
+      "id": "b1be064fb52a198a62109c279e7ab24c",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-atlanta-falcons",
+        "leagueId": "nfl",
+        "name": "Atlanta Falcons",
+        "shortName": "Falcons",
+        "abbreviation": "AF"
+      },
+      "awayTeam": {
+        "id": "nfl-san-francisco-49ers",
+        "leagueId": "nfl",
+        "name": "San Francisco 49ers",
+        "shortName": "49ers",
+        "abbreviation": "SF4"
+      },
+      "homeScore": {
+        "teamId": "nfl-atlanta-falcons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-san-francisco-49ers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b1be064fb52a198a62109c279e7ab24c"
+      }
+    },
+    {
+      "id": "550ec5290f935d311995affbcb0b5c79",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-baltimore-ravens",
+        "leagueId": "nfl",
+        "name": "Baltimore Ravens",
+        "shortName": "Ravens",
+        "abbreviation": "BR"
+      },
+      "awayTeam": {
+        "id": "nfl-cincinnati-bengals",
+        "leagueId": "nfl",
+        "name": "Cincinnati Bengals",
+        "shortName": "Bengals",
+        "abbreviation": "CB"
+      },
+      "homeScore": {
+        "teamId": "nfl-baltimore-ravens",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-cincinnati-bengals",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "550ec5290f935d311995affbcb0b5c79"
+      }
+    },
+    {
+      "id": "2823e986597c449ab94126cd5ed3fae9",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-carolina-panthers",
+        "leagueId": "nfl",
+        "name": "Carolina Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "CP"
+      },
+      "awayTeam": {
+        "id": "nfl-tampa-bay-buccaneers",
+        "leagueId": "nfl",
+        "name": "Tampa Bay Buccaneers",
+        "shortName": "Buccaneers",
+        "abbreviation": "TBB"
+      },
+      "homeScore": {
+        "teamId": "nfl-carolina-panthers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-tampa-bay-buccaneers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2823e986597c449ab94126cd5ed3fae9"
+      }
+    },
+    {
+      "id": "5dce18baccec5d3ad5fb3a3ce52f7619",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-tennessee-titans",
+        "leagueId": "nfl",
+        "name": "Tennessee Titans",
+        "shortName": "Titans",
+        "abbreviation": "TT"
+      },
+      "awayTeam": {
+        "id": "nfl-cleveland-browns",
+        "leagueId": "nfl",
+        "name": "Cleveland Browns",
+        "shortName": "Browns",
+        "abbreviation": "CB"
+      },
+      "homeScore": {
+        "teamId": "nfl-tennessee-titans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-cleveland-browns",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5dce18baccec5d3ad5fb3a3ce52f7619"
+      }
+    },
+    {
+      "id": "2bba7fde6f97d0e54403d53676e4ab63",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-houston-texans",
+        "leagueId": "nfl",
+        "name": "Houston Texans",
+        "shortName": "Texans",
+        "abbreviation": "HT"
+      },
+      "awayTeam": {
+        "id": "nfl-new-york-giants",
+        "leagueId": "nfl",
+        "name": "New York Giants",
+        "shortName": "Giants",
+        "abbreviation": "NYG"
+      },
+      "homeScore": {
+        "teamId": "nfl-houston-texans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-new-york-giants",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2bba7fde6f97d0e54403d53676e4ab63"
+      }
+    },
+    {
+      "id": "f3992ad4496724baf7dcd1ef58245d6b",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-minnesota-vikings",
+        "leagueId": "nfl",
+        "name": "Minnesota Vikings",
+        "shortName": "Vikings",
+        "abbreviation": "MV"
+      },
+      "awayTeam": {
+        "id": "nfl-indianapolis-colts",
+        "leagueId": "nfl",
+        "name": "Indianapolis Colts",
+        "shortName": "Colts",
+        "abbreviation": "IC"
+      },
+      "homeScore": {
+        "teamId": "nfl-minnesota-vikings",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-indianapolis-colts",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f3992ad4496724baf7dcd1ef58245d6b"
+      }
+    },
+    {
+      "id": "be5dd120ca08b43d647b6caa8953500a",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T17:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-new-york-jets",
+        "leagueId": "nfl",
+        "name": "New York Jets",
+        "shortName": "Jets",
+        "abbreviation": "NYJ"
+      },
+      "awayTeam": {
+        "id": "nfl-miami-dolphins",
+        "leagueId": "nfl",
+        "name": "Miami Dolphins",
+        "shortName": "Dolphins",
+        "abbreviation": "MD"
+      },
+      "homeScore": {
+        "teamId": "nfl-new-york-jets",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-miami-dolphins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "be5dd120ca08b43d647b6caa8953500a"
+      }
+    },
+    {
+      "id": "436119bb3ccdaa6ed7808aa3ebd82b76",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T20:05:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-arizona-cardinals",
+        "leagueId": "nfl",
+        "name": "Arizona Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "AC"
+      },
+      "awayTeam": {
+        "id": "nfl-denver-broncos",
+        "leagueId": "nfl",
+        "name": "Denver Broncos",
+        "shortName": "Broncos",
+        "abbreviation": "DB"
+      },
+      "homeScore": {
+        "teamId": "nfl-arizona-cardinals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-denver-broncos",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "436119bb3ccdaa6ed7808aa3ebd82b76"
+      }
+    },
+    {
+      "id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T20:25:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-detroit-lions",
+        "leagueId": "nfl",
+        "name": "Detroit Lions",
+        "shortName": "Lions",
+        "abbreviation": "DL"
+      },
+      "awayTeam": {
+        "id": "nfl-green-bay-packers",
+        "leagueId": "nfl",
+        "name": "Green Bay Packers",
+        "shortName": "Packers",
+        "abbreviation": "GBP"
+      },
+      "homeScore": {
+        "teamId": "nfl-detroit-lions",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-green-bay-packers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e8e5715eefb6a9ce64765e9ddf49c0cc"
+      }
+    },
+    {
+      "id": "f7679cf18454e4d88a8f2b990c3f08ac",
+      "leagueId": "nfl",
+      "startTime": "2026-10-25T20:25:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-las-vegas-raiders",
+        "leagueId": "nfl",
+        "name": "Las Vegas Raiders",
+        "shortName": "Raiders",
+        "abbreviation": "LVR"
+      },
+      "awayTeam": {
+        "id": "nfl-los-angeles-rams",
+        "leagueId": "nfl",
+        "name": "Los Angeles Rams",
+        "shortName": "Rams",
+        "abbreviation": "LAR"
+      },
+      "homeScore": {
+        "teamId": "nfl-las-vegas-raiders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-los-angeles-rams",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f7679cf18454e4d88a8f2b990c3f08ac"
+      }
+    },
+    {
+      "id": "176d474ed8b2bbf1eb4d7e9c56b4bf22",
+      "leagueId": "nfl",
+      "startTime": "2026-10-26T00:20:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-seattle-seahawks",
+        "leagueId": "nfl",
+        "name": "Seattle Seahawks",
+        "shortName": "Seahawks",
+        "abbreviation": "SS"
+      },
+      "awayTeam": {
+        "id": "nfl-kansas-city-chiefs",
+        "leagueId": "nfl",
+        "name": "Kansas City Chiefs",
+        "shortName": "Chiefs",
+        "abbreviation": "KCC"
+      },
+      "homeScore": {
+        "teamId": "nfl-seattle-seahawks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-kansas-city-chiefs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "176d474ed8b2bbf1eb4d7e9c56b4bf22"
+      }
+    },
+    {
+      "id": "4853610e63c246f2027a6a248e642c9a",
+      "leagueId": "nfl",
+      "startTime": "2026-10-27T00:15:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nfl-philadelphia-eagles",
+        "leagueId": "nfl",
+        "name": "Philadelphia Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "PE"
+      },
+      "awayTeam": {
+        "id": "nfl-dallas-cowboys",
+        "leagueId": "nfl",
+        "name": "Dallas Cowboys",
+        "shortName": "Cowboys",
+        "abbreviation": "DC"
+      },
+      "homeScore": {
+        "teamId": "nfl-philadelphia-eagles",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nfl-dallas-cowboys",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4853610e63c246f2027a6a248e642c9a"
+      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-13T17:37:52.203Z",
-  "staleAt": "2026-10-14T23:37:52.204Z",
+  "fetchedAt": "2026-10-14T15:12:16.034Z",
+  "staleAt": "2026-10-15T21:12:16.034Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
