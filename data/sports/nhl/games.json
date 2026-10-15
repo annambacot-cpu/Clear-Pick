@@ -1,105 +1,6 @@
 {
   "data": [
     {
-      "id": "12a90ee4a941f857d0fc417663fb00c1",
-      "leagueId": "nhl",
-      "startTime": "2026-10-11T21:09:55Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-washington-capitals",
-        "leagueId": "nhl",
-        "name": "Washington Capitals",
-        "shortName": "Capitals",
-        "abbreviation": "WC"
-      },
-      "awayTeam": {
-        "id": "nhl-seattle-kraken",
-        "leagueId": "nhl",
-        "name": "Seattle Kraken",
-        "shortName": "Kraken",
-        "abbreviation": "SK"
-      },
-      "homeScore": {
-        "teamId": "nhl-washington-capitals",
-        "total": 3
-      },
-      "awayScore": {
-        "teamId": "nhl-seattle-kraken",
-        "total": 5
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "12a90ee4a941f857d0fc417663fb00c1"
-      }
-    },
-    {
-      "id": "a3bbd0dafd4fc9789cb6c3292aad999b",
-      "leagueId": "nhl",
-      "startTime": "2026-10-11T22:08:28Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-new-york-rangers",
-        "leagueId": "nhl",
-        "name": "New York Rangers",
-        "shortName": "Rangers",
-        "abbreviation": "NYR"
-      },
-      "awayTeam": {
-        "id": "nhl-vancouver-canucks",
-        "leagueId": "nhl",
-        "name": "Vancouver Canucks",
-        "shortName": "Canucks",
-        "abbreviation": "VC"
-      },
-      "homeScore": {
-        "teamId": "nhl-new-york-rangers",
-        "total": 6
-      },
-      "awayScore": {
-        "teamId": "nhl-vancouver-canucks",
-        "total": 2
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a3bbd0dafd4fc9789cb6c3292aad999b"
-      }
-    },
-    {
-      "id": "a49ddd8a44071e340299ae7f22b4f359",
-      "leagueId": "nhl",
-      "startTime": "2026-10-11T23:09:32Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-philadelphia-flyers",
-        "leagueId": "nhl",
-        "name": "Philadelphia Flyers",
-        "shortName": "Flyers",
-        "abbreviation": "PF"
-      },
-      "awayTeam": {
-        "id": "nhl-carolina-hurricanes",
-        "leagueId": "nhl",
-        "name": "Carolina Hurricanes",
-        "shortName": "Hurricanes",
-        "abbreviation": "CH"
-      },
-      "homeScore": {
-        "teamId": "nhl-philadelphia-flyers",
-        "total": 1
-      },
-      "awayScore": {
-        "teamId": "nhl-carolina-hurricanes",
-        "total": 4
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a49ddd8a44071e340299ae7f22b4f359"
-      }
-    },
-    {
       "id": "e85cb8fcbbddd2332b24db4bfe564345",
       "leagueId": "nhl",
       "startTime": "2026-10-12T17:08:08Z",
@@ -729,8 +630,9 @@
     {
       "id": "11b474310b2b60cbae546d9c517444c6",
       "leagueId": "nhl",
-      "startTime": "2026-10-14T23:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-14T23:45:23Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nhl-washington-capitals",
         "leagueId": "nhl",
@@ -747,11 +649,11 @@
       },
       "homeScore": {
         "teamId": "nhl-washington-capitals",
-        "total": null
+        "total": 5
       },
       "awayScore": {
         "teamId": "nhl-montr-al-canadiens",
-        "total": null
+        "total": 4
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -761,8 +663,9 @@
     {
       "id": "9604eeafec33b8980e6565c617f04fc6",
       "leagueId": "nhl",
-      "startTime": "2026-10-15T00:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-15T00:38:40Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nhl-colorado-avalanche",
         "leagueId": "nhl",
@@ -779,22 +682,374 @@
       },
       "homeScore": {
         "teamId": "nhl-colorado-avalanche",
-        "total": null
+        "total": 2
       },
       "awayScore": {
         "teamId": "nhl-dallas-stars",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "9604eeafec33b8980e6565c617f04fc6"
       }
+    },
+    {
+      "id": "30482712c8704ae61ad9ea6b033efccf",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-toronto-maple-leafs",
+        "leagueId": "nhl",
+        "name": "Toronto Maple Leafs",
+        "shortName": "Leafs",
+        "abbreviation": "TML"
+      },
+      "awayTeam": {
+        "id": "nhl-buffalo-sabres",
+        "leagueId": "nhl",
+        "name": "Buffalo Sabres",
+        "shortName": "Sabres",
+        "abbreviation": "BS"
+      },
+      "homeScore": {
+        "teamId": "nhl-toronto-maple-leafs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-buffalo-sabres",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "30482712c8704ae61ad9ea6b033efccf"
+      }
+    },
+    {
+      "id": "6c6bbf8c46c5896d1498ab1cdc5b8be9",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-florida-panthers",
+        "leagueId": "nhl",
+        "name": "Florida Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "FP"
+      },
+      "awayTeam": {
+        "id": "nhl-vancouver-canucks",
+        "leagueId": "nhl",
+        "name": "Vancouver Canucks",
+        "shortName": "Canucks",
+        "abbreviation": "VC"
+      },
+      "homeScore": {
+        "teamId": "nhl-florida-panthers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-vancouver-canucks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6c6bbf8c46c5896d1498ab1cdc5b8be9"
+      }
+    },
+    {
+      "id": "12e8c7a75c196426888d2e9b0fcd946f",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-new-jersey-devils",
+        "leagueId": "nhl",
+        "name": "New Jersey Devils",
+        "shortName": "Devils",
+        "abbreviation": "NJD"
+      },
+      "awayTeam": {
+        "id": "nhl-new-york-rangers",
+        "leagueId": "nhl",
+        "name": "New York Rangers",
+        "shortName": "Rangers",
+        "abbreviation": "NYR"
+      },
+      "homeScore": {
+        "teamId": "nhl-new-jersey-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-new-york-rangers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "12e8c7a75c196426888d2e9b0fcd946f"
+      }
+    },
+    {
+      "id": "3fa8e135779ec383bce2be440d4ae030",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-ottawa-senators",
+        "leagueId": "nhl",
+        "name": "Ottawa Senators",
+        "shortName": "Senators",
+        "abbreviation": "OS"
+      },
+      "awayTeam": {
+        "id": "nhl-new-york-islanders",
+        "leagueId": "nhl",
+        "name": "New York Islanders",
+        "shortName": "Islanders",
+        "abbreviation": "NYI"
+      },
+      "homeScore": {
+        "teamId": "nhl-ottawa-senators",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-new-york-islanders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3fa8e135779ec383bce2be440d4ae030"
+      }
+    },
+    {
+      "id": "6bc27423a73c4cf1b34cd3c5dc19c8bc",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-tampa-bay-lightning",
+        "leagueId": "nhl",
+        "name": "Tampa Bay Lightning",
+        "shortName": "Lightning",
+        "abbreviation": "TBL"
+      },
+      "awayTeam": {
+        "id": "nhl-seattle-kraken",
+        "leagueId": "nhl",
+        "name": "Seattle Kraken",
+        "shortName": "Kraken",
+        "abbreviation": "SK"
+      },
+      "homeScore": {
+        "teamId": "nhl-tampa-bay-lightning",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-seattle-kraken",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6bc27423a73c4cf1b34cd3c5dc19c8bc"
+      }
+    },
+    {
+      "id": "beffe22ff3d46b84b1b4e36b0970ccba",
+      "leagueId": "nhl",
+      "startTime": "2026-10-15T23:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-detroit-red-wings",
+        "leagueId": "nhl",
+        "name": "Detroit Red Wings",
+        "shortName": "Wings",
+        "abbreviation": "DRW"
+      },
+      "awayTeam": {
+        "id": "nhl-philadelphia-flyers",
+        "leagueId": "nhl",
+        "name": "Philadelphia Flyers",
+        "shortName": "Flyers",
+        "abbreviation": "PF"
+      },
+      "homeScore": {
+        "teamId": "nhl-detroit-red-wings",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-philadelphia-flyers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "beffe22ff3d46b84b1b4e36b0970ccba"
+      }
+    },
+    {
+      "id": "9f4363f363411cc75eafb6124bef94a7",
+      "leagueId": "nhl",
+      "startTime": "2026-10-16T00:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-chicago-blackhawks",
+        "leagueId": "nhl",
+        "name": "Chicago Blackhawks",
+        "shortName": "Blackhawks",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "nhl-winnipeg-jets",
+        "leagueId": "nhl",
+        "name": "Winnipeg Jets",
+        "shortName": "Jets",
+        "abbreviation": "WJ"
+      },
+      "homeScore": {
+        "teamId": "nhl-chicago-blackhawks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-winnipeg-jets",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9f4363f363411cc75eafb6124bef94a7"
+      }
+    },
+    {
+      "id": "30fa3646c2d75c2eb8c2746d50f7c14e",
+      "leagueId": "nhl",
+      "startTime": "2026-10-16T00:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-minnesota-wild",
+        "leagueId": "nhl",
+        "name": "Minnesota Wild",
+        "shortName": "Wild",
+        "abbreviation": "MW"
+      },
+      "awayTeam": {
+        "id": "nhl-st-louis-blues",
+        "leagueId": "nhl",
+        "name": "St Louis Blues",
+        "shortName": "Blues",
+        "abbreviation": "SLB"
+      },
+      "homeScore": {
+        "teamId": "nhl-minnesota-wild",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-st-louis-blues",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "30fa3646c2d75c2eb8c2746d50f7c14e"
+      }
+    },
+    {
+      "id": "26e6afd471708bd7858f66f49d1f49f6",
+      "leagueId": "nhl",
+      "startTime": "2026-10-16T00:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-nashville-predators",
+        "leagueId": "nhl",
+        "name": "Nashville Predators",
+        "shortName": "Predators",
+        "abbreviation": "NP"
+      },
+      "awayTeam": {
+        "id": "nhl-san-jose-sharks",
+        "leagueId": "nhl",
+        "name": "San Jose Sharks",
+        "shortName": "Sharks",
+        "abbreviation": "SJS"
+      },
+      "homeScore": {
+        "teamId": "nhl-nashville-predators",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-san-jose-sharks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "26e6afd471708bd7858f66f49d1f49f6"
+      }
+    },
+    {
+      "id": "11a7ac0ec88aba6f80c96ce654c805b7",
+      "leagueId": "nhl",
+      "startTime": "2026-10-16T01:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-edmonton-oilers",
+        "leagueId": "nhl",
+        "name": "Edmonton Oilers",
+        "shortName": "Oilers",
+        "abbreviation": "EO"
+      },
+      "awayTeam": {
+        "id": "nhl-utah-mammoth",
+        "leagueId": "nhl",
+        "name": "Utah Mammoth",
+        "shortName": "Mammoth",
+        "abbreviation": "UM"
+      },
+      "homeScore": {
+        "teamId": "nhl-edmonton-oilers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-utah-mammoth",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "11a7ac0ec88aba6f80c96ce654c805b7"
+      }
+    },
+    {
+      "id": "31352e6ab98e96d7f2505fa0432b96e2",
+      "leagueId": "nhl",
+      "startTime": "2026-10-16T02:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-vegas-golden-knights",
+        "leagueId": "nhl",
+        "name": "Vegas Golden Knights",
+        "shortName": "Knights",
+        "abbreviation": "VGK"
+      },
+      "awayTeam": {
+        "id": "nhl-calgary-flames",
+        "leagueId": "nhl",
+        "name": "Calgary Flames",
+        "shortName": "Flames",
+        "abbreviation": "CF"
+      },
+      "homeScore": {
+        "teamId": "nhl-vegas-golden-knights",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-calgary-flames",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "31352e6ab98e96d7f2505fa0432b96e2"
+      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-14T15:12:16.034Z",
-  "staleAt": "2026-10-15T21:12:16.034Z",
+  "fetchedAt": "2026-10-15T15:06:11.158Z",
+  "staleAt": "2026-10-16T21:06:11.158Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

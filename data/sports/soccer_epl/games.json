@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "6dbab232dd8d2aed0cb1d6f7978fb7b1",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-10-11T15:30:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-liverpool",
-        "leagueId": "soccer_epl",
-        "name": "Liverpool",
-        "shortName": "Liverpool",
-        "abbreviation": "LIV"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-manchester-city",
-        "leagueId": "soccer_epl",
-        "name": "Manchester City",
-        "shortName": "City",
-        "abbreviation": "MC"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-liverpool",
-        "total": 0
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-manchester-city",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6dbab232dd8d2aed0cb1d6f7978fb7b1"
-      }
-    },
-    {
       "id": "acd5bd945dd953ad1e300df5bfe696f9",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-12T19:00:00Z",
@@ -709,8 +676,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-14T15:12:16.034Z",
-  "staleAt": "2026-10-15T21:12:16.034Z",
+  "fetchedAt": "2026-10-15T15:06:11.158Z",
+  "staleAt": "2026-10-16T21:06:11.158Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
