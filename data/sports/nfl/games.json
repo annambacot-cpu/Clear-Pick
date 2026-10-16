@@ -1,43 +1,11 @@
 {
   "data": [
     {
-      "id": "e6d00eedd87d367e510314bd8cab8f6f",
-      "leagueId": "nfl",
-      "startTime": "2026-10-13T00:15:45Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-los-angeles-rams",
-        "leagueId": "nfl",
-        "name": "Los Angeles Rams",
-        "shortName": "Rams",
-        "abbreviation": "LAR"
-      },
-      "awayTeam": {
-        "id": "nfl-buffalo-bills",
-        "leagueId": "nfl",
-        "name": "Buffalo Bills",
-        "shortName": "Bills",
-        "abbreviation": "BB"
-      },
-      "homeScore": {
-        "teamId": "nfl-los-angeles-rams",
-        "total": 34
-      },
-      "awayScore": {
-        "teamId": "nfl-buffalo-bills",
-        "total": 37
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e6d00eedd87d367e510314bd8cab8f6f"
-      }
-    },
-    {
       "id": "855f58fad5f0f14b239f4f63df27998b",
       "leagueId": "nfl",
-      "startTime": "2026-10-16T00:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-16T00:15:50Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-denver-broncos",
         "leagueId": "nfl",
@@ -54,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "nfl-denver-broncos",
-        "total": null
+        "total": 17
       },
       "awayScore": {
         "teamId": "nfl-seattle-seahawks",
-        "total": null
+        "total": 14
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -770,38 +738,6 @@
       }
     },
     {
-      "id": "436119bb3ccdaa6ed7808aa3ebd82b76",
-      "leagueId": "nfl",
-      "startTime": "2026-10-25T20:05:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-arizona-cardinals",
-        "leagueId": "nfl",
-        "name": "Arizona Cardinals",
-        "shortName": "Cardinals",
-        "abbreviation": "AC"
-      },
-      "awayTeam": {
-        "id": "nfl-denver-broncos",
-        "leagueId": "nfl",
-        "name": "Denver Broncos",
-        "shortName": "Broncos",
-        "abbreviation": "DB"
-      },
-      "homeScore": {
-        "teamId": "nfl-arizona-cardinals",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-denver-broncos",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "436119bb3ccdaa6ed7808aa3ebd82b76"
-      }
-    },
-    {
       "id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
       "leagueId": "nfl",
       "startTime": "2026-10-25T20:25:00Z",
@@ -864,76 +800,12 @@
         "provider": "the-odds-api",
         "externalId": "f7679cf18454e4d88a8f2b990c3f08ac"
       }
-    },
-    {
-      "id": "176d474ed8b2bbf1eb4d7e9c56b4bf22",
-      "leagueId": "nfl",
-      "startTime": "2026-10-26T00:20:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-seattle-seahawks",
-        "leagueId": "nfl",
-        "name": "Seattle Seahawks",
-        "shortName": "Seahawks",
-        "abbreviation": "SS"
-      },
-      "awayTeam": {
-        "id": "nfl-kansas-city-chiefs",
-        "leagueId": "nfl",
-        "name": "Kansas City Chiefs",
-        "shortName": "Chiefs",
-        "abbreviation": "KCC"
-      },
-      "homeScore": {
-        "teamId": "nfl-seattle-seahawks",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-kansas-city-chiefs",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "176d474ed8b2bbf1eb4d7e9c56b4bf22"
-      }
-    },
-    {
-      "id": "4853610e63c246f2027a6a248e642c9a",
-      "leagueId": "nfl",
-      "startTime": "2026-10-27T00:15:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-philadelphia-eagles",
-        "leagueId": "nfl",
-        "name": "Philadelphia Eagles",
-        "shortName": "Eagles",
-        "abbreviation": "PE"
-      },
-      "awayTeam": {
-        "id": "nfl-dallas-cowboys",
-        "leagueId": "nfl",
-        "name": "Dallas Cowboys",
-        "shortName": "Cowboys",
-        "abbreviation": "DC"
-      },
-      "homeScore": {
-        "teamId": "nfl-philadelphia-eagles",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-dallas-cowboys",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4853610e63c246f2027a6a248e642c9a"
-      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-15T15:06:11.158Z",
-  "staleAt": "2026-10-16T21:06:11.158Z",
+  "fetchedAt": "2026-10-16T14:54:09.636Z",
+  "staleAt": "2026-10-17T20:54:09.636Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

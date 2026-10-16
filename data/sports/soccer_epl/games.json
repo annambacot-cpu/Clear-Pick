@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "acd5bd945dd953ad1e300df5bfe696f9",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-10-12T19:00:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-coventry-city",
-        "leagueId": "soccer_epl",
-        "name": "Coventry City",
-        "shortName": "City",
-        "abbreviation": "CC"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-newcastle-united",
-        "leagueId": "soccer_epl",
-        "name": "Newcastle United",
-        "shortName": "United",
-        "abbreviation": "NU"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-coventry-city",
-        "total": 4
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-newcastle-united",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "acd5bd945dd953ad1e300df5bfe696f9"
-      }
-    },
-    {
       "id": "764e6513cb3f348881503df70ccb90e0",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-17T11:30:00Z",
@@ -676,8 +643,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-15T15:06:11.158Z",
-  "staleAt": "2026-10-16T21:06:11.158Z",
+  "fetchedAt": "2026-10-16T14:54:09.636Z",
+  "staleAt": "2026-10-17T20:54:09.636Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
