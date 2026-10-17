@@ -1,99 +1,99 @@
 {
   "data": [
     {
-      "id": "b9d2e07cf437b5643307aba274c45a74-draftkings-h2h",
-      "gameId": "b9d2e07cf437b5643307aba274c45a74",
+      "id": "bf41baaebfa23a202d2f3a6811425ff9-fanduel-h2h",
+      "gameId": "bf41baaebfa23a202d2f3a6811425ff9",
       "leagueId": "mlb",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-h2h-0",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-h2h-0",
           "label": "Cleveland Guardians",
           "participantId": "mlb-cleveland-guardians",
           "side": "home",
-          "americanOdds": -108
+          "americanOdds": -102
         },
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-h2h-1",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-h2h-1",
           "label": "Tampa Bay Rays",
           "participantId": "mlb-tampa-bay-rays",
           "side": "away",
-          "americanOdds": -112
+          "americanOdds": -116
         }
       ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-16T14:53:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-17T13:46:18Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "b9d2e07cf437b5643307aba274c45a74:DraftKings:h2h"
+        "externalId": "bf41baaebfa23a202d2f3a6811425ff9:FanDuel:h2h"
       }
     },
     {
-      "id": "b9d2e07cf437b5643307aba274c45a74-draftkings-spreads",
-      "gameId": "b9d2e07cf437b5643307aba274c45a74",
+      "id": "bf41baaebfa23a202d2f3a6811425ff9-fanduel-spreads",
+      "gameId": "bf41baaebfa23a202d2f3a6811425ff9",
       "leagueId": "mlb",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-spreads-0",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-spreads-0",
           "label": "Cleveland Guardians",
           "participantId": "mlb-cleveland-guardians",
           "side": "home",
           "line": 1.5,
-          "americanOdds": -198
+          "americanOdds": -192
         },
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-spreads-1",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-spreads-1",
           "label": "Tampa Bay Rays",
           "participantId": "mlb-tampa-bay-rays",
           "side": "away",
           "line": -1.5,
-          "americanOdds": 162
+          "americanOdds": 158
         }
       ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-16T14:53:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-17T13:46:18Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "b9d2e07cf437b5643307aba274c45a74:DraftKings:spreads"
+        "externalId": "bf41baaebfa23a202d2f3a6811425ff9:FanDuel:spreads"
       }
     },
     {
-      "id": "b9d2e07cf437b5643307aba274c45a74-draftkings-totals",
-      "gameId": "b9d2e07cf437b5643307aba274c45a74",
+      "id": "bf41baaebfa23a202d2f3a6811425ff9-fanduel-totals",
+      "gameId": "bf41baaebfa23a202d2f3a6811425ff9",
       "leagueId": "mlb",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-totals-0",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-totals-0",
           "label": "Over",
           "side": "over",
           "line": 6.5,
-          "americanOdds": -114
+          "americanOdds": -110
         },
         {
-          "id": "b9d2e07cf437b5643307aba274c45a74-totals-1",
+          "id": "bf41baaebfa23a202d2f3a6811425ff9-totals-1",
           "label": "Under",
           "side": "under",
           "line": 6.5,
-          "americanOdds": -106
+          "americanOdds": -110
         }
       ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-10-16T14:53:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-10-17T13:46:18Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "b9d2e07cf437b5643307aba274c45a74:DraftKings:totals"
+        "externalId": "bf41baaebfa23a202d2f3a6811425ff9:FanDuel:totals"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-16T14:54:09.636Z",
-  "staleAt": "2026-10-17T20:54:09.636Z",
+  "fetchedAt": "2026-10-17T13:46:53.011Z",
+  "staleAt": "2026-10-18T19:46:53.012Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

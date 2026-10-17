@@ -4,7 +4,8 @@
       "id": "764e6513cb3f348881503df70ccb90e0",
       "leagueId": "soccer_epl",
       "startTime": "2026-10-17T11:30:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "soccer_epl-everton",
         "leagueId": "soccer_epl",
@@ -21,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "soccer_epl-everton",
-        "total": null
+        "total": 0
       },
       "awayScore": {
         "teamId": "soccer_epl-chelsea",
-        "total": null
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -643,8 +644,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-16T14:54:09.636Z",
-  "staleAt": "2026-10-17T20:54:09.636Z",
+  "fetchedAt": "2026-10-17T13:46:53.011Z",
+  "staleAt": "2026-10-18T19:46:53.012Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

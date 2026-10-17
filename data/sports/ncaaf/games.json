@@ -1,72 +1,6 @@
 {
   "data": [
     {
-      "id": "62dd374d95f55eaaad10717b58220ce7",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-13T23:05:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "ncaaf-middle-tennessee-blue-raiders",
-        "leagueId": "ncaaf",
-        "name": "Middle Tennessee Blue Raiders",
-        "shortName": "Raiders",
-        "abbreviation": "MTB"
-      },
-      "awayTeam": {
-        "id": "ncaaf-delaware-blue-hens",
-        "leagueId": "ncaaf",
-        "name": "Delaware Blue Hens",
-        "shortName": "Hens",
-        "abbreviation": "DBH"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-middle-tennessee-blue-raiders",
-        "total": 33
-      },
-      "awayScore": {
-        "teamId": "ncaaf-delaware-blue-hens",
-        "total": 30
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "62dd374d95f55eaaad10717b58220ce7"
-      }
-    },
-    {
-      "id": "66f521c79ea8a970ed062bfed392abfb",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-14T00:06:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "ncaaf-jacksonville-state-gamecocks",
-        "leagueId": "ncaaf",
-        "name": "Jacksonville State Gamecocks",
-        "shortName": "Gamecocks",
-        "abbreviation": "JSG"
-      },
-      "awayTeam": {
-        "id": "ncaaf-florida-international-panthers",
-        "leagueId": "ncaaf",
-        "name": "Florida International Panthers",
-        "shortName": "Panthers",
-        "abbreviation": "FIP"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-jacksonville-state-gamecocks",
-        "total": 27
-      },
-      "awayScore": {
-        "teamId": "ncaaf-florida-international-panthers",
-        "total": 24
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "66f521c79ea8a970ed062bfed392abfb"
-      }
-    },
-    {
       "id": "7ebcab7b97620342a9205b32139222d1",
       "leagueId": "ncaaf",
       "startTime": "2026-10-14T23:35:00Z",
@@ -234,8 +168,9 @@
     {
       "id": "55f376873e3cd0c2bb7cc9aa26e47235",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-16T23:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-16T23:37:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-tulane-green-wave",
         "leagueId": "ncaaf",
@@ -252,11 +187,11 @@
       },
       "homeScore": {
         "teamId": "ncaaf-tulane-green-wave",
-        "total": null
+        "total": 31
       },
       "awayScore": {
         "teamId": "ncaaf-memphis-tigers",
-        "total": null
+        "total": 17
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -264,42 +199,11 @@
       }
     },
     {
-      "id": "755ef069f0fe7ee21fbda33f7c93247e",
-      "leagueId": "ncaaf",
-      "startTime": "2026-10-17T00:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "ncaaf-coastal-carolina-chanticleers",
-        "leagueId": "ncaaf",
-        "name": "Coastal Carolina Chanticleers",
-        "shortName": "Chanticleers",
-        "abbreviation": "CCC"
-      },
-      "awayTeam": {
-        "id": "ncaaf-appalachian-state-mountaineers",
-        "leagueId": "ncaaf",
-        "name": "Appalachian State Mountaineers",
-        "shortName": "Mountaineers",
-        "abbreviation": "ASM"
-      },
-      "homeScore": {
-        "teamId": "ncaaf-coastal-carolina-chanticleers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "ncaaf-appalachian-state-mountaineers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "755ef069f0fe7ee21fbda33f7c93247e"
-      }
-    },
-    {
       "id": "fd8eda4d35be24559269f63ca7bbb06b",
       "leagueId": "ncaaf",
-      "startTime": "2026-10-17T00:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-16T23:59:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "ncaaf-purdue-boilermakers",
         "leagueId": "ncaaf",
@@ -316,15 +220,48 @@
       },
       "homeScore": {
         "teamId": "ncaaf-purdue-boilermakers",
-        "total": null
+        "total": 26
       },
       "awayScore": {
         "teamId": "ncaaf-washington-huskies",
-        "total": null
+        "total": 38
       },
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "fd8eda4d35be24559269f63ca7bbb06b"
+      }
+    },
+    {
+      "id": "755ef069f0fe7ee21fbda33f7c93247e",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-17T00:06:07Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "ncaaf-coastal-carolina-chanticleers",
+        "leagueId": "ncaaf",
+        "name": "Coastal Carolina Chanticleers",
+        "shortName": "Chanticleers",
+        "abbreviation": "CCC"
+      },
+      "awayTeam": {
+        "id": "ncaaf-appalachian-state-mountaineers",
+        "leagueId": "ncaaf",
+        "name": "Appalachian State Mountaineers",
+        "shortName": "Mountaineers",
+        "abbreviation": "ASM"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-coastal-carolina-chanticleers",
+        "total": 32
+      },
+      "awayScore": {
+        "teamId": "ncaaf-appalachian-state-mountaineers",
+        "total": 35
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "755ef069f0fe7ee21fbda33f7c93247e"
       }
     },
     {
@@ -1992,6 +1929,38 @@
       }
     },
     {
+      "id": "dc65142bf9a0e7652a252b2074037efa",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-20T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-delaware-blue-hens",
+        "leagueId": "ncaaf",
+        "name": "Delaware Blue Hens",
+        "shortName": "Hens",
+        "abbreviation": "DBH"
+      },
+      "awayTeam": {
+        "id": "ncaaf-missouri-state-bears",
+        "leagueId": "ncaaf",
+        "name": "Missouri State Bears",
+        "shortName": "Bears",
+        "abbreviation": "MSB"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-delaware-blue-hens",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-missouri-state-bears",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dc65142bf9a0e7652a252b2074037efa"
+      }
+    },
+    {
       "id": "c85512046e05e5ed845e60dd5d6d5e1e",
       "leagueId": "ncaaf",
       "startTime": "2026-10-20T23:00:00Z",
@@ -2277,6 +2246,38 @@
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "174cf7d3d434eeaada92afb534fb2557"
+      }
+    },
+    {
+      "id": "7a2b82b534f197acfe4913fcdaa86792",
+      "leagueId": "ncaaf",
+      "startTime": "2026-10-24T16:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaaf-cincinnati-bearcats",
+        "leagueId": "ncaaf",
+        "name": "Cincinnati Bearcats",
+        "shortName": "Bearcats",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "ncaaf-texas-tech-red-raiders",
+        "leagueId": "ncaaf",
+        "name": "Texas Tech Red Raiders",
+        "shortName": "Raiders",
+        "abbreviation": "TTR"
+      },
+      "homeScore": {
+        "teamId": "ncaaf-cincinnati-bearcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaaf-texas-tech-red-raiders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7a2b82b534f197acfe4913fcdaa86792"
       }
     },
     {
@@ -2570,8 +2571,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-16T14:54:09.636Z",
-  "staleAt": "2026-10-17T20:54:09.636Z",
+  "fetchedAt": "2026-10-17T13:46:53.011Z",
+  "staleAt": "2026-10-18T19:46:53.012Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
