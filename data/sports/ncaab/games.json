@@ -1,12 +1,4301 @@
 {
-  "data": [],
+  "data": [
+    {
+      "id": "5bee3fb00be225402b2d2d7842398207",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-01T14:30:00Z",
+      "status": "live",
+      "homeTeam": {
+        "id": "ncaab-notre-dame-fighting-irish",
+        "leagueId": "ncaab",
+        "name": "Notre Dame Fighting Irish",
+        "shortName": "Irish",
+        "abbreviation": "NDF"
+      },
+      "awayTeam": {
+        "id": "ncaab-villanova-wildcats",
+        "leagueId": "ncaab",
+        "name": "Villanova Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "VW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-notre-dame-fighting-irish",
+        "total": 70
+      },
+      "awayScore": {
+        "teamId": "ncaab-villanova-wildcats",
+        "total": 68
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5bee3fb00be225402b2d2d7842398207"
+      }
+    },
+    {
+      "id": "d961840cf470389306fa79cf82f5d46c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T04:59:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-liberty-flames",
+        "leagueId": "ncaab",
+        "name": "Liberty Flames",
+        "shortName": "Flames",
+        "abbreviation": "LF"
+      },
+      "awayTeam": {
+        "id": "ncaab-high-point-panthers",
+        "leagueId": "ncaab",
+        "name": "High Point Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "HPP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-liberty-flames",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-high-point-panthers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d961840cf470389306fa79cf82f5d46c"
+      }
+    },
+    {
+      "id": "7dc58df9af17b42764b2571a22a8f309",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T08:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-northern-illinois-huskies",
+        "leagueId": "ncaab",
+        "name": "Northern Illinois Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "NIH"
+      },
+      "awayTeam": {
+        "id": "ncaab-grambling-st-tigers",
+        "leagueId": "ncaab",
+        "name": "Grambling St Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "GST"
+      },
+      "homeScore": {
+        "teamId": "ncaab-northern-illinois-huskies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-grambling-st-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7dc58df9af17b42764b2571a22a8f309"
+      }
+    },
+    {
+      "id": "cbbce01a444134baf2a8fa533eca853e",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T11:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-appalachian-st-mountaineers",
+        "leagueId": "ncaab",
+        "name": "Appalachian St Mountaineers",
+        "shortName": "Mountaineers",
+        "abbreviation": "ASM"
+      },
+      "awayTeam": {
+        "id": "ncaab-merrimack-warriors",
+        "leagueId": "ncaab",
+        "name": "Merrimack Warriors",
+        "shortName": "Warriors",
+        "abbreviation": "MW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-appalachian-st-mountaineers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-merrimack-warriors",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cbbce01a444134baf2a8fa533eca853e"
+      }
+    },
+    {
+      "id": "38f469202f748211c7d5bf585a0f4458",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T14:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-queens-university-royals",
+        "leagueId": "ncaab",
+        "name": "Queens University Royals",
+        "shortName": "Royals",
+        "abbreviation": "QUR"
+      },
+      "awayTeam": {
+        "id": "ncaab-winthrop-eagles",
+        "leagueId": "ncaab",
+        "name": "Winthrop Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "WE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-queens-university-royals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-winthrop-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "38f469202f748211c7d5bf585a0f4458"
+      }
+    },
+    {
+      "id": "f0eb27924ac613d7606d8988e9d1e871",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T16:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-murray-st-racers",
+        "leagueId": "ncaab",
+        "name": "Murray St Racers",
+        "shortName": "Racers",
+        "abbreviation": "MSR"
+      },
+      "awayTeam": {
+        "id": "ncaab-tennessee-st-tigers",
+        "leagueId": "ncaab",
+        "name": "Tennessee St Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "TST"
+      },
+      "homeScore": {
+        "teamId": "ncaab-murray-st-racers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-tennessee-st-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f0eb27924ac613d7606d8988e9d1e871"
+      }
+    },
+    {
+      "id": "7bc4ca60dcf27386ecd1b9d8ea62e80e",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T19:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-utep-miners",
+        "leagueId": "ncaab",
+        "name": "UTEP Miners",
+        "shortName": "Miners",
+        "abbreviation": "UM"
+      },
+      "awayTeam": {
+        "id": "ncaab-northern-kentucky-norse",
+        "leagueId": "ncaab",
+        "name": "Northern Kentucky Norse",
+        "shortName": "Norse",
+        "abbreviation": "NKN"
+      },
+      "homeScore": {
+        "teamId": "ncaab-utep-miners",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-northern-kentucky-norse",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7bc4ca60dcf27386ecd1b9d8ea62e80e"
+      }
+    },
+    {
+      "id": "2202ea1b5c467f5f358bfe14e82c0643",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T20:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-san-jos-st-spartans",
+        "leagueId": "ncaab",
+        "name": "San José St Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "SJS"
+      },
+      "awayTeam": {
+        "id": "ncaab-utsa-roadrunners",
+        "leagueId": "ncaab",
+        "name": "UTSA Roadrunners",
+        "shortName": "Roadrunners",
+        "abbreviation": "UR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-san-jos-st-spartans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-utsa-roadrunners",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2202ea1b5c467f5f358bfe14e82c0643"
+      }
+    },
+    {
+      "id": "bf85a07f7a34b2f043c199c2322cc442",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T21:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-george-mason-patriots",
+        "leagueId": "ncaab",
+        "name": "George Mason Patriots",
+        "shortName": "Patriots",
+        "abbreviation": "GMP"
+      },
+      "awayTeam": {
+        "id": "ncaab-umbc-retrievers",
+        "leagueId": "ncaab",
+        "name": "UMBC Retrievers",
+        "shortName": "Retrievers",
+        "abbreviation": "UR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-george-mason-patriots",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-umbc-retrievers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bf85a07f7a34b2f043c199c2322cc442"
+      }
+    },
+    {
+      "id": "683ca7110f83d94d2807e36e9bc3e10c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T22:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-mcneese-cowboys",
+        "leagueId": "ncaab",
+        "name": "McNeese Cowboys",
+        "shortName": "Cowboys",
+        "abbreviation": "MC"
+      },
+      "awayTeam": {
+        "id": "ncaab-uab-blazers",
+        "leagueId": "ncaab",
+        "name": "UAB Blazers",
+        "shortName": "Blazers",
+        "abbreviation": "UB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-mcneese-cowboys",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-uab-blazers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "683ca7110f83d94d2807e36e9bc3e10c"
+      }
+    },
+    {
+      "id": "b4970897f70655a49fa773790bf4483f",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-georgia-st-panthers",
+        "leagueId": "ncaab",
+        "name": "Georgia St Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "GSP"
+      },
+      "awayTeam": {
+        "id": "ncaab-bowling-green-falcons",
+        "leagueId": "ncaab",
+        "name": "Bowling Green Falcons",
+        "shortName": "Falcons",
+        "abbreviation": "BGF"
+      },
+      "homeScore": {
+        "teamId": "ncaab-georgia-st-panthers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-bowling-green-falcons",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b4970897f70655a49fa773790bf4483f"
+      }
+    },
+    {
+      "id": "a97fcea306dc976108df27ad192ababb",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-cornell-big-red",
+        "leagueId": "ncaab",
+        "name": "Cornell Big Red",
+        "shortName": "Red",
+        "abbreviation": "CBR"
+      },
+      "awayTeam": {
+        "id": "ncaab-pepperdine-waves",
+        "leagueId": "ncaab",
+        "name": "Pepperdine Waves",
+        "shortName": "Waves",
+        "abbreviation": "PW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-cornell-big-red",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-pepperdine-waves",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a97fcea306dc976108df27ad192ababb"
+      }
+    },
+    {
+      "id": "112a0b847e8a6f5f1cd2664986697d60",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-miami-hurricanes",
+        "leagueId": "ncaab",
+        "name": "Miami Hurricanes",
+        "shortName": "Hurricanes",
+        "abbreviation": "MH"
+      },
+      "awayTeam": {
+        "id": "ncaab-florida-gators",
+        "leagueId": "ncaab",
+        "name": "Florida Gators",
+        "shortName": "Gators",
+        "abbreviation": "FG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-miami-hurricanes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-florida-gators",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "112a0b847e8a6f5f1cd2664986697d60"
+      }
+    },
+    {
+      "id": "509ce59dbf5e07bb4acf73cd8ecc4d3b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-iowa-state-cyclones",
+        "leagueId": "ncaab",
+        "name": "Iowa State Cyclones",
+        "shortName": "Cyclones",
+        "abbreviation": "ISC"
+      },
+      "awayTeam": {
+        "id": "ncaab-memphis-tigers",
+        "leagueId": "ncaab",
+        "name": "Memphis Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "MT"
+      },
+      "homeScore": {
+        "teamId": "ncaab-iowa-state-cyclones",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-memphis-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "509ce59dbf5e07bb4acf73cd8ecc4d3b"
+      }
+    },
+    {
+      "id": "29c695dc58921fdf746ef98e504377e3",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-michigan-wolverines",
+        "leagueId": "ncaab",
+        "name": "Michigan Wolverines",
+        "shortName": "Wolverines",
+        "abbreviation": "MW"
+      },
+      "awayTeam": {
+        "id": "ncaab-oakland-golden-grizzlies",
+        "leagueId": "ncaab",
+        "name": "Oakland Golden Grizzlies",
+        "shortName": "Grizzlies",
+        "abbreviation": "OGG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-michigan-wolverines",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-oakland-golden-grizzlies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "29c695dc58921fdf746ef98e504377e3"
+      }
+    },
+    {
+      "id": "64ec8d7dcae94c7fa5dc481068d7e383",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-duke-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Duke Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "DBD"
+      },
+      "awayTeam": {
+        "id": "ncaab-army-knights",
+        "leagueId": "ncaab",
+        "name": "Army Knights",
+        "shortName": "Knights",
+        "abbreviation": "AK"
+      },
+      "homeScore": {
+        "teamId": "ncaab-duke-blue-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-army-knights",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "64ec8d7dcae94c7fa5dc481068d7e383"
+      }
+    },
+    {
+      "id": "b288c1e120393642a64e0ae1b32f0d59",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-temple-owls",
+        "leagueId": "ncaab",
+        "name": "Temple Owls",
+        "shortName": "Owls",
+        "abbreviation": "TO"
+      },
+      "awayTeam": {
+        "id": "ncaab-central-connecticut-st-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Central Connecticut St Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "CCS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-temple-owls",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-central-connecticut-st-blue-devils",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b288c1e120393642a64e0ae1b32f0d59"
+      }
+    },
+    {
+      "id": "26ea50197c90508dd0685b166c64ec96",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-georgetown-hoyas",
+        "leagueId": "ncaab",
+        "name": "Georgetown Hoyas",
+        "shortName": "Hoyas",
+        "abbreviation": "GH"
+      },
+      "awayTeam": {
+        "id": "ncaab-loyola-md-greyhounds",
+        "leagueId": "ncaab",
+        "name": "Loyola (MD) Greyhounds",
+        "shortName": "Greyhounds",
+        "abbreviation": "L(G"
+      },
+      "homeScore": {
+        "teamId": "ncaab-georgetown-hoyas",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-loyola-md-greyhounds",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "26ea50197c90508dd0685b166c64ec96"
+      }
+    },
+    {
+      "id": "01a67a2b10f3120e0b60ced75ee9b8bb",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-02T23:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-st-john-s-red-storm",
+        "leagueId": "ncaab",
+        "name": "St. John's Red Storm",
+        "shortName": "Storm",
+        "abbreviation": "SJR"
+      },
+      "awayTeam": {
+        "id": "ncaab-monmouth-hawks",
+        "leagueId": "ncaab",
+        "name": "Monmouth Hawks",
+        "shortName": "Hawks",
+        "abbreviation": "MH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-st-john-s-red-storm",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-monmouth-hawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "01a67a2b10f3120e0b60ced75ee9b8bb"
+      }
+    },
+    {
+      "id": "5e14ec4a691e74f646ffcd0f3f211160",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-wright-st-raiders",
+        "leagueId": "ncaab",
+        "name": "Wright St Raiders",
+        "shortName": "Raiders",
+        "abbreviation": "WSR"
+      },
+      "awayTeam": {
+        "id": "ncaab-air-force-falcons",
+        "leagueId": "ncaab",
+        "name": "Air Force Falcons",
+        "shortName": "Falcons",
+        "abbreviation": "AFF"
+      },
+      "homeScore": {
+        "teamId": "ncaab-wright-st-raiders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-air-force-falcons",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5e14ec4a691e74f646ffcd0f3f211160"
+      }
+    },
+    {
+      "id": "663456000df8e5554d714e6f6d181c45",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-cincinnati-bearcats",
+        "leagueId": "ncaab",
+        "name": "Cincinnati Bearcats",
+        "shortName": "Bearcats",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "ncaab-american-eagles",
+        "leagueId": "ncaab",
+        "name": "American Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "AE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-cincinnati-bearcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-american-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "663456000df8e5554d714e6f6d181c45"
+      }
+    },
+    {
+      "id": "c323c594147cab0e198bbb70efd5c70f",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-vcu-rams",
+        "leagueId": "ncaab",
+        "name": "VCU Rams",
+        "shortName": "Rams",
+        "abbreviation": "VR"
+      },
+      "awayTeam": {
+        "id": "ncaab-arkansas-little-rock-trojans",
+        "leagueId": "ncaab",
+        "name": "Arkansas-Little Rock Trojans",
+        "shortName": "Trojans",
+        "abbreviation": "ART"
+      },
+      "homeScore": {
+        "teamId": "ncaab-vcu-rams",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-arkansas-little-rock-trojans",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c323c594147cab0e198bbb70efd5c70f"
+      }
+    },
+    {
+      "id": "f6215b7d0553365164e5ad19c8a22d95",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-georgia-southern-eagles",
+        "leagueId": "ncaab",
+        "name": "Georgia Southern Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "GSE"
+      },
+      "awayTeam": {
+        "id": "ncaab-ball-state-cardinals",
+        "leagueId": "ncaab",
+        "name": "Ball State Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "BSC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-georgia-southern-eagles",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-ball-state-cardinals",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f6215b7d0553365164e5ad19c8a22d95"
+      }
+    },
+    {
+      "id": "e4ed951963eb98085e0de590495c5220",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-vanderbilt-commodores",
+        "leagueId": "ncaab",
+        "name": "Vanderbilt Commodores",
+        "shortName": "Commodores",
+        "abbreviation": "VC"
+      },
+      "awayTeam": {
+        "id": "ncaab-bellarmine-knights",
+        "leagueId": "ncaab",
+        "name": "Bellarmine Knights",
+        "shortName": "Knights",
+        "abbreviation": "BK"
+      },
+      "homeScore": {
+        "teamId": "ncaab-vanderbilt-commodores",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-bellarmine-knights",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e4ed951963eb98085e0de590495c5220"
+      }
+    },
+    {
+      "id": "b4b50158580ccc997661bd708666b056",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-boston-univ-terriers",
+        "leagueId": "ncaab",
+        "name": "Boston Univ. Terriers",
+        "shortName": "Terriers",
+        "abbreviation": "BUT"
+      },
+      "awayTeam": {
+        "id": "ncaab-northeastern-huskies",
+        "leagueId": "ncaab",
+        "name": "Northeastern Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "NH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-boston-univ-terriers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-northeastern-huskies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b4b50158580ccc997661bd708666b056"
+      }
+    },
+    {
+      "id": "51cab938629a547965a4d59542668b9e",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-brown-bears",
+        "leagueId": "ncaab",
+        "name": "Brown Bears",
+        "shortName": "Bears",
+        "abbreviation": "BB"
+      },
+      "awayTeam": {
+        "id": "ncaab-new-hampshire-wildcats",
+        "leagueId": "ncaab",
+        "name": "New Hampshire Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "NHW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-brown-bears",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-new-hampshire-wildcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "51cab938629a547965a4d59542668b9e"
+      }
+    },
+    {
+      "id": "771ec98253d2d74e3d414a9824502f41",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-maryland-terrapins",
+        "leagueId": "ncaab",
+        "name": "Maryland Terrapins",
+        "shortName": "Terrapins",
+        "abbreviation": "MT"
+      },
+      "awayTeam": {
+        "id": "ncaab-bucknell-bison",
+        "leagueId": "ncaab",
+        "name": "Bucknell Bison",
+        "shortName": "Bison",
+        "abbreviation": "BB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-maryland-terrapins",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-bucknell-bison",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "771ec98253d2d74e3d414a9824502f41"
+      }
+    },
+    {
+      "id": "b37c6fa94969702171899d90a353c9b4",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-marshall-thundering-herd",
+        "leagueId": "ncaab",
+        "name": "Marshall Thundering Herd",
+        "shortName": "Herd",
+        "abbreviation": "MTH"
+      },
+      "awayTeam": {
+        "id": "ncaab-buffalo-bulls",
+        "leagueId": "ncaab",
+        "name": "Buffalo Bulls",
+        "shortName": "Bulls",
+        "abbreviation": "BB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-marshall-thundering-herd",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-buffalo-bulls",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b37c6fa94969702171899d90a353c9b4"
+      }
+    },
+    {
+      "id": "52f0486599971af2fc0a885c2f614a55",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-butler-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Butler Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "BB"
+      },
+      "awayTeam": {
+        "id": "ncaab-lafayette-leopards",
+        "leagueId": "ncaab",
+        "name": "Lafayette Leopards",
+        "shortName": "Leopards",
+        "abbreviation": "LL"
+      },
+      "homeScore": {
+        "teamId": "ncaab-butler-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-lafayette-leopards",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "52f0486599971af2fc0a885c2f614a55"
+      }
+    },
+    {
+      "id": "b8a4f3a0aaca19ec4b4a0244b33cc279",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-south-florida-bulls",
+        "leagueId": "ncaab",
+        "name": "South Florida Bulls",
+        "shortName": "Bulls",
+        "abbreviation": "SFB"
+      },
+      "awayTeam": {
+        "id": "ncaab-charleston-southern-buccaneers",
+        "leagueId": "ncaab",
+        "name": "Charleston Southern Buccaneers",
+        "shortName": "Buccaneers",
+        "abbreviation": "CSB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-south-florida-bulls",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-charleston-southern-buccaneers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b8a4f3a0aaca19ec4b4a0244b33cc279"
+      }
+    },
+    {
+      "id": "51227b1c18baf285bc96ead01820bb34",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-indiana-st-sycamores",
+        "leagueId": "ncaab",
+        "name": "Indiana St Sycamores",
+        "shortName": "Sycamores",
+        "abbreviation": "ISS"
+      },
+      "awayTeam": {
+        "id": "ncaab-charlotte-49ers",
+        "leagueId": "ncaab",
+        "name": "Charlotte 49ers",
+        "shortName": "49ers",
+        "abbreviation": "C4"
+      },
+      "homeScore": {
+        "teamId": "ncaab-indiana-st-sycamores",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-charlotte-49ers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "51227b1c18baf285bc96ead01820bb34"
+      }
+    },
+    {
+      "id": "8cc9c58f48f7b3a5cd24b4ebf7227e85",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-clemson-tigers",
+        "leagueId": "ncaab",
+        "name": "Clemson Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "CT"
+      },
+      "awayTeam": {
+        "id": "ncaab-stetson-hatters",
+        "leagueId": "ncaab",
+        "name": "Stetson Hatters",
+        "shortName": "Hatters",
+        "abbreviation": "SH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-clemson-tigers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-stetson-hatters",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8cc9c58f48f7b3a5cd24b4ebf7227e85"
+      }
+    },
+    {
+      "id": "08daaa72730b29b6d8491b2780eaf255",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-coastal-carolina-chanticleers",
+        "leagueId": "ncaab",
+        "name": "Coastal Carolina Chanticleers",
+        "shortName": "Chanticleers",
+        "abbreviation": "CCC"
+      },
+      "awayTeam": {
+        "id": "ncaab-eastern-michigan-eagles",
+        "leagueId": "ncaab",
+        "name": "Eastern Michigan Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "EME"
+      },
+      "homeScore": {
+        "teamId": "ncaab-coastal-carolina-chanticleers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-eastern-michigan-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "08daaa72730b29b6d8491b2780eaf255"
+      }
+    },
+    {
+      "id": "b846c88da194937fa3bdd7e1cd882078",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-columbia-lions",
+        "leagueId": "ncaab",
+        "name": "Columbia Lions",
+        "shortName": "Lions",
+        "abbreviation": "CL"
+      },
+      "awayTeam": {
+        "id": "ncaab-elon-phoenix",
+        "leagueId": "ncaab",
+        "name": "Elon Phoenix",
+        "shortName": "Phoenix",
+        "abbreviation": "EP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-columbia-lions",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-elon-phoenix",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b846c88da194937fa3bdd7e1cd882078"
+      }
+    },
+    {
+      "id": "03af4f75c7ae5385320efa8abb0f332f",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-marist-red-foxes",
+        "leagueId": "ncaab",
+        "name": "Marist Red Foxes",
+        "shortName": "Foxes",
+        "abbreviation": "MRF"
+      },
+      "awayTeam": {
+        "id": "ncaab-dartmouth-big-green",
+        "leagueId": "ncaab",
+        "name": "Dartmouth Big Green",
+        "shortName": "Green",
+        "abbreviation": "DBG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-marist-red-foxes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-dartmouth-big-green",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "03af4f75c7ae5385320efa8abb0f332f"
+      }
+    },
+    {
+      "id": "e07ddfe82ef87388127d5f72c1e551cc",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-dayton-flyers",
+        "leagueId": "ncaab",
+        "name": "Dayton Flyers",
+        "shortName": "Flyers",
+        "abbreviation": "DF"
+      },
+      "awayTeam": {
+        "id": "ncaab-njit-highlanders",
+        "leagueId": "ncaab",
+        "name": "NJIT Highlanders",
+        "shortName": "Highlanders",
+        "abbreviation": "NH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-dayton-flyers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-njit-highlanders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e07ddfe82ef87388127d5f72c1e551cc"
+      }
+    },
+    {
+      "id": "1a2a8077d8a265e4cfbd5946eaecd278",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-east-carolina-pirates",
+        "leagueId": "ncaab",
+        "name": "East Carolina Pirates",
+        "shortName": "Pirates",
+        "abbreviation": "ECP"
+      },
+      "awayTeam": {
+        "id": "ncaab-south-carolina-upstate-spartans",
+        "leagueId": "ncaab",
+        "name": "South Carolina Upstate Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "SCU"
+      },
+      "homeScore": {
+        "teamId": "ncaab-east-carolina-pirates",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-south-carolina-upstate-spartans",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "1a2a8077d8a265e4cfbd5946eaecd278"
+      }
+    },
+    {
+      "id": "3581ed4a2f597c24bcc9c7b0b2d8a061",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-indiana-hoosiers",
+        "leagueId": "ncaab",
+        "name": "Indiana Hoosiers",
+        "shortName": "Hoosiers",
+        "abbreviation": "IH"
+      },
+      "awayTeam": {
+        "id": "ncaab-eastern-illinois-panthers",
+        "leagueId": "ncaab",
+        "name": "Eastern Illinois Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "EIP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-indiana-hoosiers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-eastern-illinois-panthers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3581ed4a2f597c24bcc9c7b0b2d8a061"
+      }
+    },
+    {
+      "id": "ee203d32a891882aceddfb2dce86fb28",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-florida-atlantic-owls",
+        "leagueId": "ncaab",
+        "name": "Florida Atlantic Owls",
+        "shortName": "Owls",
+        "abbreviation": "FAO"
+      },
+      "awayTeam": {
+        "id": "ncaab-liu-sharks",
+        "leagueId": "ncaab",
+        "name": "LIU Sharks",
+        "shortName": "Sharks",
+        "abbreviation": "LS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-florida-atlantic-owls",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-liu-sharks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ee203d32a891882aceddfb2dce86fb28"
+      }
+    },
+    {
+      "id": "3daff1970253d6fd97e01b2744aa8df5",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-ucf-knights",
+        "leagueId": "ncaab",
+        "name": "UCF Knights",
+        "shortName": "Knights",
+        "abbreviation": "UK"
+      },
+      "awayTeam": {
+        "id": "ncaab-florida-gulf-coast-eagles",
+        "leagueId": "ncaab",
+        "name": "Florida Gulf Coast Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "FGC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-ucf-knights",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-florida-gulf-coast-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3daff1970253d6fd97e01b2744aa8df5"
+      }
+    },
+    {
+      "id": "c5189ac34ee35b759f907342dde69951",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-yale-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Yale Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "YB"
+      },
+      "awayTeam": {
+        "id": "ncaab-howard-bison",
+        "leagueId": "ncaab",
+        "name": "Howard Bison",
+        "shortName": "Bison",
+        "abbreviation": "HB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-yale-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-howard-bison",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c5189ac34ee35b759f907342dde69951"
+      }
+    },
+    {
+      "id": "85709ce146f914cbde4e6a43c96b6626",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-iona-gaels",
+        "leagueId": "ncaab",
+        "name": "Iona Gaels",
+        "shortName": "Gaels",
+        "abbreviation": "IG"
+      },
+      "awayTeam": {
+        "id": "ncaab-vermont-catamounts",
+        "leagueId": "ncaab",
+        "name": "Vermont Catamounts",
+        "shortName": "Catamounts",
+        "abbreviation": "VC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-iona-gaels",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-vermont-catamounts",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85709ce146f914cbde4e6a43c96b6626"
+      }
+    },
+    {
+      "id": "d984cd7b794bcc3b67aef0ac969591bb",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-texas-tech-red-raiders",
+        "leagueId": "ncaab",
+        "name": "Texas Tech Red Raiders",
+        "shortName": "Raiders",
+        "abbreviation": "TTR"
+      },
+      "awayTeam": {
+        "id": "ncaab-jackson-st-tigers",
+        "leagueId": "ncaab",
+        "name": "Jackson St Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "JST"
+      },
+      "homeScore": {
+        "teamId": "ncaab-texas-tech-red-raiders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-jackson-st-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d984cd7b794bcc3b67aef0ac969591bb"
+      }
+    },
+    {
+      "id": "32f224800fe08d0511be6ca3bfa59be4",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-james-madison-dukes",
+        "leagueId": "ncaab",
+        "name": "James Madison Dukes",
+        "shortName": "Dukes",
+        "abbreviation": "JMD"
+      },
+      "awayTeam": {
+        "id": "ncaab-miami-oh-redhawks",
+        "leagueId": "ncaab",
+        "name": "Miami (OH) RedHawks",
+        "shortName": "RedHawks",
+        "abbreviation": "M(R"
+      },
+      "homeScore": {
+        "teamId": "ncaab-james-madison-dukes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-miami-oh-redhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "32f224800fe08d0511be6ca3bfa59be4"
+      }
+    },
+    {
+      "id": "a0a60b41a2b7750dccef341caf45b906",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-providence-friars",
+        "leagueId": "ncaab",
+        "name": "Providence Friars",
+        "shortName": "Friars",
+        "abbreviation": "PF"
+      },
+      "awayTeam": {
+        "id": "ncaab-maine-black-bears",
+        "leagueId": "ncaab",
+        "name": "Maine Black Bears",
+        "shortName": "Bears",
+        "abbreviation": "MBB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-providence-friars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-maine-black-bears",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a0a60b41a2b7750dccef341caf45b906"
+      }
+    },
+    {
+      "id": "062c86b4f45675d9bd1b0edff34f1ab8",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-troy-trojans",
+        "leagueId": "ncaab",
+        "name": "Troy Trojans",
+        "shortName": "Trojans",
+        "abbreviation": "TT"
+      },
+      "awayTeam": {
+        "id": "ncaab-massachusetts-minutemen",
+        "leagueId": "ncaab",
+        "name": "Massachusetts Minutemen",
+        "shortName": "Minutemen",
+        "abbreviation": "MM"
+      },
+      "homeScore": {
+        "teamId": "ncaab-troy-trojans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-massachusetts-minutemen",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "062c86b4f45675d9bd1b0edff34f1ab8"
+      }
+    },
+    {
+      "id": "796a448142e15c540cc43b5259cf2df2",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-michigan-st-spartans",
+        "leagueId": "ncaab",
+        "name": "Michigan St Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "MSS"
+      },
+      "awayTeam": {
+        "id": "ncaab-quinnipiac-bobcats",
+        "leagueId": "ncaab",
+        "name": "Quinnipiac Bobcats",
+        "shortName": "Bobcats",
+        "abbreviation": "QB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-michigan-st-spartans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-quinnipiac-bobcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "796a448142e15c540cc43b5259cf2df2"
+      }
+    },
+    {
+      "id": "db74aa8355868d6663689ba1cb8db484",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-xavier-musketeers",
+        "leagueId": "ncaab",
+        "name": "Xavier Musketeers",
+        "shortName": "Musketeers",
+        "abbreviation": "XM"
+      },
+      "awayTeam": {
+        "id": "ncaab-mt-st-mary-s-mountaineers",
+        "leagueId": "ncaab",
+        "name": "Mt. St. Mary's Mountaineers",
+        "shortName": "Mountaineers",
+        "abbreviation": "MSM"
+      },
+      "homeScore": {
+        "teamId": "ncaab-xavier-musketeers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-mt-st-mary-s-mountaineers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "db74aa8355868d6663689ba1cb8db484"
+      }
+    },
+    {
+      "id": "56120f3a159b65ffcbb5d0c91eed5954",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-syracuse-orange",
+        "leagueId": "ncaab",
+        "name": "Syracuse Orange",
+        "shortName": "Orange",
+        "abbreviation": "SO"
+      },
+      "awayTeam": {
+        "id": "ncaab-new-haven-chargers",
+        "leagueId": "ncaab",
+        "name": "New Haven Chargers",
+        "shortName": "Chargers",
+        "abbreviation": "NHC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-syracuse-orange",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-new-haven-chargers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "56120f3a159b65ffcbb5d0c91eed5954"
+      }
+    },
+    {
+      "id": "2321b7a60af9c91a161665b10896b5ff",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-west-virginia-mountaineers",
+        "leagueId": "ncaab",
+        "name": "West Virginia Mountaineers",
+        "shortName": "Mountaineers",
+        "abbreviation": "WVM"
+      },
+      "awayTeam": {
+        "id": "ncaab-niagara-purple-eagles",
+        "leagueId": "ncaab",
+        "name": "Niagara Purple Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "NPE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-west-virginia-mountaineers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-niagara-purple-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2321b7a60af9c91a161665b10896b5ff"
+      }
+    },
+    {
+      "id": "3f9010c85d42b1b85e59bdc3cd64214c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-north-carolina-tar-heels",
+        "leagueId": "ncaab",
+        "name": "North Carolina Tar Heels",
+        "shortName": "Heels",
+        "abbreviation": "NCT"
+      },
+      "awayTeam": {
+        "id": "ncaab-western-carolina-catamounts",
+        "leagueId": "ncaab",
+        "name": "Western Carolina Catamounts",
+        "shortName": "Catamounts",
+        "abbreviation": "WCC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-north-carolina-tar-heels",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-western-carolina-catamounts",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3f9010c85d42b1b85e59bdc3cd64214c"
+      }
+    },
+    {
+      "id": "21c4f4d06b2c7fbe30261414e7c654d3",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-old-dominion-monarchs",
+        "leagueId": "ncaab",
+        "name": "Old Dominion Monarchs",
+        "shortName": "Monarchs",
+        "abbreviation": "ODM"
+      },
+      "awayTeam": {
+        "id": "ncaab-western-michigan-broncos",
+        "leagueId": "ncaab",
+        "name": "Western Michigan Broncos",
+        "shortName": "Broncos",
+        "abbreviation": "WMB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-old-dominion-monarchs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-western-michigan-broncos",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "21c4f4d06b2c7fbe30261414e7c654d3"
+      }
+    },
+    {
+      "id": "77dc931bac3660e66c7d2d5f6f0cbb6a",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-pittsburgh-panthers",
+        "leagueId": "ncaab",
+        "name": "Pittsburgh Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "PP"
+      },
+      "awayTeam": {
+        "id": "ncaab-rider-broncs",
+        "leagueId": "ncaab",
+        "name": "Rider Broncs",
+        "shortName": "Broncs",
+        "abbreviation": "RB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-pittsburgh-panthers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-rider-broncs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "77dc931bac3660e66c7d2d5f6f0cbb6a"
+      }
+    },
+    {
+      "id": "aba48d8d67ce2a195effdea02236b8f0",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-presbyterian-blue-hose",
+        "leagueId": "ncaab",
+        "name": "Presbyterian Blue Hose",
+        "shortName": "Hose",
+        "abbreviation": "PBH"
+      },
+      "awayTeam": {
+        "id": "ncaab-st-thomas-mn-tommies",
+        "leagueId": "ncaab",
+        "name": "St. Thomas (MN) Tommies",
+        "shortName": "Tommies",
+        "abbreviation": "ST("
+      },
+      "homeScore": {
+        "teamId": "ncaab-presbyterian-blue-hose",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-st-thomas-mn-tommies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "aba48d8d67ce2a195effdea02236b8f0"
+      }
+    },
+    {
+      "id": "0f54e76dec4ba99841b26be0dff31b52",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-richmond-spiders",
+        "leagueId": "ncaab",
+        "name": "Richmond Spiders",
+        "shortName": "Spiders",
+        "abbreviation": "RS"
+      },
+      "awayTeam": {
+        "id": "ncaab-unc-asheville-bulldogs",
+        "leagueId": "ncaab",
+        "name": "UNC Asheville Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "UAB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-richmond-spiders",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-unc-asheville-bulldogs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "0f54e76dec4ba99841b26be0dff31b52"
+      }
+    },
+    {
+      "id": "72f21b114426c23ca2e174bc79720068",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-st-bonaventure-bonnies",
+        "leagueId": "ncaab",
+        "name": "St. Bonaventure Bonnies",
+        "shortName": "Bonnies",
+        "abbreviation": "SBB"
+      },
+      "awayTeam": {
+        "id": "ncaab-youngstown-st-penguins",
+        "leagueId": "ncaab",
+        "name": "Youngstown St Penguins",
+        "shortName": "Penguins",
+        "abbreviation": "YSP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-st-bonaventure-bonnies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-youngstown-st-penguins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "72f21b114426c23ca2e174bc79720068"
+      }
+    },
+    {
+      "id": "2ab6a895f097b6f2095a209190ba2d9b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-belmont-bruins",
+        "leagueId": "ncaab",
+        "name": "Belmont Bruins",
+        "shortName": "Bruins",
+        "abbreviation": "BB"
+      },
+      "awayTeam": {
+        "id": "ncaab-southern-indiana-screaming-eagles",
+        "leagueId": "ncaab",
+        "name": "Southern Indiana Screaming Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "SIS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-belmont-bruins",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-southern-indiana-screaming-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2ab6a895f097b6f2095a209190ba2d9b"
+      }
+    },
+    {
+      "id": "c026662dbd1c30e0c9bafd4292794574",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-nc-state-wolfpack",
+        "leagueId": "ncaab",
+        "name": "NC State Wolfpack",
+        "shortName": "Wolfpack",
+        "abbreviation": "NSW"
+      },
+      "awayTeam": {
+        "id": "ncaab-campbell-fighting-camels",
+        "leagueId": "ncaab",
+        "name": "Campbell Fighting Camels",
+        "shortName": "Camels",
+        "abbreviation": "CFC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-nc-state-wolfpack",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-campbell-fighting-camels",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c026662dbd1c30e0c9bafd4292794574"
+      }
+    },
+    {
+      "id": "5b4208115143f6568999034cb79d82d8",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-penn-state-nittany-lions",
+        "leagueId": "ncaab",
+        "name": "Penn State Nittany Lions",
+        "shortName": "Lions",
+        "abbreviation": "PSN"
+      },
+      "awayTeam": {
+        "id": "ncaab-canisius-golden-griffins",
+        "leagueId": "ncaab",
+        "name": "Canisius Golden Griffins",
+        "shortName": "Griffins",
+        "abbreviation": "CGG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-penn-state-nittany-lions",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-canisius-golden-griffins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5b4208115143f6568999034cb79d82d8"
+      }
+    },
+    {
+      "id": "b64193e99fea27997dbecab37285b0ff",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-ul-monroe-warhawks",
+        "leagueId": "ncaab",
+        "name": "UL Monroe Warhawks",
+        "shortName": "Warhawks",
+        "abbreviation": "UMW"
+      },
+      "awayTeam": {
+        "id": "ncaab-central-michigan-chippewas",
+        "leagueId": "ncaab",
+        "name": "Central Michigan Chippewas",
+        "shortName": "Chippewas",
+        "abbreviation": "CMC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-ul-monroe-warhawks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-central-michigan-chippewas",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b64193e99fea27997dbecab37285b0ff"
+      }
+    },
+    {
+      "id": "7fded130677616b91fa25bd9f659cad2",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-wisconsin-badgers",
+        "leagueId": "ncaab",
+        "name": "Wisconsin Badgers",
+        "shortName": "Badgers",
+        "abbreviation": "WB"
+      },
+      "awayTeam": {
+        "id": "ncaab-denver-pioneers",
+        "leagueId": "ncaab",
+        "name": "Denver Pioneers",
+        "shortName": "Pioneers",
+        "abbreviation": "DP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-wisconsin-badgers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-denver-pioneers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7fded130677616b91fa25bd9f659cad2"
+      }
+    },
+    {
+      "id": "18d3ad90cf23ad6589869b417fcb8e46",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-gw-revolutionaries",
+        "leagueId": "ncaab",
+        "name": "GW Revolutionaries",
+        "shortName": "Revolutionaries",
+        "abbreviation": "GR"
+      },
+      "awayTeam": {
+        "id": "ncaab-navy-midshipmen",
+        "leagueId": "ncaab",
+        "name": "Navy Midshipmen",
+        "shortName": "Midshipmen",
+        "abbreviation": "NM"
+      },
+      "homeScore": {
+        "teamId": "ncaab-gw-revolutionaries",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-navy-midshipmen",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "18d3ad90cf23ad6589869b417fcb8e46"
+      }
+    },
+    {
+      "id": "d3cbb1ed34c91fcc519aea048dc71aaf",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-georgia-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Georgia Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "GB"
+      },
+      "awayTeam": {
+        "id": "ncaab-north-carolina-central-eagles",
+        "leagueId": "ncaab",
+        "name": "North Carolina Central Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "NCC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-georgia-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-north-carolina-central-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d3cbb1ed34c91fcc519aea048dc71aaf"
+      }
+    },
+    {
+      "id": "104fd9502f231c9207ee53d73289d028",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-gonzaga-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Gonzaga Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "GB"
+      },
+      "awayTeam": {
+        "id": "ncaab-purdue-boilermakers",
+        "leagueId": "ncaab",
+        "name": "Purdue Boilermakers",
+        "shortName": "Boilermakers",
+        "abbreviation": "PB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-gonzaga-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-purdue-boilermakers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "104fd9502f231c9207ee53d73289d028"
+      }
+    },
+    {
+      "id": "9c68ca6938ce99e091157e474d981b4d",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-louisiana-tech-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Louisiana Tech Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "LTB"
+      },
+      "awayTeam": {
+        "id": "ncaab-kent-state-golden-flashes",
+        "leagueId": "ncaab",
+        "name": "Kent State Golden Flashes",
+        "shortName": "Flashes",
+        "abbreviation": "KSG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-louisiana-tech-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-kent-state-golden-flashes",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9c68ca6938ce99e091157e474d981b4d"
+      }
+    },
+    {
+      "id": "e1409e9c17fa77421d69381f628a7f57",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-nebraska-cornhuskers",
+        "leagueId": "ncaab",
+        "name": "Nebraska Cornhuskers",
+        "shortName": "Cornhuskers",
+        "abbreviation": "NC"
+      },
+      "awayTeam": {
+        "id": "ncaab-le-moyne-dolphins",
+        "leagueId": "ncaab",
+        "name": "Le Moyne Dolphins",
+        "shortName": "Dolphins",
+        "abbreviation": "LMD"
+      },
+      "homeScore": {
+        "teamId": "ncaab-nebraska-cornhuskers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-le-moyne-dolphins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e1409e9c17fa77421d69381f628a7f57"
+      }
+    },
+    {
+      "id": "d915f798e2969e6ea5a3f8e187c83121",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-se-missouri-st-redhawks",
+        "leagueId": "ncaab",
+        "name": "SE Missouri St Redhawks",
+        "shortName": "Redhawks",
+        "abbreviation": "SMS"
+      },
+      "awayTeam": {
+        "id": "ncaab-lipscomb-bisons",
+        "leagueId": "ncaab",
+        "name": "Lipscomb Bisons",
+        "shortName": "Bisons",
+        "abbreviation": "LB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-se-missouri-st-redhawks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-lipscomb-bisons",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d915f798e2969e6ea5a3f8e187c83121"
+      }
+    },
+    {
+      "id": "bb42a43e6fe89dc5b4151f733a7c40f7",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-marquette-golden-eagles",
+        "leagueId": "ncaab",
+        "name": "Marquette Golden Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "MGE"
+      },
+      "awayTeam": {
+        "id": "ncaab-mercyhurst-lakers",
+        "leagueId": "ncaab",
+        "name": "Mercyhurst Lakers",
+        "shortName": "Lakers",
+        "abbreviation": "ML"
+      },
+      "homeScore": {
+        "teamId": "ncaab-marquette-golden-eagles",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-mercyhurst-lakers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "bb42a43e6fe89dc5b4151f733a7c40f7"
+      }
+    },
+    {
+      "id": "565bf708399eeaad136bf46c0396719c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-mississippi-st-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Mississippi St Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "MSB"
+      },
+      "awayTeam": {
+        "id": "ncaab-tennessee-tech-golden-eagles",
+        "leagueId": "ncaab",
+        "name": "Tennessee Tech Golden Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "TTG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-mississippi-st-bulldogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-tennessee-tech-golden-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "565bf708399eeaad136bf46c0396719c"
+      }
+    },
+    {
+      "id": "7d1c050c73583628595d3946a0ce4c64",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-western-kentucky-hilltoppers",
+        "leagueId": "ncaab",
+        "name": "Western Kentucky Hilltoppers",
+        "shortName": "Hilltoppers",
+        "abbreviation": "WKH"
+      },
+      "awayTeam": {
+        "id": "ncaab-morehead-st-eagles",
+        "leagueId": "ncaab",
+        "name": "Morehead St Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "MSE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-western-kentucky-hilltoppers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-morehead-st-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7d1c050c73583628595d3946a0ce4c64"
+      }
+    },
+    {
+      "id": "c0479a4473e42c0349449f51f42dd167",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T00:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-seton-hall-pirates",
+        "leagueId": "ncaab",
+        "name": "Seton Hall Pirates",
+        "shortName": "Pirates",
+        "abbreviation": "SHP"
+      },
+      "awayTeam": {
+        "id": "ncaab-saint-peter-s-peacocks",
+        "leagueId": "ncaab",
+        "name": "Saint Peter's Peacocks",
+        "shortName": "Peacocks",
+        "abbreviation": "SPP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-seton-hall-pirates",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-saint-peter-s-peacocks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c0479a4473e42c0349449f51f42dd167"
+      }
+    },
+    {
+      "id": "50db082b97a4e6aba73151bdec0a773a",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-louisiana-ragin-cajuns",
+        "leagueId": "ncaab",
+        "name": "Louisiana Ragin' Cajuns",
+        "shortName": "Cajuns",
+        "abbreviation": "LRC"
+      },
+      "awayTeam": {
+        "id": "ncaab-akron-zips",
+        "leagueId": "ncaab",
+        "name": "Akron Zips",
+        "shortName": "Zips",
+        "abbreviation": "AZ"
+      },
+      "homeScore": {
+        "teamId": "ncaab-louisiana-ragin-cajuns",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-akron-zips",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "50db082b97a4e6aba73151bdec0a773a"
+      }
+    },
+    {
+      "id": "267d475acb1c087294be143bec4e4239",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-arkansas-st-red-wolves",
+        "leagueId": "ncaab",
+        "name": "Arkansas St Red Wolves",
+        "shortName": "Wolves",
+        "abbreviation": "ASR"
+      },
+      "awayTeam": {
+        "id": "ncaab-toledo-rockets",
+        "leagueId": "ncaab",
+        "name": "Toledo Rockets",
+        "shortName": "Rockets",
+        "abbreviation": "TR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-arkansas-st-red-wolves",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-toledo-rockets",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "267d475acb1c087294be143bec4e4239"
+      }
+    },
+    {
+      "id": "cf863e45a3252d509e366d465e7be8c9",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-byu-cougars",
+        "leagueId": "ncaab",
+        "name": "BYU Cougars",
+        "shortName": "Cougars",
+        "abbreviation": "BC"
+      },
+      "awayTeam": {
+        "id": "ncaab-ohio-state-buckeyes",
+        "leagueId": "ncaab",
+        "name": "Ohio State Buckeyes",
+        "shortName": "Buckeyes",
+        "abbreviation": "OSB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-byu-cougars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-ohio-state-buckeyes",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cf863e45a3252d509e366d465e7be8c9"
+      }
+    },
+    {
+      "id": "935de84bb70edb4ad03cb37206a6325c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-bethune-cookman-wildcats",
+        "leagueId": "ncaab",
+        "name": "Bethune-Cookman Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "BW"
+      },
+      "awayTeam": {
+        "id": "ncaab-furman-paladins",
+        "leagueId": "ncaab",
+        "name": "Furman Paladins",
+        "shortName": "Paladins",
+        "abbreviation": "FP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-bethune-cookman-wildcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-furman-paladins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "935de84bb70edb4ad03cb37206a6325c"
+      }
+    },
+    {
+      "id": "dfc5070c79c73952d6e449771ede3c12",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-creighton-bluejays",
+        "leagueId": "ncaab",
+        "name": "Creighton Bluejays",
+        "shortName": "Bluejays",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "ncaab-umkc-kangaroos",
+        "leagueId": "ncaab",
+        "name": "UMKC Kangaroos",
+        "shortName": "Kangaroos",
+        "abbreviation": "UK"
+      },
+      "homeScore": {
+        "teamId": "ncaab-creighton-bluejays",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-umkc-kangaroos",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dfc5070c79c73952d6e449771ede3c12"
+      }
+    },
+    {
+      "id": "c9e7ea2e7f561ffce363a939e267ccdd",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-depaul-blue-demons",
+        "leagueId": "ncaab",
+        "name": "DePaul Blue Demons",
+        "shortName": "Demons",
+        "abbreviation": "DBD"
+      },
+      "awayTeam": {
+        "id": "ncaab-west-georgia-wolves",
+        "leagueId": "ncaab",
+        "name": "West Georgia Wolves",
+        "shortName": "Wolves",
+        "abbreviation": "WGW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-depaul-blue-demons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-west-georgia-wolves",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c9e7ea2e7f561ffce363a939e267ccdd"
+      }
+    },
+    {
+      "id": "7ae7b8859821ce048f256a10907eeb45",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-oklahoma-sooners",
+        "leagueId": "ncaab",
+        "name": "Oklahoma Sooners",
+        "shortName": "Sooners",
+        "abbreviation": "OS"
+      },
+      "awayTeam": {
+        "id": "ncaab-east-texas-a-m-lions",
+        "leagueId": "ncaab",
+        "name": "East Texas A&M Lions",
+        "shortName": "Lions",
+        "abbreviation": "ETA"
+      },
+      "homeScore": {
+        "teamId": "ncaab-oklahoma-sooners",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-east-texas-a-m-lions",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7ae7b8859821ce048f256a10907eeb45"
+      }
+    },
+    {
+      "id": "41369f9374342e6dccca913bf4498c8c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-kansas-jayhawks",
+        "leagueId": "ncaab",
+        "name": "Kansas Jayhawks",
+        "shortName": "Jayhawks",
+        "abbreviation": "KJ"
+      },
+      "awayTeam": {
+        "id": "ncaab-fordham-rams",
+        "leagueId": "ncaab",
+        "name": "Fordham Rams",
+        "shortName": "Rams",
+        "abbreviation": "FR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-kansas-jayhawks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-fordham-rams",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "41369f9374342e6dccca913bf4498c8c"
+      }
+    },
+    {
+      "id": "5f9049bbdf7eb3316f58e56a52d8bf5d",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-uconn-huskies",
+        "leagueId": "ncaab",
+        "name": "UConn Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "UH"
+      },
+      "awayTeam": {
+        "id": "ncaab-gardner-webb-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Gardner-Webb Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "GB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-uconn-huskies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-gardner-webb-bulldogs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5f9049bbdf7eb3316f58e56a52d8bf5d"
+      }
+    },
+    {
+      "id": "952c912a59787af3888b223149e2a906",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-oklahoma-st-cowboys",
+        "leagueId": "ncaab",
+        "name": "Oklahoma St Cowboys",
+        "shortName": "Cowboys",
+        "abbreviation": "OSC"
+      },
+      "awayTeam": {
+        "id": "ncaab-incarnate-word-cardinals",
+        "leagueId": "ncaab",
+        "name": "Incarnate Word Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "IWC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-oklahoma-st-cowboys",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-incarnate-word-cardinals",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "952c912a59787af3888b223149e2a906"
+      }
+    },
+    {
+      "id": "f65b9d2ba78f07af188c94f16b73ba59",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-saint-louis-billikens",
+        "leagueId": "ncaab",
+        "name": "Saint Louis Billikens",
+        "shortName": "Billikens",
+        "abbreviation": "SLB"
+      },
+      "awayTeam": {
+        "id": "ncaab-lehigh-mountain-hawks",
+        "leagueId": "ncaab",
+        "name": "Lehigh Mountain Hawks",
+        "shortName": "Hawks",
+        "abbreviation": "LMH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-saint-louis-billikens",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-lehigh-mountain-hawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f65b9d2ba78f07af188c94f16b73ba59"
+      }
+    },
+    {
+      "id": "8b1e94bad51428661dff7dcb0d63d31e",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-tcu-horned-frogs",
+        "leagueId": "ncaab",
+        "name": "TCU Horned Frogs",
+        "shortName": "Frogs",
+        "abbreviation": "THF"
+      },
+      "awayTeam": {
+        "id": "ncaab-lindenwood-lions",
+        "leagueId": "ncaab",
+        "name": "Lindenwood Lions",
+        "shortName": "Lions",
+        "abbreviation": "LL"
+      },
+      "homeScore": {
+        "teamId": "ncaab-tcu-horned-frogs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-lindenwood-lions",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8b1e94bad51428661dff7dcb0d63d31e"
+      }
+    },
+    {
+      "id": "92878b0879d153357f9d2a1f1f57b8d4",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-loyola-chi-ramblers",
+        "leagueId": "ncaab",
+        "name": "Loyola (Chi) Ramblers",
+        "shortName": "Ramblers",
+        "abbreviation": "L(R"
+      },
+      "awayTeam": {
+        "id": "ncaab-the-citadel-bulldogs",
+        "leagueId": "ncaab",
+        "name": "The Citadel Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "TCB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-loyola-chi-ramblers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-the-citadel-bulldogs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "92878b0879d153357f9d2a1f1f57b8d4"
+      }
+    },
+    {
+      "id": "6ec2faf775f798bfc02b73a02993f82b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-wake-forest-demon-deacons",
+        "leagueId": "ncaab",
+        "name": "Wake Forest Demon Deacons",
+        "shortName": "Deacons",
+        "abbreviation": "WFD"
+      },
+      "awayTeam": {
+        "id": "ncaab-maryland-eastern-shore-hawks",
+        "leagueId": "ncaab",
+        "name": "Maryland-Eastern Shore Hawks",
+        "shortName": "Hawks",
+        "abbreviation": "MSH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-wake-forest-demon-deacons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-maryland-eastern-shore-hawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6ec2faf775f798bfc02b73a02993f82b"
+      }
+    },
+    {
+      "id": "90dfb882fa267e2f94e0f7477352de5a",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-south-alabama-jaguars",
+        "leagueId": "ncaab",
+        "name": "South Alabama Jaguars",
+        "shortName": "Jaguars",
+        "abbreviation": "SAJ"
+      },
+      "awayTeam": {
+        "id": "ncaab-ohio-bobcats",
+        "leagueId": "ncaab",
+        "name": "Ohio Bobcats",
+        "shortName": "Bobcats",
+        "abbreviation": "OB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-south-alabama-jaguars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-ohio-bobcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "90dfb882fa267e2f94e0f7477352de5a"
+      }
+    },
+    {
+      "id": "f2301809bd937c2300ddb69fd935affa",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-smu-mustangs",
+        "leagueId": "ncaab",
+        "name": "SMU Mustangs",
+        "shortName": "Mustangs",
+        "abbreviation": "SM"
+      },
+      "awayTeam": {
+        "id": "ncaab-southern-jaguars",
+        "leagueId": "ncaab",
+        "name": "Southern Jaguars",
+        "shortName": "Jaguars",
+        "abbreviation": "SJ"
+      },
+      "homeScore": {
+        "teamId": "ncaab-smu-mustangs",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-southern-jaguars",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f2301809bd937c2300ddb69fd935affa"
+      }
+    },
+    {
+      "id": "b3ad76c4f4e9b5a4e29fbde840dd25de",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-tulane-green-wave",
+        "leagueId": "ncaab",
+        "name": "Tulane Green Wave",
+        "shortName": "Wave",
+        "abbreviation": "TGW"
+      },
+      "awayTeam": {
+        "id": "ncaab-tenn-martin-skyhawks",
+        "leagueId": "ncaab",
+        "name": "Tenn-Martin Skyhawks",
+        "shortName": "Skyhawks",
+        "abbreviation": "TS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-tulane-green-wave",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-tenn-martin-skyhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b3ad76c4f4e9b5a4e29fbde840dd25de"
+      }
+    },
+    {
+      "id": "31718542745bebc0217594447c0e03fb",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-texas-state-bobcats",
+        "leagueId": "ncaab",
+        "name": "Texas State Bobcats",
+        "shortName": "Bobcats",
+        "abbreviation": "TSB"
+      },
+      "awayTeam": {
+        "id": "ncaab-texas-a-m-cc-islanders",
+        "leagueId": "ncaab",
+        "name": "Texas A&M-CC Islanders",
+        "shortName": "Islanders",
+        "abbreviation": "TAI"
+      },
+      "homeScore": {
+        "teamId": "ncaab-texas-state-bobcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-texas-a-m-cc-islanders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "31718542745bebc0217594447c0e03fb"
+      }
+    },
+    {
+      "id": "06d0d53ac98cb4418eb7fb7c32dff55b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-valparaiso-beacons",
+        "leagueId": "ncaab",
+        "name": "Valparaiso Beacons",
+        "shortName": "Beacons",
+        "abbreviation": "VB"
+      },
+      "awayTeam": {
+        "id": "ncaab-western-illinois-leathernecks",
+        "leagueId": "ncaab",
+        "name": "Western Illinois Leathernecks",
+        "shortName": "Leathernecks",
+        "abbreviation": "WIL"
+      },
+      "homeScore": {
+        "teamId": "ncaab-valparaiso-beacons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-western-illinois-leathernecks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "06d0d53ac98cb4418eb7fb7c32dff55b"
+      }
+    },
+    {
+      "id": "c05e4898896f07d036544c75a68efc46",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-ole-miss-rebels",
+        "leagueId": "ncaab",
+        "name": "Ole Miss Rebels",
+        "shortName": "Rebels",
+        "abbreviation": "OMR"
+      },
+      "awayTeam": {
+        "id": "ncaab-alcorn-st-braves",
+        "leagueId": "ncaab",
+        "name": "Alcorn St Braves",
+        "shortName": "Braves",
+        "abbreviation": "ASB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-ole-miss-rebels",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-alcorn-st-braves",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c05e4898896f07d036544c75a68efc46"
+      }
+    },
+    {
+      "id": "9e8a33e88d513f7e71e4820bdc29b342",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-central-arkansas-bears",
+        "leagueId": "ncaab",
+        "name": "Central Arkansas Bears",
+        "shortName": "Bears",
+        "abbreviation": "CAB"
+      },
+      "awayTeam": {
+        "id": "ncaab-oral-roberts-golden-eagles",
+        "leagueId": "ncaab",
+        "name": "Oral Roberts Golden Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "ORG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-central-arkansas-bears",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-oral-roberts-golden-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9e8a33e88d513f7e71e4820bdc29b342"
+      }
+    },
+    {
+      "id": "8bca11339ea7c2bf3b41e79b63a9a5a6",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T01:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-florida-st-seminoles",
+        "leagueId": "ncaab",
+        "name": "Florida St Seminoles",
+        "shortName": "Seminoles",
+        "abbreviation": "FSS"
+      },
+      "awayTeam": {
+        "id": "ncaab-florida-a-m-rattlers",
+        "leagueId": "ncaab",
+        "name": "Florida A&M Rattlers",
+        "shortName": "Rattlers",
+        "abbreviation": "FAR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-florida-st-seminoles",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-florida-a-m-rattlers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8bca11339ea7c2bf3b41e79b63a9a5a6"
+      }
+    },
+    {
+      "id": "e19d24c81f7c18bc39856eb36b30624d",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-colorado-buffaloes",
+        "leagueId": "ncaab",
+        "name": "Colorado Buffaloes",
+        "shortName": "Buffaloes",
+        "abbreviation": "CB"
+      },
+      "awayTeam": {
+        "id": "ncaab-abilene-christian-wildcats",
+        "leagueId": "ncaab",
+        "name": "Abilene Christian Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "ACW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-colorado-buffaloes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-abilene-christian-wildcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e19d24c81f7c18bc39856eb36b30624d"
+      }
+    },
+    {
+      "id": "c2a77af9aec9fa88afda0729d0bdf8c4",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-louisville-cardinals",
+        "leagueId": "ncaab",
+        "name": "Louisville Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "LC"
+      },
+      "awayTeam": {
+        "id": "ncaab-chattanooga-mocs",
+        "leagueId": "ncaab",
+        "name": "Chattanooga Mocs",
+        "shortName": "Mocs",
+        "abbreviation": "CM"
+      },
+      "homeScore": {
+        "teamId": "ncaab-louisville-cardinals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-chattanooga-mocs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c2a77af9aec9fa88afda0729d0bdf8c4"
+      }
+    },
+    {
+      "id": "17760837933448fb8b3477a5d5fb620c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-washington-st-cougars",
+        "leagueId": "ncaab",
+        "name": "Washington St Cougars",
+        "shortName": "Cougars",
+        "abbreviation": "WSC"
+      },
+      "awayTeam": {
+        "id": "ncaab-davidson-wildcats",
+        "leagueId": "ncaab",
+        "name": "Davidson Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "DW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-washington-st-cougars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-davidson-wildcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "17760837933448fb8b3477a5d5fb620c"
+      }
+    },
+    {
+      "id": "0ade57d062b3a4002c2dd5ab7604bed0",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-grand-canyon-antelopes",
+        "leagueId": "ncaab",
+        "name": "Grand Canyon Antelopes",
+        "shortName": "Antelopes",
+        "abbreviation": "GCA"
+      },
+      "awayTeam": {
+        "id": "ncaab-texas-southern-tigers",
+        "leagueId": "ncaab",
+        "name": "Texas Southern Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "TST"
+      },
+      "homeScore": {
+        "teamId": "ncaab-grand-canyon-antelopes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-texas-southern-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "0ade57d062b3a4002c2dd5ab7604bed0"
+      }
+    },
+    {
+      "id": "7d070404931fc1bc875550510c6308fc",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-houston-cougars",
+        "leagueId": "ncaab",
+        "name": "Houston Cougars",
+        "shortName": "Cougars",
+        "abbreviation": "HC"
+      },
+      "awayTeam": {
+        "id": "ncaab-la-salle-explorers",
+        "leagueId": "ncaab",
+        "name": "La Salle Explorers",
+        "shortName": "Explorers",
+        "abbreviation": "LSE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-houston-cougars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-la-salle-explorers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7d070404931fc1bc875550510c6308fc"
+      }
+    },
+    {
+      "id": "1412e6ffff09e22c2e89bf605e068527",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-utah-utes",
+        "leagueId": "ncaab",
+        "name": "Utah Utes",
+        "shortName": "Utes",
+        "abbreviation": "UU"
+      },
+      "awayTeam": {
+        "id": "ncaab-long-beach-st-49ers",
+        "leagueId": "ncaab",
+        "name": "Long Beach St 49ers",
+        "shortName": "49ers",
+        "abbreviation": "LBS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-utah-utes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-long-beach-st-49ers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "1412e6ffff09e22c2e89bf605e068527"
+      }
+    },
+    {
+      "id": "a086f97f7cf551f601013762bad030ed",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-minnesota-golden-gophers",
+        "leagueId": "ncaab",
+        "name": "Minnesota Golden Gophers",
+        "shortName": "Gophers",
+        "abbreviation": "MGG"
+      },
+      "awayTeam": {
+        "id": "ncaab-north-dakota-fighting-hawks",
+        "leagueId": "ncaab",
+        "name": "North Dakota Fighting Hawks",
+        "shortName": "Hawks",
+        "abbreviation": "NDF"
+      },
+      "homeScore": {
+        "teamId": "ncaab-minnesota-golden-gophers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-north-dakota-fighting-hawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a086f97f7cf551f601013762bad030ed"
+      }
+    },
+    {
+      "id": "8247e66f329c134ceb2ab3b805980441",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-new-mexico-lobos",
+        "leagueId": "ncaab",
+        "name": "New Mexico Lobos",
+        "shortName": "Lobos",
+        "abbreviation": "NML"
+      },
+      "awayTeam": {
+        "id": "ncaab-utah-tech-trailblazers",
+        "leagueId": "ncaab",
+        "name": "Utah Tech Trailblazers",
+        "shortName": "Trailblazers",
+        "abbreviation": "UTT"
+      },
+      "homeScore": {
+        "teamId": "ncaab-new-mexico-lobos",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-utah-tech-trailblazers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8247e66f329c134ceb2ab3b805980441"
+      }
+    },
+    {
+      "id": "d24afa0d4b584d802f58276aac527691",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-baylor-bears",
+        "leagueId": "ncaab",
+        "name": "Baylor Bears",
+        "shortName": "Bears",
+        "abbreviation": "BB"
+      },
+      "awayTeam": {
+        "id": "ncaab-northwestern-st-demons",
+        "leagueId": "ncaab",
+        "name": "Northwestern St Demons",
+        "shortName": "Demons",
+        "abbreviation": "NSD"
+      },
+      "homeScore": {
+        "teamId": "ncaab-baylor-bears",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-northwestern-st-demons",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d24afa0d4b584d802f58276aac527691"
+      }
+    },
+    {
+      "id": "36ed860ab96a46d1497be4acfd6a5667",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-utah-state-aggies",
+        "leagueId": "ncaab",
+        "name": "Utah State Aggies",
+        "shortName": "Aggies",
+        "abbreviation": "USA"
+      },
+      "awayTeam": {
+        "id": "ncaab-idaho-state-bengals",
+        "leagueId": "ncaab",
+        "name": "Idaho State Bengals",
+        "shortName": "Bengals",
+        "abbreviation": "ISB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-utah-state-aggies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-idaho-state-bengals",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "36ed860ab96a46d1497be4acfd6a5667"
+      }
+    },
+    {
+      "id": "3d7267336c139cfb6aa2c4ce4b77133b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T02:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-oregon-st-beavers",
+        "leagueId": "ncaab",
+        "name": "Oregon St Beavers",
+        "shortName": "Beavers",
+        "abbreviation": "OSB"
+      },
+      "awayTeam": {
+        "id": "ncaab-weber-state-wildcats",
+        "leagueId": "ncaab",
+        "name": "Weber State Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "WSW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-oregon-st-beavers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-weber-state-wildcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3d7267336c139cfb6aa2c4ce4b77133b"
+      }
+    },
+    {
+      "id": "d47ba040e2a2647a0c3e5d051fc8e897",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-arizona-st-sun-devils",
+        "leagueId": "ncaab",
+        "name": "Arizona St Sun Devils",
+        "shortName": "Devils",
+        "abbreviation": "ASS"
+      },
+      "awayTeam": {
+        "id": "ncaab-east-tennessee-st-buccaneers",
+        "leagueId": "ncaab",
+        "name": "East Tennessee St Buccaneers",
+        "shortName": "Buccaneers",
+        "abbreviation": "ETS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-arizona-st-sun-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-east-tennessee-st-buccaneers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d47ba040e2a2647a0c3e5d051fc8e897"
+      }
+    },
+    {
+      "id": "0f97cebc3f20e441be9633bb8ecccc4f",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-arizona-wildcats",
+        "leagueId": "ncaab",
+        "name": "Arizona Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "AW"
+      },
+      "awayTeam": {
+        "id": "ncaab-ucla-bruins",
+        "leagueId": "ncaab",
+        "name": "UCLA Bruins",
+        "shortName": "Bruins",
+        "abbreviation": "UB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-arizona-wildcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-ucla-bruins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "0f97cebc3f20e441be9633bb8ecccc4f"
+      }
+    },
+    {
+      "id": "80717df051ecec2ca852c15935b3294c",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-washington-huskies",
+        "leagueId": "ncaab",
+        "name": "Washington Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "WH"
+      },
+      "awayTeam": {
+        "id": "ncaab-colgate-raiders",
+        "leagueId": "ncaab",
+        "name": "Colgate Raiders",
+        "shortName": "Raiders",
+        "abbreviation": "CR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-washington-huskies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-colgate-raiders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "80717df051ecec2ca852c15935b3294c"
+      }
+    },
+    {
+      "id": "1734dc33b3eed809ac8dc6d4f5af2d68",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-colorado-st-rams",
+        "leagueId": "ncaab",
+        "name": "Colorado St Rams",
+        "shortName": "Rams",
+        "abbreviation": "CSR"
+      },
+      "awayTeam": {
+        "id": "ncaab-montana-st-bobcats",
+        "leagueId": "ncaab",
+        "name": "Montana St Bobcats",
+        "shortName": "Bobcats",
+        "abbreviation": "MSB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-colorado-st-rams",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-montana-st-bobcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "1734dc33b3eed809ac8dc6d4f5af2d68"
+      }
+    },
+    {
+      "id": "6d289b85edf0f09d41f4dfac9ee1df03",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-stanford-cardinal",
+        "leagueId": "ncaab",
+        "name": "Stanford Cardinal",
+        "shortName": "Cardinal",
+        "abbreviation": "SC"
+      },
+      "awayTeam": {
+        "id": "ncaab-eastern-washington-eagles",
+        "leagueId": "ncaab",
+        "name": "Eastern Washington Eagles",
+        "shortName": "Eagles",
+        "abbreviation": "EWE"
+      },
+      "homeScore": {
+        "teamId": "ncaab-stanford-cardinal",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-eastern-washington-eagles",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6d289b85edf0f09d41f4dfac9ee1df03"
+      }
+    },
+    {
+      "id": "f1ca3193e9bfce508eda7e609570bf96",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-saint-mary-s-gaels",
+        "leagueId": "ncaab",
+        "name": "Saint Mary's Gaels",
+        "shortName": "Gaels",
+        "abbreviation": "SMG"
+      },
+      "awayTeam": {
+        "id": "ncaab-illinois-st-redbirds",
+        "leagueId": "ncaab",
+        "name": "Illinois St Redbirds",
+        "shortName": "Redbirds",
+        "abbreviation": "ISR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-saint-mary-s-gaels",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-illinois-st-redbirds",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f1ca3193e9bfce508eda7e609570bf96"
+      }
+    },
+    {
+      "id": "af42b7c9a2496ef1e60880f6aee88181",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-oregon-ducks",
+        "leagueId": "ncaab",
+        "name": "Oregon Ducks",
+        "shortName": "Ducks",
+        "abbreviation": "OD"
+      },
+      "awayTeam": {
+        "id": "ncaab-montana-grizzlies",
+        "leagueId": "ncaab",
+        "name": "Montana Grizzlies",
+        "shortName": "Grizzlies",
+        "abbreviation": "MG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-oregon-ducks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-montana-grizzlies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "af42b7c9a2496ef1e60880f6aee88181"
+      }
+    },
+    {
+      "id": "96ba0a5c17c0ea6aac71911c2f1cf059",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-nevada-wolf-pack",
+        "leagueId": "ncaab",
+        "name": "Nevada Wolf Pack",
+        "shortName": "Pack",
+        "abbreviation": "NWP"
+      },
+      "awayTeam": {
+        "id": "ncaab-robert-morris-colonials",
+        "leagueId": "ncaab",
+        "name": "Robert Morris Colonials",
+        "shortName": "Colonials",
+        "abbreviation": "RMC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-nevada-wolf-pack",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-robert-morris-colonials",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "96ba0a5c17c0ea6aac71911c2f1cf059"
+      }
+    },
+    {
+      "id": "4b2ab9433ac0bd54250f91f040e8145b",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-uc-davis-aggies",
+        "leagueId": "ncaab",
+        "name": "UC Davis Aggies",
+        "shortName": "Aggies",
+        "abbreviation": "UDA"
+      },
+      "awayTeam": {
+        "id": "ncaab-north-alabama-lions",
+        "leagueId": "ncaab",
+        "name": "North Alabama Lions",
+        "shortName": "Lions",
+        "abbreviation": "NAL"
+      },
+      "homeScore": {
+        "teamId": "ncaab-uc-davis-aggies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-north-alabama-lions",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4b2ab9433ac0bd54250f91f040e8145b"
+      }
+    },
+    {
+      "id": "d8cdef45cc010745e25e60cc5d05d5c7",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-san-francisco-dons",
+        "leagueId": "ncaab",
+        "name": "San Francisco Dons",
+        "shortName": "Dons",
+        "abbreviation": "SFD"
+      },
+      "awayTeam": {
+        "id": "ncaab-radford-highlanders",
+        "leagueId": "ncaab",
+        "name": "Radford Highlanders",
+        "shortName": "Highlanders",
+        "abbreviation": "RH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-san-francisco-dons",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-radford-highlanders",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d8cdef45cc010745e25e60cc5d05d5c7"
+      }
+    },
+    {
+      "id": "2586b2f444308de76dfd678703b04568",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-santa-clara-broncos",
+        "leagueId": "ncaab",
+        "name": "Santa Clara Broncos",
+        "shortName": "Broncos",
+        "abbreviation": "SCB"
+      },
+      "awayTeam": {
+        "id": "ncaab-towson-tigers",
+        "leagueId": "ncaab",
+        "name": "Towson Tigers",
+        "shortName": "Tigers",
+        "abbreviation": "TT"
+      },
+      "homeScore": {
+        "teamId": "ncaab-santa-clara-broncos",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-towson-tigers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2586b2f444308de76dfd678703b04568"
+      }
+    },
+    {
+      "id": "4cbae12ced189eef318ab0b6d3646107",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T03:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-usc-trojans",
+        "leagueId": "ncaab",
+        "name": "USC Trojans",
+        "shortName": "Trojans",
+        "abbreviation": "UT"
+      },
+      "awayTeam": {
+        "id": "ncaab-milwaukee-panthers",
+        "leagueId": "ncaab",
+        "name": "Milwaukee Panthers",
+        "shortName": "Panthers",
+        "abbreviation": "MP"
+      },
+      "homeScore": {
+        "teamId": "ncaab-usc-trojans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-milwaukee-panthers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4cbae12ced189eef318ab0b6d3646107"
+      }
+    },
+    {
+      "id": "1335e3b181d2264d63797dbd87fbcac3",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-03T04:59:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-hawai-i-rainbow-warriors",
+        "leagueId": "ncaab",
+        "name": "Hawai'i Rainbow Warriors",
+        "shortName": "Warriors",
+        "abbreviation": "HRW"
+      },
+      "awayTeam": {
+        "id": "ncaab-seattle-redhawks",
+        "leagueId": "ncaab",
+        "name": "Seattle Redhawks",
+        "shortName": "Redhawks",
+        "abbreviation": "SR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-hawai-i-rainbow-warriors",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-seattle-redhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "1335e3b181d2264d63797dbd87fbcac3"
+      }
+    },
+    {
+      "id": "8f8f96b87641a3cbc280c8e63aed3ad4",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-11T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-duke-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Duke Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "DBD"
+      },
+      "awayTeam": {
+        "id": "ncaab-michigan-st-spartans",
+        "leagueId": "ncaab",
+        "name": "Michigan St Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "MSS"
+      },
+      "homeScore": {
+        "teamId": "ncaab-duke-blue-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-michigan-st-spartans",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8f8f96b87641a3cbc280c8e63aed3ad4"
+      }
+    },
+    {
+      "id": "fd4d53d6aab2a2562f89bda0add41f92",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-19T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-arizona-wildcats",
+        "leagueId": "ncaab",
+        "name": "Arizona Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "AW"
+      },
+      "awayTeam": {
+        "id": "ncaab-uconn-huskies",
+        "leagueId": "ncaab",
+        "name": "UConn Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "UH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-arizona-wildcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-uconn-huskies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "fd4d53d6aab2a2562f89bda0add41f92"
+      }
+    },
+    {
+      "id": "482e1e1c8e5e977fcf7e2322241bb598",
+      "leagueId": "ncaab",
+      "startTime": "2026-11-26T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-duke-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Duke Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "DBD"
+      },
+      "awayTeam": {
+        "id": "ncaab-uconn-huskies",
+        "leagueId": "ncaab",
+        "name": "UConn Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "UH"
+      },
+      "homeScore": {
+        "teamId": "ncaab-duke-blue-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-uconn-huskies",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "482e1e1c8e5e977fcf7e2322241bb598"
+      }
+    },
+    {
+      "id": "a702871044b7b4ff1a16b326e64c4de8",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-02T02:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-louisville-cardinals",
+        "leagueId": "ncaab",
+        "name": "Louisville Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "LC"
+      },
+      "awayTeam": {
+        "id": "ncaab-texas-longhorns",
+        "leagueId": "ncaab",
+        "name": "Texas Longhorns",
+        "shortName": "Longhorns",
+        "abbreviation": "TL"
+      },
+      "homeScore": {
+        "teamId": "ncaab-louisville-cardinals",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-texas-longhorns",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a702871044b7b4ff1a16b326e64c4de8"
+      }
+    },
+    {
+      "id": "4637c08fac960e514089e8dce0ebaac3",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-02T02:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-florida-gators",
+        "leagueId": "ncaab",
+        "name": "Florida Gators",
+        "shortName": "Gators",
+        "abbreviation": "FG"
+      },
+      "awayTeam": {
+        "id": "ncaab-duke-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Duke Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "DBD"
+      },
+      "homeScore": {
+        "teamId": "ncaab-florida-gators",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-duke-blue-devils",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4637c08fac960e514089e8dce0ebaac3"
+      }
+    },
+    {
+      "id": "313873fe11a1d53d5bd7012191be870b",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-03T02:15:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-miami-hurricanes",
+        "leagueId": "ncaab",
+        "name": "Miami Hurricanes",
+        "shortName": "Hurricanes",
+        "abbreviation": "MH"
+      },
+      "awayTeam": {
+        "id": "ncaab-alabama-crimson-tide",
+        "leagueId": "ncaab",
+        "name": "Alabama Crimson Tide",
+        "shortName": "Tide",
+        "abbreviation": "ACT"
+      },
+      "homeScore": {
+        "teamId": "ncaab-miami-hurricanes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-alabama-crimson-tide",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "313873fe11a1d53d5bd7012191be870b"
+      }
+    },
+    {
+      "id": "92bd3e87cec47259df34707e23676d8a",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-12T20:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-alabama-crimson-tide",
+        "leagueId": "ncaab",
+        "name": "Alabama Crimson Tide",
+        "shortName": "Tide",
+        "abbreviation": "ACT"
+      },
+      "awayTeam": {
+        "id": "ncaab-st-john-s-red-storm",
+        "leagueId": "ncaab",
+        "name": "St. John's Red Storm",
+        "shortName": "Storm",
+        "abbreviation": "SJR"
+      },
+      "homeScore": {
+        "teamId": "ncaab-alabama-crimson-tide",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-st-john-s-red-storm",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "92bd3e87cec47259df34707e23676d8a"
+      }
+    },
+    {
+      "id": "d64d91fa755cd70d0be7edd0c70a9376",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-13T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-uconn-huskies",
+        "leagueId": "ncaab",
+        "name": "UConn Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "UH"
+      },
+      "awayTeam": {
+        "id": "ncaab-kansas-jayhawks",
+        "leagueId": "ncaab",
+        "name": "Kansas Jayhawks",
+        "shortName": "Jayhawks",
+        "abbreviation": "KJ"
+      },
+      "homeScore": {
+        "teamId": "ncaab-uconn-huskies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-kansas-jayhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d64d91fa755cd70d0be7edd0c70a9376"
+      }
+    },
+    {
+      "id": "0b71f7ec8e8fa620cf7a96de634537c1",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-19T22:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-michigan-st-spartans",
+        "leagueId": "ncaab",
+        "name": "Michigan St Spartans",
+        "shortName": "Spartans",
+        "abbreviation": "MSS"
+      },
+      "awayTeam": {
+        "id": "ncaab-gonzaga-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Gonzaga Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "GB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-michigan-st-spartans",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-gonzaga-bulldogs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "0b71f7ec8e8fa620cf7a96de634537c1"
+      }
+    },
+    {
+      "id": "236e15ad1b14f8dd1b0641cedc8d363c",
+      "leagueId": "ncaab",
+      "startTime": "2026-12-20T20:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-uconn-huskies",
+        "leagueId": "ncaab",
+        "name": "UConn Huskies",
+        "shortName": "Huskies",
+        "abbreviation": "UH"
+      },
+      "awayTeam": {
+        "id": "ncaab-virginia-cavaliers",
+        "leagueId": "ncaab",
+        "name": "Virginia Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "VC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-uconn-huskies",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-virginia-cavaliers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "236e15ad1b14f8dd1b0641cedc8d363c"
+      }
+    },
+    {
+      "id": "d09c21f35215b283f7dbe83fbef42919",
+      "leagueId": "ncaab",
+      "startTime": "2027-01-02T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-texas-longhorns",
+        "leagueId": "ncaab",
+        "name": "Texas Longhorns",
+        "shortName": "Longhorns",
+        "abbreviation": "TL"
+      },
+      "awayTeam": {
+        "id": "ncaab-florida-gators",
+        "leagueId": "ncaab",
+        "name": "Florida Gators",
+        "shortName": "Gators",
+        "abbreviation": "FG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-texas-longhorns",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-florida-gators",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d09c21f35215b283f7dbe83fbef42919"
+      }
+    },
+    {
+      "id": "b1b35d8f19089680a3bda06b1be95e1e",
+      "leagueId": "ncaab",
+      "startTime": "2027-01-16T19:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-alabama-crimson-tide",
+        "leagueId": "ncaab",
+        "name": "Alabama Crimson Tide",
+        "shortName": "Tide",
+        "abbreviation": "ACT"
+      },
+      "awayTeam": {
+        "id": "ncaab-florida-gators",
+        "leagueId": "ncaab",
+        "name": "Florida Gators",
+        "shortName": "Gators",
+        "abbreviation": "FG"
+      },
+      "homeScore": {
+        "teamId": "ncaab-alabama-crimson-tide",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-florida-gators",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b1b35d8f19089680a3bda06b1be95e1e"
+      }
+    },
+    {
+      "id": "1f6620a30abd6fdb16f6b4aa8a50d0a3",
+      "leagueId": "ncaab",
+      "startTime": "2027-01-16T23:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-miami-hurricanes",
+        "leagueId": "ncaab",
+        "name": "Miami Hurricanes",
+        "shortName": "Hurricanes",
+        "abbreviation": "MH"
+      },
+      "awayTeam": {
+        "id": "ncaab-virginia-cavaliers",
+        "leagueId": "ncaab",
+        "name": "Virginia Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "VC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-miami-hurricanes",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-virginia-cavaliers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "1f6620a30abd6fdb16f6b4aa8a50d0a3"
+      }
+    },
+    {
+      "id": "4e1dd93addc5b487fbbc73573c1efb3d",
+      "leagueId": "ncaab",
+      "startTime": "2027-02-16T00:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-virginia-cavaliers",
+        "leagueId": "ncaab",
+        "name": "Virginia Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "VC"
+      },
+      "awayTeam": {
+        "id": "ncaab-louisville-cardinals",
+        "leagueId": "ncaab",
+        "name": "Louisville Cardinals",
+        "shortName": "Cardinals",
+        "abbreviation": "LC"
+      },
+      "homeScore": {
+        "teamId": "ncaab-virginia-cavaliers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-louisville-cardinals",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4e1dd93addc5b487fbbc73573c1efb3d"
+      }
+    },
+    {
+      "id": "4369879b41fd034fdd3e6423e5989408",
+      "leagueId": "ncaab",
+      "startTime": "2027-02-20T05:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-arizona-wildcats",
+        "leagueId": "ncaab",
+        "name": "Arizona Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "AW"
+      },
+      "awayTeam": {
+        "id": "ncaab-kansas-jayhawks",
+        "leagueId": "ncaab",
+        "name": "Kansas Jayhawks",
+        "shortName": "Jayhawks",
+        "abbreviation": "KJ"
+      },
+      "homeScore": {
+        "teamId": "ncaab-arizona-wildcats",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-kansas-jayhawks",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "4369879b41fd034fdd3e6423e5989408"
+      }
+    },
+    {
+      "id": "429e1b7e171e90c3bcc4641e4d74c905",
+      "leagueId": "ncaab",
+      "startTime": "2027-02-21T01:00:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-duke-blue-devils",
+        "leagueId": "ncaab",
+        "name": "Duke Blue Devils",
+        "shortName": "Devils",
+        "abbreviation": "DBD"
+      },
+      "awayTeam": {
+        "id": "ncaab-gonzaga-bulldogs",
+        "leagueId": "ncaab",
+        "name": "Gonzaga Bulldogs",
+        "shortName": "Bulldogs",
+        "abbreviation": "GB"
+      },
+      "homeScore": {
+        "teamId": "ncaab-duke-blue-devils",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-gonzaga-bulldogs",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "429e1b7e171e90c3bcc4641e4d74c905"
+      }
+    },
+    {
+      "id": "089fe17e00a51999acb43407f067f273",
+      "leagueId": "ncaab",
+      "startTime": "2027-03-07T01:30:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ncaab-houston-cougars",
+        "leagueId": "ncaab",
+        "name": "Houston Cougars",
+        "shortName": "Cougars",
+        "abbreviation": "HC"
+      },
+      "awayTeam": {
+        "id": "ncaab-arizona-wildcats",
+        "leagueId": "ncaab",
+        "name": "Arizona Wildcats",
+        "shortName": "Wildcats",
+        "abbreviation": "AW"
+      },
+      "homeScore": {
+        "teamId": "ncaab-houston-cougars",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "ncaab-arizona-wildcats",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "089fe17e00a51999acb43407f067f273"
+      }
+    }
+  ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-16T14:54:09.636Z",
-  "staleAt": "2026-10-17T20:54:09.636Z",
+  "fetchedAt": "2026-11-01T16:49:55.367Z",
+  "staleAt": "2026-11-02T22:49:55.368Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
-    "The provider currently marks this league as out of season."
+    "The provider does not supply a reliable live game clock."
   ]
 }

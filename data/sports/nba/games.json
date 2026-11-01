@@ -1,432 +1,50 @@
 {
   "data": [
     {
-      "id": "26b036ff107f3c658258eaf4a6f26228",
+      "id": "b123d92eb8046e43fabf95a33a676634",
       "leagueId": "nba",
-      "startTime": "2026-10-20T19:00:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T00:10:30Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-detroit-pistons",
-        "leagueId": "nba",
-        "name": "Detroit Pistons",
-        "shortName": "Pistons",
-        "abbreviation": "DP"
-      },
-      "awayTeam": {
-        "id": "nba-boston-celtics",
-        "leagueId": "nba",
-        "name": "Boston Celtics",
-        "shortName": "Celtics",
-        "abbreviation": "BC"
-      },
-      "homeScore": {
-        "teamId": "nba-detroit-pistons",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-boston-celtics",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "26b036ff107f3c658258eaf4a6f26228"
-      }
-    },
-    {
-      "id": "2b042ddad3d3c6c6fe5b7005dc26c775",
-      "leagueId": "nba",
-      "startTime": "2026-10-20T23:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-new-york-knicks",
-        "leagueId": "nba",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "abbreviation": "NYK"
-      },
-      "awayTeam": {
-        "id": "nba-philadelphia-76ers",
-        "leagueId": "nba",
-        "name": "Philadelphia 76ers",
-        "shortName": "76ers",
-        "abbreviation": "P7"
-      },
-      "homeScore": {
-        "teamId": "nba-new-york-knicks",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-philadelphia-76ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2b042ddad3d3c6c6fe5b7005dc26c775"
-      }
-    },
-    {
-      "id": "bccd283de56915e29af1788beb0abfc9",
-      "leagueId": "nba",
-      "startTime": "2026-10-21T01:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-san-antonio-spurs",
-        "leagueId": "nba",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "abbreviation": "SAS"
-      },
-      "awayTeam": {
-        "id": "nba-oklahoma-city-thunder",
-        "leagueId": "nba",
-        "name": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "abbreviation": "OCT"
-      },
-      "homeScore": {
-        "teamId": "nba-san-antonio-spurs",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-oklahoma-city-thunder",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "bccd283de56915e29af1788beb0abfc9"
-      }
-    },
-    {
-      "id": "164cc0396837d5ff433215ffd3279283",
-      "leagueId": "nba",
-      "startTime": "2026-10-21T23:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-washington-wizards",
-        "leagueId": "nba",
-        "name": "Washington Wizards",
-        "shortName": "Wizards",
-        "abbreviation": "WW"
-      },
-      "awayTeam": {
-        "id": "nba-milwaukee-bucks",
-        "leagueId": "nba",
-        "name": "Milwaukee Bucks",
-        "shortName": "Bucks",
-        "abbreviation": "MB"
-      },
-      "homeScore": {
-        "teamId": "nba-washington-wizards",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-milwaukee-bucks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "164cc0396837d5ff433215ffd3279283"
-      }
-    },
-    {
-      "id": "85e6e4e2404ef7268659739997758da1",
-      "leagueId": "nba",
-      "startTime": "2026-10-21T23:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-orlando-magic",
-        "leagueId": "nba",
-        "name": "Orlando Magic",
-        "shortName": "Magic",
-        "abbreviation": "OM"
-      },
-      "awayTeam": {
         "id": "nba-atlanta-hawks",
         "leagueId": "nba",
         "name": "Atlanta Hawks",
         "shortName": "Hawks",
         "abbreviation": "AH"
       },
-      "homeScore": {
-        "teamId": "nba-orlando-magic",
-        "total": null
+      "awayTeam": {
+        "id": "nba-cleveland-cavaliers",
+        "leagueId": "nba",
+        "name": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "CC"
       },
-      "awayScore": {
+      "homeScore": {
         "teamId": "nba-atlanta-hawks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "85e6e4e2404ef7268659739997758da1"
-      }
-    },
-    {
-      "id": "47cc511bb5ce50f715e3625ce5ef77ee",
-      "leagueId": "nba",
-      "startTime": "2026-10-21T23:30:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-brooklyn-nets",
-        "leagueId": "nba",
-        "name": "Brooklyn Nets",
-        "shortName": "Nets",
-        "abbreviation": "BN"
-      },
-      "awayTeam": {
-        "id": "nba-charlotte-hornets",
-        "leagueId": "nba",
-        "name": "Charlotte Hornets",
-        "shortName": "Hornets",
-        "abbreviation": "CH"
-      },
-      "homeScore": {
-        "teamId": "nba-brooklyn-nets",
-        "total": null
+        "total": 114
       },
       "awayScore": {
-        "teamId": "nba-charlotte-hornets",
-        "total": null
+        "teamId": "nba-cleveland-cavaliers",
+        "total": 111
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "47cc511bb5ce50f715e3625ce5ef77ee"
+        "externalId": "b123d92eb8046e43fabf95a33a676634"
       }
     },
     {
-      "id": "60431a347feac3f1c7ed925b8b769ec5",
+      "id": "f91d27cc050b1b85073d745372c73833",
       "leagueId": "nba",
-      "startTime": "2026-10-21T23:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-toronto-raptors",
-        "leagueId": "nba",
-        "name": "Toronto Raptors",
-        "shortName": "Raptors",
-        "abbreviation": "TR"
-      },
-      "awayTeam": {
-        "id": "nba-chicago-bulls",
-        "leagueId": "nba",
-        "name": "Chicago Bulls",
-        "shortName": "Bulls",
-        "abbreviation": "CB"
-      },
-      "homeScore": {
-        "teamId": "nba-toronto-raptors",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-chicago-bulls",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "60431a347feac3f1c7ed925b8b769ec5"
-      }
-    },
-    {
-      "id": "93cdd8e4ade5697cfccf42ee42c4d207",
-      "leagueId": "nba",
-      "startTime": "2026-10-21T23:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-miami-heat",
-        "leagueId": "nba",
-        "name": "Miami Heat",
-        "shortName": "Heat",
-        "abbreviation": "MH"
-      },
-      "awayTeam": {
-        "id": "nba-minnesota-timberwolves",
-        "leagueId": "nba",
-        "name": "Minnesota Timberwolves",
-        "shortName": "Timberwolves",
-        "abbreviation": "MT"
-      },
-      "homeScore": {
-        "teamId": "nba-miami-heat",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-minnesota-timberwolves",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "93cdd8e4ade5697cfccf42ee42c4d207"
-      }
-    },
-    {
-      "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T00:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T00:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-new-orleans-pelicans",
         "leagueId": "nba",
         "name": "New Orleans Pelicans",
         "shortName": "Pelicans",
         "abbreviation": "NOP"
-      },
-      "awayTeam": {
-        "id": "nba-indiana-pacers",
-        "leagueId": "nba",
-        "name": "Indiana Pacers",
-        "shortName": "Pacers",
-        "abbreviation": "IP"
-      },
-      "homeScore": {
-        "teamId": "nba-new-orleans-pelicans",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-indiana-pacers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fd33c09c84ab4c2fe6955d59f8dc5dd2"
-      }
-    },
-    {
-      "id": "e6769c813dd625b622df94c14a562ce2",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T00:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-memphis-grizzlies",
-        "leagueId": "nba",
-        "name": "Memphis Grizzlies",
-        "shortName": "Grizzlies",
-        "abbreviation": "MG"
-      },
-      "awayTeam": {
-        "id": "nba-utah-jazz",
-        "leagueId": "nba",
-        "name": "Utah Jazz",
-        "shortName": "Jazz",
-        "abbreviation": "UJ"
-      },
-      "homeScore": {
-        "teamId": "nba-memphis-grizzlies",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-utah-jazz",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e6769c813dd625b622df94c14a562ce2"
-      }
-    },
-    {
-      "id": "af2f084075391e55ba2a596e7846bb40",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T00:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-houston-rockets",
-        "leagueId": "nba",
-        "name": "Houston Rockets",
-        "shortName": "Rockets",
-        "abbreviation": "HR"
-      },
-      "awayTeam": {
-        "id": "nba-dallas-mavericks",
-        "leagueId": "nba",
-        "name": "Dallas Mavericks",
-        "shortName": "Mavericks",
-        "abbreviation": "DM"
-      },
-      "homeScore": {
-        "teamId": "nba-houston-rockets",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-dallas-mavericks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "af2f084075391e55ba2a596e7846bb40"
-      }
-    },
-    {
-      "id": "6fff70f4bf196dba25060a5775a03b54",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T02:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-los-angeles-lakers",
-        "leagueId": "nba",
-        "name": "Los Angeles Lakers",
-        "shortName": "Lakers",
-        "abbreviation": "LAL"
-      },
-      "awayTeam": {
-        "id": "nba-golden-state-warriors",
-        "leagueId": "nba",
-        "name": "Golden State Warriors",
-        "shortName": "Warriors",
-        "abbreviation": "GSW"
-      },
-      "homeScore": {
-        "teamId": "nba-los-angeles-lakers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-golden-state-warriors",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6fff70f4bf196dba25060a5775a03b54"
-      }
-    },
-    {
-      "id": "71e24359951927c356bd8c852fb867dd",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T02:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-portland-trail-blazers",
-        "leagueId": "nba",
-        "name": "Portland Trail Blazers",
-        "shortName": "Blazers",
-        "abbreviation": "PTB"
-      },
-      "awayTeam": {
-        "id": "nba-phoenix-suns",
-        "leagueId": "nba",
-        "name": "Phoenix Suns",
-        "shortName": "Suns",
-        "abbreviation": "PS"
-      },
-      "homeScore": {
-        "teamId": "nba-portland-trail-blazers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-phoenix-suns",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "71e24359951927c356bd8c852fb867dd"
-      }
-    },
-    {
-      "id": "f6be3e587d43c3821d8f059c3a1f1967",
-      "leagueId": "nba",
-      "startTime": "2026-10-22T02:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-los-angeles-clippers",
-        "leagueId": "nba",
-        "name": "Los Angeles Clippers",
-        "shortName": "Clippers",
-        "abbreviation": "LAC"
       },
       "awayTeam": {
         "id": "nba-sacramento-kings",
@@ -436,151 +54,57 @@
         "abbreviation": "SK"
       },
       "homeScore": {
-        "teamId": "nba-los-angeles-clippers",
-        "total": null
+        "teamId": "nba-new-orleans-pelicans",
+        "total": 132
       },
       "awayScore": {
         "teamId": "nba-sacramento-kings",
-        "total": null
+        "total": 120
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "f6be3e587d43c3821d8f059c3a1f1967"
+        "externalId": "f91d27cc050b1b85073d745372c73833"
       }
     },
     {
-      "id": "110e33c79c5ec8c0377702aff685f83b",
+      "id": "ba667ca1b0b042f0661cb9d9af56c165",
       "leagueId": "nba",
-      "startTime": "2026-10-22T23:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T02:13:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-philadelphia-76ers",
+        "id": "nba-portland-trail-blazers",
         "leagueId": "nba",
-        "name": "Philadelphia 76ers",
-        "shortName": "76ers",
-        "abbreviation": "P7"
+        "name": "Portland Trail Blazers",
+        "shortName": "Blazers",
+        "abbreviation": "PTB"
       },
       "awayTeam": {
-        "id": "nba-cleveland-cavaliers",
+        "id": "nba-memphis-grizzlies",
         "leagueId": "nba",
-        "name": "Cleveland Cavaliers",
-        "shortName": "Cavaliers",
-        "abbreviation": "CC"
+        "name": "Memphis Grizzlies",
+        "shortName": "Grizzlies",
+        "abbreviation": "MG"
       },
       "homeScore": {
-        "teamId": "nba-philadelphia-76ers",
-        "total": null
+        "teamId": "nba-portland-trail-blazers",
+        "total": 103
       },
       "awayScore": {
-        "teamId": "nba-cleveland-cavaliers",
-        "total": null
+        "teamId": "nba-memphis-grizzlies",
+        "total": 124
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "110e33c79c5ec8c0377702aff685f83b"
-      }
-    },
-    {
-      "id": "223b2883b9b05a67329ef246384b85f1",
-      "leagueId": "nba",
-      "startTime": "2026-10-23T01:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-oklahoma-city-thunder",
-        "leagueId": "nba",
-        "name": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "abbreviation": "OCT"
-      },
-      "awayTeam": {
-        "id": "nba-denver-nuggets",
-        "leagueId": "nba",
-        "name": "Denver Nuggets",
-        "shortName": "Nuggets",
-        "abbreviation": "DN"
-      },
-      "homeScore": {
-        "teamId": "nba-oklahoma-city-thunder",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-denver-nuggets",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "223b2883b9b05a67329ef246384b85f1"
-      }
-    },
-    {
-      "id": "0d34c898f6cbb990077ae9f0a2773513",
-      "leagueId": "nba",
-      "startTime": "2026-10-23T23:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-boston-celtics",
-        "leagueId": "nba",
-        "name": "Boston Celtics",
-        "shortName": "Celtics",
-        "abbreviation": "BC"
-      },
-      "awayTeam": {
-        "id": "nba-new-york-knicks",
-        "leagueId": "nba",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "abbreviation": "NYK"
-      },
-      "homeScore": {
-        "teamId": "nba-boston-celtics",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-new-york-knicks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "0d34c898f6cbb990077ae9f0a2773513"
-      }
-    },
-    {
-      "id": "49fc89a9696a9a20b658732b34ce61c4",
-      "leagueId": "nba",
-      "startTime": "2026-10-24T01:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-san-antonio-spurs",
-        "leagueId": "nba",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "abbreviation": "SAS"
-      },
-      "awayTeam": {
-        "id": "nba-houston-rockets",
-        "leagueId": "nba",
-        "name": "Houston Rockets",
-        "shortName": "Rockets",
-        "abbreviation": "HR"
-      },
-      "homeScore": {
-        "teamId": "nba-san-antonio-spurs",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-houston-rockets",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "49fc89a9696a9a20b658732b34ce61c4"
+        "externalId": "ba667ca1b0b042f0661cb9d9af56c165"
       }
     },
     {
       "id": "45ebc54751ef3e435192eaeb0470acfb",
       "leagueId": "nba",
-      "startTime": "2026-10-30T23:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T23:11:16Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-washington-wizards",
         "leagueId": "nba",
@@ -597,11 +121,11 @@
       },
       "homeScore": {
         "teamId": "nba-washington-wizards",
-        "total": null
+        "total": 95
       },
       "awayScore": {
         "teamId": "nba-charlotte-hornets",
-        "total": null
+        "total": 79
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -611,8 +135,9 @@
     {
       "id": "036a93ca33d6261c21d4bfa6e0d02568",
       "leagueId": "nba",
-      "startTime": "2026-10-30T23:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T23:41:10Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-boston-celtics",
         "leagueId": "nba",
@@ -629,11 +154,11 @@
       },
       "homeScore": {
         "teamId": "nba-boston-celtics",
-        "total": null
+        "total": 125
       },
       "awayScore": {
         "teamId": "nba-chicago-bulls",
-        "total": null
+        "total": 111
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -643,8 +168,9 @@
     {
       "id": "64df299b882ea19ad5f8cb0ed5516a6f",
       "leagueId": "nba",
-      "startTime": "2026-10-30T23:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T23:41:10Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-brooklyn-nets",
         "leagueId": "nba",
@@ -661,11 +187,11 @@
       },
       "homeScore": {
         "teamId": "nba-brooklyn-nets",
-        "total": null
+        "total": 94
       },
       "awayScore": {
         "teamId": "nba-detroit-pistons",
-        "total": null
+        "total": 110
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -673,42 +199,11 @@
       }
     },
     {
-      "id": "96a166bbd49782dbd9a61c2fb9069787",
-      "leagueId": "nba",
-      "startTime": "2026-10-30T23:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-philadelphia-76ers",
-        "leagueId": "nba",
-        "name": "Philadelphia 76ers",
-        "shortName": "76ers",
-        "abbreviation": "P7"
-      },
-      "awayTeam": {
-        "id": "nba-new-york-knicks",
-        "leagueId": "nba",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "abbreviation": "NYK"
-      },
-      "homeScore": {
-        "teamId": "nba-philadelphia-76ers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-new-york-knicks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "96a166bbd49782dbd9a61c2fb9069787"
-      }
-    },
-    {
       "id": "a0f5d89a4fc51e52edd0e70d1e4cbaf2",
       "leagueId": "nba",
-      "startTime": "2026-10-30T23:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T23:42:25Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-toronto-raptors",
         "leagueId": "nba",
@@ -725,11 +220,11 @@
       },
       "homeScore": {
         "teamId": "nba-toronto-raptors",
-        "total": null
+        "total": 114
       },
       "awayScore": {
         "teamId": "nba-orlando-magic",
-        "total": null
+        "total": 121
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -737,74 +232,44 @@
       }
     },
     {
-      "id": "b9778d0e3a26167eb49901dcae7eeb98",
+      "id": "96a166bbd49782dbd9a61c2fb9069787",
       "leagueId": "nba",
-      "startTime": "2026-10-31T00:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-30T23:43:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-dallas-mavericks",
+        "id": "nba-philadelphia-76ers",
         "leagueId": "nba",
-        "name": "Dallas Mavericks",
-        "shortName": "Mavericks",
-        "abbreviation": "DM"
+        "name": "Philadelphia 76ers",
+        "shortName": "76ers",
+        "abbreviation": "P7"
       },
       "awayTeam": {
-        "id": "nba-houston-rockets",
+        "id": "nba-new-york-knicks",
         "leagueId": "nba",
-        "name": "Houston Rockets",
-        "shortName": "Rockets",
-        "abbreviation": "HR"
+        "name": "New York Knicks",
+        "shortName": "Knicks",
+        "abbreviation": "NYK"
       },
       "homeScore": {
-        "teamId": "nba-dallas-mavericks",
-        "total": null
+        "teamId": "nba-philadelphia-76ers",
+        "total": 98
       },
       "awayScore": {
-        "teamId": "nba-houston-rockets",
-        "total": null
+        "teamId": "nba-new-york-knicks",
+        "total": 93
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "b9778d0e3a26167eb49901dcae7eeb98"
-      }
-    },
-    {
-      "id": "c3a424e24d426af94a693e06a33e3037",
-      "leagueId": "nba",
-      "startTime": "2026-10-31T00:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-miami-heat",
-        "leagueId": "nba",
-        "name": "Miami Heat",
-        "shortName": "Heat",
-        "abbreviation": "MH"
-      },
-      "awayTeam": {
-        "id": "nba-indiana-pacers",
-        "leagueId": "nba",
-        "name": "Indiana Pacers",
-        "shortName": "Pacers",
-        "abbreviation": "IP"
-      },
-      "homeScore": {
-        "teamId": "nba-miami-heat",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-indiana-pacers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "c3a424e24d426af94a693e06a33e3037"
+        "externalId": "96a166bbd49782dbd9a61c2fb9069787"
       }
     },
     {
       "id": "cac1461f5983a88fac612685395aa897",
       "leagueId": "nba",
-      "startTime": "2026-10-31T00:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T00:10:35Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-minnesota-timberwolves",
         "leagueId": "nba",
@@ -821,11 +286,11 @@
       },
       "homeScore": {
         "teamId": "nba-minnesota-timberwolves",
-        "total": null
+        "total": 127
       },
       "awayScore": {
         "teamId": "nba-los-angeles-clippers",
-        "total": null
+        "total": 101
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -833,10 +298,77 @@
       }
     },
     {
+      "id": "b9778d0e3a26167eb49901dcae7eeb98",
+      "leagueId": "nba",
+      "startTime": "2026-10-31T00:11:04Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "nba-dallas-mavericks",
+        "leagueId": "nba",
+        "name": "Dallas Mavericks",
+        "shortName": "Mavericks",
+        "abbreviation": "DM"
+      },
+      "awayTeam": {
+        "id": "nba-houston-rockets",
+        "leagueId": "nba",
+        "name": "Houston Rockets",
+        "shortName": "Rockets",
+        "abbreviation": "HR"
+      },
+      "homeScore": {
+        "teamId": "nba-dallas-mavericks",
+        "total": 116
+      },
+      "awayScore": {
+        "teamId": "nba-houston-rockets",
+        "total": 111
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "b9778d0e3a26167eb49901dcae7eeb98"
+      }
+    },
+    {
+      "id": "c3a424e24d426af94a693e06a33e3037",
+      "leagueId": "nba",
+      "startTime": "2026-10-31T00:11:56Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "nba-miami-heat",
+        "leagueId": "nba",
+        "name": "Miami Heat",
+        "shortName": "Heat",
+        "abbreviation": "MH"
+      },
+      "awayTeam": {
+        "id": "nba-indiana-pacers",
+        "leagueId": "nba",
+        "name": "Indiana Pacers",
+        "shortName": "Pacers",
+        "abbreviation": "IP"
+      },
+      "homeScore": {
+        "teamId": "nba-miami-heat",
+        "total": 145
+      },
+      "awayScore": {
+        "teamId": "nba-indiana-pacers",
+        "total": 125
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c3a424e24d426af94a693e06a33e3037"
+      }
+    },
+    {
       "id": "9ae108f7a23e86e8102237053dd9e58d",
       "leagueId": "nba",
-      "startTime": "2026-10-31T02:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T02:10:46Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-phoenix-suns",
         "leagueId": "nba",
@@ -853,11 +385,11 @@
       },
       "homeScore": {
         "teamId": "nba-phoenix-suns",
-        "total": null
+        "total": 120
       },
       "awayScore": {
         "teamId": "nba-denver-nuggets",
-        "total": null
+        "total": 127
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -867,8 +399,9 @@
     {
       "id": "761c15cdefb5a94e34f234e11d6e57ad",
       "leagueId": "nba",
-      "startTime": "2026-10-31T02:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T02:12:42Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nba-golden-state-warriors",
         "leagueId": "nba",
@@ -885,11 +418,11 @@
       },
       "homeScore": {
         "teamId": "nba-golden-state-warriors",
-        "total": null
+        "total": 112
       },
       "awayScore": {
         "teamId": "nba-los-angeles-lakers",
-        "total": null
+        "total": 95
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -897,48 +430,17 @@
       }
     },
     {
-      "id": "85869b2fdc16ef10d3e2582bf05ead95",
+      "id": "d47417c3b1a2cd427cce74c9d00f1046",
       "leagueId": "nba",
-      "startTime": "2026-11-07T00:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T19:12:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-cleveland-cavaliers",
+        "id": "nba-utah-jazz",
         "leagueId": "nba",
-        "name": "Cleveland Cavaliers",
-        "shortName": "Cavaliers",
-        "abbreviation": "CC"
-      },
-      "awayTeam": {
-        "id": "nba-philadelphia-76ers",
-        "leagueId": "nba",
-        "name": "Philadelphia 76ers",
-        "shortName": "76ers",
-        "abbreviation": "P7"
-      },
-      "homeScore": {
-        "teamId": "nba-cleveland-cavaliers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-philadelphia-76ers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "85869b2fdc16ef10d3e2582bf05ead95"
-      }
-    },
-    {
-      "id": "83d77fe350d56a036fd7a3404e78249a",
-      "leagueId": "nba",
-      "startTime": "2026-11-07T03:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-los-angeles-lakers",
-        "leagueId": "nba",
-        "name": "Los Angeles Lakers",
-        "shortName": "Lakers",
-        "abbreviation": "LAL"
+        "name": "Utah Jazz",
+        "shortName": "Jazz",
+        "abbreviation": "UJ"
       },
       "awayTeam": {
         "id": "nba-portland-trail-blazers",
@@ -948,253 +450,162 @@
         "abbreviation": "PTB"
       },
       "homeScore": {
-        "teamId": "nba-los-angeles-lakers",
-        "total": null
+        "teamId": "nba-utah-jazz",
+        "total": 90
       },
       "awayScore": {
         "teamId": "nba-portland-trail-blazers",
-        "total": null
+        "total": 112
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "83d77fe350d56a036fd7a3404e78249a"
+        "externalId": "d47417c3b1a2cd427cce74c9d00f1046"
       }
     },
     {
-      "id": "6669b911691463c669a5c10574742e8e",
+      "id": "067d97a124c10ea2d206546384500c5e",
       "leagueId": "nba",
-      "startTime": "2026-11-14T00:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T22:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-indiana-pacers",
+        "id": "nba-charlotte-hornets",
         "leagueId": "nba",
-        "name": "Indiana Pacers",
-        "shortName": "Pacers",
-        "abbreviation": "IP"
+        "name": "Charlotte Hornets",
+        "shortName": "Hornets",
+        "abbreviation": "CH"
       },
       "awayTeam": {
-        "id": "nba-new-york-knicks",
-        "leagueId": "nba",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "abbreviation": "NYK"
-      },
-      "homeScore": {
-        "teamId": "nba-indiana-pacers",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-new-york-knicks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6669b911691463c669a5c10574742e8e"
-      }
-    },
-    {
-      "id": "1fae7f34ec6035dffa74feb148ee26c7",
-      "leagueId": "nba",
-      "startTime": "2026-11-14T02:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-san-antonio-spurs",
-        "leagueId": "nba",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "abbreviation": "SAS"
-      },
-      "awayTeam": {
-        "id": "nba-golden-state-warriors",
-        "leagueId": "nba",
-        "name": "Golden State Warriors",
-        "shortName": "Warriors",
-        "abbreviation": "GSW"
-      },
-      "homeScore": {
-        "teamId": "nba-san-antonio-spurs",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-golden-state-warriors",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1fae7f34ec6035dffa74feb148ee26c7"
-      }
-    },
-    {
-      "id": "9051693857c6a0e5e1bc6bb2b4f6fe35",
-      "leagueId": "nba",
-      "startTime": "2026-11-21T00:40:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-detroit-pistons",
-        "leagueId": "nba",
-        "name": "Detroit Pistons",
-        "shortName": "Pistons",
-        "abbreviation": "DP"
-      },
-      "awayTeam": {
-        "id": "nba-toronto-raptors",
-        "leagueId": "nba",
-        "name": "Toronto Raptors",
-        "shortName": "Raptors",
-        "abbreviation": "TR"
-      },
-      "homeScore": {
-        "teamId": "nba-detroit-pistons",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-toronto-raptors",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9051693857c6a0e5e1bc6bb2b4f6fe35"
-      }
-    },
-    {
-      "id": "086d2fe80483ffcc280994fe2e12d4f4",
-      "leagueId": "nba",
-      "startTime": "2026-11-21T03:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-denver-nuggets",
-        "leagueId": "nba",
-        "name": "Denver Nuggets",
-        "shortName": "Nuggets",
-        "abbreviation": "DN"
-      },
-      "awayTeam": {
-        "id": "nba-houston-rockets",
-        "leagueId": "nba",
-        "name": "Houston Rockets",
-        "shortName": "Rockets",
-        "abbreviation": "HR"
-      },
-      "homeScore": {
-        "teamId": "nba-denver-nuggets",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-houston-rockets",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "086d2fe80483ffcc280994fe2e12d4f4"
-      }
-    },
-    {
-      "id": "3167a4072c65c9314c71d0fe49be8e28",
-      "leagueId": "nba",
-      "startTime": "2026-11-25T01:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-washington-wizards",
-        "leagueId": "nba",
-        "name": "Washington Wizards",
-        "shortName": "Wizards",
-        "abbreviation": "WW"
-      },
-      "awayTeam": {
-        "id": "nba-boston-celtics",
-        "leagueId": "nba",
-        "name": "Boston Celtics",
-        "shortName": "Celtics",
-        "abbreviation": "BC"
-      },
-      "homeScore": {
-        "teamId": "nba-washington-wizards",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-boston-celtics",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3167a4072c65c9314c71d0fe49be8e28"
-      }
-    },
-    {
-      "id": "6bfadbd22ed8a054cf82ec1b12b78243",
-      "leagueId": "nba",
-      "startTime": "2026-11-25T03:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nba-denver-nuggets",
-        "leagueId": "nba",
-        "name": "Denver Nuggets",
-        "shortName": "Nuggets",
-        "abbreviation": "DN"
-      },
-      "awayTeam": {
-        "id": "nba-dallas-mavericks",
-        "leagueId": "nba",
-        "name": "Dallas Mavericks",
-        "shortName": "Mavericks",
-        "abbreviation": "DM"
-      },
-      "homeScore": {
-        "teamId": "nba-denver-nuggets",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nba-dallas-mavericks",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6bfadbd22ed8a054cf82ec1b12b78243"
-      }
-    },
-    {
-      "id": "4f6d199bb67cf3a517a3880fd2f00b26",
-      "leagueId": "nba",
-      "startTime": "2026-11-25T22:10:00Z",
-      "status": "scheduled",
-      "homeTeam": {
         "id": "nba-philadelphia-76ers",
         "leagueId": "nba",
         "name": "Philadelphia 76ers",
         "shortName": "76ers",
         "abbreviation": "P7"
       },
-      "awayTeam": {
-        "id": "nba-miami-heat",
-        "leagueId": "nba",
-        "name": "Miami Heat",
-        "shortName": "Heat",
-        "abbreviation": "MH"
-      },
       "homeScore": {
-        "teamId": "nba-philadelphia-76ers",
-        "total": null
+        "teamId": "nba-charlotte-hornets",
+        "total": 104
       },
       "awayScore": {
-        "teamId": "nba-miami-heat",
-        "total": null
+        "teamId": "nba-philadelphia-76ers",
+        "total": 109
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "4f6d199bb67cf3a517a3880fd2f00b26"
+        "externalId": "067d97a124c10ea2d206546384500c5e"
       }
     },
     {
-      "id": "07421d1675d6bc51bb5fa91f84a09eb3",
+      "id": "77270837bc694d198c10f42937690d75",
       "leagueId": "nba",
-      "startTime": "2026-11-26T00:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-10-31T23:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-oklahoma-city-thunder",
+        "id": "nba-new-orleans-pelicans",
         "leagueId": "nba",
-        "name": "Oklahoma City Thunder",
-        "shortName": "Thunder",
-        "abbreviation": "OCT"
+        "name": "New Orleans Pelicans",
+        "shortName": "Pelicans",
+        "abbreviation": "NOP"
+      },
+      "awayTeam": {
+        "id": "nba-atlanta-hawks",
+        "leagueId": "nba",
+        "name": "Atlanta Hawks",
+        "shortName": "Hawks",
+        "abbreviation": "AH"
+      },
+      "homeScore": {
+        "teamId": "nba-new-orleans-pelicans",
+        "total": 121
+      },
+      "awayScore": {
+        "teamId": "nba-atlanta-hawks",
+        "total": 99
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "77270837bc694d198c10f42937690d75"
+      }
+    },
+    {
+      "id": "6d7e1e0af6d568f4435d35a1763a3622",
+      "leagueId": "nba",
+      "startTime": "2026-11-01T00:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "nba-milwaukee-bucks",
+        "leagueId": "nba",
+        "name": "Milwaukee Bucks",
+        "shortName": "Bucks",
+        "abbreviation": "MB"
+      },
+      "awayTeam": {
+        "id": "nba-cleveland-cavaliers",
+        "leagueId": "nba",
+        "name": "Cleveland Cavaliers",
+        "shortName": "Cavaliers",
+        "abbreviation": "CC"
+      },
+      "homeScore": {
+        "teamId": "nba-milwaukee-bucks",
+        "total": 111
+      },
+      "awayScore": {
+        "teamId": "nba-cleveland-cavaliers",
+        "total": 136
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6d7e1e0af6d568f4435d35a1763a3622"
+      }
+    },
+    {
+      "id": "863ae1092be42c6b563b2c4f099a3eb3",
+      "leagueId": "nba",
+      "startTime": "2026-11-01T00:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "nba-memphis-grizzlies",
+        "leagueId": "nba",
+        "name": "Memphis Grizzlies",
+        "shortName": "Grizzlies",
+        "abbreviation": "MG"
+      },
+      "awayTeam": {
+        "id": "nba-sacramento-kings",
+        "leagueId": "nba",
+        "name": "Sacramento Kings",
+        "shortName": "Kings",
+        "abbreviation": "SK"
+      },
+      "homeScore": {
+        "teamId": "nba-memphis-grizzlies",
+        "total": 136
+      },
+      "awayScore": {
+        "teamId": "nba-sacramento-kings",
+        "total": 105
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "863ae1092be42c6b563b2c4f099a3eb3"
+      }
+    },
+    {
+      "id": "06a03fb0ce0f81a970c6000fb71fdc6d",
+      "leagueId": "nba",
+      "startTime": "2026-11-01T00:11:00Z",
+      "status": "final",
+      "statusDetail": "Final",
+      "homeTeam": {
+        "id": "nba-san-antonio-spurs",
+        "leagueId": "nba",
+        "name": "San Antonio Spurs",
+        "shortName": "Spurs",
+        "abbreviation": "SAS"
       },
       "awayTeam": {
         "id": "nba-minnesota-timberwolves",
@@ -1204,118 +615,183 @@
         "abbreviation": "MT"
       },
       "homeScore": {
-        "teamId": "nba-oklahoma-city-thunder",
-        "total": null
+        "teamId": "nba-san-antonio-spurs",
+        "total": 121
       },
       "awayScore": {
         "teamId": "nba-minnesota-timberwolves",
-        "total": null
+        "total": 111
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "07421d1675d6bc51bb5fa91f84a09eb3"
+        "externalId": "06a03fb0ce0f81a970c6000fb71fdc6d"
       }
     },
     {
-      "id": "9aa9f220709533d70d11f85fae886771",
+      "id": "c30d3bdf126e98ced5b9389db8617926",
       "leagueId": "nba",
-      "startTime": "2026-11-26T03:10:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-01T00:42:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
-        "id": "nba-portland-trail-blazers",
+        "id": "nba-houston-rockets",
         "leagueId": "nba",
-        "name": "Portland Trail Blazers",
-        "shortName": "Blazers",
-        "abbreviation": "PTB"
+        "name": "Houston Rockets",
+        "shortName": "Rockets",
+        "abbreviation": "HR"
       },
       "awayTeam": {
-        "id": "nba-san-antonio-spurs",
+        "id": "nba-oklahoma-city-thunder",
         "leagueId": "nba",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "abbreviation": "SAS"
+        "name": "Oklahoma City Thunder",
+        "shortName": "Thunder",
+        "abbreviation": "OCT"
       },
       "homeScore": {
-        "teamId": "nba-portland-trail-blazers",
+        "teamId": "nba-houston-rockets",
+        "total": 119
+      },
+      "awayScore": {
+        "teamId": "nba-oklahoma-city-thunder",
+        "total": 98
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c30d3bdf126e98ced5b9389db8617926"
+      }
+    },
+    {
+      "id": "e8559eaac12af915cfe6597644620c13",
+      "leagueId": "nba",
+      "startTime": "2026-11-01T20:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nba-orlando-magic",
+        "leagueId": "nba",
+        "name": "Orlando Magic",
+        "shortName": "Magic",
+        "abbreviation": "OM"
+      },
+      "awayTeam": {
+        "id": "nba-boston-celtics",
+        "leagueId": "nba",
+        "name": "Boston Celtics",
+        "shortName": "Celtics",
+        "abbreviation": "BC"
+      },
+      "homeScore": {
+        "teamId": "nba-orlando-magic",
         "total": null
       },
       "awayScore": {
-        "teamId": "nba-san-antonio-spurs",
+        "teamId": "nba-boston-celtics",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "9aa9f220709533d70d11f85fae886771"
+        "externalId": "e8559eaac12af915cfe6597644620c13"
       }
     },
     {
-      "id": "3c522e32c3035d7dc3e1734903b84654",
+      "id": "fc3e945a5be88d3f933456bc512c956d",
       "leagueId": "nba",
-      "startTime": "2026-11-28T00:10:00Z",
+      "startTime": "2026-11-01T22:10:00Z",
       "status": "scheduled",
       "homeTeam": {
-        "id": "nba-new-york-knicks",
+        "id": "nba-indiana-pacers",
         "leagueId": "nba",
-        "name": "New York Knicks",
-        "shortName": "Knicks",
-        "abbreviation": "NYK"
+        "name": "Indiana Pacers",
+        "shortName": "Pacers",
+        "abbreviation": "IP"
       },
       "awayTeam": {
-        "id": "nba-miami-heat",
+        "id": "nba-brooklyn-nets",
         "leagueId": "nba",
-        "name": "Miami Heat",
-        "shortName": "Heat",
-        "abbreviation": "MH"
+        "name": "Brooklyn Nets",
+        "shortName": "Nets",
+        "abbreviation": "BN"
       },
       "homeScore": {
-        "teamId": "nba-new-york-knicks",
+        "teamId": "nba-indiana-pacers",
         "total": null
       },
       "awayScore": {
-        "teamId": "nba-miami-heat",
+        "teamId": "nba-brooklyn-nets",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "3c522e32c3035d7dc3e1734903b84654"
+        "externalId": "fc3e945a5be88d3f933456bc512c956d"
       }
     },
     {
-      "id": "13d9ca3bcb664829c603755d31401002",
+      "id": "094b083ace229ca31ff360a80e35a1a8",
       "leagueId": "nba",
-      "startTime": "2026-11-28T02:40:00Z",
+      "startTime": "2026-11-02T01:40:00Z",
       "status": "scheduled",
       "homeTeam": {
-        "id": "nba-san-antonio-spurs",
+        "id": "nba-golden-state-warriors",
         "leagueId": "nba",
-        "name": "San Antonio Spurs",
-        "shortName": "Spurs",
-        "abbreviation": "SAS"
+        "name": "Golden State Warriors",
+        "shortName": "Warriors",
+        "abbreviation": "GSW"
       },
       "awayTeam": {
+        "id": "nba-los-angeles-clippers",
+        "leagueId": "nba",
+        "name": "Los Angeles Clippers",
+        "shortName": "Clippers",
+        "abbreviation": "LAC"
+      },
+      "homeScore": {
+        "teamId": "nba-golden-state-warriors",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nba-los-angeles-clippers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "094b083ace229ca31ff360a80e35a1a8"
+      }
+    },
+    {
+      "id": "31fc89cbf3846e545e8e41a543a71d24",
+      "leagueId": "nba",
+      "startTime": "2026-11-02T02:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
         "id": "nba-los-angeles-lakers",
         "leagueId": "nba",
         "name": "Los Angeles Lakers",
         "shortName": "Lakers",
         "abbreviation": "LAL"
       },
+      "awayTeam": {
+        "id": "nba-toronto-raptors",
+        "leagueId": "nba",
+        "name": "Toronto Raptors",
+        "shortName": "Raptors",
+        "abbreviation": "TR"
+      },
       "homeScore": {
-        "teamId": "nba-san-antonio-spurs",
+        "teamId": "nba-los-angeles-lakers",
         "total": null
       },
       "awayScore": {
-        "teamId": "nba-los-angeles-lakers",
+        "teamId": "nba-toronto-raptors",
         "total": null
       },
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "13d9ca3bcb664829c603755d31401002"
+        "externalId": "31fc89cbf3846e545e8e41a543a71d24"
       }
     },
     {
       "id": "a6555e8b7252dfb32f1817fc8c59ad83",
       "leagueId": "nba",
-      "startTime": "2026-12-25T17:00:00Z",
+      "startTime": "2026-12-25T17:10:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "nba-new-york-knicks",
@@ -1347,7 +823,7 @@
     {
       "id": "d60e7fc0690e4dff121a086395e24de4",
       "leagueId": "nba",
-      "startTime": "2026-12-25T19:30:00Z",
+      "startTime": "2026-12-25T19:40:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "nba-boston-celtics",
@@ -1379,7 +855,7 @@
     {
       "id": "dfd908bad3a3bfcae9e08bf128273b18",
       "leagueId": "nba",
-      "startTime": "2026-12-25T22:00:00Z",
+      "startTime": "2026-12-25T22:10:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "nba-los-angeles-lakers",
@@ -1411,7 +887,7 @@
     {
       "id": "2b7218aa25cf98318a40e6f2469a5c5d",
       "leagueId": "nba",
-      "startTime": "2026-12-26T01:00:00Z",
+      "startTime": "2026-12-26T01:10:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "nba-minnesota-timberwolves",
@@ -1443,7 +919,7 @@
     {
       "id": "85a2379bc49135f2759709e55af0c4c6",
       "leagueId": "nba",
-      "startTime": "2026-12-26T03:30:00Z",
+      "startTime": "2026-12-26T03:40:00Z",
       "status": "scheduled",
       "homeTeam": {
         "id": "nba-golden-state-warriors",
@@ -1475,8 +951,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-10-16T14:54:09.636Z",
-  "staleAt": "2026-10-17T20:54:09.636Z",
+  "fetchedAt": "2026-11-01T16:49:55.367Z",
+  "staleAt": "2026-11-02T22:49:55.368Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
