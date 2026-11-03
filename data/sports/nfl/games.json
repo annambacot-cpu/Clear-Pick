@@ -399,8 +399,9 @@
     {
       "id": "7d664fbcd39350e559d83c0068ba7169",
       "leagueId": "nfl",
-      "startTime": "2026-11-03T01:20:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-03T01:16:26Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-seattle-seahawks",
         "leagueId": "nfl",
@@ -417,11 +418,11 @@
       },
       "homeScore": {
         "teamId": "nfl-seattle-seahawks",
-        "total": null
+        "total": 17
       },
       "awayScore": {
         "teamId": "nfl-chicago-bears",
-        "total": null
+        "total": 34
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -911,8 +912,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-02T20:23:19.141Z",
-  "staleAt": "2026-11-04T02:23:19.141Z",
+  "fetchedAt": "2026-11-03T17:53:08.099Z",
+  "staleAt": "2026-11-04T23:53:08.099Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
