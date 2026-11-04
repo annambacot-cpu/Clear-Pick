@@ -1,1549 +1,299 @@
 {
   "data": [
     {
-      "id": "5c606b3ad7d8fe599a32ce4141dc0033-betonline-ag-spreads",
-      "gameId": "5c606b3ad7d8fe599a32ce4141dc0033",
+      "id": "549bc17969103d4acc5b6378eca5602f-fanduel-spreads",
+      "gameId": "549bc17969103d4acc5b6378eca5602f",
       "leagueId": "ncaab",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-spreads-0",
-          "label": "Tennessee Volunteers",
-          "participantId": "ncaab-tennessee-volunteers",
-          "side": "home",
-          "line": -25,
-          "americanOdds": -102
-        },
-        {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-spreads-1",
-          "label": "Wofford Terriers",
-          "participantId": "ncaab-wofford-terriers",
-          "side": "away",
-          "line": 25,
-          "americanOdds": -118
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5c606b3ad7d8fe599a32ce4141dc0033:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "5c606b3ad7d8fe599a32ce4141dc0033-betonline-ag-totals",
-      "gameId": "5c606b3ad7d8fe599a32ce4141dc0033",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 155.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 155.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5c606b3ad7d8fe599a32ce4141dc0033:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "5c606b3ad7d8fe599a32ce4141dc0033-fanduel-h2h",
-      "gameId": "5c606b3ad7d8fe599a32ce4141dc0033",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-h2h-0",
-          "label": "Tennessee Volunteers",
-          "participantId": "ncaab-tennessee-volunteers",
-          "side": "home",
-          "americanOdds": -20000
-        },
-        {
-          "id": "5c606b3ad7d8fe599a32ce4141dc0033-h2h-1",
-          "label": "Wofford Terriers",
-          "participantId": "ncaab-wofford-terriers",
-          "side": "away",
-          "americanOdds": 3500
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5c606b3ad7d8fe599a32ce4141dc0033:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "2cccdbb5426caa7a69f652bb577b367c-fanduel-h2h",
-      "gameId": "2cccdbb5426caa7a69f652bb577b367c",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-h2h-0",
-          "label": "Boston College Eagles",
-          "participantId": "ncaab-boston-college-eagles",
-          "side": "home",
-          "americanOdds": -4500
-        },
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-h2h-1",
-          "label": "Wagner Seahawks",
-          "participantId": "ncaab-wagner-seahawks",
-          "side": "away",
-          "americanOdds": 1600
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2cccdbb5426caa7a69f652bb577b367c:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "2cccdbb5426caa7a69f652bb577b367c-fanduel-spreads",
-      "gameId": "2cccdbb5426caa7a69f652bb577b367c",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-spreads-0",
-          "label": "Boston College Eagles",
-          "participantId": "ncaab-boston-college-eagles",
-          "side": "home",
-          "line": -18.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-spreads-1",
-          "label": "Wagner Seahawks",
-          "participantId": "ncaab-wagner-seahawks",
-          "side": "away",
-          "line": 18.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2cccdbb5426caa7a69f652bb577b367c:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "2cccdbb5426caa7a69f652bb577b367c-fanduel-totals",
-      "gameId": "2cccdbb5426caa7a69f652bb577b367c",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 143.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "2cccdbb5426caa7a69f652bb577b367c-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 143.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "2cccdbb5426caa7a69f652bb577b367c:FanDuel:totals"
-      }
-    },
-    {
-      "id": "8541be3aee4cd7967aab5691fad082f7-fanduel-spreads",
-      "gameId": "8541be3aee4cd7967aab5691fad082f7",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "8541be3aee4cd7967aab5691fad082f7-spreads-0",
-          "label": "Coppin St Eagles",
-          "participantId": "ncaab-coppin-st-eagles",
-          "side": "away",
-          "line": 30.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "8541be3aee4cd7967aab5691fad082f7-spreads-1",
-          "label": "Virginia Tech Hokies",
-          "participantId": "ncaab-virginia-tech-hokies",
-          "side": "home",
-          "line": -30.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8541be3aee4cd7967aab5691fad082f7:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "8541be3aee4cd7967aab5691fad082f7-fanduel-totals",
-      "gameId": "8541be3aee4cd7967aab5691fad082f7",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "8541be3aee4cd7967aab5691fad082f7-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 151.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "8541be3aee4cd7967aab5691fad082f7-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 151.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8541be3aee4cd7967aab5691fad082f7:FanDuel:totals"
-      }
-    },
-    {
-      "id": "f29847b36e1421985a46605e7bfec15d-betonline-ag-h2h",
-      "gameId": "f29847b36e1421985a46605e7bfec15d",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-h2h-0",
-          "label": "Duquesne Dukes",
-          "participantId": "ncaab-duquesne-dukes",
-          "side": "home",
-          "americanOdds": -500
-        },
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-h2h-1",
-          "label": "Fort Wayne Mastodons",
-          "participantId": "ncaab-fort-wayne-mastodons",
-          "side": "away",
-          "americanOdds": 383
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f29847b36e1421985a46605e7bfec15d:BetOnline.ag:h2h"
-      }
-    },
-    {
-      "id": "f29847b36e1421985a46605e7bfec15d-betonline-ag-spreads",
-      "gameId": "f29847b36e1421985a46605e7bfec15d",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-spreads-0",
-          "label": "Duquesne Dukes",
-          "participantId": "ncaab-duquesne-dukes",
-          "side": "home",
-          "line": -10,
-          "americanOdds": -110
-        },
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-spreads-1",
-          "label": "Fort Wayne Mastodons",
-          "participantId": "ncaab-fort-wayne-mastodons",
-          "side": "away",
-          "line": 10,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f29847b36e1421985a46605e7bfec15d:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "f29847b36e1421985a46605e7bfec15d-betonline-ag-totals",
-      "gameId": "f29847b36e1421985a46605e7bfec15d",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 153.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "f29847b36e1421985a46605e7bfec15d-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 153.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f29847b36e1421985a46605e7bfec15d:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "a621e112c59b5b8369f80c2fb55e615d-betonline-ag-h2h",
-      "gameId": "a621e112c59b5b8369f80c2fb55e615d",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-h2h-0",
-          "label": "Georgia Tech Yellow Jackets",
-          "participantId": "ncaab-georgia-tech-yellow-jackets",
-          "side": "home",
-          "americanOdds": -1350
-        },
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-h2h-1",
-          "label": "Hampton Pirates",
-          "participantId": "ncaab-hampton-pirates",
-          "side": "away",
-          "americanOdds": 817
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a621e112c59b5b8369f80c2fb55e615d:BetOnline.ag:h2h"
-      }
-    },
-    {
-      "id": "a621e112c59b5b8369f80c2fb55e615d-betonline-ag-spreads",
-      "gameId": "a621e112c59b5b8369f80c2fb55e615d",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-spreads-0",
-          "label": "Georgia Tech Yellow Jackets",
-          "participantId": "ncaab-georgia-tech-yellow-jackets",
-          "side": "home",
-          "line": -14,
-          "americanOdds": -110
-        },
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-spreads-1",
-          "label": "Hampton Pirates",
-          "participantId": "ncaab-hampton-pirates",
-          "side": "away",
-          "line": 14,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a621e112c59b5b8369f80c2fb55e615d:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "a621e112c59b5b8369f80c2fb55e615d-betonline-ag-totals",
-      "gameId": "a621e112c59b5b8369f80c2fb55e615d",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 148.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "a621e112c59b5b8369f80c2fb55e615d-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 148.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "a621e112c59b5b8369f80c2fb55e615d:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "d2c45b0c90f12321cb072d68bd3d4a1c-fanduel-h2h",
-      "gameId": "d2c45b0c90f12321cb072d68bd3d4a1c",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-h2h-0",
-          "label": "Holy Cross Crusaders",
-          "participantId": "ncaab-holy-cross-crusaders",
-          "side": "away",
-          "americanOdds": 1600
-        },
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-h2h-1",
-          "label": "Rhode Island Rams",
-          "participantId": "ncaab-rhode-island-rams",
-          "side": "home",
-          "americanOdds": -4500
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d2c45b0c90f12321cb072d68bd3d4a1c:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "d2c45b0c90f12321cb072d68bd3d4a1c-fanduel-spreads",
-      "gameId": "d2c45b0c90f12321cb072d68bd3d4a1c",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-spreads-0",
-          "label": "Holy Cross Crusaders",
-          "participantId": "ncaab-holy-cross-crusaders",
-          "side": "away",
-          "line": 19.5,
-          "americanOdds": -102
-        },
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-spreads-1",
-          "label": "Rhode Island Rams",
-          "participantId": "ncaab-rhode-island-rams",
-          "side": "home",
-          "line": -19.5,
-          "americanOdds": -120
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d2c45b0c90f12321cb072d68bd3d4a1c:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "d2c45b0c90f12321cb072d68bd3d4a1c-fanduel-totals",
-      "gameId": "d2c45b0c90f12321cb072d68bd3d4a1c",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 147.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "d2c45b0c90f12321cb072d68bd3d4a1c-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 147.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "d2c45b0c90f12321cb072d68bd3d4a1c:FanDuel:totals"
-      }
-    },
-    {
-      "id": "ca4aa34ceb6699753f69ffd1d68d944b-betonline-ag-spreads",
-      "gameId": "ca4aa34ceb6699753f69ffd1d68d944b",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "ca4aa34ceb6699753f69ffd1d68d944b-spreads-0",
-          "label": "Kentucky Wildcats",
-          "participantId": "ncaab-kentucky-wildcats",
-          "side": "home",
-          "line": -33.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "ca4aa34ceb6699753f69ffd1d68d944b-spreads-1",
-          "label": "Manhattan Jaspers",
-          "participantId": "ncaab-manhattan-jaspers",
-          "side": "away",
-          "line": 33.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ca4aa34ceb6699753f69ffd1d68d944b:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "ca4aa34ceb6699753f69ffd1d68d944b-betonline-ag-totals",
-      "gameId": "ca4aa34ceb6699753f69ffd1d68d944b",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "ca4aa34ceb6699753f69ffd1d68d944b-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 158.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "ca4aa34ceb6699753f69ffd1d68d944b-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 158.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ca4aa34ceb6699753f69ffd1d68d944b:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "5327528ec3e4f115e5283df73f2a1ded-fanduel-h2h",
-      "gameId": "5327528ec3e4f115e5283df73f2a1ded",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-h2h-0",
-          "label": "South Carolina Gamecocks",
-          "participantId": "ncaab-south-carolina-gamecocks",
-          "side": "home",
-          "americanOdds": -4500
-        },
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-h2h-1",
-          "label": "Stetson Hatters",
-          "participantId": "ncaab-stetson-hatters",
-          "side": "away",
-          "americanOdds": 1600
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5327528ec3e4f115e5283df73f2a1ded:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "5327528ec3e4f115e5283df73f2a1ded-fanduel-spreads",
-      "gameId": "5327528ec3e4f115e5283df73f2a1ded",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-spreads-0",
-          "label": "South Carolina Gamecocks",
-          "participantId": "ncaab-south-carolina-gamecocks",
-          "side": "home",
-          "line": -19.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-spreads-1",
-          "label": "Stetson Hatters",
-          "participantId": "ncaab-stetson-hatters",
-          "side": "away",
-          "line": 19.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5327528ec3e4f115e5283df73f2a1ded:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "5327528ec3e4f115e5283df73f2a1ded-fanduel-totals",
-      "gameId": "5327528ec3e4f115e5283df73f2a1ded",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 149.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "5327528ec3e4f115e5283df73f2a1ded-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 149.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "5327528ec3e4f115e5283df73f2a1ded:FanDuel:totals"
-      }
-    },
-    {
-      "id": "89383b9fbe1119324bcf6c064e07dcd9-betonline-ag-spreads",
-      "gameId": "89383b9fbe1119324bcf6c064e07dcd9",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-spreads-0",
-          "label": "Alabama Crimson Tide",
-          "participantId": "ncaab-alabama-crimson-tide",
-          "side": "home",
-          "line": -27,
-          "americanOdds": -110
-        },
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-spreads-1",
-          "label": "Sam Houston St Bearkats",
-          "participantId": "ncaab-sam-houston-st-bearkats",
-          "side": "away",
-          "line": 27,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "89383b9fbe1119324bcf6c064e07dcd9:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "89383b9fbe1119324bcf6c064e07dcd9-betonline-ag-totals",
-      "gameId": "89383b9fbe1119324bcf6c064e07dcd9",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 172,
-          "americanOdds": -110
-        },
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 172,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "89383b9fbe1119324bcf6c064e07dcd9:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "89383b9fbe1119324bcf6c064e07dcd9-draftkings-h2h",
-      "gameId": "89383b9fbe1119324bcf6c064e07dcd9",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-h2h-0",
-          "label": "Alabama Crimson Tide",
-          "participantId": "ncaab-alabama-crimson-tide",
-          "side": "home",
-          "americanOdds": -10000
-        },
-        {
-          "id": "89383b9fbe1119324bcf6c064e07dcd9-h2h-1",
-          "label": "Sam Houston St Bearkats",
-          "participantId": "ncaab-sam-houston-st-bearkats",
-          "side": "away",
-          "americanOdds": 3000
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-03T17:52:58Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "89383b9fbe1119324bcf6c064e07dcd9:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "0156259278d95832bc9e08be0fdfa7eb-betonline-ag-spreads",
-      "gameId": "0156259278d95832bc9e08be0fdfa7eb",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "0156259278d95832bc9e08be0fdfa7eb-spreads-0",
-          "label": "Drexel Dragons",
-          "participantId": "ncaab-drexel-dragons",
-          "side": "away",
-          "line": 31.5,
-          "americanOdds": -108
-        },
-        {
-          "id": "0156259278d95832bc9e08be0fdfa7eb-spreads-1",
-          "label": "Virginia Cavaliers",
-          "participantId": "ncaab-virginia-cavaliers",
-          "side": "home",
-          "line": -31.5,
-          "americanOdds": -112
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "0156259278d95832bc9e08be0fdfa7eb:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "0156259278d95832bc9e08be0fdfa7eb-betonline-ag-totals",
-      "gameId": "0156259278d95832bc9e08be0fdfa7eb",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "0156259278d95832bc9e08be0fdfa7eb-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 142,
-          "americanOdds": -105
-        },
-        {
-          "id": "0156259278d95832bc9e08be0fdfa7eb-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 142,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "0156259278d95832bc9e08be0fdfa7eb:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "1d4e6a5f411f8461ebce226cb73c0033-fanduel-spreads",
-      "gameId": "1d4e6a5f411f8461ebce226cb73c0033",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "1d4e6a5f411f8461ebce226cb73c0033-spreads-0",
-          "label": "Alabama St Hornets",
-          "participantId": "ncaab-alabama-st-hornets",
-          "side": "away",
-          "line": 32.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "1d4e6a5f411f8461ebce226cb73c0033-spreads-1",
-          "label": "Texas A&M Aggies",
-          "participantId": "ncaab-texas-a-m-aggies",
-          "side": "home",
-          "line": -32.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1d4e6a5f411f8461ebce226cb73c0033:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "1d4e6a5f411f8461ebce226cb73c0033-fanduel-totals",
-      "gameId": "1d4e6a5f411f8461ebce226cb73c0033",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "1d4e6a5f411f8461ebce226cb73c0033-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 161.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "1d4e6a5f411f8461ebce226cb73c0033-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 161.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1d4e6a5f411f8461ebce226cb73c0033:FanDuel:totals"
-      }
-    },
-    {
-      "id": "7982bbd8a5916e3024bbf94ec345241b-draftkings-spreads",
-      "gameId": "7982bbd8a5916e3024bbf94ec345241b",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "7982bbd8a5916e3024bbf94ec345241b-spreads-0",
-          "label": "Arkansas-Pine Bluff Golden Lions",
-          "participantId": "ncaab-arkansas-pine-bluff-golden-lions",
-          "side": "away",
-          "line": 41.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "7982bbd8a5916e3024bbf94ec345241b-spreads-1",
-          "label": "Arkansas Razorbacks",
-          "participantId": "ncaab-arkansas-razorbacks",
-          "side": "home",
-          "line": -41.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-03T17:52:58Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7982bbd8a5916e3024bbf94ec345241b:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "7982bbd8a5916e3024bbf94ec345241b-draftkings-totals",
-      "gameId": "7982bbd8a5916e3024bbf94ec345241b",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "7982bbd8a5916e3024bbf94ec345241b-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 167.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "7982bbd8a5916e3024bbf94ec345241b-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 167.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-03T17:52:58Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7982bbd8a5916e3024bbf94ec345241b:DraftKings:totals"
-      }
-    },
-    {
-      "id": "38fbd99711e89870426e063d56d3d92c-betonline-ag-spreads",
-      "gameId": "38fbd99711e89870426e063d56d3d92c",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-spreads-0",
-          "label": "Cleveland St Vikings",
-          "participantId": "ncaab-cleveland-st-vikings",
-          "side": "away",
-          "line": 26.5,
-          "americanOdds": -108
-        },
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-spreads-1",
-          "label": "Missouri Tigers",
-          "participantId": "ncaab-missouri-tigers",
-          "side": "home",
-          "line": -26.5,
-          "americanOdds": -112
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "38fbd99711e89870426e063d56d3d92c:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "38fbd99711e89870426e063d56d3d92c-betonline-ag-totals",
-      "gameId": "38fbd99711e89870426e063d56d3d92c",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 160,
-          "americanOdds": -110
-        },
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 160,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "38fbd99711e89870426e063d56d3d92c:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "38fbd99711e89870426e063d56d3d92c-fanduel-h2h",
-      "gameId": "38fbd99711e89870426e063d56d3d92c",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-h2h-0",
-          "label": "Cleveland St Vikings",
-          "participantId": "ncaab-cleveland-st-vikings",
-          "side": "away",
-          "americanOdds": 4000
-        },
-        {
-          "id": "38fbd99711e89870426e063d56d3d92c-h2h-1",
-          "label": "Missouri Tigers",
-          "participantId": "ncaab-missouri-tigers",
-          "side": "home",
-          "americanOdds": -30000
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "38fbd99711e89870426e063d56d3d92c:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "7057bcf2a149f4767dba9068bbff1845-fanduel-h2h",
-      "gameId": "7057bcf2a149f4767dba9068bbff1845",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-h2h-0",
-          "label": "Iowa Hawkeyes",
-          "participantId": "ncaab-iowa-hawkeyes",
-          "side": "home",
-          "americanOdds": -10000
-        },
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-h2h-1",
-          "label": "Lipscomb Bisons",
-          "participantId": "ncaab-lipscomb-bisons",
-          "side": "away",
-          "americanOdds": 2400
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7057bcf2a149f4767dba9068bbff1845:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "7057bcf2a149f4767dba9068bbff1845-fanduel-spreads",
-      "gameId": "7057bcf2a149f4767dba9068bbff1845",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-spreads-0",
-          "label": "Iowa Hawkeyes",
-          "participantId": "ncaab-iowa-hawkeyes",
-          "side": "home",
-          "line": -22.5,
-          "americanOdds": -120
-        },
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-spreads-1",
-          "label": "Lipscomb Bisons",
-          "participantId": "ncaab-lipscomb-bisons",
-          "side": "away",
-          "line": 22.5,
-          "americanOdds": -102
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7057bcf2a149f4767dba9068bbff1845:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "7057bcf2a149f4767dba9068bbff1845-fanduel-totals",
-      "gameId": "7057bcf2a149f4767dba9068bbff1845",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 146.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "7057bcf2a149f4767dba9068bbff1845-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 146.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7057bcf2a149f4767dba9068bbff1845:FanDuel:totals"
-      }
-    },
-    {
-      "id": "778706c14330540532d69d2cb275bfd1-betonline-ag-h2h",
-      "gameId": "778706c14330540532d69d2cb275bfd1",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-h2h-0",
-          "label": "Kansas St Wildcats",
-          "participantId": "ncaab-kansas-st-wildcats",
-          "side": "home",
-          "americanOdds": -675
-        },
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-h2h-1",
-          "label": "South Dakota St Jackrabbits",
-          "participantId": "ncaab-south-dakota-st-jackrabbits",
-          "side": "away",
-          "americanOdds": 491
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "778706c14330540532d69d2cb275bfd1:BetOnline.ag:h2h"
-      }
-    },
-    {
-      "id": "778706c14330540532d69d2cb275bfd1-betonline-ag-spreads",
-      "gameId": "778706c14330540532d69d2cb275bfd1",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-spreads-0",
-          "label": "Kansas St Wildcats",
-          "participantId": "ncaab-kansas-st-wildcats",
-          "side": "home",
-          "line": -11.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-spreads-1",
-          "label": "South Dakota St Jackrabbits",
-          "participantId": "ncaab-south-dakota-st-jackrabbits",
-          "side": "away",
-          "line": 11.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "778706c14330540532d69d2cb275bfd1:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "778706c14330540532d69d2cb275bfd1-betonline-ag-totals",
-      "gameId": "778706c14330540532d69d2cb275bfd1",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 159,
-          "americanOdds": -115
-        },
-        {
-          "id": "778706c14330540532d69d2cb275bfd1-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 159,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "778706c14330540532d69d2cb275bfd1:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "c9e3a3374b6b6d6302fa3be192fcdb76-fanduel-spreads",
-      "gameId": "c9e3a3374b6b6d6302fa3be192fcdb76",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-spreads-0",
-          "label": "LSU Tigers",
-          "participantId": "ncaab-lsu-tigers",
+          "id": "549bc17969103d4acc5b6378eca5602f-spreads-0",
+          "label": "Butler Bulldogs",
+          "participantId": "ncaab-butler-bulldogs",
           "side": "home",
           "line": -27.5,
           "americanOdds": -110
         },
         {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-spreads-1",
-          "label": "New Orleans Privateers",
-          "participantId": "ncaab-new-orleans-privateers",
+          "id": "549bc17969103d4acc5b6378eca5602f-spreads-1",
+          "label": "Fairleigh Dickinson Knights",
+          "participantId": "ncaab-fairleigh-dickinson-knights",
           "side": "away",
           "line": 27.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
+      "lastUpdated": "2026-11-04T18:01:35Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "c9e3a3374b6b6d6302fa3be192fcdb76:FanDuel:spreads"
+        "externalId": "549bc17969103d4acc5b6378eca5602f:FanDuel:spreads"
       }
     },
     {
-      "id": "c9e3a3374b6b6d6302fa3be192fcdb76-fanduel-totals",
-      "gameId": "c9e3a3374b6b6d6302fa3be192fcdb76",
+      "id": "549bc17969103d4acc5b6378eca5602f-fanduel-totals",
+      "gameId": "549bc17969103d4acc5b6378eca5602f",
       "leagueId": "ncaab",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-totals-0",
+          "id": "549bc17969103d4acc5b6378eca5602f-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 159.5,
-          "americanOdds": -110
+          "line": 155.5,
+          "americanOdds": -115
         },
         {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-totals-1",
+          "id": "549bc17969103d4acc5b6378eca5602f-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 159.5,
-          "americanOdds": -110
+          "line": 155.5,
+          "americanOdds": -105
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
+      "lastUpdated": "2026-11-04T18:01:35Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "c9e3a3374b6b6d6302fa3be192fcdb76:FanDuel:totals"
+        "externalId": "549bc17969103d4acc5b6378eca5602f:FanDuel:totals"
       }
     },
     {
-      "id": "c9e3a3374b6b6d6302fa3be192fcdb76-draftkings-h2h",
-      "gameId": "c9e3a3374b6b6d6302fa3be192fcdb76",
+      "id": "549bc17969103d4acc5b6378eca5602f-draftkings-h2h",
+      "gameId": "549bc17969103d4acc5b6378eca5602f",
       "leagueId": "ncaab",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-h2h-0",
-          "label": "LSU Tigers",
-          "participantId": "ncaab-lsu-tigers",
+          "id": "549bc17969103d4acc5b6378eca5602f-h2h-0",
+          "label": "Butler Bulldogs",
+          "participantId": "ncaab-butler-bulldogs",
+          "side": "home",
+          "americanOdds": -50000
+        },
+        {
+          "id": "549bc17969103d4acc5b6378eca5602f-h2h-1",
+          "label": "Fairleigh Dickinson Knights",
+          "participantId": "ncaab-fairleigh-dickinson-knights",
+          "side": "away",
+          "americanOdds": 4000
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-04T18:01:36Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "549bc17969103d4acc5b6378eca5602f:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "3bc95ac74a5ada7d2739e050f53eb5d2-fanduel-spreads",
+      "gameId": "3bc95ac74a5ada7d2739e050f53eb5d2",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-spreads-0",
+          "label": "High Point Panthers",
+          "participantId": "ncaab-high-point-panthers",
+          "side": "home",
+          "line": -34.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-spreads-1",
+          "label": "Maryland-Eastern Shore Hawks",
+          "participantId": "ncaab-maryland-eastern-shore-hawks",
+          "side": "away",
+          "line": 34.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3bc95ac74a5ada7d2739e050f53eb5d2:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "3bc95ac74a5ada7d2739e050f53eb5d2-fanduel-totals",
+      "gameId": "3bc95ac74a5ada7d2739e050f53eb5d2",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 147.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 147.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3bc95ac74a5ada7d2739e050f53eb5d2:FanDuel:totals"
+      }
+    },
+    {
+      "id": "3bc95ac74a5ada7d2739e050f53eb5d2-betmgm-h2h",
+      "gameId": "3bc95ac74a5ada7d2739e050f53eb5d2",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-h2h-0",
+          "label": "High Point Panthers",
+          "participantId": "ncaab-high-point-panthers",
           "side": "home",
           "americanOdds": -10000
         },
         {
-          "id": "c9e3a3374b6b6d6302fa3be192fcdb76-h2h-1",
-          "label": "New Orleans Privateers",
-          "participantId": "ncaab-new-orleans-privateers",
+          "id": "3bc95ac74a5ada7d2739e050f53eb5d2-h2h-1",
+          "label": "Maryland-Eastern Shore Hawks",
+          "participantId": "ncaab-maryland-eastern-shore-hawks",
           "side": "away",
-          "americanOdds": 3000
+          "americanOdds": 3300
         }
       ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-03T17:52:58Z",
+      "bookmaker": "BetMGM",
+      "lastUpdated": "2026-11-04T18:01:36Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "c9e3a3374b6b6d6302fa3be192fcdb76:DraftKings:h2h"
+        "externalId": "3bc95ac74a5ada7d2739e050f53eb5d2:BetMGM:h2h"
       }
     },
     {
-      "id": "e031a72df23e6b0e1a17d9398e7189fe-betonline-ag-h2h",
-      "gameId": "e031a72df23e6b0e1a17d9398e7189fe",
+      "id": "9eb9f1ae70ff2e191c1322b68ee0458a-fanduel-h2h",
+      "gameId": "9eb9f1ae70ff2e191c1322b68ee0458a",
       "leagueId": "ncaab",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-h2h-0",
-          "label": "CSU Fullerton Titans",
-          "participantId": "ncaab-csu-fullerton-titans",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-h2h-0",
+          "label": "Longwood Lancers",
+          "participantId": "ncaab-longwood-lancers",
           "side": "away",
-          "americanOdds": 979
+          "americanOdds": 460
         },
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-h2h-1",
-          "label": "San Diego St Aztecs",
-          "participantId": "ncaab-san-diego-st-aztecs",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-h2h-1",
+          "label": "Saint Joseph's Hawks",
+          "participantId": "ncaab-saint-joseph-s-hawks",
           "side": "home",
-          "americanOdds": -1800
+          "americanOdds": -650
         }
       ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "e031a72df23e6b0e1a17d9398e7189fe:BetOnline.ag:h2h"
+        "externalId": "9eb9f1ae70ff2e191c1322b68ee0458a:FanDuel:h2h"
       }
     },
     {
-      "id": "e031a72df23e6b0e1a17d9398e7189fe-betonline-ag-spreads",
-      "gameId": "e031a72df23e6b0e1a17d9398e7189fe",
+      "id": "9eb9f1ae70ff2e191c1322b68ee0458a-fanduel-spreads",
+      "gameId": "9eb9f1ae70ff2e191c1322b68ee0458a",
       "leagueId": "ncaab",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-spreads-0",
-          "label": "CSU Fullerton Titans",
-          "participantId": "ncaab-csu-fullerton-titans",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-spreads-0",
+          "label": "Longwood Lancers",
+          "participantId": "ncaab-longwood-lancers",
           "side": "away",
-          "line": 15,
-          "americanOdds": -115
+          "line": 10.5,
+          "americanOdds": -105
         },
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-spreads-1",
-          "label": "San Diego St Aztecs",
-          "participantId": "ncaab-san-diego-st-aztecs",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-spreads-1",
+          "label": "Saint Joseph's Hawks",
+          "participantId": "ncaab-saint-joseph-s-hawks",
           "side": "home",
-          "line": -15,
-          "americanOdds": -105
+          "line": -10.5,
+          "americanOdds": -115
         }
       ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "e031a72df23e6b0e1a17d9398e7189fe:BetOnline.ag:spreads"
+        "externalId": "9eb9f1ae70ff2e191c1322b68ee0458a:FanDuel:spreads"
       }
     },
     {
-      "id": "e031a72df23e6b0e1a17d9398e7189fe-betonline-ag-totals",
-      "gameId": "e031a72df23e6b0e1a17d9398e7189fe",
+      "id": "9eb9f1ae70ff2e191c1322b68ee0458a-fanduel-totals",
+      "gameId": "9eb9f1ae70ff2e191c1322b68ee0458a",
       "leagueId": "ncaab",
       "type": "total",
       "label": "Game total",
       "selections": [
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-totals-0",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 155,
-          "americanOdds": -115
+          "line": 151.5,
+          "americanOdds": -108
         },
         {
-          "id": "e031a72df23e6b0e1a17d9398e7189fe-totals-1",
+          "id": "9eb9f1ae70ff2e191c1322b68ee0458a-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 155,
-          "americanOdds": -105
+          "line": 151.5,
+          "americanOdds": -112
         }
       ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "e031a72df23e6b0e1a17d9398e7189fe:BetOnline.ag:totals"
+        "externalId": "9eb9f1ae70ff2e191c1322b68ee0458a:FanDuel:totals"
       }
     },
     {
-      "id": "e98c6cb854c679627ea67744c87c80e6-fanduel-h2h",
-      "gameId": "e98c6cb854c679627ea67744c87c80e6",
+      "id": "55ce7fcc3c7a9e642c63450e4df10a75-betonline-ag-h2h",
+      "gameId": "55ce7fcc3c7a9e642c63450e4df10a75",
       "leagueId": "ncaab",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "e98c6cb854c679627ea67744c87c80e6-h2h-0",
-          "label": "Cal Baptist Lancers",
-          "participantId": "ncaab-cal-baptist-lancers",
-          "side": "home",
-          "americanOdds": -780
-        },
-        {
-          "id": "e98c6cb854c679627ea67744c87c80e6-h2h-1",
-          "label": "North Florida Ospreys",
-          "participantId": "ncaab-north-florida-ospreys",
+          "id": "55ce7fcc3c7a9e642c63450e4df10a75-h2h-0",
+          "label": "CSU Northridge Matadors",
+          "participantId": "ncaab-csu-northridge-matadors",
           "side": "away",
-          "americanOdds": 530
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e98c6cb854c679627ea67744c87c80e6:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "e98c6cb854c679627ea67744c87c80e6-fanduel-spreads",
-      "gameId": "e98c6cb854c679627ea67744c87c80e6",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
+          "americanOdds": 892
+        },
         {
-          "id": "e98c6cb854c679627ea67744c87c80e6-spreads-0",
-          "label": "Cal Baptist Lancers",
-          "participantId": "ncaab-cal-baptist-lancers",
+          "id": "55ce7fcc3c7a9e642c63450e4df10a75-h2h-1",
+          "label": "Wichita St Shockers",
+          "participantId": "ncaab-wichita-st-shockers",
           "side": "home",
-          "line": -11.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "e98c6cb854c679627ea67744c87c80e6-spreads-1",
-          "label": "North Florida Ospreys",
-          "participantId": "ncaab-north-florida-ospreys",
-          "side": "away",
-          "line": 11.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e98c6cb854c679627ea67744c87c80e6:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "e98c6cb854c679627ea67744c87c80e6-fanduel-totals",
-      "gameId": "e98c6cb854c679627ea67744c87c80e6",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "e98c6cb854c679627ea67744c87c80e6-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 157.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "e98c6cb854c679627ea67744c87c80e6-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 157.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e98c6cb854c679627ea67744c87c80e6:FanDuel:totals"
-      }
-    },
-    {
-      "id": "80e148489a44ada538f600e7db5d27d9-betonline-ag-spreads",
-      "gameId": "80e148489a44ada538f600e7db5d27d9",
-      "leagueId": "ncaab",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-spreads-0",
-          "label": "Northern Arizona Lumberjacks",
-          "participantId": "ncaab-northern-arizona-lumberjacks",
-          "side": "away",
-          "line": 21,
-          "americanOdds": -115
-        },
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-spreads-1",
-          "label": "UNLV Rebels",
-          "participantId": "ncaab-unlv-rebels",
-          "side": "home",
-          "line": -21,
-          "americanOdds": -105
+          "americanOdds": -1550
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "80e148489a44ada538f600e7db5d27d9:BetOnline.ag:spreads"
-      }
-    },
-    {
-      "id": "80e148489a44ada538f600e7db5d27d9-betonline-ag-totals",
-      "gameId": "80e148489a44ada538f600e7db5d27d9",
-      "leagueId": "ncaab",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 154.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 154.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "80e148489a44ada538f600e7db5d27d9:BetOnline.ag:totals"
-      }
-    },
-    {
-      "id": "80e148489a44ada538f600e7db5d27d9-fanduel-h2h",
-      "gameId": "80e148489a44ada538f600e7db5d27d9",
-      "leagueId": "ncaab",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-h2h-0",
-          "label": "Northern Arizona Lumberjacks",
-          "participantId": "ncaab-northern-arizona-lumberjacks",
-          "side": "away",
-          "americanOdds": 2200
-        },
-        {
-          "id": "80e148489a44ada538f600e7db5d27d9-h2h-1",
-          "label": "UNLV Rebels",
-          "participantId": "ncaab-unlv-rebels",
-          "side": "home",
-          "americanOdds": -8000
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-03T17:52:15Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "80e148489a44ada538f600e7db5d27d9:FanDuel:h2h"
+        "externalId": "55ce7fcc3c7a9e642c63450e4df10a75:BetOnline.ag:h2h"
       }
     },
     {
@@ -1558,7 +308,7 @@
           "label": "CSU Northridge Matadors",
           "participantId": "ncaab-csu-northridge-matadors",
           "side": "away",
-          "line": 14.5,
+          "line": 15,
           "americanOdds": -105
         },
         {
@@ -1566,12 +316,12 @@
           "label": "Wichita St Shockers",
           "participantId": "ncaab-wichita-st-shockers",
           "side": "home",
-          "line": -14.5,
+          "line": -15,
           "americanOdds": -115
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "55ce7fcc3c7a9e642c63450e4df10a75:BetOnline.ag:spreads"
@@ -1588,22 +338,140 @@
           "id": "55ce7fcc3c7a9e642c63450e4df10a75-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 159,
+          "line": 160.5,
           "americanOdds": -110
         },
         {
           "id": "55ce7fcc3c7a9e642c63450e4df10a75-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 159,
+          "line": 160.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "55ce7fcc3c7a9e642c63450e4df10a75:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "ee64dfa732b4b3e3bcc3d257c1836b94-fanduel-spreads",
+      "gameId": "ee64dfa732b4b3e3bcc3d257c1836b94",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-spreads-0",
+          "label": "Auburn Tigers",
+          "participantId": "ncaab-auburn-tigers",
+          "side": "home",
+          "line": -28.5,
+          "americanOdds": -118
+        },
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-spreads-1",
+          "label": "SE Louisiana Lions",
+          "participantId": "ncaab-se-louisiana-lions",
+          "side": "away",
+          "line": 28.5,
+          "americanOdds": -104
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ee64dfa732b4b3e3bcc3d257c1836b94:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "ee64dfa732b4b3e3bcc3d257c1836b94-fanduel-totals",
+      "gameId": "ee64dfa732b4b3e3bcc3d257c1836b94",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 151.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 151.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ee64dfa732b4b3e3bcc3d257c1836b94:FanDuel:totals"
+      }
+    },
+    {
+      "id": "ee64dfa732b4b3e3bcc3d257c1836b94-draftkings-h2h",
+      "gameId": "ee64dfa732b4b3e3bcc3d257c1836b94",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-h2h-0",
+          "label": "Auburn Tigers",
+          "participantId": "ncaab-auburn-tigers",
+          "side": "home",
+          "americanOdds": -100000
+        },
+        {
+          "id": "ee64dfa732b4b3e3bcc3d257c1836b94-h2h-1",
+          "label": "SE Louisiana Lions",
+          "participantId": "ncaab-se-louisiana-lions",
+          "side": "away",
+          "americanOdds": 5000
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-04T18:01:36Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "ee64dfa732b4b3e3bcc3d257c1836b94:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "e85d3465ae2091684b88bf4a3d04337e-betonline-ag-h2h",
+      "gameId": "e85d3465ae2091684b88bf4a3d04337e",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "e85d3465ae2091684b88bf4a3d04337e-h2h-0",
+          "label": "Northern Kentucky Norse",
+          "participantId": "ncaab-northern-kentucky-norse",
+          "side": "away",
+          "americanOdds": -148
+        },
+        {
+          "id": "e85d3465ae2091684b88bf4a3d04337e-h2h-1",
+          "label": "South Dakota Coyotes",
+          "participantId": "ncaab-south-dakota-coyotes",
+          "side": "home",
+          "americanOdds": 128
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e85d3465ae2091684b88bf4a3d04337e:BetOnline.ag:h2h"
       }
     },
     {
@@ -1618,20 +486,20 @@
           "label": "Northern Kentucky Norse",
           "participantId": "ncaab-northern-kentucky-norse",
           "side": "away",
-          "line": -1,
-          "americanOdds": -115
+          "line": -2.5,
+          "americanOdds": -112
         },
         {
           "id": "e85d3465ae2091684b88bf4a3d04337e-spreads-1",
           "label": "South Dakota Coyotes",
           "participantId": "ncaab-south-dakota-coyotes",
           "side": "home",
-          "line": 1,
-          "americanOdds": -105
+          "line": 2.5,
+          "americanOdds": -108
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e85d3465ae2091684b88bf4a3d04337e:BetOnline.ag:spreads"
@@ -1648,22 +516,229 @@
           "id": "e85d3465ae2091684b88bf4a3d04337e-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 157,
-          "americanOdds": -110
+          "line": 162.5,
+          "americanOdds": -115
         },
         {
           "id": "e85d3465ae2091684b88bf4a3d04337e-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 157,
-          "americanOdds": -110
+          "line": 162.5,
+          "americanOdds": -105
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "e85d3465ae2091684b88bf4a3d04337e:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "eccb8794e834a22613f2c0a1e603ec73-fanduel-h2h",
+      "gameId": "eccb8794e834a22613f2c0a1e603ec73",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-h2h-0",
+          "label": "California Golden Bears",
+          "participantId": "ncaab-california-golden-bears",
+          "side": "home",
+          "americanOdds": -2500
+        },
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-h2h-1",
+          "label": "Radford Highlanders",
+          "participantId": "ncaab-radford-highlanders",
+          "side": "away",
+          "americanOdds": 1100
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "eccb8794e834a22613f2c0a1e603ec73:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "eccb8794e834a22613f2c0a1e603ec73-fanduel-spreads",
+      "gameId": "eccb8794e834a22613f2c0a1e603ec73",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-spreads-0",
+          "label": "California Golden Bears",
+          "participantId": "ncaab-california-golden-bears",
+          "side": "home",
+          "line": -16.5,
+          "americanOdds": -106
+        },
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-spreads-1",
+          "label": "Radford Highlanders",
+          "participantId": "ncaab-radford-highlanders",
+          "side": "away",
+          "line": 16.5,
+          "americanOdds": -114
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "eccb8794e834a22613f2c0a1e603ec73:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "eccb8794e834a22613f2c0a1e603ec73-fanduel-totals",
+      "gameId": "eccb8794e834a22613f2c0a1e603ec73",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 157.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "eccb8794e834a22613f2c0a1e603ec73-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 157.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "eccb8794e834a22613f2c0a1e603ec73:FanDuel:totals"
+      }
+    },
+    {
+      "id": "dc8830b8a32f0650fc6dc1d128f71fda-fanduel-h2h",
+      "gameId": "dc8830b8a32f0650fc6dc1d128f71fda",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-h2h-0",
+          "label": "Loyola Marymount Lions",
+          "participantId": "ncaab-loyola-marymount-lions",
+          "side": "home",
+          "americanOdds": -385
+        },
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-h2h-1",
+          "label": "Queens University Royals",
+          "participantId": "ncaab-queens-university-royals",
+          "side": "away",
+          "americanOdds": 300
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dc8830b8a32f0650fc6dc1d128f71fda:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "dc8830b8a32f0650fc6dc1d128f71fda-fanduel-spreads",
+      "gameId": "dc8830b8a32f0650fc6dc1d128f71fda",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-spreads-0",
+          "label": "Loyola Marymount Lions",
+          "participantId": "ncaab-loyola-marymount-lions",
+          "side": "home",
+          "line": -8.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-spreads-1",
+          "label": "Queens University Royals",
+          "participantId": "ncaab-queens-university-royals",
+          "side": "away",
+          "line": 8.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dc8830b8a32f0650fc6dc1d128f71fda:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "dc8830b8a32f0650fc6dc1d128f71fda-fanduel-totals",
+      "gameId": "dc8830b8a32f0650fc6dc1d128f71fda",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 161.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "dc8830b8a32f0650fc6dc1d128f71fda-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 161.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "dc8830b8a32f0650fc6dc1d128f71fda:FanDuel:totals"
+      }
+    },
+    {
+      "id": "c1141fbe152494d369ada36710e91b55-betonline-ag-h2h",
+      "gameId": "c1141fbe152494d369ada36710e91b55",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "c1141fbe152494d369ada36710e91b55-h2h-0",
+          "label": "Milwaukee Panthers",
+          "participantId": "ncaab-milwaukee-panthers",
+          "side": "away",
+          "americanOdds": 1069
+        },
+        {
+          "id": "c1141fbe152494d369ada36710e91b55-h2h-1",
+          "label": "Santa Clara Broncos",
+          "participantId": "ncaab-santa-clara-broncos",
+          "side": "home",
+          "americanOdds": -2100
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "c1141fbe152494d369ada36710e91b55:BetOnline.ag:h2h"
       }
     },
     {
@@ -1678,7 +753,7 @@
           "label": "Milwaukee Panthers",
           "participantId": "ncaab-milwaukee-panthers",
           "side": "away",
-          "line": 18,
+          "line": 17,
           "americanOdds": -110
         },
         {
@@ -1686,12 +761,12 @@
           "label": "Santa Clara Broncos",
           "participantId": "ncaab-santa-clara-broncos",
           "side": "home",
-          "line": -18,
+          "line": -17,
           "americanOdds": -110
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c1141fbe152494d369ada36710e91b55:BetOnline.ag:spreads"
@@ -1708,22 +783,51 @@
           "id": "c1141fbe152494d369ada36710e91b55-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 156.5,
+          "line": 162.5,
           "americanOdds": -110
         },
         {
           "id": "c1141fbe152494d369ada36710e91b55-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 156.5,
+          "line": 162.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c1141fbe152494d369ada36710e91b55:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "54080f4106befd3a23a86b2cbfee1a53-betonline-ag-h2h",
+      "gameId": "54080f4106befd3a23a86b2cbfee1a53",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "54080f4106befd3a23a86b2cbfee1a53-h2h-0",
+          "label": "North Dakota St Bison",
+          "participantId": "ncaab-north-dakota-st-bison",
+          "side": "away",
+          "americanOdds": 661
+        },
+        {
+          "id": "54080f4106befd3a23a86b2cbfee1a53-h2h-1",
+          "label": "Saint Mary's Gaels",
+          "participantId": "ncaab-saint-mary-s-gaels",
+          "side": "home",
+          "americanOdds": -1000
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "54080f4106befd3a23a86b2cbfee1a53:BetOnline.ag:h2h"
       }
     },
     {
@@ -1738,7 +842,7 @@
           "label": "North Dakota St Bison",
           "participantId": "ncaab-north-dakota-st-bison",
           "side": "away",
-          "line": 12,
+          "line": 13,
           "americanOdds": -110
         },
         {
@@ -1746,12 +850,12 @@
           "label": "Saint Mary's Gaels",
           "participantId": "ncaab-saint-mary-s-gaels",
           "side": "home",
-          "line": -12,
+          "line": -13,
           "americanOdds": -110
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "54080f4106befd3a23a86b2cbfee1a53:BetOnline.ag:spreads"
@@ -1768,29 +872,1283 @@
           "id": "54080f4106befd3a23a86b2cbfee1a53-totals-0",
           "label": "Over",
           "side": "over",
-          "line": 144.5,
+          "line": 148,
           "americanOdds": -110
         },
         {
           "id": "54080f4106befd3a23a86b2cbfee1a53-totals-1",
           "label": "Under",
           "side": "under",
-          "line": 144.5,
+          "line": 148,
           "americanOdds": -110
         }
       ],
       "bookmaker": "BetOnline.ag",
-      "lastUpdated": "2026-11-03T17:52:19Z",
+      "lastUpdated": "2026-11-04T18:01:13Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "54080f4106befd3a23a86b2cbfee1a53:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-betonline-ag-spreads",
+      "gameId": "7e1e9d3f832831f68d75b5b8eb1d27d0",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-spreads-0",
+          "label": "Chattanooga Mocs",
+          "participantId": "ncaab-chattanooga-mocs",
+          "side": "away",
+          "line": 16,
+          "americanOdds": -110
+        },
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-spreads-1",
+          "label": "Penn State Nittany Lions",
+          "participantId": "ncaab-penn-state-nittany-lions",
+          "side": "home",
+          "line": -16,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7e1e9d3f832831f68d75b5b8eb1d27d0:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-betonline-ag-totals",
+      "gameId": "7e1e9d3f832831f68d75b5b8eb1d27d0",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 157.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 157.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7e1e9d3f832831f68d75b5b8eb1d27d0:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-fanduel-h2h",
+      "gameId": "7e1e9d3f832831f68d75b5b8eb1d27d0",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-h2h-0",
+          "label": "Chattanooga Mocs",
+          "participantId": "ncaab-chattanooga-mocs",
+          "side": "away",
+          "americanOdds": 1000
+        },
+        {
+          "id": "7e1e9d3f832831f68d75b5b8eb1d27d0-h2h-1",
+          "label": "Penn State Nittany Lions",
+          "participantId": "ncaab-penn-state-nittany-lions",
+          "side": "home",
+          "americanOdds": -2100
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7e1e9d3f832831f68d75b5b8eb1d27d0:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "d523281d43838dea9e18868e964a0b8b-betonline-ag-spreads",
+      "gameId": "d523281d43838dea9e18868e964a0b8b",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-spreads-0",
+          "label": "Vanderbilt Commodores",
+          "participantId": "ncaab-vanderbilt-commodores",
+          "side": "home",
+          "line": -16,
+          "americanOdds": -115
+        },
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-spreads-1",
+          "label": "Wake Forest Demon Deacons",
+          "participantId": "ncaab-wake-forest-demon-deacons",
+          "side": "away",
+          "line": 16,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d523281d43838dea9e18868e964a0b8b:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "d523281d43838dea9e18868e964a0b8b-betonline-ag-totals",
+      "gameId": "d523281d43838dea9e18868e964a0b8b",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 153,
+          "americanOdds": -115
+        },
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 153,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d523281d43838dea9e18868e964a0b8b:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "d523281d43838dea9e18868e964a0b8b-fanduel-h2h",
+      "gameId": "d523281d43838dea9e18868e964a0b8b",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-h2h-0",
+          "label": "Vanderbilt Commodores",
+          "participantId": "ncaab-vanderbilt-commodores",
+          "side": "home",
+          "americanOdds": -2500
+        },
+        {
+          "id": "d523281d43838dea9e18868e964a0b8b-h2h-1",
+          "label": "Wake Forest Demon Deacons",
+          "participantId": "ncaab-wake-forest-demon-deacons",
+          "side": "away",
+          "americanOdds": 1100
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d523281d43838dea9e18868e964a0b8b:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "6cd779bcf9651d615321c3f9ddd97115-betonline-ag-spreads",
+      "gameId": "6cd779bcf9651d615321c3f9ddd97115",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-spreads-0",
+          "label": "Buffalo Bulls",
+          "participantId": "ncaab-buffalo-bulls",
+          "side": "away",
+          "line": 17,
+          "americanOdds": -110
+        },
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-spreads-1",
+          "label": "Pittsburgh Panthers",
+          "participantId": "ncaab-pittsburgh-panthers",
+          "side": "home",
+          "line": -17,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6cd779bcf9651d615321c3f9ddd97115:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "6cd779bcf9651d615321c3f9ddd97115-betonline-ag-totals",
+      "gameId": "6cd779bcf9651d615321c3f9ddd97115",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 149.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 149.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6cd779bcf9651d615321c3f9ddd97115:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "6cd779bcf9651d615321c3f9ddd97115-fanduel-h2h",
+      "gameId": "6cd779bcf9651d615321c3f9ddd97115",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-h2h-0",
+          "label": "Buffalo Bulls",
+          "participantId": "ncaab-buffalo-bulls",
+          "side": "away",
+          "americanOdds": 1200
+        },
+        {
+          "id": "6cd779bcf9651d615321c3f9ddd97115-h2h-1",
+          "label": "Pittsburgh Panthers",
+          "participantId": "ncaab-pittsburgh-panthers",
+          "side": "home",
+          "americanOdds": -3000
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6cd779bcf9651d615321c3f9ddd97115:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "f182504e9a38c42cedec008cf281a0f6-betonline-ag-spreads",
+      "gameId": "f182504e9a38c42cedec008cf281a0f6",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-spreads-0",
+          "label": "Charlotte 49ers",
+          "participantId": "ncaab-charlotte-49ers",
+          "side": "home",
+          "line": -11.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-spreads-1",
+          "label": "Georgia St Panthers",
+          "participantId": "ncaab-georgia-st-panthers",
+          "side": "away",
+          "line": 11.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f182504e9a38c42cedec008cf281a0f6:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "f182504e9a38c42cedec008cf281a0f6-betonline-ag-totals",
+      "gameId": "f182504e9a38c42cedec008cf281a0f6",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 149,
+          "americanOdds": -110
+        },
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 149,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f182504e9a38c42cedec008cf281a0f6:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "f182504e9a38c42cedec008cf281a0f6-fanduel-h2h",
+      "gameId": "f182504e9a38c42cedec008cf281a0f6",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-h2h-0",
+          "label": "Charlotte 49ers",
+          "participantId": "ncaab-charlotte-49ers",
+          "side": "home",
+          "americanOdds": -820
+        },
+        {
+          "id": "f182504e9a38c42cedec008cf281a0f6-h2h-1",
+          "label": "Georgia St Panthers",
+          "participantId": "ncaab-georgia-st-panthers",
+          "side": "away",
+          "americanOdds": 550
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f182504e9a38c42cedec008cf281a0f6:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "6e4f744a03685bf3edc3130b13be36e9-betonline-ag-spreads",
+      "gameId": "6e4f744a03685bf3edc3130b13be36e9",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-spreads-0",
+          "label": "Cincinnati Bearcats",
+          "participantId": "ncaab-cincinnati-bearcats",
+          "side": "home",
+          "line": -22.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-spreads-1",
+          "label": "Green Bay Phoenix",
+          "participantId": "ncaab-green-bay-phoenix",
+          "side": "away",
+          "line": 22.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6e4f744a03685bf3edc3130b13be36e9:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "6e4f744a03685bf3edc3130b13be36e9-betonline-ag-totals",
+      "gameId": "6e4f744a03685bf3edc3130b13be36e9",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 147,
+          "americanOdds": -110
+        },
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 147,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6e4f744a03685bf3edc3130b13be36e9:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "6e4f744a03685bf3edc3130b13be36e9-fanduel-h2h",
+      "gameId": "6e4f744a03685bf3edc3130b13be36e9",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-h2h-0",
+          "label": "Cincinnati Bearcats",
+          "participantId": "ncaab-cincinnati-bearcats",
+          "side": "home",
+          "americanOdds": -10000
+        },
+        {
+          "id": "6e4f744a03685bf3edc3130b13be36e9-h2h-1",
+          "label": "Green Bay Phoenix",
+          "participantId": "ncaab-green-bay-phoenix",
+          "side": "away",
+          "americanOdds": 2400
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-04T18:01:35Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "6e4f744a03685bf3edc3130b13be36e9:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "76d51047b43ad9fdf8bccd49925387c9-betonline-ag-spreads",
+      "gameId": "76d51047b43ad9fdf8bccd49925387c9",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "76d51047b43ad9fdf8bccd49925387c9-spreads-0",
+          "label": "Hofstra Pride",
+          "participantId": "ncaab-hofstra-pride",
+          "side": "away",
+          "line": 2.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "76d51047b43ad9fdf8bccd49925387c9-spreads-1",
+          "label": "Princeton Tigers",
+          "participantId": "ncaab-princeton-tigers",
+          "side": "home",
+          "line": -2.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "76d51047b43ad9fdf8bccd49925387c9:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "76d51047b43ad9fdf8bccd49925387c9-betonline-ag-totals",
+      "gameId": "76d51047b43ad9fdf8bccd49925387c9",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "76d51047b43ad9fdf8bccd49925387c9-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 141,
+          "americanOdds": -115
+        },
+        {
+          "id": "76d51047b43ad9fdf8bccd49925387c9-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 141,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "76d51047b43ad9fdf8bccd49925387c9:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "8e4eaf29e25ac652e7ef172a94588c59-betonline-ag-spreads",
+      "gameId": "8e4eaf29e25ac652e7ef172a94588c59",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "8e4eaf29e25ac652e7ef172a94588c59-spreads-0",
+          "label": "Mercer Bears",
+          "participantId": "ncaab-mercer-bears",
+          "side": "away",
+          "line": 18.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "8e4eaf29e25ac652e7ef172a94588c59-spreads-1",
+          "label": "Virginia Tech Hokies",
+          "participantId": "ncaab-virginia-tech-hokies",
+          "side": "home",
+          "line": -18.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8e4eaf29e25ac652e7ef172a94588c59:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "8e4eaf29e25ac652e7ef172a94588c59-betonline-ag-totals",
+      "gameId": "8e4eaf29e25ac652e7ef172a94588c59",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "8e4eaf29e25ac652e7ef172a94588c59-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 151,
+          "americanOdds": -110
+        },
+        {
+          "id": "8e4eaf29e25ac652e7ef172a94588c59-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 151,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8e4eaf29e25ac652e7ef172a94588c59:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "775c40116c26286ded7f130c3a090cdc-betonline-ag-spreads",
+      "gameId": "775c40116c26286ded7f130c3a090cdc",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "775c40116c26286ded7f130c3a090cdc-spreads-0",
+          "label": "Coastal Carolina Chanticleers",
+          "participantId": "ncaab-coastal-carolina-chanticleers",
+          "side": "away",
+          "line": 39,
+          "americanOdds": -105
+        },
+        {
+          "id": "775c40116c26286ded7f130c3a090cdc-spreads-1",
+          "label": "Duke Blue Devils",
+          "participantId": "ncaab-duke-blue-devils",
+          "side": "home",
+          "line": -39,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "775c40116c26286ded7f130c3a090cdc:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "775c40116c26286ded7f130c3a090cdc-betonline-ag-totals",
+      "gameId": "775c40116c26286ded7f130c3a090cdc",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "775c40116c26286ded7f130c3a090cdc-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 145.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "775c40116c26286ded7f130c3a090cdc-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 145.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "775c40116c26286ded7f130c3a090cdc:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "2560cabc5d300ae74f6eec7085f89899-betonline-ag-spreads",
+      "gameId": "2560cabc5d300ae74f6eec7085f89899",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "2560cabc5d300ae74f6eec7085f89899-spreads-0",
+          "label": "Jacksonville St Gamecocks",
+          "participantId": "ncaab-jacksonville-st-gamecocks",
+          "side": "away",
+          "line": 2,
+          "americanOdds": -110
+        },
+        {
+          "id": "2560cabc5d300ae74f6eec7085f89899-spreads-1",
+          "label": "South Alabama Jaguars",
+          "participantId": "ncaab-south-alabama-jaguars",
+          "side": "home",
+          "line": -2,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2560cabc5d300ae74f6eec7085f89899:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "2560cabc5d300ae74f6eec7085f89899-betonline-ag-totals",
+      "gameId": "2560cabc5d300ae74f6eec7085f89899",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "2560cabc5d300ae74f6eec7085f89899-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 142.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "2560cabc5d300ae74f6eec7085f89899-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 142.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2560cabc5d300ae74f6eec7085f89899:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "7db9fbc0fc22450af4cf67311151363a-betonline-ag-spreads",
+      "gameId": "7db9fbc0fc22450af4cf67311151363a",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "7db9fbc0fc22450af4cf67311151363a-spreads-0",
+          "label": "Loyola (Chi) Ramblers",
+          "participantId": "ncaab-loyola-chi-ramblers",
+          "side": "home",
+          "line": -15,
+          "americanOdds": -105
+        },
+        {
+          "id": "7db9fbc0fc22450af4cf67311151363a-spreads-1",
+          "label": "West Georgia Wolves",
+          "participantId": "ncaab-west-georgia-wolves",
+          "side": "away",
+          "line": 15,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7db9fbc0fc22450af4cf67311151363a:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "7db9fbc0fc22450af4cf67311151363a-betonline-ag-totals",
+      "gameId": "7db9fbc0fc22450af4cf67311151363a",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "7db9fbc0fc22450af4cf67311151363a-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 142,
+          "americanOdds": -110
+        },
+        {
+          "id": "7db9fbc0fc22450af4cf67311151363a-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 142,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7db9fbc0fc22450af4cf67311151363a:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "2784e2fb97dd5363e9e81517f5dc81a3-betonline-ag-spreads",
+      "gameId": "2784e2fb97dd5363e9e81517f5dc81a3",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "2784e2fb97dd5363e9e81517f5dc81a3-spreads-0",
+          "label": "Michigan St Spartans",
+          "participantId": "ncaab-michigan-st-spartans",
+          "side": "home",
+          "line": -26,
+          "americanOdds": -115
+        },
+        {
+          "id": "2784e2fb97dd5363e9e81517f5dc81a3-spreads-1",
+          "label": "Toledo Rockets",
+          "participantId": "ncaab-toledo-rockets",
+          "side": "away",
+          "line": 26,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2784e2fb97dd5363e9e81517f5dc81a3:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "2784e2fb97dd5363e9e81517f5dc81a3-betonline-ag-totals",
+      "gameId": "2784e2fb97dd5363e9e81517f5dc81a3",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "2784e2fb97dd5363e9e81517f5dc81a3-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 151,
+          "americanOdds": -110
+        },
+        {
+          "id": "2784e2fb97dd5363e9e81517f5dc81a3-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 151,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2784e2fb97dd5363e9e81517f5dc81a3:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "85e497fe5835e83465e1414f30103dec-betonline-ag-spreads",
+      "gameId": "85e497fe5835e83465e1414f30103dec",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "85e497fe5835e83465e1414f30103dec-spreads-0",
+          "label": "Northern Illinois Huskies",
+          "participantId": "ncaab-northern-illinois-huskies",
+          "side": "away",
+          "line": 15.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "85e497fe5835e83465e1414f30103dec-spreads-1",
+          "label": "Tulsa Golden Hurricane",
+          "participantId": "ncaab-tulsa-golden-hurricane",
+          "side": "home",
+          "line": -15.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85e497fe5835e83465e1414f30103dec:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "85e497fe5835e83465e1414f30103dec-betonline-ag-totals",
+      "gameId": "85e497fe5835e83465e1414f30103dec",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "85e497fe5835e83465e1414f30103dec-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 155.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "85e497fe5835e83465e1414f30103dec-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 155.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "85e497fe5835e83465e1414f30103dec:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "7b71516706f86893c72e047cd9e37d4a-betonline-ag-spreads",
+      "gameId": "7b71516706f86893c72e047cd9e37d4a",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "7b71516706f86893c72e047cd9e37d4a-spreads-0",
+          "label": "SMU Mustangs",
+          "participantId": "ncaab-smu-mustangs",
+          "side": "home",
+          "line": -23.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "7b71516706f86893c72e047cd9e37d4a-spreads-1",
+          "label": "VMI Keydets",
+          "participantId": "ncaab-vmi-keydets",
+          "side": "away",
+          "line": 23.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7b71516706f86893c72e047cd9e37d4a:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "7b71516706f86893c72e047cd9e37d4a-betonline-ag-totals",
+      "gameId": "7b71516706f86893c72e047cd9e37d4a",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "7b71516706f86893c72e047cd9e37d4a-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 155,
+          "americanOdds": -110
+        },
+        {
+          "id": "7b71516706f86893c72e047cd9e37d4a-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 155,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "7b71516706f86893c72e047cd9e37d4a:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "16b88da9c328520f2e802a9bc4f5c246-betonline-ag-spreads",
+      "gameId": "16b88da9c328520f2e802a9bc4f5c246",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "16b88da9c328520f2e802a9bc4f5c246-spreads-0",
+          "label": "DePaul Blue Demons",
+          "participantId": "ncaab-depaul-blue-demons",
+          "side": "home",
+          "line": -6.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "16b88da9c328520f2e802a9bc4f5c246-spreads-1",
+          "label": "South Florida Bulls",
+          "participantId": "ncaab-south-florida-bulls",
+          "side": "away",
+          "line": 6.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "16b88da9c328520f2e802a9bc4f5c246:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "16b88da9c328520f2e802a9bc4f5c246-betonline-ag-totals",
+      "gameId": "16b88da9c328520f2e802a9bc4f5c246",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "16b88da9c328520f2e802a9bc4f5c246-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 146.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "16b88da9c328520f2e802a9bc4f5c246-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 146.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "16b88da9c328520f2e802a9bc4f5c246:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "e99c31a25021bfcde3aa4d446d42f37a-betonline-ag-spreads",
+      "gameId": "e99c31a25021bfcde3aa4d446d42f37a",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "e99c31a25021bfcde3aa4d446d42f37a-spreads-0",
+          "label": "Illinois Fighting Illini",
+          "participantId": "ncaab-illinois-fighting-illini",
+          "side": "home",
+          "line": -28.5,
+          "americanOdds": -122
+        },
+        {
+          "id": "e99c31a25021bfcde3aa4d446d42f37a-spreads-1",
+          "label": "Pennsylvania Quakers",
+          "participantId": "ncaab-pennsylvania-quakers",
+          "side": "away",
+          "line": 28.5,
+          "americanOdds": 102
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e99c31a25021bfcde3aa4d446d42f37a:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "e99c31a25021bfcde3aa4d446d42f37a-betonline-ag-totals",
+      "gameId": "e99c31a25021bfcde3aa4d446d42f37a",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "e99c31a25021bfcde3aa4d446d42f37a-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 163.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "e99c31a25021bfcde3aa4d446d42f37a-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 163.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e99c31a25021bfcde3aa4d446d42f37a:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "5cc76f9a5f90c66256075f91598fd634-betonline-ag-spreads",
+      "gameId": "5cc76f9a5f90c66256075f91598fd634",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "5cc76f9a5f90c66256075f91598fd634-spreads-0",
+          "label": "Towson Tigers",
+          "participantId": "ncaab-towson-tigers",
+          "side": "away",
+          "line": 11.5,
+          "americanOdds": -120
+        },
+        {
+          "id": "5cc76f9a5f90c66256075f91598fd634-spreads-1",
+          "label": "Utah Utes",
+          "participantId": "ncaab-utah-utes",
+          "side": "home",
+          "line": -11.5,
+          "americanOdds": 100
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5cc76f9a5f90c66256075f91598fd634:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "5cc76f9a5f90c66256075f91598fd634-betonline-ag-totals",
+      "gameId": "5cc76f9a5f90c66256075f91598fd634",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "5cc76f9a5f90c66256075f91598fd634-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 140,
+          "americanOdds": -110
+        },
+        {
+          "id": "5cc76f9a5f90c66256075f91598fd634-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 140,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "5cc76f9a5f90c66256075f91598fd634:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "3bead9fd4968c29875f674846e1d345b-betonline-ag-spreads",
+      "gameId": "3bead9fd4968c29875f674846e1d345b",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "3bead9fd4968c29875f674846e1d345b-spreads-0",
+          "label": "Arizona Wildcats",
+          "participantId": "ncaab-arizona-wildcats",
+          "side": "home",
+          "line": -28.5,
+          "americanOdds": -115
+        },
+        {
+          "id": "3bead9fd4968c29875f674846e1d345b-spreads-1",
+          "label": "Cal Poly Mustangs",
+          "participantId": "ncaab-cal-poly-mustangs",
+          "side": "away",
+          "line": 28.5,
+          "americanOdds": -105
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3bead9fd4968c29875f674846e1d345b:BetOnline.ag:spreads"
+      }
+    },
+    {
+      "id": "3bead9fd4968c29875f674846e1d345b-betonline-ag-totals",
+      "gameId": "3bead9fd4968c29875f674846e1d345b",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "3bead9fd4968c29875f674846e1d345b-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 168,
+          "americanOdds": -105
+        },
+        {
+          "id": "3bead9fd4968c29875f674846e1d345b-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 168,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "BetOnline.ag",
+      "lastUpdated": "2026-11-04T18:01:13Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "3bead9fd4968c29875f674846e1d345b:BetOnline.ag:totals"
+      }
+    },
+    {
+      "id": "a110856b340f750ba0e73fffce01d22c-draftkings-h2h",
+      "gameId": "a110856b340f750ba0e73fffce01d22c",
+      "leagueId": "ncaab",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-h2h-0",
+          "label": "Michigan Wolverines",
+          "participantId": "ncaab-michigan-wolverines",
+          "side": "home",
+          "americanOdds": 190
+        },
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-h2h-1",
+          "label": "UConn Huskies",
+          "participantId": "ncaab-uconn-huskies",
+          "side": "away",
+          "americanOdds": -230
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-04T18:01:36Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a110856b340f750ba0e73fffce01d22c:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "a110856b340f750ba0e73fffce01d22c-draftkings-spreads",
+      "gameId": "a110856b340f750ba0e73fffce01d22c",
+      "leagueId": "ncaab",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-spreads-0",
+          "label": "Michigan Wolverines",
+          "participantId": "ncaab-michigan-wolverines",
+          "side": "home",
+          "line": 5.5,
+          "americanOdds": -112
+        },
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-spreads-1",
+          "label": "UConn Huskies",
+          "participantId": "ncaab-uconn-huskies",
+          "side": "away",
+          "line": -5.5,
+          "americanOdds": -108
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-04T18:01:36Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a110856b340f750ba0e73fffce01d22c:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "a110856b340f750ba0e73fffce01d22c-draftkings-totals",
+      "gameId": "a110856b340f750ba0e73fffce01d22c",
+      "leagueId": "ncaab",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 146.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "a110856b340f750ba0e73fffce01d22c-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 146.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-04T18:01:36Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "a110856b340f750ba0e73fffce01d22c:DraftKings:totals"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-03T17:53:08.099Z",
-  "staleAt": "2026-11-04T23:53:08.099Z",
+  "fetchedAt": "2026-11-04T18:01:45.727Z",
+  "staleAt": "2026-11-06T00:01:45.727Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

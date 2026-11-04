@@ -1,72 +1,6 @@
 {
   "data": [
     {
-      "id": "640c52a86289f35698261b41987dd71e",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-10-31T20:00:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-aston-villa",
-        "leagueId": "soccer_epl",
-        "name": "Aston Villa",
-        "shortName": "Villa",
-        "abbreviation": "AV"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-fulham",
-        "leagueId": "soccer_epl",
-        "name": "Fulham",
-        "shortName": "Fulham",
-        "abbreviation": "FUL"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-aston-villa",
-        "total": 1
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-fulham",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "640c52a86289f35698261b41987dd71e"
-      }
-    },
-    {
-      "id": "6a3819cdbe2ba2fe5a3d8f9b4b459965",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-11-01T16:30:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-liverpool",
-        "leagueId": "soccer_epl",
-        "name": "Liverpool",
-        "shortName": "Liverpool",
-        "abbreviation": "LIV"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-arsenal",
-        "leagueId": "soccer_epl",
-        "name": "Arsenal",
-        "shortName": "Arsenal",
-        "abbreviation": "ARS"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-liverpool",
-        "total": 0
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-arsenal",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "6a3819cdbe2ba2fe5a3d8f9b4b459965"
-      }
-    },
-    {
       "id": "0f552d9c6990c69474f50ff2fb54e9a3",
       "leagueId": "soccer_epl",
       "startTime": "2026-11-02T20:00:00Z",
@@ -742,8 +676,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-03T17:53:08.099Z",
-  "staleAt": "2026-11-04T23:53:08.099Z",
+  "fetchedAt": "2026-11-04T18:01:45.727Z",
+  "staleAt": "2026-11-06T00:01:45.727Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
