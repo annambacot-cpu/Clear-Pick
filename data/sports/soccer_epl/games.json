@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "id": "0f552d9c6990c69474f50ff2fb54e9a3",
-      "leagueId": "soccer_epl",
-      "startTime": "2026-11-02T20:00:00Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "soccer_epl-newcastle-united",
-        "leagueId": "soccer_epl",
-        "name": "Newcastle United",
-        "shortName": "United",
-        "abbreviation": "NU"
-      },
-      "awayTeam": {
-        "id": "soccer_epl-everton",
-        "leagueId": "soccer_epl",
-        "name": "Everton",
-        "shortName": "Everton",
-        "abbreviation": "EVE"
-      },
-      "homeScore": {
-        "teamId": "soccer_epl-newcastle-united",
-        "total": 0
-      },
-      "awayScore": {
-        "teamId": "soccer_epl-everton",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "0f552d9c6990c69474f50ff2fb54e9a3"
-      }
-    },
-    {
       "id": "586bec023ee8ac2f0645d963bd2c9d25",
       "leagueId": "soccer_epl",
       "startTime": "2026-11-06T20:00:00Z",
@@ -676,8 +643,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-04T18:01:45.727Z",
-  "staleAt": "2026-11-06T00:01:45.727Z",
+  "fetchedAt": "2026-11-06T17:31:40.010Z",
+  "staleAt": "2026-11-07T23:31:40.010Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

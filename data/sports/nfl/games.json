@@ -1,43 +1,11 @@
 {
   "data": [
     {
-      "id": "7d664fbcd39350e559d83c0068ba7169",
-      "leagueId": "nfl",
-      "startTime": "2026-11-03T01:16:26Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-seattle-seahawks",
-        "leagueId": "nfl",
-        "name": "Seattle Seahawks",
-        "shortName": "Seahawks",
-        "abbreviation": "SS"
-      },
-      "awayTeam": {
-        "id": "nfl-chicago-bears",
-        "leagueId": "nfl",
-        "name": "Chicago Bears",
-        "shortName": "Bears",
-        "abbreviation": "CB"
-      },
-      "homeScore": {
-        "teamId": "nfl-seattle-seahawks",
-        "total": 17
-      },
-      "awayScore": {
-        "teamId": "nfl-chicago-bears",
-        "total": 34
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7d664fbcd39350e559d83c0068ba7169"
-      }
-    },
-    {
       "id": "c75744790b7acf6260c78ba5e739c0e5",
       "leagueId": "nfl",
-      "startTime": "2026-11-06T01:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-06T01:16:42Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-baltimore-ravens",
         "leagueId": "nfl",
@@ -54,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "nfl-baltimore-ravens",
-        "total": null
+        "total": 10
       },
       "awayScore": {
         "teamId": "nfl-jacksonville-jaguars",
-        "total": null
+        "total": 33
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -932,8 +900,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-05T18:04:37.533Z",
-  "staleAt": "2026-11-07T00:04:37.533Z",
+  "fetchedAt": "2026-11-06T17:31:40.010Z",
+  "staleAt": "2026-11-07T23:31:40.010Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
