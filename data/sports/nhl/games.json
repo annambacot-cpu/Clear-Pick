@@ -1,138 +1,6 @@
 {
   "data": [
     {
-      "id": "8094c7dc6557caf1cc19194bf69477bb",
-      "leagueId": "nhl",
-      "startTime": "2026-11-07T00:13:23Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-buffalo-sabres",
-        "leagueId": "nhl",
-        "name": "Buffalo Sabres",
-        "shortName": "Sabres",
-        "abbreviation": "BS"
-      },
-      "awayTeam": {
-        "id": "nhl-columbus-blue-jackets",
-        "leagueId": "nhl",
-        "name": "Columbus Blue Jackets",
-        "shortName": "Jackets",
-        "abbreviation": "CBJ"
-      },
-      "homeScore": {
-        "teamId": "nhl-buffalo-sabres",
-        "total": 5
-      },
-      "awayScore": {
-        "teamId": "nhl-columbus-blue-jackets",
-        "total": 2
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "8094c7dc6557caf1cc19194bf69477bb"
-      }
-    },
-    {
-      "id": "94142b31815d8bfcef178b16cadfe92f",
-      "leagueId": "nhl",
-      "startTime": "2026-11-07T01:08:56Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-minnesota-wild",
-        "leagueId": "nhl",
-        "name": "Minnesota Wild",
-        "shortName": "Wild",
-        "abbreviation": "MW"
-      },
-      "awayTeam": {
-        "id": "nhl-san-jose-sharks",
-        "leagueId": "nhl",
-        "name": "San Jose Sharks",
-        "shortName": "Sharks",
-        "abbreviation": "SJS"
-      },
-      "homeScore": {
-        "teamId": "nhl-minnesota-wild",
-        "total": 4
-      },
-      "awayScore": {
-        "teamId": "nhl-san-jose-sharks",
-        "total": 1
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "94142b31815d8bfcef178b16cadfe92f"
-      }
-    },
-    {
-      "id": "bc490c79c4f47b8a1eaa70a3e1907349",
-      "leagueId": "nhl",
-      "startTime": "2026-11-07T01:12:24Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-calgary-flames",
-        "leagueId": "nhl",
-        "name": "Calgary Flames",
-        "shortName": "Flames",
-        "abbreviation": "CF"
-      },
-      "awayTeam": {
-        "id": "nhl-anaheim-ducks",
-        "leagueId": "nhl",
-        "name": "Anaheim Ducks",
-        "shortName": "Ducks",
-        "abbreviation": "AD"
-      },
-      "homeScore": {
-        "teamId": "nhl-calgary-flames",
-        "total": 3
-      },
-      "awayScore": {
-        "teamId": "nhl-anaheim-ducks",
-        "total": 5
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "bc490c79c4f47b8a1eaa70a3e1907349"
-      }
-    },
-    {
-      "id": "422f0f2b990a051c35afd2ea6e9abe24",
-      "leagueId": "nhl",
-      "startTime": "2026-11-07T17:38:24Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nhl-washington-capitals",
-        "leagueId": "nhl",
-        "name": "Washington Capitals",
-        "shortName": "Capitals",
-        "abbreviation": "WC"
-      },
-      "awayTeam": {
-        "id": "nhl-florida-panthers",
-        "leagueId": "nhl",
-        "name": "Florida Panthers",
-        "shortName": "Panthers",
-        "abbreviation": "FP"
-      },
-      "homeScore": {
-        "teamId": "nhl-washington-capitals",
-        "total": 4
-      },
-      "awayScore": {
-        "teamId": "nhl-florida-panthers",
-        "total": 3
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "422f0f2b990a051c35afd2ea6e9abe24"
-      }
-    },
-    {
       "id": "71da6461cbc3fc6a42b98080244958e7",
       "leagueId": "nhl",
       "startTime": "2026-11-07T18:08:57Z",
@@ -697,7 +565,8 @@
       "id": "c0de79c9c801e5fc0d1bb3873b10a164",
       "leagueId": "nhl",
       "startTime": "2026-11-10T01:10:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nhl-edmonton-oilers",
         "leagueId": "nhl",
@@ -714,11 +583,11 @@
       },
       "homeScore": {
         "teamId": "nhl-edmonton-oilers",
-        "total": null
+        "total": 3
       },
       "awayScore": {
         "teamId": "nhl-new-york-rangers",
-        "total": null
+        "total": 1
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -728,8 +597,9 @@
     {
       "id": "d6c28acaab1a3d7db58968f5f33fbf3a",
       "leagueId": "nhl",
-      "startTime": "2026-11-10T02:40:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-10T02:45:00Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nhl-vancouver-canucks",
         "leagueId": "nhl",
@@ -746,11 +616,11 @@
       },
       "homeScore": {
         "teamId": "nhl-vancouver-canucks",
-        "total": null
+        "total": 1
       },
       "awayScore": {
         "teamId": "nhl-philadelphia-flyers",
-        "total": null
+        "total": 3
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -761,7 +631,8 @@
       "id": "4b345990c8a04ff88ce31d233a406011",
       "leagueId": "nhl",
       "startTime": "2026-11-10T03:10:00Z",
-      "status": "scheduled",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nhl-san-jose-sharks",
         "leagueId": "nhl",
@@ -778,11 +649,11 @@
       },
       "homeScore": {
         "teamId": "nhl-san-jose-sharks",
-        "total": null
+        "total": 3
       },
       "awayScore": {
         "teamId": "nhl-new-york-islanders",
-        "total": null
+        "total": 2
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -1012,12 +883,204 @@
         "provider": "the-odds-api",
         "externalId": "e71ce66a01d66fc935632b206d2dedbd"
       }
+    },
+    {
+      "id": "79041ec71c97248859299c4b6211cc17",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T00:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-buffalo-sabres",
+        "leagueId": "nhl",
+        "name": "Buffalo Sabres",
+        "shortName": "Sabres",
+        "abbreviation": "BS"
+      },
+      "awayTeam": {
+        "id": "nhl-tampa-bay-lightning",
+        "leagueId": "nhl",
+        "name": "Tampa Bay Lightning",
+        "shortName": "Lightning",
+        "abbreviation": "TBL"
+      },
+      "homeScore": {
+        "teamId": "nhl-buffalo-sabres",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-tampa-bay-lightning",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "79041ec71c97248859299c4b6211cc17"
+      }
+    },
+    {
+      "id": "d6fb69c3f844f53b1bb2619066cd7947",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T00:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-calgary-flames",
+        "leagueId": "nhl",
+        "name": "Calgary Flames",
+        "shortName": "Flames",
+        "abbreviation": "CF"
+      },
+      "awayTeam": {
+        "id": "nhl-new-york-rangers",
+        "leagueId": "nhl",
+        "name": "New York Rangers",
+        "shortName": "Rangers",
+        "abbreviation": "NYR"
+      },
+      "homeScore": {
+        "teamId": "nhl-calgary-flames",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-new-york-rangers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "d6fb69c3f844f53b1bb2619066cd7947"
+      }
+    },
+    {
+      "id": "78267bbb84304764c453515236c3ccce",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T02:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-edmonton-oilers",
+        "leagueId": "nhl",
+        "name": "Edmonton Oilers",
+        "shortName": "Oilers",
+        "abbreviation": "EO"
+      },
+      "awayTeam": {
+        "id": "nhl-philadelphia-flyers",
+        "leagueId": "nhl",
+        "name": "Philadelphia Flyers",
+        "shortName": "Flyers",
+        "abbreviation": "PF"
+      },
+      "homeScore": {
+        "teamId": "nhl-edmonton-oilers",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-philadelphia-flyers",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "78267bbb84304764c453515236c3ccce"
+      }
+    },
+    {
+      "id": "81ee484309522975fbb4df2f859fa136",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T02:40:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-vegas-golden-knights",
+        "leagueId": "nhl",
+        "name": "Vegas Golden Knights",
+        "shortName": "Knights",
+        "abbreviation": "VGK"
+      },
+      "awayTeam": {
+        "id": "nhl-utah-mammoth",
+        "leagueId": "nhl",
+        "name": "Utah Mammoth",
+        "shortName": "Mammoth",
+        "abbreviation": "UM"
+      },
+      "homeScore": {
+        "teamId": "nhl-vegas-golden-knights",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-utah-mammoth",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "81ee484309522975fbb4df2f859fa136"
+      }
+    },
+    {
+      "id": "43a0ad5ba8bff6cdca19964348b53eff",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T03:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-anaheim-ducks",
+        "leagueId": "nhl",
+        "name": "Anaheim Ducks",
+        "shortName": "Ducks",
+        "abbreviation": "AD"
+      },
+      "awayTeam": {
+        "id": "nhl-nashville-predators",
+        "leagueId": "nhl",
+        "name": "Nashville Predators",
+        "shortName": "Predators",
+        "abbreviation": "NP"
+      },
+      "homeScore": {
+        "teamId": "nhl-anaheim-ducks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-nashville-predators",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "43a0ad5ba8bff6cdca19964348b53eff"
+      }
+    },
+    {
+      "id": "e75aa3d5c3b4939e080de0739fc8196a",
+      "leagueId": "nhl",
+      "startTime": "2026-11-12T03:10:00Z",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "nhl-san-jose-sharks",
+        "leagueId": "nhl",
+        "name": "San Jose Sharks",
+        "shortName": "Sharks",
+        "abbreviation": "SJS"
+      },
+      "awayTeam": {
+        "id": "nhl-pittsburgh-penguins",
+        "leagueId": "nhl",
+        "name": "Pittsburgh Penguins",
+        "shortName": "Penguins",
+        "abbreviation": "PP"
+      },
+      "homeScore": {
+        "teamId": "nhl-san-jose-sharks",
+        "total": null
+      },
+      "awayScore": {
+        "teamId": "nhl-pittsburgh-penguins",
+        "total": null
+      },
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e75aa3d5c3b4939e080de0739fc8196a"
+      }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-09T20:48:46.710Z",
-  "staleAt": "2026-11-11T02:48:46.711Z",
+  "fetchedAt": "2026-11-10T17:55:05.386Z",
+  "staleAt": "2026-11-11T23:55:05.386Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

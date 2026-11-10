@@ -1,715 +1,92 @@
 {
   "data": [
     {
-      "id": "07361a8381206817e27bd2697fad7479-fanduel-h2h",
-      "gameId": "07361a8381206817e27bd2697fad7479",
+      "id": "3689d555c9a1c81e3d300375b4c80530-fanduel-h2h",
+      "gameId": "3689d555c9a1c81e3d300375b4c80530",
       "leagueId": "nba",
       "type": "winner",
       "label": "Game winner",
       "selections": [
         {
-          "id": "07361a8381206817e27bd2697fad7479-h2h-0",
-          "label": "Atlanta Hawks",
-          "participantId": "nba-atlanta-hawks",
-          "side": "home",
-          "americanOdds": -134
+          "id": "3689d555c9a1c81e3d300375b4c80530-h2h-0",
+          "label": "Milwaukee Bucks",
+          "participantId": "nba-milwaukee-bucks",
+          "side": "away",
+          "americanOdds": 810
         },
         {
-          "id": "07361a8381206817e27bd2697fad7479-h2h-1",
-          "label": "Los Angeles Lakers",
-          "participantId": "nba-los-angeles-lakers",
-          "side": "away",
-          "americanOdds": 114
+          "id": "3689d555c9a1c81e3d300375b4c80530-h2h-1",
+          "label": "New York Knicks",
+          "participantId": "nba-new-york-knicks",
+          "side": "home",
+          "americanOdds": -1350
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "07361a8381206817e27bd2697fad7479:FanDuel:h2h"
+        "externalId": "3689d555c9a1c81e3d300375b4c80530:FanDuel:h2h"
       }
     },
     {
-      "id": "07361a8381206817e27bd2697fad7479-fanduel-spreads",
-      "gameId": "07361a8381206817e27bd2697fad7479",
+      "id": "3689d555c9a1c81e3d300375b4c80530-fanduel-spreads",
+      "gameId": "3689d555c9a1c81e3d300375b4c80530",
       "leagueId": "nba",
       "type": "spread",
       "label": "Point spread",
       "selections": [
         {
-          "id": "07361a8381206817e27bd2697fad7479-spreads-0",
-          "label": "Atlanta Hawks",
-          "participantId": "nba-atlanta-hawks",
-          "side": "home",
-          "line": -2.5,
-          "americanOdds": -105
-        },
-        {
-          "id": "07361a8381206817e27bd2697fad7479-spreads-1",
-          "label": "Los Angeles Lakers",
-          "participantId": "nba-los-angeles-lakers",
+          "id": "3689d555c9a1c81e3d300375b4c80530-spreads-0",
+          "label": "Milwaukee Bucks",
+          "participantId": "nba-milwaukee-bucks",
           "side": "away",
-          "line": 2.5,
-          "americanOdds": -115
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "07361a8381206817e27bd2697fad7479:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "07361a8381206817e27bd2697fad7479-fanduel-totals",
-      "gameId": "07361a8381206817e27bd2697fad7479",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "07361a8381206817e27bd2697fad7479-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 235.5,
-          "americanOdds": -114
-        },
-        {
-          "id": "07361a8381206817e27bd2697fad7479-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 235.5,
-          "americanOdds": -106
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "07361a8381206817e27bd2697fad7479:FanDuel:totals"
-      }
-    },
-    {
-      "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-fanduel-h2h",
-      "gameId": "1df5ff8fe9c6d2dbff1d0ae176063b37",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-h2h-0",
-          "label": "Charlotte Hornets",
-          "participantId": "nba-charlotte-hornets",
-          "side": "home",
-          "americanOdds": 275
-        },
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-h2h-1",
-          "label": "Cleveland Cavaliers",
-          "participantId": "nba-cleveland-cavaliers",
-          "side": "away",
-          "americanOdds": -340
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1df5ff8fe9c6d2dbff1d0ae176063b37:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-fanduel-spreads",
-      "gameId": "1df5ff8fe9c6d2dbff1d0ae176063b37",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-spreads-0",
-          "label": "Charlotte Hornets",
-          "participantId": "nba-charlotte-hornets",
-          "side": "home",
-          "line": 8.5,
-          "americanOdds": -108
-        },
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-spreads-1",
-          "label": "Cleveland Cavaliers",
-          "participantId": "nba-cleveland-cavaliers",
-          "side": "away",
-          "line": -8.5,
-          "americanOdds": -112
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1df5ff8fe9c6d2dbff1d0ae176063b37:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-fanduel-totals",
-      "gameId": "1df5ff8fe9c6d2dbff1d0ae176063b37",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 214.5,
-          "americanOdds": -114
-        },
-        {
-          "id": "1df5ff8fe9c6d2dbff1d0ae176063b37-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 214.5,
-          "americanOdds": -106
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "1df5ff8fe9c6d2dbff1d0ae176063b37:FanDuel:totals"
-      }
-    },
-    {
-      "id": "929b863acedecaf614c6312e28a44837-fanduel-h2h",
-      "gameId": "929b863acedecaf614c6312e28a44837",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "929b863acedecaf614c6312e28a44837-h2h-0",
-          "label": "Detroit Pistons",
-          "participantId": "nba-detroit-pistons",
-          "side": "home",
-          "americanOdds": -480
-        },
-        {
-          "id": "929b863acedecaf614c6312e28a44837-h2h-1",
-          "label": "Washington Wizards",
-          "participantId": "nba-washington-wizards",
-          "side": "away",
-          "americanOdds": 370
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "929b863acedecaf614c6312e28a44837:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "929b863acedecaf614c6312e28a44837-fanduel-spreads",
-      "gameId": "929b863acedecaf614c6312e28a44837",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "929b863acedecaf614c6312e28a44837-spreads-0",
-          "label": "Detroit Pistons",
-          "participantId": "nba-detroit-pistons",
-          "side": "home",
-          "line": -10.5,
-          "americanOdds": -106
-        },
-        {
-          "id": "929b863acedecaf614c6312e28a44837-spreads-1",
-          "label": "Washington Wizards",
-          "participantId": "nba-washington-wizards",
-          "side": "away",
-          "line": 10.5,
-          "americanOdds": -114
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "929b863acedecaf614c6312e28a44837:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "929b863acedecaf614c6312e28a44837-fanduel-totals",
-      "gameId": "929b863acedecaf614c6312e28a44837",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "929b863acedecaf614c6312e28a44837-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 218.5,
-          "americanOdds": -112
-        },
-        {
-          "id": "929b863acedecaf614c6312e28a44837-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 218.5,
-          "americanOdds": -108
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "929b863acedecaf614c6312e28a44837:FanDuel:totals"
-      }
-    },
-    {
-      "id": "56efae2815b3a18850f07a3781d652a2-fanduel-h2h",
-      "gameId": "56efae2815b3a18850f07a3781d652a2",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "56efae2815b3a18850f07a3781d652a2-h2h-0",
-          "label": "Memphis Grizzlies",
-          "participantId": "nba-memphis-grizzlies",
-          "side": "away",
-          "americanOdds": 120
-        },
-        {
-          "id": "56efae2815b3a18850f07a3781d652a2-h2h-1",
-          "label": "Toronto Raptors",
-          "participantId": "nba-toronto-raptors",
-          "side": "home",
-          "americanOdds": -142
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "56efae2815b3a18850f07a3781d652a2:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "56efae2815b3a18850f07a3781d652a2-fanduel-spreads",
-      "gameId": "56efae2815b3a18850f07a3781d652a2",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "56efae2815b3a18850f07a3781d652a2-spreads-0",
-          "label": "Memphis Grizzlies",
-          "participantId": "nba-memphis-grizzlies",
-          "side": "away",
-          "line": 2.5,
-          "americanOdds": -112
-        },
-        {
-          "id": "56efae2815b3a18850f07a3781d652a2-spreads-1",
-          "label": "Toronto Raptors",
-          "participantId": "nba-toronto-raptors",
-          "side": "home",
-          "line": -2.5,
-          "americanOdds": -108
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "56efae2815b3a18850f07a3781d652a2:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "56efae2815b3a18850f07a3781d652a2-fanduel-totals",
-      "gameId": "56efae2815b3a18850f07a3781d652a2",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "56efae2815b3a18850f07a3781d652a2-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 228.5,
+          "line": 15.5,
           "americanOdds": -110
         },
         {
-          "id": "56efae2815b3a18850f07a3781d652a2-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 228.5,
+          "id": "3689d555c9a1c81e3d300375b4c80530-spreads-1",
+          "label": "New York Knicks",
+          "participantId": "nba-new-york-knicks",
+          "side": "home",
+          "line": -15.5,
           "americanOdds": -110
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "56efae2815b3a18850f07a3781d652a2:FanDuel:totals"
+        "externalId": "3689d555c9a1c81e3d300375b4c80530:FanDuel:spreads"
       }
     },
     {
-      "id": "9866fa22adc8509d487522ef4cf0fc24-fanduel-h2h",
-      "gameId": "9866fa22adc8509d487522ef4cf0fc24",
+      "id": "3689d555c9a1c81e3d300375b4c80530-fanduel-totals",
+      "gameId": "3689d555c9a1c81e3d300375b4c80530",
       "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
+      "type": "total",
+      "label": "Game total",
       "selections": [
         {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-h2h-0",
-          "label": "Dallas Mavericks",
-          "participantId": "nba-dallas-mavericks",
-          "side": "home",
-          "americanOdds": -164
-        },
-        {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-h2h-1",
-          "label": "Indiana Pacers",
-          "participantId": "nba-indiana-pacers",
-          "side": "away",
-          "americanOdds": 138
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9866fa22adc8509d487522ef4cf0fc24:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "9866fa22adc8509d487522ef4cf0fc24-fanduel-spreads",
-      "gameId": "9866fa22adc8509d487522ef4cf0fc24",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-spreads-0",
-          "label": "Dallas Mavericks",
-          "participantId": "nba-dallas-mavericks",
-          "side": "home",
-          "line": -3.5,
+          "id": "3689d555c9a1c81e3d300375b4c80530-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 221.5,
           "americanOdds": -115
         },
         {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-spreads-1",
-          "label": "Indiana Pacers",
-          "participantId": "nba-indiana-pacers",
-          "side": "away",
-          "line": 3.5,
+          "id": "3689d555c9a1c81e3d300375b4c80530-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 221.5,
           "americanOdds": -105
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "9866fa22adc8509d487522ef4cf0fc24:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "9866fa22adc8509d487522ef4cf0fc24-fanduel-totals",
-      "gameId": "9866fa22adc8509d487522ef4cf0fc24",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 225.5,
-          "americanOdds": -112
-        },
-        {
-          "id": "9866fa22adc8509d487522ef4cf0fc24-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 225.5,
-          "americanOdds": -108
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9866fa22adc8509d487522ef4cf0fc24:FanDuel:totals"
-      }
-    },
-    {
-      "id": "dc61de43b5db9de357f48f44c8022494-fanduel-h2h",
-      "gameId": "dc61de43b5db9de357f48f44c8022494",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-h2h-0",
-          "label": "Denver Nuggets",
-          "participantId": "nba-denver-nuggets",
-          "side": "away",
-          "americanOdds": 148
-        },
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-h2h-1",
-          "label": "Houston Rockets",
-          "participantId": "nba-houston-rockets",
-          "side": "home",
-          "americanOdds": -176
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc61de43b5db9de357f48f44c8022494:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "dc61de43b5db9de357f48f44c8022494-fanduel-spreads",
-      "gameId": "dc61de43b5db9de357f48f44c8022494",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-spreads-0",
-          "label": "Denver Nuggets",
-          "participantId": "nba-denver-nuggets",
-          "side": "away",
-          "line": 4.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-spreads-1",
-          "label": "Houston Rockets",
-          "participantId": "nba-houston-rockets",
-          "side": "home",
-          "line": -4.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc61de43b5db9de357f48f44c8022494:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "dc61de43b5db9de357f48f44c8022494-fanduel-totals",
-      "gameId": "dc61de43b5db9de357f48f44c8022494",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 222.5,
-          "americanOdds": -115
-        },
-        {
-          "id": "dc61de43b5db9de357f48f44c8022494-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 222.5,
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc61de43b5db9de357f48f44c8022494:FanDuel:totals"
-      }
-    },
-    {
-      "id": "dc4eb6ae9979b3d3418c35b4210f0c72-draftkings-h2h",
-      "gameId": "dc4eb6ae9979b3d3418c35b4210f0c72",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-h2h-0",
-          "label": "Phoenix Suns",
-          "participantId": "nba-phoenix-suns",
-          "side": "home",
-          "americanOdds": 296
-        },
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-h2h-1",
-          "label": "San Antonio Spurs",
-          "participantId": "nba-san-antonio-spurs",
-          "side": "away",
-          "americanOdds": -372
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-09T20:46:50Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc4eb6ae9979b3d3418c35b4210f0c72:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "dc4eb6ae9979b3d3418c35b4210f0c72-draftkings-spreads",
-      "gameId": "dc4eb6ae9979b3d3418c35b4210f0c72",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-spreads-0",
-          "label": "Phoenix Suns",
-          "participantId": "nba-phoenix-suns",
-          "side": "home",
-          "line": 8.5,
-          "americanOdds": -110
-        },
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-spreads-1",
-          "label": "San Antonio Spurs",
-          "participantId": "nba-san-antonio-spurs",
-          "side": "away",
-          "line": -8.5,
-          "americanOdds": -110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-09T20:46:50Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc4eb6ae9979b3d3418c35b4210f0c72:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "dc4eb6ae9979b3d3418c35b4210f0c72-draftkings-totals",
-      "gameId": "dc4eb6ae9979b3d3418c35b4210f0c72",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 226.5,
-          "americanOdds": -106
-        },
-        {
-          "id": "dc4eb6ae9979b3d3418c35b4210f0c72-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 226.5,
-          "americanOdds": -114
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-09T20:46:50Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "dc4eb6ae9979b3d3418c35b4210f0c72:DraftKings:totals"
-      }
-    },
-    {
-      "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-fanduel-h2h",
-      "gameId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91",
-      "leagueId": "nba",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-h2h-0",
-          "label": "Golden State Warriors",
-          "participantId": "nba-golden-state-warriors",
-          "side": "home",
-          "americanOdds": -460
-        },
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-h2h-1",
-          "label": "New Orleans Pelicans",
-          "participantId": "nba-new-orleans-pelicans",
-          "side": "away",
-          "americanOdds": 360
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-fanduel-spreads",
-      "gameId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91",
-      "leagueId": "nba",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-spreads-0",
-          "label": "Golden State Warriors",
-          "participantId": "nba-golden-state-warriors",
-          "side": "home",
-          "line": -10.5,
-          "americanOdds": -106
-        },
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-spreads-1",
-          "label": "New Orleans Pelicans",
-          "participantId": "nba-new-orleans-pelicans",
-          "side": "away",
-          "line": 10.5,
-          "americanOdds": -114
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-fanduel-totals",
-      "gameId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91",
-      "leagueId": "nba",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 232.5,
-          "americanOdds": -102
-        },
-        {
-          "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 232.5,
-          "americanOdds": -120
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "3619e1cf4b0a325c3e0ba5b1fb7f3d91:FanDuel:totals"
+        "externalId": "3689d555c9a1c81e3d300375b4c80530:FanDuel:totals"
       }
     },
     {
@@ -735,7 +112,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cfa503c66cd505776a910921875ef7dd:FanDuel:h2h"
@@ -766,7 +143,7 @@
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "cfa503c66cd505776a910921875ef7dd:FanDuel:spreads"
@@ -784,21 +161,377 @@
           "label": "Over",
           "side": "over",
           "line": 217.5,
-          "americanOdds": -105
+          "americanOdds": -106
         },
         {
           "id": "cfa503c66cd505776a910921875ef7dd-totals-1",
           "label": "Under",
           "side": "under",
           "line": 217.5,
+          "americanOdds": -114
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "cfa503c66cd505776a910921875ef7dd:FanDuel:totals"
+      }
+    },
+    {
+      "id": "8178ff2ec61f604b61dfe6d7b8d71103-fanduel-h2h",
+      "gameId": "8178ff2ec61f604b61dfe6d7b8d71103",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-h2h-0",
+          "label": "Los Angeles Clippers",
+          "participantId": "nba-los-angeles-clippers",
+          "side": "away",
+          "americanOdds": 142
+        },
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-h2h-1",
+          "label": "Phoenix Suns",
+          "participantId": "nba-phoenix-suns",
+          "side": "home",
+          "americanOdds": -168
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8178ff2ec61f604b61dfe6d7b8d71103:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "8178ff2ec61f604b61dfe6d7b8d71103-fanduel-spreads",
+      "gameId": "8178ff2ec61f604b61dfe6d7b8d71103",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-spreads-0",
+          "label": "Los Angeles Clippers",
+          "participantId": "nba-los-angeles-clippers",
+          "side": "away",
+          "line": 3.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-spreads-1",
+          "label": "Phoenix Suns",
+          "participantId": "nba-phoenix-suns",
+          "side": "home",
+          "line": -3.5,
           "americanOdds": -115
         }
       ],
       "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-09T20:48:34Z",
+      "lastUpdated": "2026-11-10T17:55:03Z",
       "providerRef": {
         "provider": "the-odds-api",
-        "externalId": "cfa503c66cd505776a910921875ef7dd:FanDuel:totals"
+        "externalId": "8178ff2ec61f604b61dfe6d7b8d71103:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "8178ff2ec61f604b61dfe6d7b8d71103-fanduel-totals",
+      "gameId": "8178ff2ec61f604b61dfe6d7b8d71103",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 224.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "8178ff2ec61f604b61dfe6d7b8d71103-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 224.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "8178ff2ec61f604b61dfe6d7b8d71103:FanDuel:totals"
+      }
+    },
+    {
+      "id": "9ac02cb22adf276b325b1e9c9c6c588e-fanduel-h2h",
+      "gameId": "9ac02cb22adf276b325b1e9c9c6c588e",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-h2h-0",
+          "label": "Miami Heat",
+          "participantId": "nba-miami-heat",
+          "side": "away",
+          "americanOdds": -340
+        },
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-h2h-1",
+          "label": "Utah Jazz",
+          "participantId": "nba-utah-jazz",
+          "side": "home",
+          "americanOdds": 275
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9ac02cb22adf276b325b1e9c9c6c588e:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "9ac02cb22adf276b325b1e9c9c6c588e-fanduel-spreads",
+      "gameId": "9ac02cb22adf276b325b1e9c9c6c588e",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-spreads-0",
+          "label": "Miami Heat",
+          "participantId": "nba-miami-heat",
+          "side": "away",
+          "line": -8.5,
+          "americanOdds": -108
+        },
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-spreads-1",
+          "label": "Utah Jazz",
+          "participantId": "nba-utah-jazz",
+          "side": "home",
+          "line": 8.5,
+          "americanOdds": -112
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9ac02cb22adf276b325b1e9c9c6c588e:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "9ac02cb22adf276b325b1e9c9c6c588e-fanduel-totals",
+      "gameId": "9ac02cb22adf276b325b1e9c9c6c588e",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 228.5,
+          "americanOdds": -108
+        },
+        {
+          "id": "9ac02cb22adf276b325b1e9c9c6c588e-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 228.5,
+          "americanOdds": -112
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "9ac02cb22adf276b325b1e9c9c6c588e:FanDuel:totals"
+      }
+    },
+    {
+      "id": "78ab42ddb22b68903fd53a384d0fc616-fanduel-h2h",
+      "gameId": "78ab42ddb22b68903fd53a384d0fc616",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-h2h-0",
+          "label": "Orlando Magic",
+          "participantId": "nba-orlando-magic",
+          "side": "away",
+          "americanOdds": -235
+        },
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-h2h-1",
+          "label": "Sacramento Kings",
+          "participantId": "nba-sacramento-kings",
+          "side": "home",
+          "americanOdds": 194
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "78ab42ddb22b68903fd53a384d0fc616:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "78ab42ddb22b68903fd53a384d0fc616-fanduel-spreads",
+      "gameId": "78ab42ddb22b68903fd53a384d0fc616",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-spreads-0",
+          "label": "Orlando Magic",
+          "participantId": "nba-orlando-magic",
+          "side": "away",
+          "line": -6.5,
+          "americanOdds": -105
+        },
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-spreads-1",
+          "label": "Sacramento Kings",
+          "participantId": "nba-sacramento-kings",
+          "side": "home",
+          "line": 6.5,
+          "americanOdds": -115
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "78ab42ddb22b68903fd53a384d0fc616:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "78ab42ddb22b68903fd53a384d0fc616-fanduel-totals",
+      "gameId": "78ab42ddb22b68903fd53a384d0fc616",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 222.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "78ab42ddb22b68903fd53a384d0fc616-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 222.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "78ab42ddb22b68903fd53a384d0fc616:FanDuel:totals"
+      }
+    },
+    {
+      "id": "f5477c781c94e09e85374bbf9149c0f1-fanduel-h2h",
+      "gameId": "f5477c781c94e09e85374bbf9149c0f1",
+      "leagueId": "nba",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-h2h-0",
+          "label": "Oklahoma City Thunder",
+          "participantId": "nba-oklahoma-city-thunder",
+          "side": "away",
+          "americanOdds": -136
+        },
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-h2h-1",
+          "label": "Portland Trail Blazers",
+          "participantId": "nba-portland-trail-blazers",
+          "side": "home",
+          "americanOdds": 116
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5477c781c94e09e85374bbf9149c0f1:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "f5477c781c94e09e85374bbf9149c0f1-fanduel-spreads",
+      "gameId": "f5477c781c94e09e85374bbf9149c0f1",
+      "leagueId": "nba",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-spreads-0",
+          "label": "Oklahoma City Thunder",
+          "participantId": "nba-oklahoma-city-thunder",
+          "side": "away",
+          "line": -2.5,
+          "americanOdds": -104
+        },
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-spreads-1",
+          "label": "Portland Trail Blazers",
+          "participantId": "nba-portland-trail-blazers",
+          "side": "home",
+          "line": 2.5,
+          "americanOdds": -118
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5477c781c94e09e85374bbf9149c0f1:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "f5477c781c94e09e85374bbf9149c0f1-fanduel-totals",
+      "gameId": "f5477c781c94e09e85374bbf9149c0f1",
+      "leagueId": "nba",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 224.5,
+          "americanOdds": -110
+        },
+        {
+          "id": "f5477c781c94e09e85374bbf9149c0f1-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 224.5,
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-10T17:55:03Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5477c781c94e09e85374bbf9149c0f1:FanDuel:totals"
       }
     },
     {
@@ -824,7 +557,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:BetRivers:h2h"
@@ -855,7 +588,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:BetRivers:spreads"
@@ -884,7 +617,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "a6555e8b7252dfb32f1817fc8c59ad83:BetRivers:totals"
@@ -913,7 +646,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:BetRivers:h2h"
@@ -944,7 +677,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:BetRivers:spreads"
@@ -973,7 +706,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d60e7fc0690e4dff121a086395e24de4:BetRivers:totals"
@@ -1002,7 +735,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:BetRivers:h2h"
@@ -1033,7 +766,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:BetRivers:spreads"
@@ -1062,7 +795,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "dfd908bad3a3bfcae9e08bf128273b18:BetRivers:totals"
@@ -1091,7 +824,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:BetRivers:h2h"
@@ -1122,7 +855,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:BetRivers:spreads"
@@ -1151,7 +884,7 @@
         }
       ],
       "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-09T20:48:04Z",
+      "lastUpdated": "2026-11-10T17:54:46Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "85a2379bc49135f2759709e55af0c4c6:BetRivers:totals"
@@ -1160,8 +893,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-09T20:48:46.710Z",
-  "staleAt": "2026-11-11T02:48:46.711Z",
+  "fetchedAt": "2026-11-10T17:55:05.386Z",
+  "staleAt": "2026-11-11T23:55:05.386Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

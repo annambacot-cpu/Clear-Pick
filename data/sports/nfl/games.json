@@ -432,8 +432,9 @@
     {
       "id": "17ad7eff2f7875e20a8109abe40470e3",
       "leagueId": "nfl",
-      "startTime": "2026-11-10T01:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-10T01:16:32Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-minnesota-vikings",
         "leagueId": "nfl",
@@ -450,11 +451,11 @@
       },
       "homeScore": {
         "teamId": "nfl-minnesota-vikings",
-        "total": null
+        "total": 6
       },
       "awayScore": {
         "teamId": "nfl-buffalo-bills",
-        "total": null
+        "total": 23
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -912,8 +913,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-09T20:48:46.710Z",
-  "staleAt": "2026-11-11T02:48:46.711Z",
+  "fetchedAt": "2026-11-10T17:55:05.386Z",
+  "staleAt": "2026-11-11T23:55:05.386Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
