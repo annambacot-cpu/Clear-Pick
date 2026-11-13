@@ -1,43 +1,11 @@
 {
   "data": [
     {
-      "id": "17ad7eff2f7875e20a8109abe40470e3",
-      "leagueId": "nfl",
-      "startTime": "2026-11-10T01:16:32Z",
-      "status": "final",
-      "statusDetail": "Final",
-      "homeTeam": {
-        "id": "nfl-minnesota-vikings",
-        "leagueId": "nfl",
-        "name": "Minnesota Vikings",
-        "shortName": "Vikings",
-        "abbreviation": "MV"
-      },
-      "awayTeam": {
-        "id": "nfl-buffalo-bills",
-        "leagueId": "nfl",
-        "name": "Buffalo Bills",
-        "shortName": "Bills",
-        "abbreviation": "BB"
-      },
-      "homeScore": {
-        "teamId": "nfl-minnesota-vikings",
-        "total": 6
-      },
-      "awayScore": {
-        "teamId": "nfl-buffalo-bills",
-        "total": 23
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "17ad7eff2f7875e20a8109abe40470e3"
-      }
-    },
-    {
       "id": "74d39e19225caf211ad2c8eb4110179f",
       "leagueId": "nfl",
-      "startTime": "2026-11-13T01:15:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-13T01:15:39Z",
+      "status": "final",
+      "statusDetail": "Final",
       "homeTeam": {
         "id": "nfl-new-york-giants",
         "leagueId": "nfl",
@@ -54,11 +22,11 @@
       },
       "homeScore": {
         "teamId": "nfl-new-york-giants",
-        "total": null
+        "total": 21
       },
       "awayScore": {
         "teamId": "nfl-washington-commanders",
-        "total": null
+        "total": 24
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -900,8 +868,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-12T18:22:13.582Z",
-  "staleAt": "2026-11-14T00:22:13.582Z",
+  "fetchedAt": "2026-11-13T17:48:41.492Z",
+  "staleAt": "2026-11-14T23:48:41.492Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
