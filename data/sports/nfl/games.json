@@ -36,8 +36,8 @@
     {
       "id": "b8c10fdf1e0ac4e13deee7f7c0af0b0b",
       "leagueId": "nfl",
-      "startTime": "2026-11-15T14:30:00Z",
-      "status": "scheduled",
+      "startTime": "2026-11-15T14:33:33Z",
+      "status": "live",
       "homeTeam": {
         "id": "nfl-detroit-lions",
         "leagueId": "nfl",
@@ -54,11 +54,11 @@
       },
       "homeScore": {
         "teamId": "nfl-detroit-lions",
-        "total": null
+        "total": 28
       },
       "awayScore": {
         "teamId": "nfl-new-england-patriots",
-        "total": null
+        "total": 10
       },
       "providerRef": {
         "provider": "the-odds-api",
@@ -642,38 +642,6 @@
       }
     },
     {
-      "id": "41e2dd69bddd65d7e823d9ed61cc2afc",
-      "leagueId": "nfl",
-      "startTime": "2026-11-22T18:00:00Z",
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "nfl-detroit-lions",
-        "leagueId": "nfl",
-        "name": "Detroit Lions",
-        "shortName": "Lions",
-        "abbreviation": "DL"
-      },
-      "awayTeam": {
-        "id": "nfl-tampa-bay-buccaneers",
-        "leagueId": "nfl",
-        "name": "Tampa Bay Buccaneers",
-        "shortName": "Buccaneers",
-        "abbreviation": "TBB"
-      },
-      "homeScore": {
-        "teamId": "nfl-detroit-lions",
-        "total": null
-      },
-      "awayScore": {
-        "teamId": "nfl-tampa-bay-buccaneers",
-        "total": null
-      },
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "41e2dd69bddd65d7e823d9ed61cc2afc"
-      }
-    },
-    {
       "id": "cbe45bafcc2615fc1d96cbc12840377a",
       "leagueId": "nfl",
       "startTime": "2026-11-22T18:00:00Z",
@@ -868,8 +836,8 @@
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-13T17:48:41.492Z",
-  "staleAt": "2026-11-14T23:48:41.492Z",
+  "fetchedAt": "2026-11-15T17:14:30.041Z",
+  "staleAt": "2026-11-16T23:14:30.041Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",

@@ -1,1252 +1,6 @@
 {
   "data": [
     {
-      "id": "ccdee466b63a2accb1d804d5ca9e4bdc-betrivers-h2h",
-      "gameId": "ccdee466b63a2accb1d804d5ca9e4bdc",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-h2h-0",
-          "label": "Carolina Hurricanes",
-          "participantId": "nhl-carolina-hurricanes",
-          "side": "home",
-          "americanOdds": -420
-        },
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-h2h-1",
-          "label": "Seattle Kraken",
-          "participantId": "nhl-seattle-kraken",
-          "side": "away",
-          "americanOdds": 330
-        }
-      ],
-      "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-14T16:37:28Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ccdee466b63a2accb1d804d5ca9e4bdc:BetRivers:h2h"
-      }
-    },
-    {
-      "id": "ccdee466b63a2accb1d804d5ca9e4bdc-betrivers-spreads",
-      "gameId": "ccdee466b63a2accb1d804d5ca9e4bdc",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-spreads-0",
-          "label": "Carolina Hurricanes",
-          "participantId": "nhl-carolina-hurricanes",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": -157
-        },
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-spreads-1",
-          "label": "Seattle Kraken",
-          "participantId": "nhl-seattle-kraken",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": 125
-        }
-      ],
-      "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-14T16:37:28Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ccdee466b63a2accb1d804d5ca9e4bdc:BetRivers:spreads"
-      }
-    },
-    {
-      "id": "ccdee466b63a2accb1d804d5ca9e4bdc-betrivers-totals",
-      "gameId": "ccdee466b63a2accb1d804d5ca9e4bdc",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 102
-        },
-        {
-          "id": "ccdee466b63a2accb1d804d5ca9e4bdc-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -125
-        }
-      ],
-      "bookmaker": "BetRivers",
-      "lastUpdated": "2026-11-14T16:37:28Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ccdee466b63a2accb1d804d5ca9e4bdc:BetRivers:totals"
-      }
-    },
-    {
-      "id": "c3f43b11aaf8ba26496727f557330d72-draftkings-h2h",
-      "gameId": "c3f43b11aaf8ba26496727f557330d72",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-h2h-0",
-          "label": "Chicago Blackhawks",
-          "participantId": "nhl-chicago-blackhawks",
-          "side": "home",
-          "americanOdds": 136
-        },
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-h2h-1",
-          "label": "Winnipeg Jets",
-          "participantId": "nhl-winnipeg-jets",
-          "side": "away",
-          "americanOdds": -162
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "c3f43b11aaf8ba26496727f557330d72:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "c3f43b11aaf8ba26496727f557330d72-draftkings-spreads",
-      "gameId": "c3f43b11aaf8ba26496727f557330d72",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-spreads-0",
-          "label": "Chicago Blackhawks",
-          "participantId": "nhl-chicago-blackhawks",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -185
-        },
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-spreads-1",
-          "label": "Winnipeg Jets",
-          "participantId": "nhl-winnipeg-jets",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 154
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "c3f43b11aaf8ba26496727f557330d72:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "c3f43b11aaf8ba26496727f557330d72-draftkings-totals",
-      "gameId": "c3f43b11aaf8ba26496727f557330d72",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 110
-        },
-        {
-          "id": "c3f43b11aaf8ba26496727f557330d72-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -130
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "c3f43b11aaf8ba26496727f557330d72:DraftKings:totals"
-      }
-    },
-    {
-      "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-draftkings-h2h",
-      "gameId": "20f100d5b4c8ce5d8c868f34ea7bddbf",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-h2h-0",
-          "label": "Boston Bruins",
-          "participantId": "nhl-boston-bruins",
-          "side": "home",
-          "americanOdds": -102
-        },
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-h2h-1",
-          "label": "Minnesota Wild",
-          "participantId": "nhl-minnesota-wild",
-          "side": "away",
-          "americanOdds": -118
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "20f100d5b4c8ce5d8c868f34ea7bddbf:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-draftkings-spreads",
-      "gameId": "20f100d5b4c8ce5d8c868f34ea7bddbf",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-spreads-0",
-          "label": "Boston Bruins",
-          "participantId": "nhl-boston-bruins",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -258
-        },
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-spreads-1",
-          "label": "Minnesota Wild",
-          "participantId": "nhl-minnesota-wild",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 210
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "20f100d5b4c8ce5d8c868f34ea7bddbf:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-draftkings-totals",
-      "gameId": "20f100d5b4c8ce5d8c868f34ea7bddbf",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 114
-        },
-        {
-          "id": "20f100d5b4c8ce5d8c868f34ea7bddbf-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -135
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "20f100d5b4c8ce5d8c868f34ea7bddbf:DraftKings:totals"
-      }
-    },
-    {
-      "id": "f3b622fed365136e09be1f7b53052543-draftkings-h2h",
-      "gameId": "f3b622fed365136e09be1f7b53052543",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-h2h-0",
-          "label": "Columbus Blue Jackets",
-          "participantId": "nhl-columbus-blue-jackets",
-          "side": "home",
-          "americanOdds": -135
-        },
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-h2h-1",
-          "label": "Philadelphia Flyers",
-          "participantId": "nhl-philadelphia-flyers",
-          "side": "away",
-          "americanOdds": 114
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f3b622fed365136e09be1f7b53052543:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "f3b622fed365136e09be1f7b53052543-draftkings-spreads",
-      "gameId": "f3b622fed365136e09be1f7b53052543",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-spreads-0",
-          "label": "Columbus Blue Jackets",
-          "participantId": "nhl-columbus-blue-jackets",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 190
-        },
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-spreads-1",
-          "label": "Philadelphia Flyers",
-          "participantId": "nhl-philadelphia-flyers",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -230
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f3b622fed365136e09be1f7b53052543:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "f3b622fed365136e09be1f7b53052543-draftkings-totals",
-      "gameId": "f3b622fed365136e09be1f7b53052543",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 5.5,
-          "americanOdds": -118
-        },
-        {
-          "id": "f3b622fed365136e09be1f7b53052543-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 5.5,
-          "americanOdds": -102
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "f3b622fed365136e09be1f7b53052543:DraftKings:totals"
-      }
-    },
-    {
-      "id": "9df5283f800c7d4c2d0bd38b7c5f4846-draftkings-h2h",
-      "gameId": "9df5283f800c7d4c2d0bd38b7c5f4846",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-h2h-0",
-          "label": "Detroit Red Wings",
-          "participantId": "nhl-detroit-red-wings",
-          "side": "away",
-          "americanOdds": 185
-        },
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-h2h-1",
-          "label": "Tampa Bay Lightning",
-          "participantId": "nhl-tampa-bay-lightning",
-          "side": "home",
-          "americanOdds": -225
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9df5283f800c7d4c2d0bd38b7c5f4846:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "9df5283f800c7d4c2d0bd38b7c5f4846-draftkings-spreads",
-      "gameId": "9df5283f800c7d4c2d0bd38b7c5f4846",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-spreads-0",
-          "label": "Detroit Red Wings",
-          "participantId": "nhl-detroit-red-wings",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -142
-        },
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-spreads-1",
-          "label": "Tampa Bay Lightning",
-          "participantId": "nhl-tampa-bay-lightning",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 120
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9df5283f800c7d4c2d0bd38b7c5f4846:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "9df5283f800c7d4c2d0bd38b7c5f4846-draftkings-totals",
-      "gameId": "9df5283f800c7d4c2d0bd38b7c5f4846",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 114
-        },
-        {
-          "id": "9df5283f800c7d4c2d0bd38b7c5f4846-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -135
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "9df5283f800c7d4c2d0bd38b7c5f4846:DraftKings:totals"
-      }
-    },
-    {
-      "id": "7f07a205e325038963274f255cb856cc-draftkings-h2h",
-      "gameId": "7f07a205e325038963274f255cb856cc",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "7f07a205e325038963274f255cb856cc-h2h-0",
-          "label": "Edmonton Oilers",
-          "participantId": "nhl-edmonton-oilers",
-          "side": "away",
-          "americanOdds": -148
-        },
-        {
-          "id": "7f07a205e325038963274f255cb856cc-h2h-1",
-          "label": "Toronto Maple Leafs",
-          "participantId": "nhl-toronto-maple-leafs",
-          "side": "home",
-          "americanOdds": 124
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f07a205e325038963274f255cb856cc:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "7f07a205e325038963274f255cb856cc-draftkings-spreads",
-      "gameId": "7f07a205e325038963274f255cb856cc",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "7f07a205e325038963274f255cb856cc-spreads-0",
-          "label": "Edmonton Oilers",
-          "participantId": "nhl-edmonton-oilers",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 154
-        },
-        {
-          "id": "7f07a205e325038963274f255cb856cc-spreads-1",
-          "label": "Toronto Maple Leafs",
-          "participantId": "nhl-toronto-maple-leafs",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -185
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f07a205e325038963274f255cb856cc:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "7f07a205e325038963274f255cb856cc-draftkings-totals",
-      "gameId": "7f07a205e325038963274f255cb856cc",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "7f07a205e325038963274f255cb856cc-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": -135
-        },
-        {
-          "id": "7f07a205e325038963274f255cb856cc-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": 114
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f07a205e325038963274f255cb856cc:DraftKings:totals"
-      }
-    },
-    {
-      "id": "77dfcbc978ae3818dc04d2434342bc48-draftkings-h2h",
-      "gameId": "77dfcbc978ae3818dc04d2434342bc48",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-h2h-0",
-          "label": "Florida Panthers",
-          "participantId": "nhl-florida-panthers",
-          "side": "away",
-          "americanOdds": -115
-        },
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-h2h-1",
-          "label": "St Louis Blues",
-          "participantId": "nhl-st-louis-blues",
-          "side": "home",
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "77dfcbc978ae3818dc04d2434342bc48:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "77dfcbc978ae3818dc04d2434342bc48-draftkings-spreads",
-      "gameId": "77dfcbc978ae3818dc04d2434342bc48",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-spreads-0",
-          "label": "Florida Panthers",
-          "participantId": "nhl-florida-panthers",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 220
-        },
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-spreads-1",
-          "label": "St Louis Blues",
-          "participantId": "nhl-st-louis-blues",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -270
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "77dfcbc978ae3818dc04d2434342bc48:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "77dfcbc978ae3818dc04d2434342bc48-draftkings-totals",
-      "gameId": "77dfcbc978ae3818dc04d2434342bc48",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 5.5,
-          "americanOdds": -130
-        },
-        {
-          "id": "77dfcbc978ae3818dc04d2434342bc48-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 5.5,
-          "americanOdds": 110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "77dfcbc978ae3818dc04d2434342bc48:DraftKings:totals"
-      }
-    },
-    {
-      "id": "fa960f164539f05a9e76c85f358b93a6-draftkings-h2h",
-      "gameId": "fa960f164539f05a9e76c85f358b93a6",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-h2h-0",
-          "label": "New Jersey Devils",
-          "participantId": "nhl-new-jersey-devils",
-          "side": "away",
-          "americanOdds": -130
-        },
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-h2h-1",
-          "label": "Washington Capitals",
-          "participantId": "nhl-washington-capitals",
-          "side": "home",
-          "americanOdds": 110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fa960f164539f05a9e76c85f358b93a6:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "fa960f164539f05a9e76c85f358b93a6-draftkings-spreads",
-      "gameId": "fa960f164539f05a9e76c85f358b93a6",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-spreads-0",
-          "label": "New Jersey Devils",
-          "participantId": "nhl-new-jersey-devils",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 190
-        },
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-spreads-1",
-          "label": "Washington Capitals",
-          "participantId": "nhl-washington-capitals",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -230
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fa960f164539f05a9e76c85f358b93a6:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "fa960f164539f05a9e76c85f358b93a6-draftkings-totals",
-      "gameId": "fa960f164539f05a9e76c85f358b93a6",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": -102
-        },
-        {
-          "id": "fa960f164539f05a9e76c85f358b93a6-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -118
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "fa960f164539f05a9e76c85f358b93a6:DraftKings:totals"
-      }
-    },
-    {
-      "id": "13ccf67b4b7c472d4e05fdda2b440b42-draftkings-h2h",
-      "gameId": "13ccf67b4b7c472d4e05fdda2b440b42",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-h2h-0",
-          "label": "Ottawa Senators",
-          "participantId": "nhl-ottawa-senators",
-          "side": "away",
-          "americanOdds": -135
-        },
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-h2h-1",
-          "label": "Pittsburgh Penguins",
-          "participantId": "nhl-pittsburgh-penguins",
-          "side": "home",
-          "americanOdds": 114
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "13ccf67b4b7c472d4e05fdda2b440b42:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "13ccf67b4b7c472d4e05fdda2b440b42-draftkings-spreads",
-      "gameId": "13ccf67b4b7c472d4e05fdda2b440b42",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-spreads-0",
-          "label": "Ottawa Senators",
-          "participantId": "nhl-ottawa-senators",
-          "side": "away",
-          "line": -1.5,
-          "americanOdds": 185
-        },
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-spreads-1",
-          "label": "Pittsburgh Penguins",
-          "participantId": "nhl-pittsburgh-penguins",
-          "side": "home",
-          "line": 1.5,
-          "americanOdds": -225
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "13ccf67b4b7c472d4e05fdda2b440b42:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "13ccf67b4b7c472d4e05fdda2b440b42-draftkings-totals",
-      "gameId": "13ccf67b4b7c472d4e05fdda2b440b42",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": -102
-        },
-        {
-          "id": "13ccf67b4b7c472d4e05fdda2b440b42-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -118
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "13ccf67b4b7c472d4e05fdda2b440b42:DraftKings:totals"
-      }
-    },
-    {
-      "id": "624643d0e1445dfdb95d86127440548a-fanduel-h2h",
-      "gameId": "624643d0e1445dfdb95d86127440548a",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-h2h-0",
-          "label": "Colorado Avalanche",
-          "participantId": "nhl-colorado-avalanche",
-          "side": "away",
-          "americanOdds": 100
-        },
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-h2h-1",
-          "label": "Montréal Canadiens",
-          "participantId": "nhl-montr-al-canadiens",
-          "side": "home",
-          "americanOdds": -120
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-14T16:37:46Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "624643d0e1445dfdb95d86127440548a:FanDuel:h2h"
-      }
-    },
-    {
-      "id": "624643d0e1445dfdb95d86127440548a-fanduel-spreads",
-      "gameId": "624643d0e1445dfdb95d86127440548a",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-spreads-0",
-          "label": "Colorado Avalanche",
-          "participantId": "nhl-colorado-avalanche",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -245
-        },
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-spreads-1",
-          "label": "Montréal Canadiens",
-          "participantId": "nhl-montr-al-canadiens",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 194
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-14T16:37:46Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "624643d0e1445dfdb95d86127440548a:FanDuel:spreads"
-      }
-    },
-    {
-      "id": "624643d0e1445dfdb95d86127440548a-fanduel-totals",
-      "gameId": "624643d0e1445dfdb95d86127440548a",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 102
-        },
-        {
-          "id": "624643d0e1445dfdb95d86127440548a-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -124
-        }
-      ],
-      "bookmaker": "FanDuel",
-      "lastUpdated": "2026-11-14T16:37:46Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "624643d0e1445dfdb95d86127440548a:FanDuel:totals"
-      }
-    },
-    {
-      "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-draftkings-h2h",
-      "gameId": "7f213f5d9c0852282bcf4d2c8c2bae9b",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-h2h-0",
-          "label": "Buffalo Sabres",
-          "participantId": "nhl-buffalo-sabres",
-          "side": "away",
-          "americanOdds": 114
-        },
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-h2h-1",
-          "label": "Dallas Stars",
-          "participantId": "nhl-dallas-stars",
-          "side": "home",
-          "americanOdds": -135
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f213f5d9c0852282bcf4d2c8c2bae9b:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-draftkings-spreads",
-      "gameId": "7f213f5d9c0852282bcf4d2c8c2bae9b",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-spreads-0",
-          "label": "Buffalo Sabres",
-          "participantId": "nhl-buffalo-sabres",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -218
-        },
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-spreads-1",
-          "label": "Dallas Stars",
-          "participantId": "nhl-dallas-stars",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 180
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f213f5d9c0852282bcf4d2c8c2bae9b:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-draftkings-totals",
-      "gameId": "7f213f5d9c0852282bcf4d2c8c2bae9b",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 105
-        },
-        {
-          "id": "7f213f5d9c0852282bcf4d2c8c2bae9b-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -125
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "7f213f5d9c0852282bcf4d2c8c2bae9b:DraftKings:totals"
-      }
-    },
-    {
-      "id": "e7f30a1c549ae1d91aac850b81bad637-draftkings-h2h",
-      "gameId": "e7f30a1c549ae1d91aac850b81bad637",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-h2h-0",
-          "label": "San Jose Sharks",
-          "participantId": "nhl-san-jose-sharks",
-          "side": "away",
-          "americanOdds": 170
-        },
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-h2h-1",
-          "label": "Utah Mammoth",
-          "participantId": "nhl-utah-mammoth",
-          "side": "home",
-          "americanOdds": -205
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e7f30a1c549ae1d91aac850b81bad637:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "e7f30a1c549ae1d91aac850b81bad637-draftkings-spreads",
-      "gameId": "e7f30a1c549ae1d91aac850b81bad637",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-spreads-0",
-          "label": "San Jose Sharks",
-          "participantId": "nhl-san-jose-sharks",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -148
-        },
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-spreads-1",
-          "label": "Utah Mammoth",
-          "participantId": "nhl-utah-mammoth",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 124
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e7f30a1c549ae1d91aac850b81bad637:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "e7f30a1c549ae1d91aac850b81bad637-draftkings-totals",
-      "gameId": "e7f30a1c549ae1d91aac850b81bad637",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": 110
-        },
-        {
-          "id": "e7f30a1c549ae1d91aac850b81bad637-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": -130
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "e7f30a1c549ae1d91aac850b81bad637:DraftKings:totals"
-      }
-    },
-    {
-      "id": "ce4dd515ea49344d4707778f27669fec-draftkings-h2h",
-      "gameId": "ce4dd515ea49344d4707778f27669fec",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-h2h-0",
-          "label": "Anaheim Ducks",
-          "participantId": "nhl-anaheim-ducks",
-          "side": "home",
-          "americanOdds": -115
-        },
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-h2h-1",
-          "label": "New York Islanders",
-          "participantId": "nhl-new-york-islanders",
-          "side": "away",
-          "americanOdds": -105
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ce4dd515ea49344d4707778f27669fec:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "ce4dd515ea49344d4707778f27669fec-draftkings-spreads",
-      "gameId": "ce4dd515ea49344d4707778f27669fec",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-spreads-0",
-          "label": "Anaheim Ducks",
-          "participantId": "nhl-anaheim-ducks",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 210
-        },
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-spreads-1",
-          "label": "New York Islanders",
-          "participantId": "nhl-new-york-islanders",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -258
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ce4dd515ea49344d4707778f27669fec:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "ce4dd515ea49344d4707778f27669fec-draftkings-totals",
-      "gameId": "ce4dd515ea49344d4707778f27669fec",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 6.5,
-          "americanOdds": -130
-        },
-        {
-          "id": "ce4dd515ea49344d4707778f27669fec-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 6.5,
-          "americanOdds": 110
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "ce4dd515ea49344d4707778f27669fec:DraftKings:totals"
-      }
-    },
-    {
-      "id": "4d5a1a721175165a7fc09cc39fd19214-draftkings-h2h",
-      "gameId": "4d5a1a721175165a7fc09cc39fd19214",
-      "leagueId": "nhl",
-      "type": "winner",
-      "label": "Game winner",
-      "selections": [
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-h2h-0",
-          "label": "Calgary Flames",
-          "participantId": "nhl-calgary-flames",
-          "side": "away",
-          "americanOdds": 145
-        },
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-h2h-1",
-          "label": "Los Angeles Kings",
-          "participantId": "nhl-los-angeles-kings",
-          "side": "home",
-          "americanOdds": -175
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4d5a1a721175165a7fc09cc39fd19214:DraftKings:h2h"
-      }
-    },
-    {
-      "id": "4d5a1a721175165a7fc09cc39fd19214-draftkings-spreads",
-      "gameId": "4d5a1a721175165a7fc09cc39fd19214",
-      "leagueId": "nhl",
-      "type": "spread",
-      "label": "Point spread",
-      "selections": [
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-spreads-0",
-          "label": "Calgary Flames",
-          "participantId": "nhl-calgary-flames",
-          "side": "away",
-          "line": 1.5,
-          "americanOdds": -180
-        },
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-spreads-1",
-          "label": "Los Angeles Kings",
-          "participantId": "nhl-los-angeles-kings",
-          "side": "home",
-          "line": -1.5,
-          "americanOdds": 150
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4d5a1a721175165a7fc09cc39fd19214:DraftKings:spreads"
-      }
-    },
-    {
-      "id": "4d5a1a721175165a7fc09cc39fd19214-draftkings-totals",
-      "gameId": "4d5a1a721175165a7fc09cc39fd19214",
-      "leagueId": "nhl",
-      "type": "total",
-      "label": "Game total",
-      "selections": [
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-totals-0",
-          "label": "Over",
-          "side": "over",
-          "line": 5.5,
-          "americanOdds": -120
-        },
-        {
-          "id": "4d5a1a721175165a7fc09cc39fd19214-totals-1",
-          "label": "Under",
-          "side": "under",
-          "line": 5.5,
-          "americanOdds": 100
-        }
-      ],
-      "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
-      "providerRef": {
-        "provider": "the-odds-api",
-        "externalId": "4d5a1a721175165a7fc09cc39fd19214:DraftKings:totals"
-      }
-    },
-    {
       "id": "d2834086e817eeb75c1ea2cd312f62c5-draftkings-h2h",
       "gameId": "d2834086e817eeb75c1ea2cd312f62c5",
       "leagueId": "nhl",
@@ -1258,18 +12,18 @@
           "label": "Edmonton Oilers",
           "participantId": "nhl-edmonton-oilers",
           "side": "away",
-          "americanOdds": -155
+          "americanOdds": -148
         },
         {
           "id": "d2834086e817eeb75c1ea2cd312f62c5-h2h-1",
           "label": "Philadelphia Flyers",
           "participantId": "nhl-philadelphia-flyers",
           "side": "home",
-          "americanOdds": 130
+          "americanOdds": 124
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d2834086e817eeb75c1ea2cd312f62c5:DraftKings:h2h"
@@ -1288,7 +42,7 @@
           "participantId": "nhl-edmonton-oilers",
           "side": "away",
           "line": -1.5,
-          "americanOdds": 160
+          "americanOdds": 164
         },
         {
           "id": "d2834086e817eeb75c1ea2cd312f62c5-spreads-1",
@@ -1296,11 +50,11 @@
           "participantId": "nhl-philadelphia-flyers",
           "side": "home",
           "line": 1.5,
-          "americanOdds": -192
+          "americanOdds": -198
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d2834086e817eeb75c1ea2cd312f62c5:DraftKings:spreads"
@@ -1318,18 +72,18 @@
           "label": "Over",
           "side": "over",
           "line": 6.5,
-          "americanOdds": -108
+          "americanOdds": 114
         },
         {
           "id": "d2834086e817eeb75c1ea2cd312f62c5-totals-1",
           "label": "Under",
           "side": "under",
           "line": 6.5,
-          "americanOdds": -112
+          "americanOdds": -135
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "d2834086e817eeb75c1ea2cd312f62c5:DraftKings:totals"
@@ -1358,7 +112,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "539a387d9fd0da9af213bf8002fdb0d4:DraftKings:h2h"
@@ -1377,7 +131,7 @@
           "participantId": "nhl-anaheim-ducks",
           "side": "home",
           "line": -1.5,
-          "americanOdds": 145
+          "americanOdds": 160
         },
         {
           "id": "539a387d9fd0da9af213bf8002fdb0d4-spreads-1",
@@ -1385,11 +139,11 @@
           "participantId": "nhl-calgary-flames",
           "side": "away",
           "line": 1.5,
-          "americanOdds": -175
+          "americanOdds": -192
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "539a387d9fd0da9af213bf8002fdb0d4:DraftKings:spreads"
@@ -1407,18 +161,18 @@
           "label": "Over",
           "side": "over",
           "line": 6.5,
-          "americanOdds": -135
+          "americanOdds": -125
         },
         {
           "id": "539a387d9fd0da9af213bf8002fdb0d4-totals-1",
           "label": "Under",
           "side": "under",
           "line": 6.5,
-          "americanOdds": 114
+          "americanOdds": 105
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "539a387d9fd0da9af213bf8002fdb0d4:DraftKings:totals"
@@ -1436,18 +190,18 @@
           "label": "Dallas Stars",
           "participantId": "nhl-dallas-stars",
           "side": "home",
-          "americanOdds": -142
+          "americanOdds": -130
         },
         {
           "id": "edbb603c4a7ed77b892f7bba6dcef824-h2h-1",
           "label": "Florida Panthers",
           "participantId": "nhl-florida-panthers",
           "side": "away",
-          "americanOdds": 120
+          "americanOdds": 110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "edbb603c4a7ed77b892f7bba6dcef824:DraftKings:h2h"
@@ -1466,7 +220,7 @@
           "participantId": "nhl-dallas-stars",
           "side": "home",
           "line": -1.5,
-          "americanOdds": 170
+          "americanOdds": 180
         },
         {
           "id": "edbb603c4a7ed77b892f7bba6dcef824-spreads-1",
@@ -1474,11 +228,11 @@
           "participantId": "nhl-florida-panthers",
           "side": "away",
           "line": 1.5,
-          "americanOdds": -205
+          "americanOdds": -218
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "edbb603c4a7ed77b892f7bba6dcef824:DraftKings:spreads"
@@ -1496,21 +250,110 @@
           "label": "Over",
           "side": "over",
           "line": 5.5,
-          "americanOdds": -142
+          "americanOdds": -130
         },
         {
           "id": "edbb603c4a7ed77b892f7bba6dcef824-totals-1",
           "label": "Under",
           "side": "under",
           "line": 5.5,
-          "americanOdds": 120
+          "americanOdds": 110
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "edbb603c4a7ed77b892f7bba6dcef824:DraftKings:totals"
+      }
+    },
+    {
+      "id": "e52a5926735bcff42d3d0ce052a21938-draftkings-h2h",
+      "gameId": "e52a5926735bcff42d3d0ce052a21938",
+      "leagueId": "nhl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-h2h-0",
+          "label": "Nashville Predators",
+          "participantId": "nhl-nashville-predators",
+          "side": "away",
+          "americanOdds": -170
+        },
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-h2h-1",
+          "label": "San Jose Sharks",
+          "participantId": "nhl-san-jose-sharks",
+          "side": "home",
+          "americanOdds": 142
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-15T17:13:48Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e52a5926735bcff42d3d0ce052a21938:DraftKings:h2h"
+      }
+    },
+    {
+      "id": "e52a5926735bcff42d3d0ce052a21938-draftkings-spreads",
+      "gameId": "e52a5926735bcff42d3d0ce052a21938",
+      "leagueId": "nhl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-spreads-0",
+          "label": "Nashville Predators",
+          "participantId": "nhl-nashville-predators",
+          "side": "away",
+          "line": -1.5,
+          "americanOdds": 142
+        },
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-spreads-1",
+          "label": "San Jose Sharks",
+          "participantId": "nhl-san-jose-sharks",
+          "side": "home",
+          "line": 1.5,
+          "americanOdds": -170
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-15T17:13:48Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e52a5926735bcff42d3d0ce052a21938:DraftKings:spreads"
+      }
+    },
+    {
+      "id": "e52a5926735bcff42d3d0ce052a21938-draftkings-totals",
+      "gameId": "e52a5926735bcff42d3d0ce052a21938",
+      "leagueId": "nhl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 6.5,
+          "americanOdds": -102
+        },
+        {
+          "id": "e52a5926735bcff42d3d0ce052a21938-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 6.5,
+          "americanOdds": -118
+        }
+      ],
+      "bookmaker": "DraftKings",
+      "lastUpdated": "2026-11-15T17:13:48Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "e52a5926735bcff42d3d0ce052a21938:DraftKings:totals"
       }
     },
     {
@@ -1536,7 +379,7 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4ac537963707b247ad9e4eab06c15de:DraftKings:h2h"
@@ -1555,7 +398,7 @@
           "participantId": "nhl-vancouver-canucks",
           "side": "away",
           "line": 1.5,
-          "americanOdds": 136
+          "americanOdds": 124
         },
         {
           "id": "c4ac537963707b247ad9e4eab06c15de-spreads-1",
@@ -1563,11 +406,11 @@
           "participantId": "nhl-vegas-golden-knights",
           "side": "home",
           "line": -1.5,
-          "americanOdds": -162
+          "americanOdds": -148
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4ac537963707b247ad9e4eab06c15de:DraftKings:spreads"
@@ -1596,17 +439,195 @@
         }
       ],
       "bookmaker": "DraftKings",
-      "lastUpdated": "2026-11-14T16:37:09Z",
+      "lastUpdated": "2026-11-15T17:13:48Z",
       "providerRef": {
         "provider": "the-odds-api",
         "externalId": "c4ac537963707b247ad9e4eab06c15de:DraftKings:totals"
+      }
+    },
+    {
+      "id": "2ef747b5f529d07b71843f1b5240eb38-fanduel-h2h",
+      "gameId": "2ef747b5f529d07b71843f1b5240eb38",
+      "leagueId": "nhl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-h2h-0",
+          "label": "Montréal Canadiens",
+          "participantId": "nhl-montr-al-canadiens",
+          "side": "away",
+          "americanOdds": -110
+        },
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-h2h-1",
+          "label": "New York Rangers",
+          "participantId": "nhl-new-york-rangers",
+          "side": "home",
+          "americanOdds": -110
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2ef747b5f529d07b71843f1b5240eb38:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "2ef747b5f529d07b71843f1b5240eb38-fanduel-spreads",
+      "gameId": "2ef747b5f529d07b71843f1b5240eb38",
+      "leagueId": "nhl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-spreads-0",
+          "label": "Montréal Canadiens",
+          "participantId": "nhl-montr-al-canadiens",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": -280
+        },
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-spreads-1",
+          "label": "New York Rangers",
+          "participantId": "nhl-new-york-rangers",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": 220
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2ef747b5f529d07b71843f1b5240eb38:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "2ef747b5f529d07b71843f1b5240eb38-fanduel-totals",
+      "gameId": "2ef747b5f529d07b71843f1b5240eb38",
+      "leagueId": "nhl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 6.5,
+          "americanOdds": 112
+        },
+        {
+          "id": "2ef747b5f529d07b71843f1b5240eb38-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 6.5,
+          "americanOdds": -138
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "2ef747b5f529d07b71843f1b5240eb38:FanDuel:totals"
+      }
+    },
+    {
+      "id": "f5973475196770206d4e81300ca54634-fanduel-h2h",
+      "gameId": "f5973475196770206d4e81300ca54634",
+      "leagueId": "nhl",
+      "type": "winner",
+      "label": "Game winner",
+      "selections": [
+        {
+          "id": "f5973475196770206d4e81300ca54634-h2h-0",
+          "label": "Utah Mammoth",
+          "participantId": "nhl-utah-mammoth",
+          "side": "home",
+          "americanOdds": -345
+        },
+        {
+          "id": "f5973475196770206d4e81300ca54634-h2h-1",
+          "label": "Vancouver Canucks",
+          "participantId": "nhl-vancouver-canucks",
+          "side": "away",
+          "americanOdds": 270
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5973475196770206d4e81300ca54634:FanDuel:h2h"
+      }
+    },
+    {
+      "id": "f5973475196770206d4e81300ca54634-fanduel-spreads",
+      "gameId": "f5973475196770206d4e81300ca54634",
+      "leagueId": "nhl",
+      "type": "spread",
+      "label": "Point spread",
+      "selections": [
+        {
+          "id": "f5973475196770206d4e81300ca54634-spreads-0",
+          "label": "Utah Mammoth",
+          "participantId": "nhl-utah-mammoth",
+          "side": "home",
+          "line": -1.5,
+          "americanOdds": -144
+        },
+        {
+          "id": "f5973475196770206d4e81300ca54634-spreads-1",
+          "label": "Vancouver Canucks",
+          "participantId": "nhl-vancouver-canucks",
+          "side": "away",
+          "line": 1.5,
+          "americanOdds": 118
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5973475196770206d4e81300ca54634:FanDuel:spreads"
+      }
+    },
+    {
+      "id": "f5973475196770206d4e81300ca54634-fanduel-totals",
+      "gameId": "f5973475196770206d4e81300ca54634",
+      "leagueId": "nhl",
+      "type": "total",
+      "label": "Game total",
+      "selections": [
+        {
+          "id": "f5973475196770206d4e81300ca54634-totals-0",
+          "label": "Over",
+          "side": "over",
+          "line": 6.5,
+          "americanOdds": -108
+        },
+        {
+          "id": "f5973475196770206d4e81300ca54634-totals-1",
+          "label": "Under",
+          "side": "under",
+          "line": 6.5,
+          "americanOdds": -112
+        }
+      ],
+      "bookmaker": "FanDuel",
+      "lastUpdated": "2026-11-15T17:14:21Z",
+      "providerRef": {
+        "provider": "the-odds-api",
+        "externalId": "f5973475196770206d4e81300ca54634:FanDuel:totals"
       }
     }
   ],
   "mode": "live",
   "provider": "the-odds-api-github-snapshot",
-  "fetchedAt": "2026-11-14T16:37:49.064Z",
-  "staleAt": "2026-11-15T22:37:49.064Z",
+  "fetchedAt": "2026-11-15T17:14:30.041Z",
+  "staleAt": "2026-11-16T23:14:30.041Z",
   "delayed": true,
   "warnings": [
     "Real provider snapshot — refreshed daily and on manual workflow runs, not in real time.",
